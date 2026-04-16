@@ -359,6 +359,24 @@
       "processedDate": "2026-04-16T20:57:23.081Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ad43d0b3dcd12da8771cb12bd57cbde00bd9baca65a656ee512abf6eea9082df",
+      "title": "UAE Education News, Ministry of Education News - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdGlYMFVENmpKaW90MXl5Y1RtZHZ5T0RzSnBiYl9xTXVHd0t3VERnYjlCT3hfZ1B3OUFnS1R4a3IzZVp4WDBsUHd4VkNKY0hJWFFlOQ?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-04-16T23:06:55.450Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ad43d0b3dcd12da8771cb12bd57cbde00bd9baca65a656ee512abf6eea9082df",
+      "title": "UAE Education News, Ministry of Education News - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdGlYMFVENmpKaW90MXl5Y1RtZHZ5T0RzSnBiYl9xTXVHd0t3VERnYjlCT3hfZ1B3OUFnS1R4a3IzZVp4WDBsUHd4VkNKY0hJWFFlOQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-16T23:06:58.249Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

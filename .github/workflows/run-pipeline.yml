@@ -1,0 +1,75 @@
+name: Content Pipeline
+
+on:
+  # TEMPORARY: every 15 minutes 24/7 for testing
+  schedule:
+    - cron: '*/15 * * * *'
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Chrome for Puppeteer
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run content pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFICATION_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+          SITE_URL: ${{ secrets.SITE_URL }}
+          CHROME_PATH: /usr/bin/google-chrome-stable
+        run: node run.mjs
+
+      - name: Save manifest
+        if: always()
+        run: |
+          git config user.name "Content Pipeline Bot"
+          git config user.email "bot@example.com"
+          git add manifest.json
+          git diff --cached --quiet || git commit -m "Update manifest $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push || true
+
+      - name: Notify on failure
+        if: failure()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "⚠️ Content Pipeline Failed"
+          to: ${{ secrets.NOTIFICATION_EMAIL }}
+          from: Content Bot <${{ secrets.GMAIL_USER }}>
+          html_body: |
+            <h2>⚠️ Pipeline Run Failed</h2>
+            <p>The content pipeline just failed.</p>
+            <p><strong>Run ID:</strong> ${{ github.run_id }}<br>
+            <strong>Time:</strong> ${{ github.event.head_commit.timestamp }}<br>
+            <strong>Triggered by:</strong> ${{ github.event_name }}</p>
+            <p><a href="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}">View full logs on GitHub</a></p>
+            <p style="color:#888;font-size:12px;">This alert was sent automatically when the pipeline failed. Check the logs to see what went wrong.</p>

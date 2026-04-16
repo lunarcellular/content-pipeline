@@ -1,0 +1,21 @@
+{
+  "name": "content-pipeline",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automated content pipeline — fetches UAE education news and generates blog posts",
+  "scripts": {
+    "start": "node run.mjs"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^8.0.5",
+    "openai": "^6.34.0",
+    "puppeteer-core": "^24.40.0",
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

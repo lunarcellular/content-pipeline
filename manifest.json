@@ -332,6 +332,33 @@
       "processedDate": "2026-04-16T19:46:43.536Z",
       "relevant": true,
       "outputFile": "output/2026-04-16-uae-schools-resume-in-person-learning.md"
+    },
+    {
+      "urlHash": "dd9f31817baa58765b5f824cb8516d3164492e5f14d44fc4801ddcf1692d61f2",
+      "title": "Sharjah honours top UAE schools in major green education drive - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1pBWWtqd1RrYXdpYmNRZ0Y5Yy1hbEpPV3JtMUZkVzVwSGh5SWkzRGVtczhlRmx2TlhLWFNVSy1KZ1RpX2FQQmFrdENUeHZ5VXc2UUNhczFLQkdpTlRMd2VweWhxZjhzb1NrRWhpYjkxZWZIdTVCVjlfc1BfN05sQ0lHUkZUU0tiSVcxSlgydTZ4MXFvUkJ4eGxxSUhJaVlaY2ZMZFZIbW5pNnhLeVB3cdIBwwFBVV95cUxNbUNYX0dtaUdvWWlRRERaaGxzdko0bFZxc2hGQnlza2NlRmxaOUNWUF9sekNwZTl6cVZkVEpuTnpRQmhZWjNBRENzSWlOZWQ0Y2FwdWxtTS0wRW1STFExRnREU2NxX1ZFenZUbFpFQ1dzMmdBNkRqSFRocmJuekEta0dId181LVdySDVGcm9sZGRKX3otR29aTkxyaVVPdVAycGFfbzBBS25FTVBUQnBCX3RfcDNYbnQxOVhJNHJvQmdQNk0?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-04-16T20:57:17.915Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dd9f31817baa58765b5f824cb8516d3164492e5f14d44fc4801ddcf1692d61f2",
+      "title": "Sharjah honours top UAE schools in major green education drive - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1pBWWtqd1RrYXdpYmNRZ0Y5Yy1hbEpPV3JtMUZkVzVwSGh5SWkzRGVtczhlRmx2TlhLWFNVSy1KZ1RpX2FQQmFrdENUeHZ5VXc2UUNhczFLQkdpTlRMd2VweWhxZjhzb1NrRWhpYjkxZWZIdTVCVjlfc1BfN05sQ0lHUkZUU0tiSVcxSlgydTZ4MXFvUkJ4eGxxSUhJaVlaY2ZMZFZIbW5pNnhLeVB3cdIBwwFBVV95cUxNbUNYX0dtaUdvWWlRRERaaGxzdko0bFZxc2hGQnlza2NlRmxaOUNWUF9sekNwZTl6cVZkVEpuTnpRQmhZWjNBRENzSWlOZWQ0Y2FwdWxtTS0wRW1STFExRnREU2NxX1ZFenZUbFpFQ1dzMmdBNkRqSFRocmJuekEta0dId181LVdySDVGcm9sZGRKX3otR29aTkxyaVVPdVAycGFfbzBBS25FTVBUQnBCX3RfcDNYbnQxOVhJNHJvQmdQNk0?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-16T20:57:20.747Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "36a0476390d208dbc53bec6b516733d523dc2f78eb57c7b1b2bf41145e959d84",
+      "title": "What are the six terms of the Israel-Lebanon ceasefire?",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/04/16/what-are-the-six-terms-of-the-israel-lebanon-ceasefire/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-16T20:57:23.081Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

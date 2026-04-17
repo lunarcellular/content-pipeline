@@ -4,6 +4,7 @@ export const FEEDS = [
   { name: 'Gulf News Schools (via Google News)', url: 'https://news.google.com/rss/search?q=site:gulfnews.com+UAE+schools+students&hl=en-AE&gl=AE&ceid=AE:en' },
   { name: 'Gulf News KHDA (via Google News)', url: 'https://news.google.com/rss/search?q=site:gulfnews.com+KHDA+OR+ADEK+OR+nursery&hl=en-AE&gl=AE&ceid=AE:en' },
   { name: 'Khaleej Times', url: 'https://www.khaleejtimes.com/stories.rss' },
+  { name: 'Khaleej Times UAE', url: 'https://www.khaleejtimes.com/api/v1/collections/uae.rss' },
   { name: 'Khaleej Times Education (via Google News)', url: 'https://news.google.com/rss/search?q=site:khaleejtimes.com+education+school&hl=en-AE&gl=AE&ceid=AE:en' },
   { name: 'Khaleej Times Schools (via Google News)', url: 'https://news.google.com/rss/search?q=site:khaleejtimes.com+UAE+schools+students&hl=en-AE&gl=AE&ceid=AE:en' },
   { name: 'The National', url: 'https://www.thenationalnews.com/arc/outboundfeeds/rss/?outputType=xml' },

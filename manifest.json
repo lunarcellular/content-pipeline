@@ -611,6 +611,24 @@
       "processedDate": "2026-04-17T14:44:34.435Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "d980acb1269feb4ab75c5caccc5ffb3ce4ce1cc51f4a5b5a923822683b54af1b",
+      "title": "Dubai schools to roll out safety drills as students return to classrooms from April 20",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-safety-drills-classes-resume-april-20",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-17T15:15:50.397Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "036a933a3291680cd033a92b538f7434b3d80be945af0a5b87f05555a01edbb3",
+      "title": "Israel 'prohibited' from bombing Lebanon, Trump says ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/04/17/israel-hezbollah-ceasefire-will-stop-senseless-killing-trumps-envoy-says/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-17T15:15:53.592Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -566,6 +566,24 @@
       "processedDate": "2026-04-17T13:15:45.363Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "194a61900da26e4b6e316d15ab5b6416232e7c66c5404abcba51b2ed091f7bf0",
+      "title": "Rolls-Royce unveils ultra-luxury electric convertible",
+      "sourceUrl": "https://gulfnews.com/auto/news/rolls-royce-unveils-ultra-luxury-electric-convertible-1.500510445",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-17T14:15:46.142Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6bee6f828ad10969dccfa71b66e42e7bd4c4247a9baa8c6d540d3cbd72361603",
+      "title": "JSS Private School, Al Safa dazzles in CBSE Grade 10 board results",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/jss-private-school-al-safa-dazzles-in-cbse-grade-10-board-results-1.500510377",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-17T14:15:48.262Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

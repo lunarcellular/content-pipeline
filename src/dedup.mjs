@@ -1,3 +1,4 @@
+import { readFile } from 'node:fs/promises';
 import { OPENAI_MODEL } from './config.mjs';
 
 // Group articles by topic — articles about the same event/announcement go in the same group
@@ -68,20 +69,50 @@ export async function isDuplicateOfExisting(openai, articles, manifest) {
 
   if (recentPosts.length === 0) return false;
 
-  const recentTitles = recentPosts.map((a) => `- "${a.title}"`).join('\n');
-  const newTitles = articles.map((a) => a.title).join(', ');
-  const newContent = (articles[0].fullArticle || articles[0].summary || '').slice(0, 300);
+  // Load the actual body of each existing post (dedup by outputFile — manifest
+  // has one entry per source URL, so multiple entries can point at the same post).
+  const seenFiles = new Set();
+  const existingBlocks = [];
+  for (const post of recentPosts) {
+    if (seenFiles.has(post.outputFile)) continue;
+    seenFiles.add(post.outputFile);
+    try {
+      const body = await readFile(
+        new URL(post.outputFile, new URL('../', import.meta.url)),
+        'utf-8',
+      );
+      existingBlocks.push(`EXISTING: "${post.title}"\n${body.slice(0, 1200)}`);
+    } catch {
+      existingBlocks.push(`EXISTING: "${post.title}"`);
+    }
+  }
 
-  const prompt = `Is this NEW topic about the same thing as any EXISTING article?
+  // Include every article in the new group, not just the first.
+  const newBlock = articles
+    .map(
+      (a, i) =>
+        `NEW ${i + 1}: "${a.title}"\n${(a.fullArticle || a.summary || '').slice(0, 600)}`,
+    )
+    .join('\n\n');
 
-NEW TOPIC: ${newTitles}
-Content preview: ${newContent}
+  const prompt = `You are deciding whether a NEW article should be published, or skipped because we already covered this story.
 
-EXISTING ARTICLES (already published):
-${recentTitles}
+Skip (answer YES) if the NEW article is ANY of:
+- About the same event, announcement, or policy as an EXISTING article
+- A follow-up, continuation, or sub-angle of an ongoing story already covered (e.g. if we wrote about "schools reopening April 20", then "safety drills ahead of April 20", "parent surveys ahead of reopening", or "bus arrangements for April 20" are all the SAME ongoing story — answer YES)
+- Covering the same underlying facts with a different headline
 
-Same topic = same event, announcement, or policy change, even if worded differently.
-Answer ONLY "YES" or "NO".`;
+Only publish (answer NO) if the NEW article introduces substantially new facts, a new authority announcement, or a genuinely different education topic.
+
+When in doubt, lean YES — we would rather skip a marginal duplicate than publish overlapping content.
+
+${existingBlocks.join('\n\n---\n\n')}
+
+---
+
+${newBlock}
+
+Answer on one line: "YES: <one-sentence reason>" or "NO: <one-sentence reason>".`;
 
   try {
     const response = await openai.chat.completions.create({
@@ -89,8 +120,9 @@ Answer ONLY "YES" or "NO".`;
       messages: [{ role: 'user', content: prompt }],
       temperature: 0,
     });
-
-    return response.choices[0].message.content.trim().toUpperCase().startsWith('YES');
+    const answer = response.choices[0].message.content.trim();
+    console.log(`  Dedup: ${answer.slice(0, 200)}`);
+    return answer.toUpperCase().startsWith('YES');
   } catch {
     return false;
   }

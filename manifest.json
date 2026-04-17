@@ -656,6 +656,15 @@
       "processedDate": "2026-04-17T16:30:58.854Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "eb005fda6c02c773dbc2e9b5d6b4d595396e8c7d3a36819a9d31180c97f0ca84",
+      "title": "UAE President, Sheikh Hamad conduct inspection of Fujairah port, review operations",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-president-conduct-inspection-of-fujairah-port",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-17T16:45:49.523Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

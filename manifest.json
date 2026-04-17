@@ -494,6 +494,24 @@
       "processedDate": "2026-04-17T09:00:57.996Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c17f26256fe14aeafc24f60900672a97b115c35d16a1dd3a922eb78a86cd94e4",
+      "title": "Abu Dhabi hosts forum to boost school safety preparedness",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-hosts-forum-to-boost-school-safety-preparedness-1.500510038",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-17T09:15:33.359Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f0d93664937b2653e4a7ca1798dd9c22c624039d0e89bd1c24e2df4ca7f2ea1e",
+      "title": "Back to school, back to life",
+      "sourceUrl": "https://gulfnews.com/opinion/back-to-school-back-to-life-1.500509963",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-17T09:15:35.975Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

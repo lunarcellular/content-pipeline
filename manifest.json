@@ -539,6 +539,15 @@
       "processedDate": "2026-04-17T11:01:29.958Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "d7e84bd4136e89462e8fba8d27b77a1d1a84f6fd71f8fc04695335293ec3dc24",
+      "title": "Some UAE schools to continue distance learning until permits received ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/some-uae-schools-continue-distance-learning-till-getting-permits",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-17T11:15:58.351Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

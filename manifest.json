@@ -449,6 +449,24 @@
       "processedDate": "2026-04-17T06:00:44.839Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "09af4031d032d5afaad5bf3f392f93501c6faec7ddda212bf6476c23ee9b4086",
+      "title": "DIB introduces ‘Standing together with our heroes’",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/dib-introduces-standing-together-with-our-heroes",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-17T06:15:46.008Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a20f600e9743a152a572cc3ada8d84062ddee0ff7d567d89182e575cd5172f15",
+      "title": "What's habibi?: Ramy Youssef joins Elmo on Sesame Street to celebrate Arab American Heritage Month",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/film-tv/2026/04/17/ramy-youssef-joins-elmo-to-celebrate-arab-americans/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-17T06:15:48.184Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -386,6 +386,33 @@
       "processedDate": "2026-04-16T23:15:32.502Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e33aa026aaa54b151278e575d7614e9ac0afa8dd9d5ccd084d4524fc69910fc7",
+      "title": "UAE parents working from home prepare to return to office as in-person school begins",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-parents-working-from-home-return-office-in-person-school-begins",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-17T03:00:42.998Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e1dfebc12272c67fcca32177aae897674ca5732be63d9baa9fec3c1a4f228fe5",
+      "title": "UAE parents working from home prepare to return to office as in-person school begins - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWZrVENsMnlsTGwxbGFuR2JTQUVtN2hIdHlldThfeEhsRlhuMjVuSGJiNjE4RVJ2MHc3TkxDVkY4c1NIWmFyZG54U0JMc0Q4ZG1QRGRISXVoaVZiZlZpLWlGM0V1MDJhano1LW9CY3ljN1RhUmxxNkdyc2ZsS2RrOWJrZC03NmpJOHo4MHptTFQySXJiUlpzTENBMmVpZEZ2bFHSAaoBQVVfeXFMTkJRc1NBM3JiM2FodloycTFLX2EyWTVSeHQwNG5adkxVbTQzUGVUZDkxbE8wdkJ0UzFNWWRDLVFQc2JDXzRVOEgwLWZTcllLOHFvN25KYWxucHhmelZPQkRTbjdKX0JpSE50WGE0dWRtdjVTQ3lhSGJTd0Y1c3pWRDVZZElZalhtYnRBSjRoSEZydTQzeW1mNXd5eGpZcUx5d1V2RGc2SThpcVE?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-17T03:00:45.318Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9080490d2c0d87bf8cf7a1dba2f58ee1f76f9eb55bbbce0c648a1b2557fb6c48",
+      "title": "'Comfort and relief': UAE parents welcome return to school",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/17/comfort-and-relief-uae-parents-welcome-return-to-school/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-17T03:00:47.318Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

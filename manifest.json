@@ -584,6 +584,33 @@
       "processedDate": "2026-04-17T14:15:48.262Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e65528aee606ad2bfc45d8811881b69f6d7d2b5424c81c9ad39c12dc9bab1b8e",
+      "title": "UAE schools make final preparations to reopen after weeks of remote learning",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/17/uae-schools-make-final-preparations-to-reopen-after-weeks-of-remote-learning/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-17T14:44:17.190Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a8189335d024b749115d889bcd2c8dbbb2b199e708a67c501f38e7aa1864b37e",
+      "title": "Dubai: Is distance learning still an option? KHDA explains flexible return to schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGNxTUkzd0wycjRCaTM3Y2ZYWEFadVhNZHJjcFhFMS1ObjAzQjN1a2NlNEZZMnNYOGxyQlVpR1hEUTFBTjJXUFhVSEU0MHh6cW9DWDlSNHNJUEpCandxYUVMOU9fLTR6VWpxeWNPZDhiZzdESDV5Y3N1bnRYN0EwRGprMEc2Sm9oazIxTmtIenNsSmNDZEM2QWZMdkpaVGpZQjNub1pFOEM3ZVJvSDltTGdhWdIBxgFBVV95cUxQcmhHWFJIU3FLQTFCOTlCcFVwVWV4eUJIUUc3eG4zeDB1YS1SRGk5cDUyU3RiNXBRQXdfa2JEbTFVd0R2bGNYNUV5c0JVcXZ3cHNQTXJoanRiLWFjcUtiWk13V1dnb0ZXbGQ2WWNWUEF6MlpwcjUyWHhZdk16Mnh2ZFljYkRVTU1ZaVh3WU1aWjhmRkE0dWh3anZobUw5bmNUTzQxVmdEeENFSTUxcy1XWk1SZHh3ZUx2Q2RnSDhwNlFZNGRaRkE?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-17T14:44:20.484Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8863d4604632ce57a7914d45f7c7700d9111fe1f9f5b1d45d6fdcf2d60532a75",
+      "title": "Dubai schools to roll out safety drills as students return to classrooms from April 20 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0FsZGkwR1JBTGl5Y1JkWmpCNmpmQzEtZUhvbXdkbjhKaklhd2dfbF9JWmZTbk55aVFUNXd1aHBRNnVUVVVIZmJSTURTSWJWODVIclRjU0xBMDNOOHRwVkRqT0VfSnlIY3l6NF9ZZUFITWRNSGlmbmYzTVdSOER0czNlV2xBV2FxUVNSTm1uVmJPbmM1S2p4YlZ30gGiAUFVX3lxTFBZZ1Q3YWd4Tjd4UEVVM3ZYNC1qT0RodTJVWmVVenB3Y3FlaUFoQTlZVEVoejZjUl85dF9OdWtZVkoxN3FGbjRmMGpvOHJSWkdzVTlHdTkwVklDLUItTXVqTmV1U1Zib2YwRTRBc3J4THIzMHdZNnhST1dVYnRkdllIelYxazNSREl4ckhQZ3pjLXF6bVpOdlJqSlN0QXpMSE16UQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-17T14:44:34.435Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -521,6 +521,24 @@
       "processedDate": "2026-04-17T10:39:12.448Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "991416c912c82bb36ead1be874d07507ffd84e1612f5d17377c82986f48e2b1c",
+      "title": "Some UAE schools to continue distance learning until permits received - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSERQVUZ4V3lTRVpqQUtUaXZIV3g3RjZKLTlMRU9QQTV3YXcxMUM4QXZ2SDhnZW5rTEhwQ0c2cU5FMmpYSktLQ0VpUkVRS0Vfa0o4U0p4TUVoM0xudHVOTFJIRVB4ck9PcHJ0Vm9oNXlxaVRVTFBkQ29GRTdxam1yWDVTMi1Hak5kSVBoNlB0UFFfeUVWUnNuY2NRZHZ6RXFfUmdZNTFWYzk3SkXSAbMBQVVfeXFMUGNtMGI3V3pFU09LMGYzSUYtZUJuWDBmT0dOclVfZnlOSXdkY1VqNzM3R0h3TER5aU5kaGVBbFVnckp3QjREdldCUHNicnVUZnBYSVE1OG83TXk5cHJZdVo2a2dTSy11NEV6TVRoYnYyY0hsSUdDbnJGRFBFY0xpeEtWd3plbEhqTDY5ZTIzWkNlT2RJTTJvd0pnTW5mSXpBek5MaG9kSk1fcV9vVjc0cVJGTk0?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-04-17T11:01:29.958Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "991416c912c82bb36ead1be874d07507ffd84e1612f5d17377c82986f48e2b1c",
+      "title": "Some UAE schools to continue distance learning until permits received - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSERQVUZ4V3lTRVpqQUtUaXZIV3g3RjZKLTlMRU9QQTV3YXcxMUM4QXZ2SDhnZW5rTEhwQ0c2cU5FMmpYSktLQ0VpUkVRS0Vfa0o4U0p4TUVoM0xudHVOTFJIRVB4ck9PcHJ0Vm9oNXlxaVRVTFBkQ29GRTdxam1yWDVTMi1Hak5kSVBoNlB0UFFfeUVWUnNuY2NRZHZ6RXFfUmdZNTFWYzk3SkXSAbMBQVVfeXFMUGNtMGI3V3pFU09LMGYzSUYtZUJuWDBmT0dOclVfZnlOSXdkY1VqNzM3R0h3TER5aU5kaGVBbFVnckp3QjREdldCUHNicnVUZnBYSVE1OG83TXk5cHJZdVo2a2dTSy11NEV6TVRoYnYyY0hsSUdDbnJGRFBFY0xpeEtWd3plbEhqTDY5ZTIzWkNlT2RJTTJvd0pnTW5mSXpBek5MaG9kSk1fcV9vVjc0cVJGTk0?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-17T11:01:29.958Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

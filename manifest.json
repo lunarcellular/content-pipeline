@@ -638,6 +638,24 @@
       "processedDate": "2026-04-17T15:30:46.497Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bd30ded64136d6d28a8a1176c5097bdd364fabc32116340e61e10f6e5b3a2568",
+      "title": "UAE President meets Ruler of Fujairah and conducts inspection of Fujairah Port",
+      "sourceUrl": "https://gulfnews.com/uae/government/uae-president-meets-ruler-of-fujairah-and-conducts-inspection-of-fujairah-port-1.500510564",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-17T16:30:52.565Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f2bc052811a5c90f7cf42570d76ab934a0e28766991c67b975ef0c491cf543a8",
+      "title": "Dubai: Is distance learning still an option? KHDA explains flexible return to schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFkwWUsxcGFFV1d0d1U5VFMwTno5T3YzRUdhcXYxT0xoaEVZTFlRbUtBZmQ4YXF1OTdfQW4ybmYtdEpsQW9DTmxzTWlYTm5lSWQtMkdnaWZ3TGM3Sy1NLTR1c041QWZOWW9JUjBHT1dubG91ZWFxY2lPdFc1dXRTMUlCY29tZFNQeE1VR3JFLW5YYVdPaVF6d3IzZ29RNmdRT1l6UlFjUEstOC1MSjNVWkNpczZGZHJyUFpQdDhCdVBmMzE4Y1ZYVHB30gHcAUFVX3lxTFBSNkdsdWhBbFJlYlltQWtOVEY1bDYxdjZtOUdrM0dyZ3djWGFTY2V2dUIwSnA0b2o1NWVpVS1oNHpRSW05bEZNOHBvU2J5b2k1R1p0RVBIS3RGOW5FOTg2VGRYVE9hV3R6OVBTNmJqQ29mOWRZZWQyUWlDWWVLMG81c084a0xFTkYtMkJtZi0wb3FfQi12YUVyNkZpLVlYb2t1WmExbU90MEgyS05jbXFLWktFNTdRN0hXOVVOWGFhMF8xM1JVNWZBcVQzTjRiekdHMXZzaEIyRFVhaUY?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-04-17T16:30:58.854Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

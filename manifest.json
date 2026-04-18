@@ -971,6 +971,24 @@
       "processedDate": "2026-04-18T12:00:46.573Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fda12d43222e570b9a0a06faa16e07cdf354b3912cfd8ae22a1d9ac37c9bb49b",
+      "title": "School bus services to resume in Sharjah, Ajman starting April 20",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/school-bus-services-resumption-sharjah-ajman-april-20-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-18T12:45:44.421Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8cd35086254c5b809af253fc9217ec631efcac10e785dd3260284650ff0eb175",
+      "title": "School bus services to resume in Sharjah, Ajman starting April 20 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYl82SUY0WmNEZTk3clJ4V1dZQlZTcWZoX1VaRGxIVVIzTVB2a2NEa05RWFhiNWQ4eWdnOE5UX3JpVzkwckZYVHJ0RnlaT0xUR0NWb1h1RzUybGNtNEFhQzJ6eVZ2NEU2cEdxZ3RUMUJHd3BfSzdxVzIxSGxHZ3FHVExUb0V6OV92MHUySHMyOE5VQzJEZk5razlka1l1MDNGb09j0gGrAUFVX3lxTFBVaTBTSVNxRkp1MDMta3VJSS00OWtYVDdqc19IWU1QWk9vLU5jcWVHUVhtUTdnREpBYnpkYnBONHJlWUFveVFJNnlJY294VXNVOG5sSERCXzNRQUZPWS1qSk4yanZ6bnpTOFpLNGg3dmREOVNscjE3SFY4V2xpZ19pZHlJeEx3RGFXTll6ZUt1dV9YRzZYWkkzcWlNUkdMOXVTWl9SaTZMdEdzTQ?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-04-18T12:46:04.323Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

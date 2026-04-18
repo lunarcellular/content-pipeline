@@ -773,6 +773,15 @@
       "processedDate": "2026-04-18T06:16:31.050Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "41f152f3e6cb0355c4dc29b661e60396176fe0f443ec793102cbfc5994571fce",
+      "title": "Sandra Bullock speaks on AI in film: 'We have to lean into it'",
+      "sourceUrl": "https://gulfnews.com/entertainment/sandra-bullock-speaks-on-ai-in-film-we-have-to-lean-into-it-1.500510829",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-18T06:45:40.439Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

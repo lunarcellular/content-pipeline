@@ -97,14 +97,17 @@ export async function isDuplicateOfExisting(openai, articles, manifest) {
 
   const prompt = `You are deciding whether a NEW article should be published, or skipped because we already covered this story.
 
-Skip (answer YES) if the NEW article is ANY of:
-- About the same event, announcement, or policy as an EXISTING article
-- A follow-up, continuation, or sub-angle of an ongoing story already covered (e.g. if we wrote about "schools reopening April 20", then "safety drills ahead of April 20", "parent surveys ahead of reopening", or "bus arrangements for April 20" are all the SAME ongoing story — answer YES)
-- Covering the same underlying facts with a different headline
+Skip (answer YES) ONLY if the NEW article adds NO substantially new facts, authority announcements, regulatory requirements, or named developments beyond what the EXISTING article already covers — i.e. it would just be restating the same story with a different headline.
 
-Only publish (answer NO) if the NEW article introduces substantially new facts, a new authority announcement, or a genuinely different education topic.
+Publish (answer NO) if ANY of the following are true:
+- The NEW article introduces a new regulatory mandate, policy, or directive from an authority (KHDA, ADEK, SPEA, MOE, etc.) — even if it relates to the same ongoing situation
+- The NEW article reports new named developments, numbers, dates, or specific actions (e.g. "safety drills rolled out", "X schools receive permits", "new fee cap announced")
+- The NEW article is about a different angle with its own concrete new facts (e.g. the existing article covered the reopening decision; the new one reports a KHDA rule about what schools must offer)
+- The NEW article reports a follow-up event that actually happened (not just context or anticipation)
 
-When in doubt, lean YES — we would rather skip a marginal duplicate than publish overlapping content.
+Mere topical overlap is NOT enough to skip. Sub-angles with their own new facts should be published.
+
+When in doubt, lean NO — we would rather publish a slightly overlapping article than miss a genuine new development.
 
 ${existingBlocks.join('\n\n---\n\n')}
 

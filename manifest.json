@@ -890,6 +890,15 @@
       "processedDate": "2026-04-18T07:31:57.092Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c34deff29771a32e3a5e0547686f330a4f96f44cd8d32f2ee8bb37247b4463dc",
+      "title": "Dubai Police review financial sustainability plans to boost efficiency and long-term stability",
+      "sourceUrl": "https://gulfnews.com/uae/government/dubai-police-review-financial-sustainability-plans-to-boost-efficiency-and-long-term-stability-1.500511112",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-18T08:00:46.629Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

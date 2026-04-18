@@ -827,6 +827,69 @@
       "processedDate": "2026-04-18T07:16:00.588Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7b40b50f061c155b41ee8db5938c6256409cf00632178a9efb41ac7a1b387e26",
+      "title": "Dubai Police distribute UAE flags to boost community spirit",
+      "sourceUrl": "https://gulfnews.com/uae/people/dubai-police-distribute-uae-flags-to-boost-community-spirit-1.500511087",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-18T07:30:49.818Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7aa41446635c6d8965e298131ebb9216277be2f796c6dcf78ff649a67333a9e6",
+      "title": "School buses to resume operations in UAE on Monday",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/18/uae-school-buses/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-18T07:31:00.101Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c41d2f707a3502106903be6f04fc86c7583954dd08df1d0a87fce374900a73ac",
+      "title": "UAE announces resumption of school bus operations from Monday",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-announces-resumption-of-school-bus-operations-from-monday-1.500511094",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-18T07:31:57.092Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dfe3c6f34dfcc8f72b21eb51f58ac686a14526acd84a660dab8c09e755ab2cfd",
+      "title": "UAE announces resumption of school bus operations from Monday - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkJORjJTVnl0NzgtZ3p5UkNyS2hPWXNLNGIzbmtRZzQzd0J2X0dKTE0ySGRnWmxETk9VRkc4RnFLYzA1SVFoLXBYRWhBOWp6OFY2cEt0bG10S1l2NTZjVDY0QVZnbktBLUNYLTdDbExmY3gtSU5QbC1iMmcySXUzc1R2V2xIaTdPOXFvZndrRjVGbXhIMzlCQ1d2d2ZnbThETGlLMm4waUhzN0kx0gG_AUFVX3lxTFAyX21QRVdSZE9sLTVVOEc1UGNTUG1IaDZsOHpjNkJzUVliQV96cVVwRm00TjV0VU55N2NaSjRjaTgzcG9RUU5kLVczclhIdnJudU04NFlIbzZhN1I1d01xU29tdVYtc2htX2hnS3pGeEd6TkxDR1JmNFBWdUF2UFMwNjJSWlJfYmtxcU1RZlVmeFNmRzVuTHJyajBWaHNnWUpyT1FPT2tuV3FhQ0hqMXpxVHh5a3NNcVhpeFJvUmZn?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-18T07:31:57.092Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d15f5920ef6cff3df94d08492f3d1e57909e301dbf6c4c43845d1fea4fc211f7",
+      "title": "School bus operations across UAE to resume from Monday, April 20",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/iran-us-israel-lebanon-war-ceasefire-day-11-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-18T07:31:57.092Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6004e6df54ee587e769e5ff911ab7a88458f39ab92e03ce789fefb42e1291906",
+      "title": "UAE to resume school bus services as students return to classrooms on April 20",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/school-bus-services-resume-april-20-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-18T07:31:57.092Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "161009ecaed59f90a9abf64356b380e19f660b406f5f1ab3764b44a417945ccf",
+      "title": "UAE to resume school bus services as students return to classrooms on April 20 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJCTlUzdExoN1FaNGZOUWNpWkUzeFlmanpzbmlyTm5GazZUMjIxV1JQSlJwV3dkTVNXWFlQV1Z5VndJWTlxR0ItbzIxVVdzcFo3NUJpdVQxaFBONXJ5cjVWNlZqZGw4enZUYVRVaENiZ01CVHFZRXFKRGZiNXN5Skp1X2JLdnN1RExz0gGTAUFVX3lxTE41bFBlTUFwQnpIMjItektrbXlpT0U3blQ4NGtBNjRzaGppVW03SllaaFpNNlVrSWdOR25peVlDc2VXODZOX2VFM0ZXVHZkMmVWeG1VNjQ3LVFlTjR5cFpsdl83a2JEQWxyTUV1S1B3X1AtN2ZwNk5GV25CdXU5QkpvYWR1ZWM4ZzlEOXV0WnkySHN3UQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-18T07:31:57.092Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

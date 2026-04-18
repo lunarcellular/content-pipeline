@@ -24,7 +24,10 @@ function isNurseryArticle(text) {
   return nurseryCount > schoolCount;
 }
 
-// Link the first mention of each UAE city to the appropriate site page
+// Link the first mention of each UAE city to the appropriate site page.
+// Skips heading lines (#, ##, ###, etc.) so we never inject markdown links
+// into headings — links in headings break some downstream renderers and
+// serve no SEO purpose.
 function addCityLinks(text) {
   const siteUrl = process.env.SITE_URL;
   if (!siteUrl) return text; // skip linking if no site URL configured
@@ -34,38 +37,57 @@ function addCityLinks(text) {
   if (secondDelimiter === -1) return text;
 
   const frontmatter = text.slice(0, secondDelimiter + 3);
-  let body = text.slice(secondDelimiter + 3);
+  const body = text.slice(secondDelimiter + 3);
 
   const isNursery = isNurseryArticle(body);
-
+  const basePath = isNursery ? '/nurseries' : '/schools';
   const cities = [
     { name: 'Abu Dhabi', param: 'Abu%20Dhabi' },
     { name: 'Dubai', param: 'Dubai' },
     { name: 'Sharjah', param: 'Sharjah' },
   ];
 
-  const basePath = isNursery ? '/nurseries' : '/schools';
+  const lines = body.split('\n');
+  const isHeading = (line) => /^\s*#{1,6}\s/.test(line);
+
+  // Replace the first occurrence of `pattern` in any non-heading line,
+  // ignoring text that sits inside an existing markdown link `[...](...)`
+  // (so we never match "schools" inside `/schools?location=Dubai` etc.)
+  // or inside an inline code span.
+  const MD_LINK_OR_CODE = /\[[^\]]*\]\([^)]*\)|`[^`]*`/g;
+  const applyFirstMatch = (pattern, makeLink) => {
+    for (let i = 0; i < lines.length; i++) {
+      if (isHeading(lines[i])) continue;
+
+      // Mask out existing links / code spans, search in the plain remainder.
+      const masked = lines[i].replace(MD_LINK_OR_CODE, (m) => '\0'.repeat(m.length));
+      const match = pattern.exec(masked);
+      if (!match) continue;
+
+      const start = match.index;
+      const end = start + match[0].length;
+      const replacement = lines[i].slice(start, end).replace(pattern, makeLink);
+      lines[i] = lines[i].slice(0, start) + replacement + lines[i].slice(end);
+      return;
+    }
+  };
+
   for (const city of cities) {
     const url = `${siteUrl}${basePath}?location=${city.param}`;
-    const regex = new RegExp(`(?<!\\[)\\b(${city.name})\\b(?!\\])(?![^\\[]*\\])`, '');
-    body = body.replace(regex, `[$1](${url})`);
+    const re = new RegExp(`\\b(${city.name})\\b`);
+    applyFirstMatch(re, `[$1](${url})`);
   }
 
-  // Link first mention of "schools" (standalone word, not already linked)
   if (!isNursery) {
-    body = body.replace(
-      /(?<!\[)\b(schools)\b(?!\])(?![^\[]*\])/i,
-      `[$1](${siteUrl}/schools)`
-    );
+    applyFirstMatch(/\b(schools)\b/i, `[$1](${siteUrl}/schools)`);
   }
 
-  // Link first mention of "nurseries" or "nursery"
-  body = body.replace(
-    /(?<!\[)\b(nurseries|nursery)\b(?!\])(?![^\[]*\])/i,
-    `[$1](${siteUrl}/nurseries)`
+  applyFirstMatch(
+    /\b(nurseries|nursery)\b/i,
+    `[$1](${siteUrl}/nurseries)`,
   );
 
-  return frontmatter + body;
+  return frontmatter + lines.join('\n');
 }
 
 function extractSlugFromFrontmatter(text) {

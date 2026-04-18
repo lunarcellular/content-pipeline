@@ -746,6 +746,33 @@
       "processedDate": "2026-04-18T03:15:42.581Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "da12bcf2895415f884faca10c19d15ee9bfe29b6209e914a8c563ff76d9a8568",
+      "title": "Dubai schools must offer in-person and distance learning options to all students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-offer-in-person-distance-learning-students",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-18T06:16:31.050Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "22b4baad88ee2a4a5e25060778f7bd41612afe5febbe04cab4e6b750962d98c7",
+      "title": "Dubai schools must offer in-person and distance learning options to all students - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXpMZWZiUEt6ME1RNjZycWJ6QXlXcDJZVzlwVl9CTFRoNlpjQzNMSG51OHNDVWI5MXpwcDlJbVFEUUJIN3FfTTE1N0NmenZaZGtqLWoydHF3b1hrNXdaRlUxbXg5TnBxSG5SaE8yeFQ3VEIzTFRqT3YzeWlwQnZ6NlFpdFFxOWpXWU5ZNmNZZHlDcmx5TmMwWVdXMDA5VmFZ0gGoAUFVX3lxTE5ocVUwaWdlc1hydVh2cUFqZ1V6UEMxRGcxMVlELUFidER6eTZrQXdZSGZwek12RGx6cDVZdlRCTnU1NjdtTG8yWmRZZFZHWC16b2Q2bUJ3cUxhOVN6UjMzZFVVbjMySzh4M3E3ck15N0RqRFY1eVZOejVXWjlEcFZRT0p4LVh6QjZNVUpGeXZhU3hZUTlwNHh2V0x5QkFyR1FyaGh2Ql8wOA?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-04-18T06:16:31.050Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "22b4baad88ee2a4a5e25060778f7bd41612afe5febbe04cab4e6b750962d98c7",
+      "title": "Dubai schools must offer in-person and distance learning options to all students - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXpMZWZiUEt6ME1RNjZycWJ6QXlXcDJZVzlwVl9CTFRoNlpjQzNMSG51OHNDVWI5MXpwcDlJbVFEUUJIN3FfTTE1N0NmenZaZGtqLWoydHF3b1hrNXdaRlUxbXg5TnBxSG5SaE8yeFQ3VEIzTFRqT3YzeWlwQnZ6NlFpdFFxOWpXWU5ZNmNZZHlDcmx5TmMwWVdXMDA5VmFZ0gGoAUFVX3lxTE5ocVUwaWdlc1hydVh2cUFqZ1V6UEMxRGcxMVlELUFidER6eTZrQXdZSGZwek12RGx6cDVZdlRCTnU1NjdtTG8yWmRZZFZHWC16b2Q2bUJ3cUxhOVN6UjMzZFVVbjMySzh4M3E3ck15N0RqRFY1eVZOejVXWjlEcFZRT0p4LVh6QjZNVUpGeXZhU3hZUTlwNHh2V0x5QkFyR1FyaGh2Ql8wOA?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-18T06:16:31.050Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -935,6 +935,33 @@
       "processedDate": "2026-04-18T10:45:41.670Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ed1afc72d6cdc95ab73ac9ea8ca6dea7b981f19ab4ab200b2d28b3a9c63da0cc",
+      "title": "UAE school reopening: Sharjah and Ajman confirm bus services resumption",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-school-reopening-sharjah-and-ajman-confirm-bus-services-resumption-1.500511260",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-18T11:15:41.212Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7eeedf9437c1d3cd3701262214b4865a620b983cca44d6143fa1d7258716bd8c",
+      "title": "Some parents in UAE face limited uniform pickup slots as back-to-school demand builds",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/limited-uniform-pickup-slots-back-to-school-rush-april-20-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-18T11:15:43.319Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7eeedf9437c1d3cd3701262214b4865a620b983cca44d6143fa1d7258716bd8c",
+      "title": "Some parents in UAE face limited uniform pickup slots as back-to-school demand builds",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/limited-uniform-pickup-slots-back-to-school-rush-april-20-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-18T11:15:45.306Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

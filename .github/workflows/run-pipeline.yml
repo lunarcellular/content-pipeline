@@ -44,13 +44,16 @@ jobs:
           CHROME_PATH: /usr/bin/google-chrome-stable
         run: node run.mjs
 
-      - name: Save manifest
+      - name: Save manifest and generated articles
         if: always()
         run: |
           git config user.name "Content Pipeline Bot"
           git config user.email "bot@example.com"
-          git add manifest.json
+          git add manifest.json output/
           git diff --cached --quiet || git commit -m "Update manifest $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Rebase onto remote in case another concurrent run pushed first,
+          # then push. --rebase --autostash handles any local stash state.
+          git pull --rebase origin main || true
           git push || true
 
       - name: Notify on failure

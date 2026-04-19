@@ -1358,6 +1358,15 @@
       "processedDate": "2026-04-19T17:45:44.427Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d1205502bcce7d63fc6699df61db3383b16a8000c90a671f6f9e3a8cc4b79091",
+      "title": "Eight children killed in Louisiana mass shooting, police say",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/04/19/louisiana-mass-shooting/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-19T18:30:53.692Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

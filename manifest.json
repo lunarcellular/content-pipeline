@@ -1205,6 +1205,15 @@
       "processedDate": "2026-04-19T09:00:51.278Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "df01ffa7cef4bfa34ac8ad0c8d6f0a2026051cc1e0c1d22bfdd3162677a65b10",
+      "title": "Max Verstappen pays tribute to driver killed in Nürburgring crash",
+      "sourceUrl": "https://gulfnews.com/sport/motorsport/max-verstappen-pays-tribute-to-driver-killed-in-n%C3%BCrburgring-crash-1.500511982",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T09:45:40.418Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

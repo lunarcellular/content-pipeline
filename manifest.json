@@ -1295,6 +1295,15 @@
       "processedDate": "2026-04-19T14:00:49.258Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "0b28709aed58998ccf1f0e1f89202040d49ff998f6d879713079ba18d401dcad",
+      "title": "Three US university students hurt in shooting",
+      "sourceUrl": "https://gulfnews.com/world/americas/three-us-university-students-hurt-in-shooting-1.500511979",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T15:45:47.574Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

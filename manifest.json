@@ -1349,6 +1349,15 @@
       "processedDate": "2026-04-19T17:30:51.341Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "bfc754f98f5d4a6f58fa92d2899902e2327198dec6648a1081a9ebeb8ce21875",
+      "title": "Eight children dead in US domestic violence shooting: police",
+      "sourceUrl": "https://gulfnews.com/world/americas/eight-children-dead-in-us-domestic-violence-shooting-police-2-1.500512322",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T17:45:44.427Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

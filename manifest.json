@@ -1268,6 +1268,15 @@
       "processedDate": "2026-04-19T12:30:45.627Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eee6ee3b149e8cce3c1d8baae5cc971caa8bdca9e890d3854668400785596f7c",
+      "title": "Trump tells ABC Iran breached ceasefire, but peace deal still possible",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/iran-us-israel-lebanon-war-ceasefire-day-12-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-19T12:45:39.449Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

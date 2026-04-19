@@ -1133,6 +1133,33 @@
       "processedDate": "2026-04-19T05:45:50.701Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8a684c25c53b8bb706c47c92cdcc54ba32f0fe3cf29c6b471d4eb5a9bd30786a",
+      "title": "Flexible learning, safety rules: All you need to know before UAE schools reopen on Monday - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcUZCczNmd2p5S3ZHcWJsMDhJVlZxZVBmSkJYX05Zc0pkVEpOTUxoV3ROb2JCN1FGVEF2WkZESHNoWm52YnRLSk0yRS1MN0ppYzFBNldVZUF5M2NiQzhtWmJZaWw0M0hqeDY4NDFNMGlLTGpleG1VOXZ2blc3bGhXVE1WU2FnY0xWM3FyR0JYN1N1ZDFIN3BabXNJYTNuakhXRGZHNE1mY3JvQ0tvUkpQSVpyNHJVRV84MlgwRNIBxAFBVV95cUxQSkxJcTJIRjExN3ROU2VpbjlHT2FtM3ZvVEk3QnRHSUN5ODNrTjB2UlBOMG00d0RNXzQxM19nSG1WalM0S2dXSlBkT1JJZjhRNmhlMy1xb2dYdWJsU2s0MmY2cGZ4MDdQNlhHTzNMcGVSVnZIV0wwbm92UmZGUDJzZGtDNzZkVVpFQzl4YVdIOFRHX1Nsd2dnck1MdnRJTGVCbHZKcFVyT1dpX3BJNlhCZ1dhSGRZdEJuMmNveDFhX3RnX0Vp?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-19T07:45:44.742Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "62c3697b3c8971d0e9e71b0fb9f13797acb6500c7cf3532f70b226353ac89fae",
+      "title": "Flexible learning, safety rules: All you need to know before UAE schools reopen on Monday",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/flexible-learning-safety-rules-all-you-need-to-know-before-uae-schools-reopen-on-monday",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-19T07:46:24.983Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-19-uae-schools-reopen-april-2026.md"
+    },
+    {
+      "urlHash": "62c3697b3c8971d0e9e71b0fb9f13797acb6500c7cf3532f70b226353ac89fae",
+      "title": "Flexible learning, safety rules: All you need to know before UAE schools reopen on Monday",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/flexible-learning-safety-rules-all-you-need-to-know-before-uae-schools-reopen-on-monday",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-19T07:46:24.983Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-19-uae-schools-reopen-april-2026.md"
     }
   ]
 }

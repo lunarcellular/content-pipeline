@@ -1286,6 +1286,15 @@
       "processedDate": "2026-04-19T13:15:44.935Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a8070f01a10afc0bb3435b58cae21b3e29029599d024280f4d9ad84b8c05e4d9",
+      "title": "Ministry of Education sets three-year academic calendar - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3hnNVo4QUhGT2FyQXhsdmJ2eW40bHMzcnIwV191NHVTWWFxa1Fxc3cwUFpOcUtPaEJhdUpRQWF0WjAwXzZqNGVGaGJBd2xlc29HQTJwWUdHT3M5eGFQbjJKOGpOcDludGJTdEdnQlNuYWVwdjZxbjJBcHNoQVhFQjNJcTREa05l?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-04-19T14:00:49.258Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

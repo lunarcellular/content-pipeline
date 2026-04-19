@@ -1223,6 +1223,24 @@
       "processedDate": "2026-04-19T10:31:19.258Z",
       "relevant": true,
       "outputFile": "output/2026-04-19-uae-schools-reopen-staggered-timings-hybrid-learning.md"
+    },
+    {
+      "urlHash": "79b32096680cd0b9060c4a32f85286d169bdf4157659f30144b731f9e1242274",
+      "title": "Back-to-school UAE: 15 smart picks to fix focus and block distractions, from planners to headphones",
+      "sourceUrl": "https://gulfnews.com/best-buys/BestBuys-lifestyle/back-to-school-uae-15-smart-picks-to-fix-focus-and-block-distractions-from-planners-to-headphones-1.500511987",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T10:45:42.549Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "27dd77b4fa8055439408417365ea3181911fca7df8ddddca3e5d776712873d63",
+      "title": "UAE schools reopen with staggered timings, hybrid learning, revised transport services - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa09vUTNjNmtaekNOOWVVVkxucjNDVHB6dFlqM0tSWktmY1prY2tMbm0tQUVpMVE3bmZidl91X1V5aGdGNEVmMFU2QWt3QWVhQkw5X1ZzTzFaUl9VejE3VS03Zi1qbXh4NmpuYzFuUlZYOTY1dWxOVlBUWjdrN3p3ZXh4TVpvNUtaeHVsZzdlMmhYcGNhemtSMkR5eV9BX2YxSjBxa3FHVk9uVU11cFMtbVRB0gG6AUFVX3lxTE43dEIyQXc4alpCejdwYXg5NHNXV0huREh1LW5jM09GNEdLdkZwX0o5T0hQVkFReUxlRzNNczNIMnFoRFBQU2h4SzhEU1VRWmQxSzA0UUh2YlRrTkN6aGFlZzVKcnd1V1BXdWdFTFVPNkxWUmxPdWVuWl9HYlUtbWN4cTR5WTNjb05SSEVBcWRBVWFnUU9sMkZvN0kxbF8yTll5R3U4aHVsa0U1akJpeUZsZGdXbXBSdmNhQQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-19T10:46:21.342Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-19-uae-schools-reopen-timings-hybrid-learning.md"
     }
   ]
 }

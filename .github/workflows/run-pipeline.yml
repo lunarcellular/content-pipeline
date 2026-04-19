@@ -7,6 +7,14 @@ on:
   # Allow manual trigger
   workflow_dispatch:
 
+# Serialise runs — one pipeline at a time. Prevents two concurrent runs
+# from independently generating near-duplicate articles on the same topic
+# (the second run's dedup can't see the first run's output until after it
+# has pushed). cancel-in-progress: false queues subsequent runs.
+concurrency:
+  group: content-pipeline
+  cancel-in-progress: false
+
 permissions:
   contents: write
 

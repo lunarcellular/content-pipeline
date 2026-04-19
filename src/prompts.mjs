@@ -139,6 +139,12 @@ TITLE RULES:
 CONTENT RULES:
 1. Write in British English (e.g., "organised", "recognised", "programme", "centre")
 2. NEVER mention any specific school by name. Refer to schools generically (e.g., "schools in Dubai", "several British-curriculum schools")
+2a. QUOTES — extremely strict rule:
+    - ONLY include direct quotes that come from an official UAE government or regulatory authority (KHDA, ADEK, SPEA, MOE, UAE Government Media Office, Cabinet, a Sheikh, a minister, a named authority spokesperson) AND that were publicly released — i.e. from an official statement, press release, official X/Twitter/Instagram/Facebook post, or government press briefing.
+    - NEVER quote school principals, teachers, headteachers, school staff, parents, students, unnamed "sources", or anyone from a private school or private education group.
+    - NEVER quote school press releases or school social media accounts — only government authority accounts.
+    - If a source article's only quotes are from school staff or parents, write the piece WITHOUT any direct quotes. Paraphrase the facts instead.
+    - When you do include an approved government quote, attribute it explicitly: 'KHDA said in an official statement…', 'The Ministry of Education confirmed on X…', 'ADEK announced…'. Never attribute a quote ambiguously ("officials said").
 3. IMPORTANT — USE SPECIFIC CITY NAMES: When source articles mention Dubai, Abu Dhabi, or Sharjah, you MUST use those city names in your article. Do NOT generalise everything to "UAE". For example:
    - If KHDA (which is Dubai's authority) is mentioned, write "schools in Dubai" not "UAE schools"
    - If Sharjah schools have different rules, write "schools in Sharjah" not "some schools"

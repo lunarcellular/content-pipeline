@@ -1160,6 +1160,24 @@
       "processedDate": "2026-04-19T07:46:24.983Z",
       "relevant": true,
       "outputFile": "output/2026-04-19-uae-schools-reopen-april-2026.md"
+    },
+    {
+      "urlHash": "90eab372305119e74268964c710c174388e7c5b7f7a03246f3a19449fdc60865",
+      "title": "Back to school: Dh1,000 fines for drivers who fail to stop for buses",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/safety-security/back-to-school-dh1000-fines-for-drivers-who-fail-to-stop-for-buses-1.500511934",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T08:45:47.434Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4f50d1fe8efd6b353bdeec82a41e68092d74dc8632d26c3fda94e6699e2bf6e7",
+      "title": "Oscar-winning Natalie Portman expecting third child",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/oscar-winning-natalie-portman-expecting-third-child",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-19T08:45:49.426Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

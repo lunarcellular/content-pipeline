@@ -1250,6 +1250,24 @@
       "processedDate": "2026-04-19T11:15:45.234Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "99b0cca071cb4d85c4397eb0b752004e6c421b62317b2770ec98f55e9a5897b8",
+      "title": "UAE back-to-school rush: 70% discounts as families shop earlier than usual",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-back-to-school-rush-70-discounts-as-families-shop-earlier-than-usual-1.500512069",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T12:30:43.300Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "137460ac5e7fde55395168981533c65bde44760aadf2b142122e0f8536def073",
+      "title": "What early learning should really look like in the age of AI",
+      "sourceUrl": "https://www.khaleejtimes.com/opinion/what-early-learning-should-really-look-like-in-the-age-of-ai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-19T12:30:45.627Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

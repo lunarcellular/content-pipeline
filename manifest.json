@@ -1214,6 +1214,15 @@
       "processedDate": "2026-04-19T09:45:40.418Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d0423c058228c63bcb18b93643ac1785e89e3c2a0652d88a5cc773decdf513d7",
+      "title": "UAE schools reopen with staggered timings, hybrid learning, revised transport services",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-reopen-staggered-timings-hybrid-learning-revised-transport-services",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-19T10:31:19.258Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-19-uae-schools-reopen-staggered-timings-hybrid-learning.md"
     }
   ]
 }

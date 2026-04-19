@@ -1331,6 +1331,24 @@
       "processedDate": "2026-04-19T17:15:40.451Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9fe9464ed887e890d400652d3e33818ae824763903cbe30d7d44e6744eb8ee25",
+      "title": "UAE gears up to ensure traffic flow, road safety as school bus services to begin",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/uae-traffic-flow-road-safety-school-bus-operations-begin",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-19T17:30:48.779Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e2d3f2e444b4073742fb9ef72c291c5b67e79e15a1802fd80fd946da94278fcf",
+      "title": "UAE rolls out traffic plan to ensure safe return of students to schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTh0dFdiN2JEV0paeS0zemVjUk51OFJ1ZU5GaDNVVGdjOFRyZG83OGxuaTZpM2RhYUtVaUtNS1JvRmpGV21KSEY5bTlkTVdmWmxSWW1NQlJscjVja1Bad1ItdHQ3MXlUak5NNG5aakVUZkxMZW9wRGFmRzcwelhzTXU4OGRDdzdHX0Iya1QxTVFPLWpkX01SMGUzb3pkSzYydEJXMXE1LUZXRWxx0gG8AUFVX3lxTFBTSlVPRkR2bEhnU1c5Qk9fMkJTVU5UcDhKSHFvc01SNEV6SHJzdlFYcFZNdkp5RHRCaDB6Y0ExaFB1OGZ3S0pWcWpNa21aelNyb3pyaW90RFJZdEdpWXVMa1E1a1gwUjJqSWswaUNkZm00d3YxaE9YT1YyRDU4LS1PODdWZ1VUZU1YOUp5NWtVTjUzYnBUbFNzLVctOWFhNmNrdUdVOU9pYk1VR05JTlBGRVRuY3k2YkJ1bFpO?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-19T17:30:51.341Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

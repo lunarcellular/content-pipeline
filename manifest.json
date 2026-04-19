@@ -1115,6 +1115,15 @@
       "processedDate": "2026-04-19T04:30:42.952Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4c48e1e6ee374c9d4eaa6b3e539a5f31f05cd1141e9a805fecc62e2c24d452ea",
+      "title": "US-Iran ceasefire: Trump, Ghalibaf see progress in talks but major gaps remain",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-iran-ceasefire-trump-ghalibaf-see-progress-in-talks-but-major-gaps-remain-1.500511759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T05:15:49.153Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

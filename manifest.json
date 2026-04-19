@@ -1052,6 +1052,42 @@
       "processedDate": "2026-04-18T13:47:14.419Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "e28129a1fb54493bd4ef6f9f4509f8d75bc7a110b16735ba1d26317393a276f6",
+      "title": "US-Iran ceasefire: Ghalibaf says talks progress but final deal still far off",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-iran-ceasefire-ghalibaf-says-talks-progress-but-final-deal-still-far-off-1.500511759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-19T03:00:47.583Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4168f73545a32eae57fdc00514e12c1e60185eeeba256020436c80e7037b3846",
+      "title": "From carpooling to limos, Dubai parents explore alternate solutions for school runs",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-parents-solutions-school-runs-carpooling-limos",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-19T03:00:50.497Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4168f73545a32eae57fdc00514e12c1e60185eeeba256020436c80e7037b3846",
+      "title": "From carpooling to limos, Dubai parents explore alternate solutions for school runs",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-parents-solutions-school-runs-carpooling-limos",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-19T03:00:52.582Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "78814d21fb2c832af93e5b724ce2eb11382e26642322787a7aeece21b1526104",
+      "title": "Dubai school transport providers 'fully prepared' for April 20 return - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGxHVzhxUFN0MlUyR0dkMTl6dXVTdHcwWGlZTDZnVGdVY2Q3dHlqSWhOYVlMSDhHalVkTXJiTTZLS3Jnek9sZlhWT0xKQmQ1YXlMMDE0MUxfX2E3UnlsMlJiT0tNbERpUTFJU29TWk8wYjItTmdnXzlNQUlKQmlrN2tBczE0cUtaMUNGemRSYVJTam5VbEg2VUs0bXFudkJpQXFTMkdpaTA4d9IBsgFBVV95cUxQLWxwM2hDbkYzQUtPYWNSVzlNa0k0a3RzaHp3cUJZbWRTRjVkdTJMYl92dnRHdDRzOHZEdzhvcENFSWU2d0g4cDc4eXR1OWtKeUVkZmJpZmVrQnRNLTRNM21tTnJjclF5VzVRZ2phMWhDSE1LM212R2RpbUQyckdROGpfd1ZnaGdRU1FLTVBXeTdHeHpXS1VKR0d3WTFCN21OZUtvbXRiRDVtOVh2eHVXSVhn?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-19T03:00:54.669Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

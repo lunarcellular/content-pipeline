@@ -1313,6 +1313,15 @@
       "processedDate": "2026-04-19T16:30:44.780Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "358312ef04fb511b92ae8d1a0c235ed91e2c8ad9526a5688e99fa34a480c19e9",
+      "title": "Eight children killed in Louisiana mass shooting: US media ",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/mss-shooting-louisiana-us-children-killed",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-19T16:45:41.623Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

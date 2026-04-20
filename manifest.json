@@ -1610,6 +1610,33 @@
       "processedDate": "2026-04-20T11:01:38.647Z",
       "relevant": true,
       "outputFile": "output/2026-04-20-uae-schools-reopen-safety-framework.md"
+    },
+    {
+      "urlHash": "3ae4052fac6a795524f580ae9dc4153bb193e8796494d9b5ed605670dbb240e9",
+      "title": "Back to School: UAE campuses buzz with energy",
+      "sourceUrl": "https://gulfnews.com/uae/back-to-school-uae-campuses-buzz-with-energy-1.500512944",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T11:15:40.566Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9e4c7da3b809f6e446af0c515b075ff385cee8814d704501909609883b7cde99",
+      "title": "Back to School: UAE campuses buzz with energy - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFR0bnRLblRNMVphTXRlY3hwWnNxcExvSnlta0ZQSEhLdjk2OEZRdW9YWmcxS2VwV3pZbHRhT2FBb1Q3U05aZ2xfR3BCelNnVk1Pby1kV2pPV3pkeU5DSUQ5TXJXVlFkcmE2NlktZWtYN1QzblJZWGZtY24tNDNuQlVJQmRWN2xr0gGYAUFVX3lxTE9BOHJRbTFyQUx4RUpfZ3JDTV9zMmxhd2RVTjZHSHJBSGx4VnRBZEJ5RURZSl9NcjdzQllvX1J5ZXI5aTdBNzZ6Q2ZqUktOT2lZaGhkeVdSTlBJZmxPcDluaWFHUEFTYXljUlVSTGZXbjdHcFpoOTYzeXIzd3IxLU5tQ2F2UVZsMlhmVDlDZlREZ2JlZE11WVJL?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-04-20T11:15:43.052Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9e4c7da3b809f6e446af0c515b075ff385cee8814d704501909609883b7cde99",
+      "title": "Back to School: UAE campuses buzz with energy - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFR0bnRLblRNMVphTXRlY3hwWnNxcExvSnlta0ZQSEhLdjk2OEZRdW9YWmcxS2VwV3pZbHRhT2FBb1Q3U05aZ2xfR3BCelNnVk1Pby1kV2pPV3pkeU5DSUQ5TXJXVlFkcmE2NlktZWtYN1QzblJZWGZtY24tNDNuQlVJQmRWN2xr0gGYAUFVX3lxTE9BOHJRbTFyQUx4RUpfZ3JDTV9zMmxhd2RVTjZHSHJBSGx4VnRBZEJ5RURZSl9NcjdzQllvX1J5ZXI5aTdBNzZ6Q2ZqUktOT2lZaGhkeVdSTlBJZmxPcDluaWFHUEFTYXljUlVSTGZXbjdHcFpoOTYzeXIzd3IxLU5tQ2F2UVZsMlhmVDlDZlREZ2JlZE11WVJL?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-20T11:15:45.037Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

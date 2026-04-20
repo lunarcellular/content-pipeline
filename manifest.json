@@ -1709,6 +1709,24 @@
       "processedDate": "2026-04-20T14:00:54.204Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "00f3384b199f037d0932b3ebd4df8c3f93e8c5a29d5c3df960d2d493e9fe6494",
+      "title": "Sharjah Civil Defence issues school safety alert as classes resume",
+      "sourceUrl": "https://gulfnews.com/uae/emergencies/sharjah-civil-defence-issues-school-safety-alert-as-classes-resume-1.500513301",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T16:21:19.171Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4ea3c59e9df0bfa2f9685b0c68797a26de6d2c08ffe0c38af6799d29662fbd1b",
+      "title": "Vibrant performances, new exhibits: Global Village is back!",
+      "sourceUrl": "https://gulfnews.com/entertainment/live-global-village-returns-with-food-and-fun-after-a-seven-week-break-1.500513055",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T16:21:22.016Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

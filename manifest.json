@@ -1394,6 +1394,33 @@
       "processedDate": "2026-04-19T21:54:49.789Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e6d94ea88fe5edbbcfbb1d95282e2bdc00b1ecca0c528a1e5efb87764c0c0d07",
+      "title": "Back to school: Students return to classrooms amid Iran ceasefire ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/20/back-to-school-students-return-to-classrooms-amid-iran-ceasefire/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-20T03:01:01.269Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "44e8cc76041108afc9f2ade8e71b1c0fc433a515549011200d5c64ae02763a4f",
+      "title": "UAE schools reopen April 20: Routine rebuilds with new safety rule",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-reopen-april-20-routine-rebuilds-with-new-safety-rule",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T03:01:51.690Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-20-uae-schools-reopen-safety-measures-april-20.md"
+    },
+    {
+      "urlHash": "44e8cc76041108afc9f2ade8e71b1c0fc433a515549011200d5c64ae02763a4f",
+      "title": "UAE schools reopen April 20: Routine rebuilds with new safety rule",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-reopen-april-20-routine-rebuilds-with-new-safety-rule",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-20T03:01:51.690Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-20-uae-schools-reopen-safety-measures-april-20.md"
     }
   ]
 }

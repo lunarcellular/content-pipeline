@@ -1673,6 +1673,24 @@
       "processedDate": "2026-04-20T13:00:50.414Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6611d77feaa679ca9f7096a5927abefc616432f8c7f36112ba5114ead064b00a",
+      "title": "India seizes suspected fake Mounjaro pens, says raw materials sourced from Alibaba",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-fake-mounjaro-pens-seized-raw-materials-alibaba",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T13:15:43.578Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8a192f43bf05c9edf0bbfba74838325780a52ae81ef6d369f425b224a35abfb8",
+      "title": "India arrests aviation official, Reliance executive in drone import bribery case",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-arrests-aviation-official-reliance-executive-drone-import-bribery-case",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T13:15:46.912Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

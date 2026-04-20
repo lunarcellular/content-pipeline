@@ -1421,6 +1421,24 @@
       "processedDate": "2026-04-20T03:01:51.690Z",
       "relevant": true,
       "outputFile": "output/2026-04-20-uae-schools-reopen-safety-measures-april-20.md"
+    },
+    {
+      "urlHash": "a927bec852199c90c3cdd7208a7e6df6e33db13fe3819ca00643ca1c2609a68f",
+      "title": "UAE schools reopen: Students return to campuses for in-person learning with safety measures",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-reopen-students-return-to-campuses-for-in-person-learning-with-safety-measures-1.500512522",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T03:15:41.838Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "424eb0010227d252e6b02668b39d05e78361807406a48587dfcc6d06f2746190",
+      "title": "UAE schools reopen April 20: Routine rebuilds with new safety rule - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3I4aDc0UUROVm5kSFprZ1dQSks4WUUxbkptcldKRGswbHhTdko4M0tLVnR4YlhzLTktV0RWSUNUcFNKVWVsekVzdi1MOTJWVlB5YVV6WGtXc3VIZm9NanMyeHF4NDc1WEkwSlBaQXFYVFRBWDR0LTdscEVuM0NfUVVQVmJBa0dyUUE4djc4Wl9ZTzlsNXFfaHY3Z1FEQWvSAacBQVVfeXFMT2loOWZvY0pPYi1aU25oTUhsMnNxeUdTMHhFUUktb01RTnNKdHlEWmdGZGttZ29STjNWOVVTNVJkQl9UMVNOTUxINk9nREsyM2tOQjdES1Z3NGN0V2Mya0hWUmExZlhha0pZV3B3aXEtWEtjcjdTajVqMVBTUC1xRWlKc2l3TC00SS1YT0VmSUp6bXR4R0lsQzRUZVVHT2xUY01abzl1Nm8?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-20T03:16:27.380Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-20-uae-schools-reopen-safety-measures.md"
     }
   ]
 }

@@ -1538,6 +1538,33 @@
       "processedDate": "2026-04-20T07:15:53.573Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6faaa4ef78152006610de555af8e923a64c165af1fe08ecae8094ba62efbb4d0",
+      "title": "UAE-bound travel demand surges as schools reopen",
+      "sourceUrl": "https://gulfnews.com/business/aviation/uae-bound-travel-demand-surges-as-schools-reopen-1.500512777",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T08:45:46.248Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d12b694d2e9e12c1a1531683389f7f64a07bdb95cb8d3d831dbe32da4475013b",
+      "title": "Kajol and Ajay Devgn pen heartfelt notes on Instagram to mark daughter Nysa's birthday",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/kajol-ajay-devgn-wish-daughter-nysa",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T08:45:48.144Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1a03fe56e81701efd26f1be6a515ff776724c7b60b7eea6c29d94eb403ab370e",
+      "title": "Jawan director Atlee welcomes second child with wife Priya",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/jawan-director-atlee-welcomes-second-child",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T08:45:50.338Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

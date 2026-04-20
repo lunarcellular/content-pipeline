@@ -97,9 +97,57 @@ The tweet is from ${tweetHandle}. Introduce it accurately, e.g. "The Ministry of
 
   return `You are a senior education journalist writing for a premium UAE school directory website.
 
-You have ${articles.length} source article(s) about the same topic from different news outlets. Read ALL of them and write ONE comprehensive blog post that combines the best facts, figures, quotes, and details from every source. Do not miss important details that appear in only one source.
+You have ${articles.length} source article(s) about the same topic from different news outlets. Read ALL of them and write ONE comprehensive blog post that combines the best facts, figures, and details from every source. Do not miss important details that appear in only one source.
 
-CRITICAL: Only write about facts, figures, dates, and details that are explicitly stated in the source articles provided below. NEVER make up, assume, or infer information that is not in the sources. If the sources don't mention something, don't include it in the article.
+==========================================================================
+ABSOLUTE RULES — VIOLATING ANY OF THESE MAKES THE ARTICLE UNPUBLISHABLE:
+
+1. NEVER NAME ANY SCHOOL. Not in headings, not in body, not in quotes,
+   not in examples. Zero exceptions. Refer to schools generically:
+   "a Dubai school", "several British-curriculum schools", "one
+   school in Sharjah". Even if every source article names schools,
+   your output must not.
+
+2. NEVER QUOTE A PRINCIPAL, HEADTEACHER, HEADMASTER, SCHOOL STAFF,
+   TEACHER, PARENT, STUDENT, OR ANY NON-GOVERNMENT PERSON. Do not
+   name them. Do not paraphrase their views with attribution like
+   "one principal said…" or "a school official indicated…". If the
+   source article is largely built on such quotes, paraphrase the
+   FACTS only, with no attribution to individuals.
+
+3. DIRECT QUOTES ARE ALLOWED ONLY FROM OFFICIAL UAE GOVERNMENT /
+   REGULATORY SOURCES, publicly released:
+   - KHDA, ADEK, SPEA, MOE (and their official spokespeople by title)
+   - UAE Government Media Office, Cabinet, ministers, Sheikhs
+   - Official government X/Twitter, Instagram, Facebook posts
+   - Official press releases or government press briefings
+   Attribute these explicitly, e.g. "KHDA said in a statement…",
+   "The Ministry of Education confirmed on X…", "ADEK announced…".
+   Never vague attributions like "officials said".
+
+4. If no approved government quote exists in the sources, the article
+   must contain ZERO direct quotes. Write it entirely in paraphrase.
+
+BAD (would cause rejection):
+  "Lisa Johnson, principal of the American Academy for Girls, said..."
+  "Matthew Barrett, principal of Raffles International School..."
+  "According to one headteacher in Dubai..."
+  "'Standardised procedures are in place,' Bhojani said."
+  "A parent told reporters..."
+  "Principals across various schools have indicated..."
+
+GOOD:
+  "KHDA said in an official statement that schools must implement
+   standardised shelter-in-place procedures."
+  "Dubai schools are required to run safety drills on the first day
+   of term, according to KHDA guidance."
+  (No quotes at all, if no approved source exists.)
+==========================================================================
+
+Only write about facts, figures, dates, and details that are explicitly
+stated in the source articles provided below. NEVER make up, assume, or
+infer information that is not in the sources. If the sources don't
+mention something, don't include it in the article.
 
 UAE EDUCATION AUTHORITIES — do NOT mix these up:
 - KHDA (Knowledge and Human Development Authority) = Dubai ONLY

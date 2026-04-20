@@ -17,6 +17,50 @@ function sanitiseSlug(slug) {
     .slice(0, 80);
 }
 
+// Detect problematic patterns the prompt forbids: direct quotes or
+// named-individual attributions from non-government sources, and named
+// schools. Returns an array of offending snippets (empty if clean).
+function findQuoteOrNamedSchoolViolations(body) {
+  const violations = [];
+
+  // Patterns that indicate non-government human attribution.
+  // Each pattern captures a short window around the match for logging.
+  const patterns = [
+    // "X, principal of Y" / "X, head of Y" / "X, headteacher of Y"
+    /\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)+\s*,\s*(?:principal|headteacher|headmaster|headmistress|head\s+of(?:\s+school)?|deputy\s+head|vice\s+principal|founder|director)\b[^.]*/gi,
+    // "principal of [school name]" / "head of [school name]"
+    /\b(?:principal|headteacher|headmaster|headmistress|vice\s+principal|deputy\s+head)\s+(?:of|at)\s+[A-Z][^.]*/gi,
+    // "one principal said" / "a headteacher told" / "school officials indicated"
+    /\b(?:one|a|another|some)\s+(?:principal|headteacher|headmaster|teacher|parent|student|school\s+official)s?\b[^.]*?\b(?:said|told|noted|explained|indicated|stated|confirmed|added|urged)\b[^.]*/gi,
+    // "Principals … said/indicated/noted" (plural without gov attribution)
+    /\bPrincipals\b[^.]*?\b(?:said|told|noted|explained|indicated|stated|confirmed|have\s+indicated)\b[^.]*/gi,
+    // "parents told / students said / teachers said"
+    /\b(?:parents|students|teachers|headteachers|headmasters|principals)\b[^.]*?\b(?:told\s+reporters|said|spoke\s+to)\b[^.]*/gi,
+    // "X said" where X is a capitalised single-name token not clearly government (catches "Bhojani said", "Johnson said")
+    // Excludes common gov terms.
+    /(?<!KHDA\s)(?<!ADEK\s)(?<!SPEA\s)(?<!MOE\s)(?<!Ministry\s)(?<!Authority\s)(?<!Cabinet\s)(?<!Sheikh\s)\b[A-Z][a-z]{3,}\s+(?:said|told|noted|stated)\b[^.]*/g,
+  ];
+
+  for (const re of patterns) {
+    const matches = body.match(re);
+    if (matches) {
+      for (const m of matches) {
+        // De-duplicate and skip government attributions that slipped into the
+        // capitalised-name pattern by accident.
+        const lower = m.toLowerCase();
+        if (/(khda|adek|spea|moe|ministry|authority|cabinet|sheikh|government|minister|spokesperson|media\s+office)/.test(lower)) {
+          continue;
+        }
+        if (!violations.includes(m.trim().slice(0, 160))) {
+          violations.push(m.trim().slice(0, 160));
+        }
+      }
+    }
+  }
+
+  return violations;
+}
+
 // Determine if the article is primarily about nurseries
 function isNurseryArticle(text) {
   const nurseryCount = (text.match(/\bnursery\b|\bnurseries\b/gi) || []).length;
@@ -181,6 +225,23 @@ export async function generatePost(openai, articles) {
       if (secondDelimiter === -1) {
         console.warn('  Warning: Response has incomplete frontmatter, retrying...');
         if (attempt === MAX_RETRIES) return null;
+        continue;
+      }
+
+      // Hard validation: reject articles that quote or name school staff
+      // or unnamed "officials/parents". The prompt forbids this, but the
+      // model still sometimes slips through — validator is the safety net.
+      const bodyOnly = text.slice(secondDelimiter + 3);
+      const violations = findQuoteOrNamedSchoolViolations(bodyOnly);
+      if (violations.length > 0) {
+        console.warn(`  Warning: Generated article violates quote/school-name rules:`);
+        for (const v of violations.slice(0, 5)) console.warn(`    - ${v}`);
+        if (attempt === MAX_RETRIES) {
+          console.warn(`  Giving up after ${MAX_RETRIES} attempts — no article will be published.`);
+          return null;
+        }
+        console.warn(`  Retrying generation (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+        await sleep(RETRY_DELAY_MS);
         continue;
       }
 

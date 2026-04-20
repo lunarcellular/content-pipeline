@@ -1727,6 +1727,24 @@
       "processedDate": "2026-04-20T16:21:22.016Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f0b95e3405309ab6a668843b131b65a85e75282c797625fa6c4abfbb09f4567c",
+      "title": "More than 10,200 buses back on UAE roads for school run",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/more-than-10200-buses-back-on-uae-roads-for-school-run-1.500513410",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T17:30:46.794Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4d4fa7b2d9010949ca766d56360e4102f08db5fb43ec78d6410de3627c885708",
+      "title": "Sharjah Police welcome students back to school",
+      "sourceUrl": "https://gulfnews.com/uae/education/sharjah-police-welcome-students-back-to-school-1.500513360",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T17:30:49.928Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

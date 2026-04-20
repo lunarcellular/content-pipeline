@@ -1700,6 +1700,15 @@
       "processedDate": "2026-04-20T13:30:49.784Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fe4ee789232b3684cd38809962c2ed17e8e8d47e014c06258802dcf5ed79a5e7",
+      "title": "Dubai Police welcome students with UAE flags",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-police-welcome-students-with-uae-flags-1.500513100",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T14:00:54.204Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

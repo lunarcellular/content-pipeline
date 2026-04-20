@@ -197,10 +197,32 @@ async function getImageSearchQuery(openai, title) {
 
 export async function generatePost(openai, articles) {
   const title = articles[0].title;
-  const prompt = buildGenerationPrompt(articles);
+  const basePrompt = buildGenerationPrompt(articles);
+  let lastViolations = []; // violations from previous attempt, used to reprimand the model
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
+      // On retry after a validation failure, prepend a corrective block that
+      // names the exact violations from the previous attempt so the model
+      // knows precisely what to avoid this time.
+      let prompt = basePrompt;
+      if (lastViolations.length > 0) {
+        const violationList = lastViolations
+          .slice(0, 8)
+          .map((v) => `  - "${v}"`)
+          .join('\n');
+        const reprimand = `YOUR PREVIOUS ATTEMPT WAS REJECTED. It contained these forbidden attributions or named individuals:
+
+${violationList}
+
+Regenerate the article from scratch. Do NOT include ANY of the above phrases or anything resembling them. Remove every reference to named principals, headteachers, school staff, parents, teachers, students, or any non-government person. Do NOT name any school. Paraphrase the underlying facts with no attribution to individuals. Direct quotes are permitted ONLY from KHDA, ADEK, SPEA, MOE, UAE Government Media Office, a Sheikh, a minister, or a named authority spokesperson — and only when publicly released.
+
+==========================================================================
+
+`;
+        prompt = reprimand + basePrompt;
+      }
+
       const response = await openai.chat.completions.create({
         model: OPENAI_MODEL,
         messages: [{ role: 'user', content: prompt }],
@@ -240,10 +262,12 @@ export async function generatePost(openai, articles) {
           console.warn(`  Giving up after ${MAX_RETRIES} attempts — no article will be published.`);
           return null;
         }
-        console.warn(`  Retrying generation (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+        console.warn(`  Retrying generation with corrective prompt (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+        lastViolations = violations; // fed back into the next attempt's prompt
         await sleep(RETRY_DELAY_MS);
         continue;
       }
+      lastViolations = []; // passed validation, clear any stale state
 
       // Extract slug for filename
       const slug = extractSlugFromFrontmatter(text) || 'untitled-post';

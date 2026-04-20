@@ -1637,6 +1637,24 @@
       "processedDate": "2026-04-20T11:15:45.037Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f6049ee17a5a7e548e4387febc0dcea538b856e8cffd3681e75c8b592b452543",
+      "title": "Sharjah issues road safety alert as schools reopen ",
+      "sourceUrl": "https://gulfnews.com/uae/transport/sharjah-issues-road-safety-alert-as-schools-reopen-1.500512908",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T12:15:45.892Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "55a6bde4293bb0f6dc441f583c83ddb6b3ce90d3a18b0cefc4704135308571e8",
+      "title": "Back to school: UAE schools reopen with over 80% attendance after distance learning",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-reopen-good-attendance-after-distance-learning",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-20T12:15:48.891Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

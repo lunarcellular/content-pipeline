@@ -1664,6 +1664,15 @@
       "processedDate": "2026-04-20T12:30:48.664Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c991db6c2b85d0bfead2ffd044d8239a502c645fc698929c192d58406be93ebd",
+      "title": "UAE official says 'impossible to return to previous pace in relations' with Iran",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-anwar-gargash-statement-antalya-diplomacy-forum",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-20T13:00:50.414Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

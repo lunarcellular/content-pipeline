@@ -1466,6 +1466,15 @@
       "processedDate": "2026-04-20T03:30:50.100Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "22de49567f492437d9ba76979612809f633e90e73579d40f1b46cd73d0384c28",
+      "title": "UAE schools reopen today; ships pass through Strait of Hormuz over weekend",
+      "sourceUrl": "https://www.khaleejtimes.com/world/iran-us-israel-lebanon-war-ceasefire-day-13-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T04:00:49.697Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

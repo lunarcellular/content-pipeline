@@ -1439,6 +1439,33 @@
       "processedDate": "2026-04-20T03:16:27.380Z",
       "relevant": true,
       "outputFile": "output/2026-04-20-uae-schools-reopen-safety-measures.md"
+    },
+    {
+      "urlHash": "ab2d2e05f95d5399e66682b1b1966b8f6a1ba7bc73b008de9ec9562f5b8be121",
+      "title": "UAE schools reopen today with safety protocols in place",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-reopen-today-safety-protocols-in-place",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-20T03:30:45.232Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2106dcbbd82b0f14d0b92ab29c90eee77bea47340ada58b68d20cf37097f370e",
+      "title": "UAE schools reopen today with safety protocols in place - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2tfai1wSkdTaC1EMTFham5DU3J1d01CVmRCRmFxWlhaTjRfUVhNT0ExRVhucmhLUGFEN0RtT0Jtak1ZSktDWFdtSlc2S3RuSmJCUGlWRFlSMlh3YVJIRUJjSXBmSkxWZVBNdVU0UlpaZnl3VFhPY2JnbFl2U2hacWtnMDBQWWdMOFU5V0pQRmJuSXlWZXJDSdIBoAFBVV95cUxOOHptalY3VDdLVW1Va0tVSXV3dkJDZmdBUDdWVTJJTk5ZM3BzZDZJN0VjMzYwRkFTRmtLaDQ4Zm5aNzRQQ25CNUdaa0tZZ0JTYlpxcUVrTlJpb3ZzRVRlODFNczdIU0ZybjNVblpMOW5tSEVrQ3B5ZzlLcFd6VktWVnBzZ2tPbHc2ZUlVLXlteHhCRVBtVzJPT2RsR3JhZXR2?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-20T03:30:47.717Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cdf79a16352d3abf2f52d57a3e92ee3b115f5c3e25ab6953c0a3e0d16fb8d157",
+      "title": "Back to school: Students return to classrooms amid Iran ceasefire ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/20/dubai-abu-dhabi-schools-reopen/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-20T03:30:50.100Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

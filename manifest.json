@@ -1502,6 +1502,24 @@
       "processedDate": "2026-04-20T05:15:42.802Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "888a18619413d8d5930d3b075cecd59ecd90c08fb105207bcb83616e92f4fbb3",
+      "title": "Sheikh Mohammed: UAE students resume in-person learning after proving resilience",
+      "sourceUrl": "https://gulfnews.com/uae/education/sheikh-mohammed-uae-students-resume-in-person-learning-after-proving-resilience-1.500512612",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T05:45:50.151Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a77540a7f970be88d4d366b5656c138b700adbc831235d54d8dacb58d0fdc058",
+      "title": "Sheikh Mohammed: UAE students resume in-person learning after proving resilience - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY05lOWJLQVFXTjBIYTNZTjIzY1FRUVBPS1B0LUMxWGE4bFhqX3d6QXdDdVNUNzF2MlQyWkNQSnZMdVlsRzFZcnc5bmtXMzNYSDF3SVlPbnRGeDdMX2tfTHVCQWlRRjBrU3dpbDFLRHJ1czkzZ3RMdlRNM3hCTnMzcG94bVp0Z1puN1FVWmVZaW53amlCNG1vOUpzbGNyLVlVTmdGMGotYUFiWmhodUpMMm9tNU9qZVdPb2FGUFFvc3dnc2xw?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-20T05:45:52.467Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

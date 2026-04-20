@@ -1565,6 +1565,33 @@
       "processedDate": "2026-04-20T08:45:50.338Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2464c8dfdeca9f58af03d1e333e83d06238a67eff3a671c16ba5debb40bca7c6",
+      "title": "Dubai schools reopen: Nurseries ease children back with familiar songs, routines",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-schools-reopen-nurseries-ease-children-back",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-20T10:45:44.341Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d14976d856895ce41e0df2cd30caf12e3b372b604446ede5b58ba4873921940d",
+      "title": "UAE schools reopen: How children can socially readjust to in-person learning - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSVY4a1B6NDg4MjU4dkJYc0xOVWdEa3FZakRfcGJ2VnBtQ3Vtck44TFZmdGE5QUpHS1ptOXdSOXN1UGE5VVZHQjRqaFJwNC16MUl0ckhSUjBYNGRYNTNGazYtcWFyeGpXNjVYV0ZGaDNueE53Qk5YdXhvMUtzSzBZdkFpSFdnV3VuM0FyeEY4Z0VrbHNUWjk0RVZvdmlrekIyRWRPNTV1MmNHNlJyTXZzUlhDLWVBQdIBvgFBVV95cUxOMEhWeHFfRzU1YXZwY1hrcFczallwcWhRVGNvcFFPMEZKOUdCTGFBN0piRU9JTEc5S3lvbkpDeHdkaktBQ2szUlRRcklFQWFEODBLVjZLSFFFWmw2d2h4OVhXOHBKVjNFejJzRzhUSWJZcVA5RGtRcEJIYjhnczlhRVAydmtZOW94OE1kZEZmaTNpUDhQcmktTFRiaERrZ3NMLWprdnU0WTBPbVdlNy11QVJJRW0xVDkyazhwOXh3?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-20T10:45:46.358Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5051b000352259ba1e9d370dbbd1c7dd9ebe6f9291777de951c57f251a8b8344",
+      "title": "UAE schools reopen: Safety plans, roles of schools, students, parents outlined - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnliQmhqa0JvZEZLdGR3Y0JnMzZxUmxYdWcyczhpa1lmY2NUWS1PU1NaRTU1WkdwdWdmWVNnR3BXVjFlNjFubWxla3kzVUNKR0lnV29zSURMUkJJSzZWTm9xWlhNZmM0c1VLYksweUdEaVJYdHhLVm5KZTBWQ3A1TnhJc3JQd2otVXdwZlBJQ1JEU1lHams3WGE3RWoweENuQ0lKX0dMRnJmMEF6cnNNWTh0TEdpcFBHSlZha3FB0gHQAUFVX3lxTE13UkRrUklRQ1llYk4tRlJTLW5UZG5yWjVkUVUzT0FaVE9hcm44dGdQOFRoRVlGRGk3Nnd5a3Q0cU5xNnBWUTBXcUFfZ2hQcFNUR1RGMngzU3hXTjk1dnZmVnZJVzFhYWpIM0dBVjVlMUdfYnJYV2w0bDFzT01FSi1jUHR2N2Ztc2dhTERmdmdxQmhjRUg0UkgydnMyck1SSEdFd0piaTl4OWRhSXYwUXBxX2pzUmRENjRvcmxYM0JrRjVjZ3VVTWNFS29MVGRIaGw?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-20T10:46:30.088Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-20-uae-schools-safety-plans-return.md"
     }
   ]
 }

@@ -1592,6 +1592,24 @@
       "processedDate": "2026-04-20T10:46:30.088Z",
       "relevant": true,
       "outputFile": "output/2026-04-20-uae-schools-safety-plans-return.md"
+    },
+    {
+      "urlHash": "81b0f8258eed070fa3337abdb153acd806f96b7e4d9192391038a9d77faeae76",
+      "title": "UAE schools reopen: How children can socially readjust to in-person learning",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/mental-health/uae-students-back-to-school-social-adjustment-children-parents",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-20T11:00:54.577Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e260335599a9d99e9634a622472a6ea2f814724d27ad9bf012ba3ad7e03cecab",
+      "title": "UAE schools reopen: Safety plans, roles of schools, students, parents outlined",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-reopen-safety-plans-roles-of-schools-students-parents-outlined-1.500512923",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T11:01:38.647Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-20-uae-schools-reopen-safety-framework.md"
     }
   ]
 }

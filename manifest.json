@@ -1691,6 +1691,15 @@
       "processedDate": "2026-04-20T13:15:46.912Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5eccc01f0b124edc7651c0d2584e99a440775cff94dbc49293d2cfba692c8e08",
+      "title": "Rain expected in UAE on Tuesday, with cooler temperatures and reduced visibility",
+      "sourceUrl": "https://gulfnews.com/uae/weather/rain-expected-in-uae-on-tuesday-with-cooler-temperatures-and-reduced-visibility-1.500513124",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-20T13:30:49.784Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

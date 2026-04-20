@@ -108,12 +108,27 @@ ABSOLUTE RULES — VIOLATING ANY OF THESE MAKES THE ARTICLE UNPUBLISHABLE:
    school in Sharjah". Even if every source article names schools,
    your output must not.
 
-2. NEVER QUOTE A PRINCIPAL, HEADTEACHER, HEADMASTER, SCHOOL STAFF,
-   TEACHER, PARENT, STUDENT, OR ANY NON-GOVERNMENT PERSON. Do not
-   name them. Do not paraphrase their views with attribution like
-   "one principal said…" or "a school official indicated…". If the
-   source article is largely built on such quotes, paraphrase the
-   FACTS only, with no attribution to individuals.
+2. NEVER QUOTE OR NAME ANY NON-GOVERNMENT INDIVIDUAL. This includes:
+   - Principals, headteachers, headmasters, deputy heads, vice principals
+   - Teachers, school staff, school counsellors
+   - CEOs, founders, directors, chairpersons, chief executives, chief
+     academic officers, group CEOs, owners, trustees, board members
+     of schools or private education groups
+   - Spokespeople, consultants, partners at private firms
+   - Parents, students, unnamed "sources", "officials", "observers"
+   Do not attribute views or statements to any of these. Do not write
+   "Poonam Bhojani, CEO of Innoventures Education, said…",
+   "Lisa Johnson, principal of X Academy…", "one CEO noted…",
+   "a school director explained…". If the source article is largely
+   built on such quotes, paraphrase the FACTS only, with no attribution
+   to individuals or private organisations.
+
+2a. NEVER NAME A PRIVATE UAE EDUCATION GROUP. This includes, but is
+    not limited to: GEMS Education, Innoventures Education, Taaleem,
+    Aldar Education, Bloom Education, Esol Education, Beacon Education,
+    Nord Anglia, Cognita, Inspired Education, International Schools
+    Partnership (ISP). Refer to them generically: "a major Dubai
+    education operator", "several private school groups in the UAE".
 
 3. DIRECT QUOTES ARE ALLOWED ONLY FROM OFFICIAL UAE GOVERNMENT /
    REGULATORY SOURCES, publicly released:
@@ -131,6 +146,10 @@ ABSOLUTE RULES — VIOLATING ANY OF THESE MAKES THE ARTICLE UNPUBLISHABLE:
 BAD (would cause rejection):
   "Lisa Johnson, principal of the American Academy for Girls, said..."
   "Matthew Barrett, principal of Raffles International School..."
+  "Poonam Bhojani, CEO of Innoventures Education, highlighted..."
+  "A major operator, GEMS Education, emphasised..."
+  "The founder of Taaleem told reporters..."
+  "Aldar Education announced..."  (private group — do not name)
   "According to one headteacher in Dubai..."
   "'Standardised procedures are in place,' Bhojani said."
   "A parent told reporters..."

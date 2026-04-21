@@ -1880,6 +1880,33 @@
       "processedDate": "2026-04-21T06:15:09.387Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "914dbc1f2b742ed92404d68951d88d52c6a4a30bc44369c681aea894225057c1",
+      "title": "Stories behind the caps: Inside the UAE’s ‘Latagan’ exhibition",
+      "sourceUrl": "https://gulfnews.com/uae/people/stories-behind-the-caps-inside-the-uaes-latagan-exhibition-1.500513811",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-21T07:30:57.822Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7b2993521fd7cb69ca37cfd120f3c4e7092787e141bdafdb78c0789f4902f2d4",
+      "title": "Iran to show 'new cards on battlefield' if war resumes, Parliament speaker says",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/iran-us-israel-lebanon-war-ceasefire-day-14-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-21T07:30:59.588Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "75d32dc45e1d17a9d31048b311d8914ecd5b2ed5bbf06747b61c73c23d07e89b",
+      "title": "UAE: Why classrooms are dropping ‘housewife’ for ‘Sit Al Bait’ in Arabic lessons on women’s roles",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/uae-classrooms-housewife-label-arabic-language-shift",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-21T07:31:02.309Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

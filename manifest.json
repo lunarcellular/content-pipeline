@@ -1907,6 +1907,15 @@
       "processedDate": "2026-04-21T07:31:02.309Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "99f54ecb3395999a98c3bf5e2351625bb2a54af1886bf8659d8d00f80f9ff21d",
+      "title": "UAE campuses reopen following regional disruptions",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-campuses-reopen-following-regional-disruptions-1.500513923",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-21T08:00:49.717Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

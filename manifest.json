@@ -2132,6 +2132,15 @@
       "processedDate": "2026-04-21T14:31:28.776Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7729d00083a775b606483372dea9552d6ce7567ea6e624e830d0238461e9f157",
+      "title": "UAE economy highly resilient, ambassador to US says after Trump discusses possible currency swap",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/04/21/uae-economy-highly-resilient-ambassador-to-us-says-after-trump-discusses-potential-currency-swap/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-21T19:30:53.644Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

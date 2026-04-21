@@ -50,9 +50,9 @@ export function buildGenerationPrompt(articles) {
       if (tweetMatches) allTweets.push(...tweetMatches);
     }
     if (!articleContent) return null; // Skip articles without full content
-    const content = `Full Article Content:\n${articleContent}`;
+    const content = `Full Article Content (use ONLY facts from this body):\n${articleContent}`;
     return `SOURCE ${i + 1} (${a.sourceName}):
-Title: ${a.title}
+Headline (hint only, may overstate the body — do NOT use numbers or claims from here unless also present in the body): ${a.title}
 ${content}
 URL: ${a.link}`;
   }).filter(Boolean).join('\n\n---\n\n');
@@ -143,6 +143,18 @@ ABSOLUTE RULES — VIOLATING ANY OF THESE MAKES THE ARTICLE UNPUBLISHABLE:
 4. If no approved government quote exists in the sources, the article
    must contain ZERO direct quotes. Write it entirely in paraphrase.
 
+5. NUMBERS MUST COME FROM THE ARTICLE BODY, NEVER THE HEADLINE.
+   Specific figures — percentages, monetary amounts, counts, dates,
+   fleet sizes, student numbers, fee reductions, statistics — may
+   ONLY be used in the generated article if they appear VERBATIM in
+   the BODY of at least one source article. Do not use a number that
+   appears only in a source's title/headline. Headlines often
+   exaggerate or round figures that the body does not support. If the
+   headline says "60% fee cut" but the body says only "pro-rata
+   adjustment", use the body's phrasing ("pro-rata adjustment") and
+   OMIT the specific percentage. When in doubt, prefer the body's
+   qualitative phrasing over the headline's quantitative claim.
+
 BAD (would cause rejection):
   "Lisa Johnson, principal of the American Academy for Girls, said..."
   "Matthew Barrett, principal of Raffles International School..."
@@ -154,6 +166,9 @@ BAD (would cause rejection):
   "'Standardised procedures are in place,' Bhojani said."
   "A parent told reporters..."
   "Principals across various schools have indicated..."
+  "The provider announced a 60% fee cut..."  (only when the body
+    doesn't support that specific figure — headline-only numbers
+    must be omitted; use the body's phrasing instead)
 
 GOOD:
   "KHDA said in an official statement that schools must implement
@@ -164,9 +179,13 @@ GOOD:
 ==========================================================================
 
 Only write about facts, figures, dates, and details that are explicitly
-stated in the source articles provided below. NEVER make up, assume, or
-infer information that is not in the sources. If the sources don't
-mention something, don't include it in the article.
+stated in the BODY of the source articles provided below (the text
+below "Full Article Content:"). NEVER make up, assume, or infer
+information that is not in the body. The Title line is the source's
+headline and may overstate or simplify the body — treat it as a
+hint, not a fact. If a number, claim, or attribution appears only in
+the Title and not in the body, omit it from your article. If the
+sources don't mention something, don't include it.
 
 UAE EDUCATION AUTHORITIES — do NOT mix these up:
 - KHDA (Knowledge and Human Development Authority) = Dubai ONLY

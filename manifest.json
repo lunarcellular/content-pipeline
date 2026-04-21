@@ -2042,6 +2042,24 @@
       "processedDate": "2026-04-21T12:46:05.025Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c1917a09a0b799dd88e286020d95bb3516fc76a3838e5231433a4d989f2cfe2e",
+      "title": "Philippine public schools' lack of textbooks can lead to literacy crisis, lawmakers warn",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippine-public-schools-lack-of-textbooks-can-lead-to-literacy-crisis-lawmakers-warn",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-21T13:00:59.820Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d8a530e931f332d9f806276b56b149cff0f6f78643794383a35262f95b4cb936",
+      "title": "KHDA update: No reduced tuition fee or refunds for distance learning in Dubai private schools ",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/khda-update-no-reduced-tuition-fee-or-refunds-for-distance-learning-in-dubai-private-schools-1.500514285",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-21T13:01:32.519Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-21-khda-tuition-fee-policies-dubai-schools.md"
     }
   ]
 }

@@ -1799,6 +1799,69 @@
       "processedDate": "2026-04-20T22:31:20.067Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "218ace80e72a3afc8ba7c3ecbf94212a8511d51701e9a250dd9582eeba6e73f5",
+      "title": "UNESCO recognises RAK prison programme as learning leader",
+      "sourceUrl": "https://gulfnews.com/uae/crime/unesco-recognises-rak-prison-programme-as-learning-leader-1.500513506",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-21T03:00:51.426Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b6d8c489647c931fbf58f27cc61da7e15fca97fc13709000d46e2849ab21ced5",
+      "title": "Back to school in UAE: Distance learning continues alongside classroom teaching",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-blended-learning-online-teaching-continue-in-person-class",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-21T03:00:55.836Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b6d8c489647c931fbf58f27cc61da7e15fca97fc13709000d46e2849ab21ced5",
+      "title": "Back to school in UAE: Distance learning continues alongside classroom teaching",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-blended-learning-online-teaching-continue-in-person-class",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-21T03:01:00.372Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6b1bdd282c15c67cb1e5612af8a43626661bbdb987436267951889244bc647a1",
+      "title": "Back to school in UAE: Distance learning continues alongside classroom teaching - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDEtVEdUSjRPUDlvSU1kQzhBSTVFdnlTbElERk0tYnJUZW5sU0pGLUJnN0xlYzVOMmYtT2F6X0dtZF9lRWJLR1pZVmQ4QW5aSG9OOXY5Zy1fY2dzaWRabHVVTU1VQ2M4QjlFMm50emxJVXVhQlpIcUppT0daRVpySm92MUtNdmhMcWZIZ3dUQ25aaWlYbnVfUGY4NTVQNmU4OXhDOWdzcnljR0820gG0AUFVX3lxTE81RnhzWS0xSms0SXhQSXBwQXBxMVdsNXFCa01tOG95WG0xbVBEQ1p5M2xBcXlUYkxkNXZBVGYzTkRjdXlJTG0yQzZXc0pFZVNJbTBHZXNzd1k2S1ZWclpFR3BkMFZSQUZ6ZXJwVm5IOWRCSDY4RjVLVHMwZm1iYVBGRHpZbDJaenJnRnRuY1RLNDZQT3JmYm9qS085a0c0QkQ0V00xVHdIbDJHZ1lRVnExamRlYQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-21T03:01:03.224Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "697a9cd018e5ad3be11d980048e2771f5d3ceb04eee21984c83987f9003c6bc2",
+      "title": "Afghanistan feels heat of Iran war as Taliban official says attacks on Gulf 'unfair'",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/04/21/afghanistan-feels-heat-of-iran-war-as-taliban-official-says-attacks-on-gulf-unfair/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-21T03:01:04.961Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "eb5cb4516397da4f7b5f9fd6b39edbdd2b3d74efec2b4f1d86465f7b4f9f4421",
+      "title": "No tuition fee cuts for distance learning, Dubai’s KHDA clarifies",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/no-tuition-fee-cuts-for-distance-learning-khda-dubai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-21T03:01:47.393Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-21-tuition-fee-cuts-distance-learning-dubai-schools.md"
+    },
+    {
+      "urlHash": "eb5cb4516397da4f7b5f9fd6b39edbdd2b3d74efec2b4f1d86465f7b4f9f4421",
+      "title": "No tuition fee cuts for distance learning, Dubai’s KHDA clarifies",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/no-tuition-fee-cuts-for-distance-learning-khda-dubai",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-21T03:01:47.393Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-21-tuition-fee-cuts-distance-learning-dubai-schools.md"
     }
   ]
 }

@@ -2060,6 +2060,33 @@
       "processedDate": "2026-04-21T13:01:32.519Z",
       "relevant": true,
       "outputFile": "output/2026-04-21-khda-tuition-fee-policies-dubai-schools.md"
+    },
+    {
+      "urlHash": "943f9b256b7fe20cfa343bb9941e5b77ea6ad89c16191859030170354c976dba",
+      "title": "UAE school transport provider announces 60% fee cut for April during service adjustment",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-transport-services-announces-60-fee-cut-for-april",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-21T14:15:44.290Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8099a1a937956811763e529652e02c3e6cd54374915ec5990f5869800bfc1d8c",
+      "title": "A possible Keir Starmer exit suggests it's time to examine what ails British politics",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/comment/2026/04/21/uk-keir-starmer-peter-mandelson-us-labour-conservatives-greens-reform-british-politics/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-21T14:15:48.782Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "59a39de164957f0dc92561651071bff06f896b2866f16f76212eabecaa612683",
+      "title": "UAE school transport provider announces 60% fee cut for April during service adjustment - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjJnMFVQamJEMnVXVHhEbkRoa0R6THZUX05aUVFQTmhETVdxN0pPUks3TEdSWjRvaThSeGVRRTQzcXVNN09oVUxLVHBQcTB0Si0zYmFZWHRYejRKNGFoRU9UZ3RsbFFRSHItU1drd01KRWZndTBoamlxbEhoZktkUWxaOFB1d2xBTkMxZzI0QXQxUktmS3dWcDU5MFVDejBwalZFdUtUc9IBrwFBVV95cUxNWTcyZTR1X3ZkV1hKaFd1RjdHYWNlOUhyVjlKVFItOUMyZVVYRGhRc1BObV9zN1JSLVo4SWZ0VGhoWHVpNjNRQ0I5dUtCNTFJVEU1UWwydVFoM3JubXFqQ3pLZmxRWXhBaFJOakN6RndPaDY1ZW0xLWZmNVQ2OUZhSHByTEl6VC0tT3NjVjNQV2FzQkZYc3NHbVNyVUFVN0JxcnRjd2FyWExDZkVoZkVB?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-21T14:16:29.029Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-21-uae-school-transport-fee-reduction.md"
     }
   ]
 }

@@ -2411,6 +2411,15 @@
       "processedDate": "2026-04-22T18:52:24.975Z",
       "relevant": true,
       "outputFile": "output/2026-04-22-abu-dhabi-emergency-preparedness-schools.md"
+    },
+    {
+      "urlHash": "5017fef0a281d9b0cd9f3d686bfbfdb14994dfca5d9de655da196e274646c099",
+      "title": "Kuwait keeps schools online until further notice",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwait-keeps-schools-online-until-further-notice-1.500516027",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-22T20:38:50.016Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -149,6 +149,46 @@ function addCityLinks(text) {
   return frontmatter + lines.join('\n');
 }
 
+// Scan the generated body for common "invented specifics" — concrete
+// items (fire drills, lockdown procedures, specific training types) that
+// the model often adds to pad an article when the source is thin. We
+// flag a specific claim only when it does NOT appear anywhere in any
+// of the source bodies. This is intentionally narrow: we want to catch
+// hallucinated specifics, not every paraphrase.
+function findInventedSpecifics(body, sources) {
+  const haystack = sources
+    .map((s) => (s.fullArticle || '').toLowerCase())
+    .join(' ');
+  if (!haystack.trim()) return [];
+
+  // Specific items the model has been observed to invent. Each entry is
+  // a phrase/pattern that we check in the generated body AND in the
+  // combined source bodies. If the body mentions it but no source does,
+  // it's a likely invention.
+  const specifics = [
+    'fire drill', 'fire drills',
+    'lockdown procedure', 'lockdown procedures',
+    'first aid training',
+    'cpr training',
+    'shelter-in-place', 'shelter in place',
+    'reverse evacuation',
+    'earthquake drill',
+    'cybersecurity training',
+    'counselling sessions',
+    'psychological first aid',
+    'bomb threat',
+  ];
+
+  const bodyLower = body.toLowerCase();
+  const flagged = [];
+  for (const phrase of specifics) {
+    if (bodyLower.includes(phrase) && !haystack.includes(phrase)) {
+      flagged.push(phrase);
+    }
+  }
+  return flagged;
+}
+
 function extractSlugFromFrontmatter(text) {
   const match = text.match(/^slug:\s*"?([^"\n]+)"?/m);
   if (match) return sanitiseSlug(match[1]);
@@ -270,15 +310,23 @@ Regenerate the article from scratch. Do NOT include ANY of the above phrases or 
       // model still sometimes slips through — validator is the safety net.
       const bodyOnly = text.slice(secondDelimiter + 3);
       const violations = findQuoteOrNamedSchoolViolations(bodyOnly);
-      if (violations.length > 0) {
-        console.warn(`  Warning: Generated article violates quote/school-name rules:`);
-        for (const v of violations.slice(0, 5)) console.warn(`    - ${v}`);
+      const invented = findInventedSpecifics(bodyOnly, articles);
+      const allIssues = [
+        ...violations,
+        ...invented.map(
+          (p) =>
+            `Invented specific "${p}" — not present in any source body.`,
+        ),
+      ];
+      if (allIssues.length > 0) {
+        console.warn(`  Warning: Generated article failed validation:`);
+        for (const v of allIssues.slice(0, 8)) console.warn(`    - ${v}`);
         if (attempt === MAX_RETRIES) {
           console.warn(`  Giving up after ${MAX_RETRIES} attempts — no article will be published.`);
           return null;
         }
         console.warn(`  Retrying generation with corrective prompt (attempt ${attempt + 1}/${MAX_RETRIES})...`);
-        lastViolations = violations; // fed back into the next attempt's prompt
+        lastViolations = allIssues; // fed back into the next attempt's prompt
         await sleep(RETRY_DELAY_MS);
         continue;
       }

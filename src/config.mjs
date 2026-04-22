@@ -22,6 +22,14 @@ export const RATE_LIMIT_DELAY_MS = 1000;
 
 export const UNSPLASH_API_URL = 'https://api.unsplash.com/search/photos';
 
+// Minimum education-relevant body content to allow generation.
+// Sources like war live-updates blogs have 4000+ chars of mostly
+// unrelated content with one headline-level education mention.
+// If the scraped body contains fewer than this many education-
+// keyword-adjacent characters, the article is dropped before the
+// generation stage.
+export const MIN_EDUCATION_CONTENT_CHARS = 1500;
+
 // Keywords used to pre-filter articles before sending to Gemini.
 // Articles must contain at least one keyword in their title or summary.
 export const EDUCATION_KEYWORDS = [

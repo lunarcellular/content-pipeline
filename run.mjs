@@ -1,6 +1,6 @@
 import 'dotenv/config';
 import OpenAI from 'openai';
-import { RATE_LIMIT_DELAY_MS, EDUCATION_KEYWORDS } from './src/config.mjs';
+import { RATE_LIMIT_DELAY_MS, EDUCATION_KEYWORDS, MIN_EDUCATION_CONTENT_CHARS } from './src/config.mjs';
 import { fetchAllFeeds } from './src/feeds.mjs';
 import { readManifest, isAlreadyProcessed, addEntry, writeManifest, hashUrl } from './src/manifest.mjs';
 import { checkRelevance } from './src/relevance.mjs';
@@ -120,14 +120,12 @@ async function main() {
   // Step 2: Fetch full article content for all relevant items
   console.log('--- Step 2: Fetching full articles ---\n');
   const articlesWithContent = [];
+  // Case-insensitive keyword pattern reused for body-density scoring.
+  const educationKeywordPattern = new RegExp(EDUCATION_KEYWORDS.join('|'), 'gi');
   for (const item of relevantItems) {
     console.log(`  Fetching: "${item.title}"`);
     const fullArticle = await fetchArticleContent(item.link, item.title);
-    if (fullArticle) {
-      item.fullArticle = fullArticle;
-      articlesWithContent.push(item);
-      console.log(`    Got ${fullArticle.length} characters.`);
-    } else {
+    if (!fullArticle) {
       console.log(`    Skipped — could not fetch full article.`);
       addEntry(manifest, {
         urlHash: hashUrl(item.link),
@@ -139,7 +137,41 @@ async function main() {
         outputFile: null,
       });
       await writeManifest(manifest);
+      continue;
     }
+
+    // Measure how much of the body is actually about education.
+    // Sum the characters of every sentence that contains at least one
+    // education keyword. A war live-blog with one school line will
+    // score ~120 chars; a real education article scores several thousand.
+    const sentences = fullArticle.split(/(?<=[.!?])\s+/);
+    const eduSentences = sentences.filter((s) => {
+      educationKeywordPattern.lastIndex = 0;
+      return educationKeywordPattern.test(s);
+    });
+    const eduChars = eduSentences.reduce((n, s) => n + s.length, 0);
+
+    if (eduChars < MIN_EDUCATION_CONTENT_CHARS) {
+      console.log(
+        `    Skipped — only ${eduChars} chars of education-relevant content ` +
+        `(need >= ${MIN_EDUCATION_CONTENT_CHARS}). Source body is likely off-topic.`,
+      );
+      addEntry(manifest, {
+        urlHash: hashUrl(item.link),
+        title: item.title,
+        sourceUrl: item.link,
+        sourceName: item.sourceName,
+        processedDate: new Date().toISOString(),
+        relevant: true,
+        outputFile: null,
+      });
+      await writeManifest(manifest);
+      continue;
+    }
+
+    item.fullArticle = fullArticle;
+    articlesWithContent.push(item);
+    console.log(`    Got ${fullArticle.length} characters (${eduChars} education-relevant).`);
   }
 
   // Replace relevantItems with only those that have full content

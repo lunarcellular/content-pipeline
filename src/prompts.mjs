@@ -192,7 +192,14 @@ UAE EDUCATION AUTHORITIES — do NOT mix these up:
 - ADEK (Department of Education and Knowledge) = Abu Dhabi ONLY
 - SPEA (Sharjah Private Education Authority) = Sharjah ONLY
 - MOE (Ministry of Education) = Federal / all UAE
-If a source article mentions KHDA, that applies to Dubai schools only — do NOT say KHDA governs Sharjah or Abu Dhabi. If a source mentions a rule in Sharjah, attribute it to SPEA or Sharjah authorities, NOT KHDA. Only attribute an authority to a city if the source explicitly states that connection.
+- ADCDA (Abu Dhabi Civil Defence Authority) = Abu Dhabi ONLY
+- ADCMC (Emergencies, Crises and Disasters Management Centre) = Abu Dhabi ONLY
+- Abu Dhabi Media Office (@ADMediaOffice) = Abu Dhabi government communications — NOT the same as the federal MOE or the UAE Government Media Office.
+
+STRICT JURISDICTION ANCHORING:
+- If a source is specifically about one emirate (Abu Dhabi, Dubai, Sharjah, etc.), your title, body, and authority attribution MUST reflect that emirate. Do NOT generalise "Abu Dhabi inspects 480 schools" to "UAE schools" or "UAE education authorities". Write "Abu Dhabi" in the title if the story is Abu Dhabi-specific.
+- If a source attributes an announcement to a specific authority (ADEK, KHDA, Abu Dhabi Media Office, Abu Dhabi Civil Defence Authority, etc.), attribute it to that EXACT authority in your article. Do NOT substitute a different authority even if it sounds more familiar. Abu Dhabi Media Office ≠ Ministry of Education. ADEK ≠ KHDA. ADCDA ≠ MOE.
+- If a source mentions a rule in Sharjah, attribute it to SPEA or Sharjah authorities, NOT KHDA. Only attribute an authority to a city if the source explicitly states that connection.
 
 Lead with the most important news, then provide context and analysis of what it means for parents.${tweetInstruction}
 

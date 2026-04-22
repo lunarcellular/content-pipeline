@@ -2186,6 +2186,15 @@
       "processedDate": "2026-04-22T03:01:02.216Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c28badb7d78bc46295cef6753e36da44dfb9e570b3b6c2a3f2245fa114f73157",
+      "title": "UAE Property: 'Does Abu Dhabi offer a long-term opportunity for investors?'",
+      "sourceUrl": "https://www.thenationalnews.com/business/money/2026/04/22/uae-property-does-abu-dhabi-offer-a-long-term-opportunity-for-investors/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-22T03:15:44.200Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

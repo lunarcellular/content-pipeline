@@ -2276,6 +2276,24 @@
       "processedDate": "2026-04-22T12:00:55.723Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "60bd5397b89cbe7bea7353ce240c716b6232792405e5e540a1c851a82971dab6",
+      "title": "Iraq: Woman killed, four children injured as old house collapses in Kirkuk ",
+      "sourceUrl": "https://gulfnews.com/world/mena/iraq-woman-killed-four-children-injured-as-old-house-collapses-in-kirkuk-1.500515513",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-22T12:30:57.954Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5d7ec1ca2cfc010ee4776bf51d1606999d9ada05fde15bd92c1b2675acf73889",
+      "title": "Abu Dhabi checks emergency readiness in schools; IRGC seizes two ships, targets third",
+      "sourceUrl": "https://www.khaleejtimes.com/world/iran-us-israel-lebanon-war-ceasefire-day-15-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-22T12:31:25.072Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-22-emergency-preparedness-uae-schools.md"
     }
   ]
 }

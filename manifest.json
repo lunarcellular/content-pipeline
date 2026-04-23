@@ -2555,6 +2555,15 @@
       "processedDate": "2026-04-23T12:31:38.862Z",
       "relevant": true,
       "outputFile": "output/2026-04-23-school-fees-dubai.md"
+    },
+    {
+      "urlHash": "d20d9163cbc8a9b9b5eb953ca94bf515ae2e6b206ec4df9a9c7a1865c7b6e146",
+      "title": "Not playing, still learning in IPL: Bethell cooks Cook with his response",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/ipl/not-playing-still-learning-in-ipl-bethell-cooks-cook-with-his-response-1.500516848",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-23T13:15:47.048Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

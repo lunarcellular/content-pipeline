@@ -2420,6 +2420,24 @@
       "processedDate": "2026-04-22T20:38:50.016Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c4db13e7ba62494240d02718198fb6e74ec0f220e5dc9cacf6db4f0bcdb147a8",
+      "title": "Hormuz reopening 'impossible' due to ceasefire violations: Iran's Ghalibaf",
+      "sourceUrl": "https://gulfnews.com/world/mena/hormuz-reopening-impossible-due-to-ceasefire-violations-irans-ghalibaf-1.500516120",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-23T01:14:34.353Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9d062699dea5ade5be9f82221dce1c22e23e2e9387de4bc985d7276d677b3388",
+      "title": "GCC statistics highlight women’s key role in health, education, tourism",
+      "sourceUrl": "https://gulfnews.com/uae/gcc-statistics-highlight-womens-key-role-in-health-education-tourism-1.500516042",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-23T01:14:36.473Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

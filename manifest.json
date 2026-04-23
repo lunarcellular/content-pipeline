@@ -2546,6 +2546,15 @@
       "processedDate": "2026-04-23T10:15:50.363Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "aa3e8ef2632a214898e460121f2945bde96bd352f283a5eb2032ec2b51a21312",
+      "title": "What UAE parents can expect to pay this term: School fees, bus charges, refunds explained",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/school-payments-fees-bus-refunds-2026-term-regional-conflict",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-23T12:31:38.862Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-23-school-fees-dubai.md"
     }
   ]
 }

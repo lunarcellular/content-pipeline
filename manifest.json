@@ -2600,6 +2600,15 @@
       "processedDate": "2026-04-23T17:31:21.723Z",
       "relevant": true,
       "outputFile": "output/2026-04-23-school-fees-dubai-2023.md"
+    },
+    {
+      "urlHash": "e7211162cf691fd19725426aa040d86b0f87a90cdc6e0f21d8231db64bd5256c",
+      "title": "Survivor of Israeli strike on journalists describes hours-long wait for rescue with severely injured colleague",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/04/23/israeli-strike-kills-journalist-in-southern-lebanon/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-23T18:30:47.532Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -2591,6 +2591,15 @@
       "processedDate": "2026-04-23T16:01:32.652Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bcfd3e918b9cae10fd35c1f9def1fab8e115ce46bf40914a22388f835934db71",
+      "title": "What UAE parents can expect to pay this term: School fees, bus charges, refunds explained - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTElieDdZVWlJUGxhakpWcTVKMVJiRVVLSFhfZFBNZHdlZnhSZUNUVm40WVZMZ1hIYWR5eDFhTGx3NlpMMnZZbXB5dUx1aHVvWmFNZ09MVDg4d2ZjazlZVi1EY3JQeHE1eUJpaXJYQkxWSW5SQllwb0RieXVtUTBoOGZQRTA1N0tJb3ZZMk1wUERONTg0blJYSl8zZlpmbVRvR2J0UHE1YzlBUGZnS1RxN2JfQdIBuwFBVV95cUxObHdLX040M2NaZFh3c1hta0YzSi1CTTRsMjlWb042SHRrZUVBSlU4TlZYc0IwUFp2ZUNkbE9OV2JyUzQ0b2NsWEswUW1LcVVhbUZUQ0ZYNFdkNl94RzdFWG54clJLakZkMFctZl9lUHRhSDlvemN0VS1LRTMydFYyR1FVOUE1VUpNVXpvQVc2WFVrVGRnRnlINnRaX3hSR0RwcXVleHRrZkpxVkNYYUptNW5QT1YxRHBIWFFr?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-04-23T17:31:21.723Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-23-school-fees-dubai-2023.md"
     }
   ]
 }

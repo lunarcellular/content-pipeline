@@ -2465,6 +2465,15 @@
       "processedDate": "2026-04-23T03:00:53.885Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6dae19f1107091bbebb6fb90624307efba5ff10e60cb1168f5ba2a4339a4e2cd",
+      "title": "Eid Al Adha break: UAE schools confirm holiday plans and flexibility - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlR0czF0eWVrQkhUdlpRVDl6UkxmcGVIQVY4amVzc0xzNW1ZME5jRklPN1A3eVdKU25iRGhvUXJJenN3TVNTdHctRnVXN3hJRlJ4d0VSV2NVNUtBOUZKZnVldFExQzA4OG5fejNSNHpBOW1PVGxxVFNqeWttbmhucWhScTJvaG5CT2dQSEJwYy1LdE9nRWt0QzkyanZBeldEM3fSAaoBQVVfeXFMT0ROaWJ1eTBISGM4ZjJIU1pGQmVEWlRud2E4M3M0eVljUFFlRXJJSFh1SWxtcEc3TlV3U1lYcVQzQ3lJcGpVZzMzM1c2emU5Q2d1QWd4TWdKRFh6Zk9UTGQ2NGxUbm1QN25jUmtvMVJUSVk5Qmgza3l3ckpSdFp6cjhsc2VOUnRxU1luUXpQd0pmNkxBTHlRWXJzSmxDX2RvSC01S1hSSW14S0E?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-04-23T04:25:58.410Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-23-uae-schools-eid-al-adha-holiday-plans.md"
     }
   ]
 }

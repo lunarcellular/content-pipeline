@@ -2438,6 +2438,33 @@
       "processedDate": "2026-04-23T01:14:36.473Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c71e230f57c87b35137ab99fae7de92a16ab93008c2523e772055c5e74e62d85",
+      "title": "Eid Al Adha break: UAE schools confirm holiday plans and flexibility",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/eid-al-adha-break-uae-schools-confirm-holiday-plans-and-flexibility",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-23T03:00:49.344Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a5f3f711020a3e5decb66e97cb2777c279cafdcabfd5402d6e7b40aa6d694ff5",
+      "title": "Rents in Dubai: Tenants shifting to short-term rentals to look for affordable units",
+      "sourceUrl": "https://www.khaleejtimes.com/business/property/rents-in-dubai-tenants-shifting-to-short-term-rentals-to-look-for-affordable-units",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-23T03:00:51.827Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c71e230f57c87b35137ab99fae7de92a16ab93008c2523e772055c5e74e62d85",
+      "title": "Eid Al Adha break: UAE schools confirm holiday plans and flexibility",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/eid-al-adha-break-uae-schools-confirm-holiday-plans-and-flexibility",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-23T03:00:53.885Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

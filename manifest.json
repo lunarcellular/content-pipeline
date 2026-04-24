@@ -2699,6 +2699,24 @@
       "processedDate": "2026-04-24T08:15:44.879Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f330f93438a15c19026aa6f74f44c4eabf907614a208cccd7c90c86271a12117",
+      "title": "‘Shukran, UAE’: How a Dubai community choir turned real-life stories into a musical tribute",
+      "sourceUrl": "https://gulfnews.com/uae/united-in-strength/shukran-uae-how-a-dubai-community-choir-turned-real-life-stories-into-a-musical-tribute-1.500517757",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-24T09:30:50.025Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "15885cd2bfb1cce4eaddcb055506a1700d310b1af0da8e4fc00b62a7635b82ff",
+      "title": "UAE art guide: 13 museum and gallery exhibitions to see, from Picasso to Chilean artist Jorge Tacla",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/04/24/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-24T09:30:51.749Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

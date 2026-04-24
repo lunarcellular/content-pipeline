@@ -2753,6 +2753,15 @@
       "processedDate": "2026-04-24T12:30:50.076Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4c87765af7b6120c19587d27b99b45b79ceea7df2ec071947d7d02a67293dd93",
+      "title": "US Justice Department brings back firing squads as execution method",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-capital-punishment-firing-squad-electrocution",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-24T17:14:58.651Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

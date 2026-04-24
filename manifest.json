@@ -2627,6 +2627,24 @@
       "processedDate": "2026-04-23T23:56:43.878Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "caf72158c88eb17e7a669127af725f2451ea9c737ddaad4205ad6030fa8ad555",
+      "title": "EIB Group accelerates Europe’s clean energy drive as part of €10 billion in new financing",
+      "sourceUrl": "https://gulfnews.com/business/energy/eib-group-accelerates-europes-clean-energy-drive-as-part-of-10-billion-in-new-financing-1.500517383",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-24T03:00:51.262Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d9b4021828c5cf1470a7fb182d4936690135966e3b81112db7bf14cc71256d22",
+      "title": "Seismic change in UAE cricket means even T20 World Cup star Sohaib Khan has to prove himself all over again",
+      "sourceUrl": "https://www.thenationalnews.com/sport/cricket/2026/04/24/seismic-change-in-uae-cricket-means-even-t20-world-cup-star-sohaib-khan-has-to-prove-himself-all-over-again/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-24T03:00:53.332Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

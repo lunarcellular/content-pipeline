@@ -2744,6 +2744,15 @@
       "processedDate": "2026-04-24T11:30:55.861Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b1d2d2614e46f2e09f773e83bd2086bae84e0de6b43896464949c524800828d5",
+      "title": "Sheikh Mohammed bin Rashid announces plans for date factory to help starving children",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/24/sheikh-mohammed-bin-rashid-announces-plans-for-date-factory-to-help-starving-children/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-24T12:30:50.076Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

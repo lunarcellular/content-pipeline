@@ -2654,6 +2654,24 @@
       "processedDate": "2026-04-24T03:15:47.463Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8a7559b9f6bb586a2ae4055f7460209c9bc8ebf5e970ccf9a45b8cf4d770f721",
+      "title": "AAIB cements turnaround with milestone results",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/aaib-cements-turnaround-with-milestone-results-1.500517598",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-24T06:15:50.225Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4f2684b5e87b7a1442116b5c1166dbc93a8bf345af815c16bd3210a696e844d2",
+      "title": "How the term ‘new normal’ has come to represent a decade of tackling Covid, the Iran war and other crises",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/comment/2026/04/24/how-the-term-new-normal-has-come-to-represent-a-decade-of-tackling-covid-the-iran-war-and-other-crises/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-24T06:15:53.089Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

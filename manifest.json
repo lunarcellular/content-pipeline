@@ -2780,6 +2780,33 @@
       "processedDate": "2026-04-24T18:05:26.766Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e3262bd2eefca083dca7686c698a64342fe79a70da6f24fb3eb0a822f76cdd3b",
+      "title": "Dubai Courts speeds inheritance cases, distributes Dh3.5b faster",
+      "sourceUrl": "https://gulfnews.com/uae/crime/dubai-courts-speeds-inheritance-cases-distributes-dh35bn-faster-1.500518465",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-25T03:00:48.125Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1989e0dd483ae0841aa889f4c64f4b8455f3ebd3bf59e019ee3c36a85ca2245f",
+      "title": "UAE schools step up support for 'resilient' students after exam cancellations",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/25/uae-schools-step-up-support-for-resilient-students-after-exam-cancellations/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-25T03:00:50.176Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "783d3941ec27b502402d2da8c0c67fe6788ec7b6c7cd611f4b53c10d9f797789",
+      "title": "Children are watching us, not the news",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/2026/04/25/children-are-watching-us-not-the-news/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-25T03:00:53.138Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

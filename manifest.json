@@ -2933,6 +2933,15 @@
       "processedDate": "2026-04-26T15:30:46.748Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cc5e66cf0483a333c3416d7f7470b18c65912ee500d2d2f1d2506c38a53a3820",
+      "title": "Dubai schools resume outdoor activities, PE classes after KHDA approval",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-resume-outdoor-activities-pe-classes-khda-approval",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-26T18:01:37.717Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-26-dubai-schools-resume-outdoor-activities.md"
     }
   ]
 }

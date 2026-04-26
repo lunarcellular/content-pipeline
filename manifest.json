@@ -2861,6 +2861,24 @@
       "processedDate": "2026-04-25T16:15:44.783Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "819a06e861115820bdcf21d99ff6c945f17c353a5e36b264e650620ec5999016",
+      "title": "Dubai probes case of art student who grew narcotic plant at home for creativity",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/legal/dubai-case-student-grows-narcotic-plant-at-home",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-26T03:00:56.187Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8ae2cc8de32bfe6fd81ef159a149a1ff01fe18b1403699515b70a3903b8dd5ba",
+      "title": "Five books to read to children under five, from Charlotte’s Web to This Pretty Planet",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/books/2026/04/26/five-books-to-read-to-children-under-five-from-charlottes-web-to-this-pretty-planet/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-26T03:00:59.671Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

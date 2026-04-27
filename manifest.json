@@ -3032,6 +3032,15 @@
       "processedDate": "2026-04-27T05:46:06.374Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "9dfcd0655cbe40d368aa70605d73bbf612a3b1d3b4f08a74322adab87b52659f",
+      "title": "Dubai Ruler meets schoolboy, 9, who thanked him for keeping UAE safe",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/04/27/dubai-ruler-meets-schoolboy-9-who-thanked-him-for-keeping-uae-safe/",
+      "sourceName": "The National",
+      "processedDate": "2026-04-27T06:30:49.165Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

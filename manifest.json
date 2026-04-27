@@ -3122,6 +3122,15 @@
       "processedDate": "2026-04-27T11:30:54.037Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "abfa82c074fde840a4cae794c6c5b4a9200aa85d1490a438a13f046ac0f3da32",
+      "title": "UAE schools to resume outdoor activities after conflict disruptions: KHDA update",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-to-resume-outdoor-activities-after-khda-update-1.500520264",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T12:16:18.565Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-27-dubai-schools-resume-outdoor-activities.md"
     }
   ]
 }

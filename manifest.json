@@ -3050,6 +3050,24 @@
       "processedDate": "2026-04-27T07:01:21.132Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fb5a8f43c2fe2ff92e1c601da269d2d51b9e43439b9a6af8082a30f436c48891",
+      "title": "Fifa likely to increase funding, fees for teams at 2026 World Cup",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/football/fifa-likely-to-increase-funding-fees-for-teams-at-2026-world-cup",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-27T07:15:46.121Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bb5cdc916549480211a99261377b3682d5b5dd3513187491d08f807b648265be",
+      "title": "UAE–Japan educational ties: MEXT scholarship for Emirati talent",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/uaejapan-educational-ties-mext-scholarship-for-emirati-talent",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-27T07:15:48.607Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

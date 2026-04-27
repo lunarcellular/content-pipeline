@@ -3194,6 +3194,15 @@
       "processedDate": "2026-04-27T14:16:26.758Z",
       "relevant": true,
       "outputFile": "output/2026-04-27-abu-dhabi-eca-early-childhood-support.md"
+    },
+    {
+      "urlHash": "dd8b5676474607bb6feb4b9b362c10fcfa307399482da5b953bd5e37107c1be5",
+      "title": " Sharjah to open women-only beach park in Dibba Al Hisn",
+      "sourceUrl": "https://gulfnews.com/uae/sharjah-to-open-women-only-beach-park-in-dibba-al-hisn-1.500520895",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T14:45:46.052Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

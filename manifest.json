@@ -2951,6 +2951,24 @@
       "processedDate": "2026-04-26T19:45:53.886Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f22c709cd452895aa53ebc33a44b64b3efa878f6b7117e9ea443e7733314997f",
+      "title": "Donald Trump signals US-Iran conflict may end soon: 'They're in really bad shape'",
+      "sourceUrl": "https://gulfnews.com/world/mena/donald-trump-signals-us-iran-conflict-may-end-soon-theyre-in-really-bad-shape-1.500520098",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T03:00:48.996Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a4dfcdda9335a1f457c27f2d3db4b85e4f6ccdcaf25365cac678ce9ecf3407c5",
+      "title": "Suspect identified: Trump claims 'anti-Christian' bias behind White House Correspondents' dinner shooting",
+      "sourceUrl": "https://gulfnews.com/world/americas/suspect-identified-trump-claims-anti-christian-bias-behind-white-house-correspondents-dinner-shooting-1.500520121",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T03:00:50.967Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

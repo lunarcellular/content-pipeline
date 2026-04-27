@@ -3185,6 +3185,15 @@
       "processedDate": "2026-04-27T13:45:57.402Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c1351cd71f1994e40d29c9e7fb90958ed8c64a73c439f219c8d24c9158d02ebd",
+      "title": "Abu Dhabi ECA expands early childhood support initiative",
+      "sourceUrl": "https://gulfnews.com/uae/people/abu-dhabi-eca-expands-early-childhood-support-initiative-1.500520870",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T14:16:26.758Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-27-abu-dhabi-eca-early-childhood-support.md"
     }
   ]
 }

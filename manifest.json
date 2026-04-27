@@ -3158,6 +3158,15 @@
       "processedDate": "2026-04-27T13:08:04.392Z",
       "relevant": true,
       "outputFile": "output/2026-04-27-dubai-schools-safe-zone-requirements.md"
+    },
+    {
+      "urlHash": "ffdd4de7f571b09ea98135d71363eed7ff1a3466067dd40bd5b94a353aa73de0",
+      "title": "Dubai school reopening rules: New ‘safe zone’ requirements, explained",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/dubai-school-reopening-rules-new-safe-zone-requirements-explained-1.500520789",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T13:30:48.219Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

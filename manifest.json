@@ -2996,6 +2996,24 @@
       "processedDate": "2026-04-27T05:00:55.102Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c941182fe198c19894371111d4127fa55c272a8cbcc3d440db1f171aa518636c",
+      "title": "UAE schools to resume outdoor activities after KHDA update - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2diZ1pHeU1FWGFoOVlTR0JIclBoV0J5cFJLREtldnl3ak1wUkRCLXhvV3lWM0p2Q1dhT0RrSnBiV3lXcW5fcjVqR2dUNGY3VFNRVzMyaUhxaTZhN1hlQzhiNmRWZ05fWUhtYUFGSzA5cWl1Y1IwaXhwRUpNa1g1ellCQXpxV0dBWk1zUXMwYWJGQzY2WE5CdXgwZ9IBqwFBVV95cUxPR1BFUmZFaFE3YnJMbnRodGlMWG96dGJLUUpCZFVkQUZIZlVacjFDZTdpaC1ITWl0dFRjWDR5LV9lOVNuTDdXVnZzdGpwbjdjYzVldERYM0pPdFFDc3h6YTJnUm80b1N4eUVxWWdjMTlsZ1liY1pjQjVQbG9mOVpWR2FwYVBBUjRWSHVYVHV3MUVYTTFfQWstbXkxdWlES0c0TF9IeXUyYzRCSk0?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-27T05:30:55.953Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c941182fe198c19894371111d4127fa55c272a8cbcc3d440db1f171aa518636c",
+      "title": "UAE schools to resume outdoor activities after KHDA update - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2diZ1pHeU1FWGFoOVlTR0JIclBoV0J5cFJLREtldnl3ak1wUkRCLXhvV3lWM0p2Q1dhT0RrSnBiV3lXcW5fcjVqR2dUNGY3VFNRVzMyaUhxaTZhN1hlQzhiNmRWZ05fWUhtYUFGSzA5cWl1Y1IwaXhwRUpNa1g1ellCQXpxV0dBWk1zUXMwYWJGQzY2WE5CdXgwZ9IBqwFBVV95cUxPR1BFUmZFaFE3YnJMbnRodGlMWG96dGJLUUpCZFVkQUZIZlVacjFDZTdpaC1ITWl0dFRjWDR5LV9lOVNuTDdXVnZzdGpwbjdjYzVldERYM0pPdFFDc3h6YTJnUm80b1N4eUVxWWdjMTlsZ1liY1pjQjVQbG9mOVpWR2FwYVBBUjRWSHVYVHV3MUVYTTFfQWstbXkxdWlES0c0TF9IeXUyYzRCSk0?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-04-27T05:30:56.875Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -2978,6 +2978,15 @@
       "processedDate": "2026-04-27T03:30:59.891Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "17e237d86c80bdb264147edff64c6cb84c51fa10822e1c5c4f5091582251cc66",
+      "title": "Back to school UAE: How children with autism are finding safety with support from parents and educators",
+      "sourceUrl": "https://gulfnews.com/uae/back-to-school-uae-how-children-with-autism-are-finding-safety-with-support-from-parents-and-educators-1.500520170",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T04:15:54.564Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

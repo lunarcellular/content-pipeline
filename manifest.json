@@ -3014,6 +3014,24 @@
       "processedDate": "2026-04-27T05:30:56.875Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "232f4c2ac5653c008dbd25a11372d491bfaa90399ee438edce45f42b0eddb63f",
+      "title": "Back to school UAE: How children with autism are finding safety with support from parents and educators - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHNDYzNILXdOejkyS2ZheE9XNWEyNGpjc3FjMGJrbURrLUpucUxUYzh0empaSXlvdFZheDBWWlktRy10aWdsUzJLbzRDZEdfYzlha0NVNUd5ZW93bkxCeUQ0cms4azZ6TjhXN0hzRy01ZDM4X1E2WHNTcWZ2TnRiWlZHSVQ4MGFScUt0QTN6STJaRGRWRHhRUmtRNG10LVIxcEtLUlVXbjJGSGpDQTBqZ19GSVlSeUJMdE9iejU3VmJCdWlsVzU0aEpMdlZndmhncHBZMWpB0gHmAUFVX3lxTFA5NjJaMURTQzQyYlZDMW1YUG9vYmlCUThuRlMwOElmdFE1WXQ1dnkzZGZvQkJFNUxTU3lqeDZ6YWV1dWNwNWJOWVdWZkUwdXZxY1Q3ak9veUNCWFFTTlNMWDN1OElSUXUyM0ZyRFcxZHN3UThJdWRTS1R0VVNFWTZ2bXhjSk03dld1S2lsa3ZnanZka251ZEFhdk1ZTGt0T1pMY24xRFpoU1B0T0stSkpDVG5mcjhCcEg5N21lcjFJUk9jd1NaQmhfckJQZExaTWZiRk90UGQ4NUxxbkZrRkc3TGgtNS1n?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-27T05:45:48.808Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "75122eaf93c36eb951b6176cfd839df9d61e718e8349d1a1a4c7151dd6e572e9",
+      "title": "UAE schools to resume outdoor activities after KHDA update",
+      "sourceUrl": "https://gulfnews.com/uae/uae-schools-to-resume-outdoor-activities-after-khda-update-1.500520264",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-27T05:46:06.374Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

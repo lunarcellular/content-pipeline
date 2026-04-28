@@ -3473,6 +3473,15 @@
       "processedDate": "2026-04-28T17:30:35.723Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "87c1c2a566e5e447594aa4056417d8782986e7d821c0ba8a809f770613dec180",
+      "title": "DIB operating profit rises 12% to Dh2.5 billion in Q1",
+      "sourceUrl": "https://www.khaleejtimes.com/business/finance/dubai-islamic-bank-operating-profit-rises-12-to-dh25-billion-in-q1",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T17:45:29.036Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

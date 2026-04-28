@@ -3356,6 +3356,24 @@
       "processedDate": "2026-04-28T09:00:52.159Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0d1d56b3d44750fd0c7a1dc122170f11be6f0287d06b5208ce3cb5065a8d1a71",
+      "title": "Al Otaiba says UAE economy remains strong today",
+      "sourceUrl": "https://www.khaleejtimes.com/videos/al-otaiba-says-uae-economy-remains-strong-today",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T10:00:35.747Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ede05e508561ef3333c94444153c23c055320a43a5d1d7610727fa3892192bd4",
+      "title": "Jordan’s Crown Prince melts hearts with birthday tribute to Princess Rajwa",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/princess-rajwa-birthday-crown-prince-hussein-message",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T10:00:38.007Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

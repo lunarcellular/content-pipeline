@@ -3401,6 +3401,15 @@
       "processedDate": "2026-04-28T10:45:43.933Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6b59dfd13534cf31e413ed8f9f4279031cb93ff751e16967482bde80a34045fd",
+      "title": "UAE students build AI tools to predict heart attacks, prevent amputations",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-students-build-ai-tools-to-predict-heart-attacks-prevent-amputations",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-28T12:00:52.476Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -3293,6 +3293,42 @@
       "processedDate": "2026-04-28T06:15:57.305Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3e57d5f0f134f29cafa8be5d5e1ac9e329adda652f48d36b286febdcb6af5cff",
+      "title": "South View School: Offering families a nurturing environment",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/south-view-school-offering-families-a-nurturing-environment",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T06:30:46.505Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ecbc1e23007f430d894aea4ed05c6a9f05d38b7cea7ace165ff4b1116157ca00",
+      "title": "Abu Dhabi’s elite school in Khalifa City — Built on Italian excellence, designed for future leaders",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/abu-dhabis-elite-school-in-khalifa-city-built-on-italian-excellence-designed-for-future-leaders",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T06:30:48.806Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f54fb422a29cf96930be3ab13803fd19bdd84247b0e48237e2dc0729c2cca627",
+      "title": "Pursuit of academic excellence with skills, confidence and opportunities",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/pursuit-of-academic-excellence-with-skills-confidence-and-opportunities",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T06:30:51.296Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e9b9b973ded87e34cd97d436acaecd76141fb1054be8410a57119274c9020d4b",
+      "title": "Educating for the world our children will shape    ",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/educating-for-the-world-our-children-will-shape",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T06:30:53.981Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

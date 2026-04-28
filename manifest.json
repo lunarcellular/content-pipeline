@@ -3239,6 +3239,24 @@
       "processedDate": "2026-04-28T01:18:39.004Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "189dd4fe8112104fc90ab81b41f8a5966410cbaac97488134fc0dddca3e144fa",
+      "title": "Beyond marks and prestige: How students should really choose their subjects",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/beyond-marks-and-prestige-how-students-should-really-choose-their-subjects-1.500520877",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-28T03:00:41.228Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "abbee588f21287908afb2123a9cc64b083144103466a15d4129b43265bbd37d9",
+      "title": "Drunken brawls, ‘misbehaving’ Israeli tourists ruin island vibe in Siargao, Philippines",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/drunken-brawls-misbehaving-israeli-tourists-ruin-island-vibe-in-siargao-philippines",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-28T03:00:43.815Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

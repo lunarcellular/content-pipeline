@@ -3482,6 +3482,33 @@
       "processedDate": "2026-04-28T17:45:29.036Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9604f2f37e8d7af94601c5e1452ddadb3b32abc01d326a509f91621fa712e253",
+      "title": "Hajj leave rules in Saudi Arabia: Employees eligible for up to 15 days paid leave",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/hajj-leave-rules-in-saudi-arabia-employees-eligible-for-1015-days-paid-leave-1.500522615",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-29T03:00:54.207Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1b228125db8b0fa37570b92ecd505a94bd9055339c1cb8b4000a630c81b8137b",
+      "title": "Parents in UAE reveal what their teens ask AI as Meta rolls out safety feature",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/parents-reveal-what-teens-ask-ai-meta-new-feature-insights",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-29T03:00:56.856Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1b228125db8b0fa37570b92ecd505a94bd9055339c1cb8b4000a630c81b8137b",
+      "title": "Parents in UAE reveal what their teens ask AI as Meta rolls out safety feature",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/parents-reveal-what-teens-ask-ai-meta-new-feature-insights",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-29T03:00:59.495Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

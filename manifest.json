@@ -3599,6 +3599,15 @@
       "processedDate": "2026-04-29T09:00:59.384Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4b1b15f47f3adf73a9d85169c6b5a4ea1a46438cd4002be667709acadba0b31c",
+      "title": "Has remote learning in UAE impacted school calendars?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/has-remote-learning-in-uae-impacted-school-calendars",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-29T10:00:54.614Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -3806,6 +3806,24 @@
       "processedDate": "2026-04-30T11:31:03.311Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "a034e8f39e304d4edad32d8d84bb9b2f8aa0df02499d769a5c57e77329b3c9ea",
+      "title": "How Ras Al Khaimah is reshaping education to power its future workforce",
+      "sourceUrl": "https://www.khaleejtimes.com/business-technology-review/rak-education-uae-rak-schools",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-04-30T13:01:02.443Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7840fd87f52baf78f17410067842dfa1d55cc093b16f3eb9038fecfda953a1ba",
+      "title": "Dubai’s ICSE, ISC results: Schools celebrate 100% pass rate; top scorers shine",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubais-icse-isc-results-schools-celebrate-100-pass-rate-top-scorers-shine",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-30T13:01:04.633Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

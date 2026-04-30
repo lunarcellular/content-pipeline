@@ -3707,6 +3707,15 @@
       "processedDate": "2026-04-30T07:15:56.207Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "41466577378d60ceb341d210d4703469a883fed5cb1cc8e1dc11ae77f1cca354",
+      "title": "UAE Arabic Language Law: 10 key sectors, what it means for workplaces, schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-draft-arabic-language-law-explained",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-30T07:46:23.855Z",
+      "relevant": true,
+      "outputFile": "output/2026-04-30-uae-arabic-language-law-schools.md"
     }
   ]
 }

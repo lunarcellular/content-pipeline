@@ -3770,6 +3770,24 @@
       "processedDate": "2026-04-30T09:30:59.576Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "aef45dbef029fd1cd9b7d5a39c516183fdd0c4682c59c9279b7ddf5fe8da45ba",
+      "title": "UAE announces Eid Al Adha holiday, mid-term break for schools",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-announces-eid-al-adha-holiday-mid-term-break-for-schools-1.500524455",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-04-30T10:01:35.474Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a947c495ae815f5434487e80a8a3a5c0f06803c8f2bd528675930ba86295b0c3",
+      "title": "UAE announces Eid Al Adha holiday, mid-term break for schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGhLZzg0MWc2ajdTNU40UWN2emp5MDNJSVotaXRmNmdDRnIxUUh5T3BHcWtqSTIwVGxqWkVnLXlaNGdMS0JpNjRDVHI3eFo5LVhlRHpKRUJJcUFiQ2Zsdlp1VWFPSkp6WF8tM0tCek9iWEI1VjhNa0Vfd05GSkU1Sk9VWF9ad1Z5OU5DZ1NZaVZjbUk0T1JnajgtdTFEWW0wWHRTUU85cVZCR0nSAb4BQVVfeXFMTWIzUGFFY09hRnVQZWZNWDgtMU95cDVOZDdJVU1uWmtaNi1lQVJER2J4Ym1kNmM2aHZCR1o5U25fcTRXUndtMkJpV29YME9DWkdWemY2ak9iVlZucmlzQ1NSWDZZZDNubll5VmdnZUVpM3k1MjVONWJjdE5OZjZNX2czUTNBUWxqaFFIdDMxM3l1MlhhaHJkcURock03N0tDR2JSSXNKWlBpQ01LV3piaWY3Z3lPdXVDYjYtWHdUdw?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-04-30T10:01:35.474Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

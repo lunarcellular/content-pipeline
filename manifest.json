@@ -3788,6 +3788,15 @@
       "processedDate": "2026-04-30T10:01:35.474Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "235abcc3c2fd04527567d91b18ba99bf4e84eec22597ac3161f89b36a0684c9c",
+      "title": "9-day holiday: UAE announces Eid Al Adha, mid-term break for schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/9-day-holiday-uae-announces-eid-al-adha-mid-term-break-for-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-04-30T10:16:04.591Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

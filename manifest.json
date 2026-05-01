@@ -4076,6 +4076,24 @@
       "processedDate": "2026-05-01T19:45:43.689Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4bbbc4b775d31a08d953985c2e0211cb2a3ad75a8f20bbba10a167c4dc215d05",
+      "title": "AI actors and writers not eligible for Oscars: Academy",
+      "sourceUrl": "https://gulfnews.com/entertainment/hollywood/ai-actors-and-writers-not-eligible-for-oscars-academy-1.500526259",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-01T21:00:12.263Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "97cd9b917659e1bdd2cd9b4dffb3fd59c9a6fa6a8488ea983fd77280a3caef12",
+      "title": "Iran war ‘terminated’, Trump claims as he seeks to avoid congressional deadline",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/05/01/trump-iran-war-terminated/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-01T21:00:14.159Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -4022,6 +4022,15 @@
       "processedDate": "2026-05-01T10:15:49.557Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7852d5c889a45b2a3bafc42174967dd906a40a226d31cd38366ca88b4c522f88",
+      "title": "US-Iran ceasefire: Trump says war in Iran has been ‘terminated’ before 60-day deadline",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-iran-ceasefire-trump-says-war-in-iran-has-been-terminated-before-60-day-deadline-1.500525377",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-01T13:00:55.951Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

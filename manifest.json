@@ -3887,6 +3887,42 @@
       "processedDate": "2026-05-01T00:10:40.575Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "29960b43382c4ffbbd8ca8fe02ed40a55195aca5264cbb4d3bc50047a3efa28e",
+      "title": "'Iran is dying to make a deal, I don't call it a war': Trump",
+      "sourceUrl": "https://gulfnews.com/world/mena/iran-is-dying-to-make-a-deal-i-dont-call-it-a-war-trump-1.500525286",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-01T03:00:51.174Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3b4f2896613ee290e928756b6f3f590ed427f6191451568316589775c013f7ed",
+      "title": "UAE schools phase out live online classes as campus attendance nears full capacity",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-phase-out-live-online-classes-campus-attendance-rises",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-01T03:00:53.770Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3b4f2896613ee290e928756b6f3f590ed427f6191451568316589775c013f7ed",
+      "title": "UAE schools phase out live online classes as campus attendance nears full capacity",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-phase-out-live-online-classes-campus-attendance-rises",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-01T03:00:56.769Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "deaeeba0bb7b2690ff62ecae1e4ce5152e230da2a93538012366323cb416fc41",
+      "title": "UAE schools phase out live online classes as campus attendance nears full capacity - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkJtMmIwNTFLSjhJNGJYMkZmMV9nQWlENEpSRUR3eHhHT0FsQ0ZtRlRub0NrWktPTzhGRGp0QjJuS3pPaUFKVjlkRnoyeDE5d1pVQUhPOExvTWRrR1ZTYmhjdEhNV2pReXRFcldiWnFDM3Z4SWlmb0NHTXFlQUZwRF9lSnFHbUtRNkRHUVVmRXA0YnUxWkIxQ0R0LWFYNEFDT3RkbDFiY05QQnlu0gG0AUFVX3lxTE5iazltaUk4MmQ3WEdLUFJMVmltVDY4RV9IUWo1cnJfU3ZkN0xlcFhiNTNtMGZZMkgzam1HZW5RNlpfeXJGY0NzdC1jRXhOa1Q2WGFGdUs0bVBlZTEyUDB6Y1JacTRzdXQyQ29xaVdPMjJaLWdxbExfNndkdVN2Y0RON0RON3Y0V19CSGptNmtOMkFsUm1acHYxS2NSUGxQM2M2OE9uWE0wcjJESm9kZzZ4MW5IVQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-05-01T03:01:02.288Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

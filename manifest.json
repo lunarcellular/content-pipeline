@@ -3923,6 +3923,15 @@
       "processedDate": "2026-05-01T03:01:02.288Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c95c91e2ecf7409881aaa18437da31eaaad8de12ad7b6d00c016f5193629fb3f",
+      "title": "Britney Spears formally charged with DUI in California",
+      "sourceUrl": "https://gulfnews.com/entertainment/britney-spears-formally-charged-with-dui-in-california-1.500525271",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-01T03:15:43.295Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

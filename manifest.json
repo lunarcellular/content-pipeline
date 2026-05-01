@@ -4094,6 +4094,15 @@
       "processedDate": "2026-05-01T21:00:14.159Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5c13ec24550d70de8a02ba546c41c2b59a3cb3e10c4e696a38dd3185326f0826",
+      "title": "Trump says Iran war 'terminated' as war powers deadline arrives",
+      "sourceUrl": "https://www.khaleejtimes.com/world/us-israel-iran-lebanon-war-ceasefire-day-24-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-01T22:01:00.273Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

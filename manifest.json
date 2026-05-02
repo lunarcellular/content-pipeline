@@ -4139,6 +4139,15 @@
       "processedDate": "2026-05-02T07:30:47.771Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6d091af13ec776722d01bb77ef987ed9d67d70df3330582124183219e7f77ba0",
+      "title": "UAE launches first ministerial Parents Council to boost family role in education",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-launches-first-ministerial-parents-council-to-boost-family-role-in-education-1.500526559",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-02T08:31:25.545Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-02-uae-ministerial-parents-council-education.md"
     }
   ]
 }

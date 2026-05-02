@@ -4112,6 +4112,15 @@
       "processedDate": "2026-05-02T04:45:48.784Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7b8639827a52406a6ef0e0e209dc1085cf322c1c7a44e8e6b922deacc2587065",
+      "title": "'HearMe': This UAE student made an app which translates sign language into written text",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/hearme-app-translate-sign-language-written-text",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-02T07:01:07.022Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -4103,6 +4103,15 @@
       "processedDate": "2026-05-01T22:01:00.273Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cce76a4d852f0454ff393a86af990c01939009164430012ccc0aebc10b8b8b84",
+      "title": "Lebanon says Israeli strikes in south kill 13, including a child",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/israeli-strikes-south-lebanon-kill-13",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-02T04:45:48.784Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

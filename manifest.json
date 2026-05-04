@@ -4517,6 +4517,24 @@
       "processedDate": "2026-05-04T18:31:04.132Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "ee72d49b30b90ad1039643af1e957fac790577f9fdb9368bcb815f4b85e81cf4",
+      "title": "UAE announces temporary shift to distance learning for universities until Friday - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTElGc1hBUkpzMUE4Q1NPMHFSaklMQXlvRFRUZk9sUHllTDc2OFhFYk5NQldFcFEtTWpyWGJBTWJrbjV2UGdhQUpBbURwMHROanp0RnZCdTNRRlNhVURLLVhCakhldWc5WkZRc20tZEUwX0l5V2NaQlY2R2FLWkRDMGNGT2hYMHc4d25aaUhtTmRpOU1j0gGcAUFVX3lxTE85ejlfTHN3SzNaajJwb21vVE9UYkVCSUktUlNkeUIzUU5pb2MtOUhLNFVzelhPVEFpWU5QWlZTblBpWUtDc3NRYUFTR1ZMZ0RoSnV5YmxEQklVNlpRQ0wzVWNUX0gwWDh4THZ0MUJUNURmY2JSQ3dGN0Z6dkFfSWVBMTZ1WXNaTl93MWZWOWhjSHFyREVSY0Rod3ctNg?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-05-04T18:45:58.812Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3d61ec06ca676276547fe8c22b3ddb3b602e62c219202bd29afe8ba89caa3def",
+      "title": "UAE moves all schools to distance learning - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVdFdEFHcU5kSGk2RTc2eXVJU25mQkVNdTMzVWh1RHlnSThHYUdzMVItdDBQanlzOUdOZ2xiWFg0YUhVUTFvZG5tcjRNSUQzbWRVdk1KNU9nU19xRzgwUC03Zmd0TEJKRTZnMHVxQVg5bEptWVgyV0M0ZTQ1NC1ORkktclY4elFXREd6N3VjN2pMeTjSAaYBQVVfeXFMT2hLQmhlc3M1dFFQSHIyVExLdzE2aFhNX0ZOeU1iSkF4bFVMQk5OLTJjdXdtbXlrckZSZjBEUUJqTzBPSkNMSUthd3pmUWhIZmtnOGFuQWtXc2RybUJTd1Q5MVhaNDFROUN2U0RZcTZZSDN4alVmS2VXLW1pdUJ6Vi1rdXZzd011bGxZMmdQemt5ZXo2N2ZxSlBMaWVhcFVzZGtqY05adw?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-05-04T18:46:01.660Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

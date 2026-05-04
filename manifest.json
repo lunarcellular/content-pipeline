@@ -4346,6 +4346,24 @@
       "processedDate": "2026-05-04T08:45:59.872Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f494032d8b046aab371ac0c7d67e292cb1b92db0bd09517621f8d74eba14541b",
+      "title": "UAE left Opec and Opec+ on 'good terms', energy minister says",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/05/04/uae-left-opec-and-opec-on-good-terms-uae-energy-minister-says/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-04T09:39:01.200Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dc0b06e82f74cdc046e712fd45c49fe822ed158323286d247f9fe92a8c8d8bdb",
+      "title": "Scholars International Academy maintains fees for 2026–27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/scholars-international-academy-maintains-fees-for-202627-academic-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-04T09:39:29.018Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-04-sharjah-school-fee-structure-2026-27.md"
     }
   ]
 }

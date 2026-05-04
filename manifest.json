@@ -4373,6 +4373,24 @@
       "processedDate": "2026-05-04T10:45:56.239Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "2d9511760e723671f3b6be5d7df8a1e6829fe4b6be72a7cbe5c6d66cbc1f5ee3",
+      "title": "Princess Eugenie expecting third child with husband Jack Brooksbank, Buckingham Palace confirms",
+      "sourceUrl": "https://gulfnews.com/world/princess-eugenie-expecting-third-child-with-husband-jack-brooksbank-buckingham-palace-confirms-1.500528469",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T12:00:53.007Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6bfd1f8493921dc9a3cb363e71d4fd4d7a29543ab8391512af52fb063193613f",
+      "title": "UAE sets August 31 start for 2026–2027 academic year",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-sets-august-31-start-for-20262027-academic-year-1.500528465",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T12:01:08.317Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -4391,6 +4391,15 @@
       "processedDate": "2026-05-04T12:01:08.317Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "6c0a716c87375440a34840e7ebc5dfbe2839669c0001cb59df71cc5addfdfa2a",
+      "title": "Listing Muslim Brotherhood as terror group 'impossible to implement', says France's Interior Minister",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/05/04/listing-muslim-brotherhood-as-terror-group-impossible-to-implement-says-frances-interior-minister/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-04T13:11:47.955Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -4472,6 +4472,51 @@
       "processedDate": "2026-05-04T18:15:49.452Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "6235d9b5522f335ec10c136a2a403067be4c30478462dd6ac800fab0e3506708",
+      "title": "UAE intercepts 4 cruise missiles from Iran; fire in Fujairah after drone attack; Schools, universities go online",
+      "sourceUrl": "https://gulfnews.com/world/mena/uae-successfully-intercepts-4-cruise-missiles-from-iran-country-still-on-alert-1.500527915",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T18:30:51.523Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ca3cd70bf50127ea83b937259a6955611f93459319d9d67d4ebcd62eabd6787e",
+      "title": "UAE universities move to remote learning after missile interceptions",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-universities-move-to-remote-learning-after-missile-interceptions-2-1.500529003",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T18:30:55.032Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c11bfc646f8a17157254349efa56ec8756b8662ddd7384bf355ba6e70e70ab87",
+      "title": "UAE schools shift to online classes after missile alerts across region",
+      "sourceUrl": "https://gulfnews.com/uae/uae-schools-shift-to-online-classes-after-missile-alerts-across-region-1.500528966",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T18:30:57.300Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3806670e4c19261d92ce70f8a68c318e2f86a44ad1ae1caa185c4b330e2afab9",
+      "title": "UAE to adopt remote learning for rest of week after Iran attacks",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/04/uae-to-adopt-remote-learning-for-rest-of-week-after-iran-attacks/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-04T18:31:01.559Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "97cdbe06b13eaa17ea419aee692a919c62622469a77a752123e9d52e44e080fe",
+      "title": "UAE schools shift to online classes after missile alerts across region - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSE9henFkdDlyQ2E5Y20zQWoxRUtELXBsaFlDOUdzRmhNR2w3cVJMNUVqdTZrYXVrQ05rS1VjZ2xyX3A3QlF2OUdwRFV5d1dTQWlua25RbjRCbnJlNWhGYmFPbWFpNTRORFM4QmwwV0NxelVEa1FHVVEzUHlaUEVpVDE3bmhyeE9QSkxLbHNTSjhkdXJ0amY1cV94S0hCZU84Wmp1MjBwQ3VnMHfSAbsBQVVfeXFMT2JsWHNRZkgtdW51Wm5LT0NWNW9tOUw0MlhuTnFlMi1mdE9lWmQ4NVdocnBtR3NaUXRTUEJhUTRaQjNYYUkyMGxiaWxtR096TWtzVVJhUkoxa2NRMHRCWGtQYjZrNHcyNHFPT1AxS3hKUlFjSFVoN01lUlpxZ1lmb3NILWNQM25hMmNDY05SckU1dDFtRW1DOVItS1A4ek1zSmVjNklrZjBMTjk1YXNuTXB6U2tFSWxqaGh0OA?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-05-04T18:31:04.132Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

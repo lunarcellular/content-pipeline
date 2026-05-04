@@ -4535,6 +4535,24 @@
       "processedDate": "2026-05-04T18:46:01.660Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "468839da309642b74482c0b8ba430f4914413fa29e92b9a47a1d139d48581b6b",
+      "title": "UAE intercepts 12 ballistic missiles, three cruise missiles and four drones from Iran; Schools, universities go online",
+      "sourceUrl": "https://gulfnews.com/world/mena/uae-intercepts-12-ballistic-missiles-three-cruise-missiles-and-four-drones-from-iran-schools-universities-go-online-1.500527915",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T19:15:43.706Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ca3749e7ed913f6fc478c1872de0843dbb4a01b914abfd01d4ba8aee20995bbc",
+      "title": "UAE sets August 31 start for 2026–2027 academic year - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekhVRllrOFhQMVNkRmhVZXZXN2UxM1pQNzhvWkNvdVlqMWNXNlFUcWt1VHNnNmRwVm1TZHhvRjJXZ0J6aHRMYWJYOWJCU3VLanRXdUNPTWxxVWFZX0k3Rk9TazJQRFJrcHcycTFwaHd5WTIxOC00emVNU0xDRDFHMU1CRDBwMUxBVXB6cmlkaWZSUXRqcTNPVDQ5RWxHd2_SAbIBQVVfeXFMUExMUGt5ZTNXMTJQY1AzLXctbzNTSi1uLTE5QW5NbjBnMkdnTE1wUlJRUE96NjJXdkVmTmpKcWNBbzJxMmYtMGRMOUR0bFI4cTNsR0stS2ZWdDZjbmpxc19wYjkzLXV2bUJwTTA2MktIbzV2WjY3QmpHR1d6VE9BdXV2QnRZNTlnOXJVQ202TjNvRWk4YVllOUZjbU84MzZBalNndm1wWTdRakhRSktiSzQ3UQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-05-04T19:16:02.496Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

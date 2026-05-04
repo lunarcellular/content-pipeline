@@ -4454,6 +4454,24 @@
       "processedDate": "2026-05-04T18:01:02.067Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a2283ff6b2720220bf06280b2e6a68bd65943f64341d316178be350f734d449c",
+      "title": "UAE schools on alert amid missile threats, classes to continue as usual: ‘Safety protocols in place’ - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEw2a29ybkdCamNWYzYtakl5UU5rWVNqOW01anRwVlhhWThXZl8zQXV6MEV4WFc2dDZOcVpkMnhNZDB3RUFId1Q3ajNDcVFldVN5SDNXeVFuZTdHTGVvdElVV2lpUUNFTWhHUUdTUlpTYmZyWHl1VVVnWnIya0I3aXNtVVlwWUhUYWVxNXlZd1doZGtQUFlhQnJ6bEtJNnZfemhXT0ViT1U0d1lCZzM2anR3MjItYTQ1bDdEcVlmZ0NCNWRZYnZPUDFvT0ctUdIB3gFBVV95cUxPRk5wcFRfdjBZWXdubktIa204T0Jfbk1FN0xVanJ2WDNjTThsb2gyUkFmYXBPbDJIejZBZFVZbTNoOHFxTmZjcmVBU2djM1ZLdFA5Q2phdnkzY1JNTkU3dTlpNUljaXliTU1xNjhRVVFlbXEyTU5CVW1GQXRLbGp4V1d6UEFCVTZDcFQwVDg0Nm1GMjdfTkJ3cUdXYkdldENlX1pGOC1XeTdHZHlvTmlRYU9nYUQ1MThKV2huT21XbENRc3JueHZMM1dCeXJvSzBGdmF0RDdjRlJNNEd4V1E?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-05-04T18:15:43.695Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a650bf2df7eb2343ba674609f9162e530f496ca9b550d6aff4cb47b8843cfcbf",
+      "title": "UAE schools revert to distance learning until May 8 after renewed Iranian attacks - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMktTTTZJT0g1OFRqZ3NRTHF2UlVpQWRxekViUzRiWE5KRmJ3SjI2bzVaZ056Z3ZFYWQ3ajVGQ0FXQ05TbnJydGo1czVWQlFnNGJoQktzNExrekVFM2FDQ25sNFVaMzM5WTRncFlJZVJtTDl1STdtUy1BazduQXZNYWFtYU90MVZENmFSeHlzNTVuY3FZcXQxR9IBoAFBVV95cUxQc0dyVEVjbC0xczFmTXpMU1dMb3lTdk1JanVhZ0VyZDNKUjIydWxpTXVUYWttekUweFpLaDlRZGltVzg2LVhSOHo4S1lZTE5oUG94WWYzd0lqYjE3T1c3alNQRHNxVmxtbUNKLXpSd29Hb2h0M1NBSWJJNlJwYkVaWlZJNGlxamZnT2tVREVRalJ2R0Z2RlY2X29yZUVCVjFz?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-05-04T18:15:49.452Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

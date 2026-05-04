@@ -4553,6 +4553,33 @@
       "processedDate": "2026-05-04T19:16:02.496Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "dc515eac4cca5497dc7d1d5d6d943f69dfe57ce4ec54b33e5659cbef1394cef9",
+      "title": "Dubai transitions school education to remote learning from May 5–8: KHDA",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-transitions-school-education-to-remote-learning-from-may-58-khda-1.500529065",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T20:24:58.063Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3a9600234500fa2c2238e57f704d8775d8a2eb5131a9bdc8c92611b438c14494",
+      "title": "Dubai transitions school education to remote learning from May 5–8: KHDA - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk01SjJUd1c2NWt5a3oyLXYxQnJ2N2llYmFFMW1tSWRieDVoWkZfZTBRNXNNX0RlcU1rYW1vLVFqU1NTNkV4dXBLelZWNnN3WXl4eHdjT0tsX0dndDBZQ2VES25Nb3o4TU03NFRIcW5pMnlpVjR2clpabXhCa3FzVnZhNTNhRUlfZ0U5WHY2bkJUcFRaUkFCX2VHRUxYZ21sVU9DM2dnV3ZrQl9pLUFtWUZJOVgxaTNU0gHLAUFVX3lxTE1pcGFGUXFnZGVrc055MERxNjFvQmpOOEF5UFVfa0VYZl81VDV5UDkyU0c3cmJESVQzMGduZmk5X1p3VmNhaWU2TDVmbUhxWE1oMWdFYkF0SHc5MzFFR1o5ZnFkUkU1akttSloxWTV3MVVmbEg3RVBWdEZXMnN4SFNocUNVNzRsMmp6cTY2eVhST29GbHFEN1E0M0lSZHVoQzJSTjRTUXQ0OEZ6ZE5OY0prYncza3NVbDgwenpCMW85QmNnS2Y5c3JkcXJj?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-05-04T20:25:13.598Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3a9600234500fa2c2238e57f704d8775d8a2eb5131a9bdc8c92611b438c14494",
+      "title": "Dubai transitions school education to remote learning from May 5–8: KHDA - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk01SjJUd1c2NWt5a3oyLXYxQnJ2N2llYmFFMW1tSWRieDVoWkZfZTBRNXNNX0RlcU1rYW1vLVFqU1NTNkV4dXBLelZWNnN3WXl4eHdjT0tsX0dndDBZQ2VES25Nb3o4TU03NFRIcW5pMnlpVjR2clpabXhCa3FzVnZhNTNhRUlfZ0U5WHY2bkJUcFRaUkFCX2VHRUxYZ21sVU9DM2dnV3ZrQl9pLUFtWUZJOVgxaTNU0gHLAUFVX3lxTE1pcGFGUXFnZGVrc055MERxNjFvQmpOOEF5UFVfa0VYZl81VDV5UDkyU0c3cmJESVQzMGduZmk5X1p3VmNhaWU2TDVmbUhxWE1oMWdFYkF0SHc5MzFFR1o5ZnFkUkU1akttSloxWTV3MVVmbEg3RVBWdEZXMnN4SFNocUNVNzRsMmp6cTY2eVhST29GbHFEN1E0M0lSZHVoQzJSTjRTUXQ0OEZ6ZE5OY0prYncza3NVbDgwenpCMW85QmNnS2Y5c3JkcXJj?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-05-04T20:25:27.267Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

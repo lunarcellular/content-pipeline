@@ -4409,6 +4409,51 @@
       "processedDate": "2026-05-04T14:15:57.140Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0459c75fda27e9df5f14a8e1c0e4ddd4d9825d0efc54e9fc6c347924d2acda84",
+      "title": "UAE schools on alert amid missile threats, classes to continue as usual: ‘Safety protocols in place’",
+      "sourceUrl": "https://gulfnews.com/uae/uae-schools-on-alert-amid-missile-threats-classes-to-continue-as-usual-safety-protocols-in-place-1.500528966",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-04T18:00:52.473Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "96ddd7c809ea23a8ea9c93199c5d8ebe4cf15cd3ac407a62076a3d5c263984c6",
+      "title": "UAE announces temporary shift to distance learning for universities until Friday\n\n",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-temporary-shift-distance-learning-universities-friday",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-04T18:00:55.113Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e207b8b36872e838f8e7520ec01601909cb68834faab7b7f146c6b07bbd9cdf0",
+      "title": "UAE universities to shift to distance learning until May 8",
+      "sourceUrl": "https://www.khaleejtimes.com/world/us-israel-iran-lebanon-war-ceasefire-day-27-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-04T18:00:57.405Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "425013635924d4e6ec3811c38aa187b89b3d50bb2da44fa4dc485447a14c3280",
+      "title": "UAE schools revert to distance learning until May 8 after renewed Iranian attacks",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-distance-learning-friday-renewed-iranian-attacks",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-04T18:00:59.855Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "96ddd7c809ea23a8ea9c93199c5d8ebe4cf15cd3ac407a62076a3d5c263984c6",
+      "title": "UAE announces temporary shift to distance learning for universities until Friday\n\n",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-temporary-shift-distance-learning-universities-friday",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-04T18:01:02.067Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

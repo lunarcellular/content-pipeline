@@ -4589,6 +4589,33 @@
       "processedDate": "2026-05-04T21:40:21.059Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cd8f0ef09c22bf9eb362351cd1f87aa0d4e7225c7bc7bda7ee3aa3d773a5fb2f",
+      "title": "US–Iran strikes escalate Strait of Hormuz tensions; UAE returns to remote learning",
+      "sourceUrl": "https://gulfnews.com/world/mena/usiran-strikes-escalate-strait-of-hormuz-tensions-uae-returns-to-remote-learning-1.500529236",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-05T03:00:50.069Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b08909493ab512b9fdd36063e2c769a5a87bb334f5af3733275cf70308744644",
+      "title": "Eid Al Adha holidays: UAE private schools step up revision, prepare for long weekend",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/eid-al-adha-holidays-uae-private-schools-prepare",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-05T03:00:53.446Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b08909493ab512b9fdd36063e2c769a5a87bb334f5af3733275cf70308744644",
+      "title": "Eid Al Adha holidays: UAE private schools step up revision, prepare for long weekend",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/eid-al-adha-holidays-uae-private-schools-prepare",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-05T03:00:56.019Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

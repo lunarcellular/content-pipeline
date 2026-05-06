@@ -4751,6 +4751,24 @@
       "processedDate": "2026-05-05T20:46:26.146Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ecde3049394e7bacf141c55a09d565b3d826729f77992b55b982c5621304abf4",
+      "title": "UAE National Pavilion draws significant attention at 2026 International Defence and Aviation Exhibition in Istanbul",
+      "sourceUrl": "https://gulfnews.com/world/mena/uae-national-pavilion-draws-significant-attention-at-2026-international-defence-and-aviation-exhibition-in-istanbul-1.500530487",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-06T03:00:54.714Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a94948f0e317eaa3b0fb4617349e572c447cac4df9b86cda0cc7c3b3dbab732b",
+      "title": "Teen shooter kills two at Brazil school",
+      "sourceUrl": "https://gulfnews.com/world/americas/teen-shooter-kills-two-at-brazil-school-1.500530486",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-06T03:00:57.184Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

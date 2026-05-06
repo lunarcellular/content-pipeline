@@ -4931,6 +4931,24 @@
       "processedDate": "2026-05-06T16:15:58.430Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e7d23e51742dbce537f6b73bf2e3adadafe1c0dae7c4fc706ddc9266e57d29ee",
+      "title": "Has Trump blinked on Iran? US edges towards Tehran’s terms for ending conflict",
+      "sourceUrl": "https://gulfnews.com/world/mena/has-washington-blinked-us-edges-toward-iran-s-terms-for-ending-conflict-1.500531295",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-06T16:30:51.114Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "23e7a8506752f005532f0b74d75446f7fdcece89f2ddab41e044f783f8b72df0",
+      "title": "Syria arrests armed Uzbeks after stand-off in Idlib ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/06/syria-arrests-armed-uzbeks-after-stand-off-in-idlib/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-06T16:30:53.298Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

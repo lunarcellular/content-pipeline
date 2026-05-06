@@ -4895,6 +4895,24 @@
       "processedDate": "2026-05-06T13:45:56.720Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0544e1d06308f1c93be4503138a0a0752fc84dbb0efcdb0c410331cab294152a",
+      "title": "UAE distance learning 2026: How schools switched to online classes amid renewed regional tensions",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-distance-learning-2026-how-schools-switched-to-online-classes-amid-renewed-regional-tensions-1.500531327",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-06T14:00:56.746Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e2eebf0428bad6cdd6742962573ef0c3154f86585378a7ee180fb7f6f5eac8f9",
+      "title": "Watch: Dubai Police cadets honour Armed Forces in tribute display",
+      "sourceUrl": "https://gulfnews.com/uae/watch-dubai-police-cadets-honour-armed-forces-in-tribute-display-1.500531275",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-06T14:00:59.978Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

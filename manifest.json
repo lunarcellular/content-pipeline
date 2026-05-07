@@ -5039,6 +5039,24 @@
       "processedDate": "2026-05-07T08:30:55.620Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "09c4f37a1c980175b9d37399ea90fd9342e3365c89885e03e101b5524e8f9f8a",
+      "title": "Dubai's shared housing law: Applications to open soon",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-shared-housing-law-applications-open-soon",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-07T09:30:56.517Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "09c4f37a1c980175b9d37399ea90fd9342e3365c89885e03e101b5524e8f9f8a",
+      "title": "Dubai's shared housing law: Applications to open soon",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-shared-housing-law-applications-open-soon",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-07T09:30:59.060Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -5084,6 +5084,15 @@
       "processedDate": "2026-05-07T11:30:46.639Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cde25aaa42c25786442b927d0ce24815511ec63a196a4aefbefe69d86a99429b",
+      "title": "Eid Al Adha break: How it impacts UAE school schedules; what parents should know - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazk0ZDRUZ1RzYXVLX0tHMjlyM2wwMnJCTHJIY2l6cUdhMjRLM1BXeWJqdEI3NF91STlvbDFWa0dYWVZRU05WTzFENEhkSFRlTWZYT2JMcjVPOERzSXVDWUNaemFWSndXaUk5MDVhNk5QWl9tbHlrVnc5eFU4RkE2OS1mRkVjN3dDd19FQy1WWWJ4RnNTdE9yaGVVVVotSmZpeU1icmJ5bEJtMHdVUmlUadIBuAFBVV95cUxQREdXQ2RNVEN4TS1JbkFCVlZLa3plY0VxN01FbVZmc0drV0c4bTJtQmVla1hqQ2FucURmUE9RcXI1SWY4djJPZjFjd1FEdDF1RWxNbXY0ZVpFQWFrcVYtNFFFY1BLOTlxNDg4QmU2SXNlN0VGZElRV0NuNUE2SE1wN0l0SWN1YWdaNTJyZXRzdldtVm5KUndEb2tTXzVhZG1NVkRBUC00UVBUeDVsNnZnT3YtVDRrMEh1?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-05-07T12:01:43.040Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-07-eid-al-adha-school-breaks-uae.md"
     }
   ]
 }

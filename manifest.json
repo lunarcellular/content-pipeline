@@ -5012,6 +5012,24 @@
       "processedDate": "2026-05-07T07:15:56.167Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1433631f74d2d4d5bf7c503d41779b84a2b7b6f0bb42a6126510ffef22014a69",
+      "title": "UAE students achieve record CBSE class 10 results with Unique World Education in 2026",
+      "sourceUrl": "https://gulfnews.com/gn-focus/uae-students-achieve-record-cbse-class-10-results-with-unique-world-education-in-2026-1.500532138",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-07T07:30:44.240Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a7939fccd358f4efb95737dbac542270e8f2379c96d89abd2673109fef2da61c",
+      "title": "From pink heels to high school halls: ‘Legally Blonde’ prequel ‘Elle’ drops first teaser",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/legally-blonde-prequel-elle-first-teaser",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-07T07:30:47.485Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

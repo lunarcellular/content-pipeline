@@ -5093,6 +5093,15 @@
       "processedDate": "2026-05-07T12:01:43.040Z",
       "relevant": true,
       "outputFile": "output/2026-05-07-eid-al-adha-school-breaks-uae.md"
+    },
+    {
+      "urlHash": "eaea792b413fcfeaef85b86cc5ceede3c43d423b94f9f55de9d08e411a9802e7",
+      "title": "Single mum in Dubai wins Dh1 million, says will fund daughter’s dream education",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-single-mum-wins-dh1-million-will-fund-daughter-dream-education",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-07T12:13:16.297Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

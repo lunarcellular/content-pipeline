@@ -5345,6 +5345,51 @@
       "processedDate": "2026-05-08T16:01:01.333Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "91f07b2c20dcecb79c1635cf26582a33227de3bcabc75640562a25d1563bcc2a",
+      "title": "UAE to announce learning model for schools on May 10 after safety review",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-to-announce-learning-model-for-schools-on-may-10-after-safety-review-1.500534187",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-08T17:01:19.894Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "465595a0cae28059e1dcdd80da36c68dde491134b5957f47636689851a34e2be",
+      "title": "UAE to decide on May 10 whether schools continue distance or in-person learning",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/may-10-decision-remote-or-in-person-learning",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-08T17:01:31.179Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "33ed1bd6c38e997f670aeaa53f03446ea37e26de31d4423eed5b61d1e4869f0c",
+      "title": "UAE authority says in-person or distance learning to be confirmed on May 10",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-ceasefire-day-31-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-08T17:01:33.133Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "465595a0cae28059e1dcdd80da36c68dde491134b5957f47636689851a34e2be",
+      "title": "UAE to decide on May 10 whether schools continue distance or in-person learning",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/may-10-decision-remote-or-in-person-learning",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-08T17:01:44.160Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d4220ddad290941433024e860e45f6dc4431eacf82d7360f21a9002509180ed4",
+      "title": "Back to school? UAE to announce decision on possible return to classrooms on Sunday evening",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/08/uae-schools-return-dubai-abu-dhabi/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-08T17:02:01.141Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-08-uae-schools-classroom-return-decision.md"
     }
   ]
 }

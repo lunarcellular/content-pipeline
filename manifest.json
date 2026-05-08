@@ -5165,6 +5165,24 @@
       "processedDate": "2026-05-08T01:27:53.731Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d3ec1ad25fd05e83f6b5142389f2315faf082c7c5fe88cc39c66a871ea7090f0",
+      "title": "UAE: CBSE sets May 31 deadline for schools to implement third language in Grade 6",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-cbse-sets-may-31-deadline-for-schools-to-implement-third-language-in-grade-6",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-08T03:02:26.116Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-08-uae-schools-third-language-requirement-2026.md"
+    },
+    {
+      "urlHash": "2829d7a6068ce603c268266902fd7f8d70858621dbb4296f3eaa7c39383a12f2",
+      "title": "UAE: CBSE sets May 31 deadline for schools to implement third language in Grade 6 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWm9rTHE2NmdlUkgyVTBtWjNtd2hHTjl6Rnl0VHAycEJ2WmRBdlZiSl9XSmRDbkIwYVpmeUVsb2hmeWVvWlc5VEJzVTdUU0lpQVM5aDM4Rmhpckw2a1Y5Sm9DMEpXUXhuS3g4TXJ2eElUUHhXcnVjSXZvbExPNDZoUVNqb0NndWtCVWpFblpFQkg4ODBiaXJzNlRkcGVHbWVVbWoycU04SGJFUDBPR2QydmNqWdIBuwFBVV95cUxNZ1RBUGlhNWNILUZZcUstM1dOTHNhLU1VRjE2MHdEVU9tT1NlNzNVN3RvVDZKM0xTV09JX1JhUXpJdktvdVVwSy1FMFAzbVh3MmxlYmxiNzFsaG96OF9nbmhHYzU2ZmNLWFRNdHYwUlVfeHppTFR6RFNUd1Z6eFRTaVZ2cmlpU204TjhVelZwcm1EZTk2U2NMdXVjb1pfSUdmd0V1cDdRYUdDRG1zSTR0TTlka3FnSEhfUnlv?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-05-08T03:02:26.116Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-08-uae-schools-third-language-requirement-2026.md"
     }
   ]
 }

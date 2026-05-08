@@ -5399,6 +5399,24 @@
       "processedDate": "2026-05-08T17:54:24.662Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "dcd2fbd1c029c7d946fc073783317ce7c3cae0708ab8136a5432e45027b06e5b",
+      "title": "Pictures of the week: From pupils returning to school in Kuwait to UK PM Keir Starmer voting in London",
+      "sourceUrl": "https://www.thenationalnews.com/weekend/2026/05/08/pictures-of-the-week-from-pupils-returning-to-school-in-kuwait-to-keir-starmer-voting-in-london/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-08T18:15:49.585Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "33d575a530eedb86f067ab792df535e7128346b5a5faebf496ff42c9ee15d1b9",
+      "title": "Parents take on the plutocrats of big tech in the battle to protect children from online harm",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/05/08/fostering-the-future-europe-challenges-big-tech-to-tackle-digital-harm/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-08T18:15:52.566Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

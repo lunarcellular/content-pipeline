@@ -5417,6 +5417,15 @@
       "processedDate": "2026-05-08T18:15:52.566Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7d37231428fed8163cbb1e0b6b776ab1d5d3aa07b00639e2e570f346e1642e14",
+      "title": "UAE to decide on May 10 whether schools continue distance or in-person learning - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmtUTDR0VlFXcEYwckRQanRMeGFtbTUwXzN2V3llZTYwLVY5N1oyZ0pXWWlxNktOQ3NFaktoUjZHa1VQQWFqNVI1RG9ZWXBDWGt1dEo2bmlmbUxkVlhhWjNNSFBXSmxiQ2dwcW56b2pVSWtuUjRLMlVDellhdndYbHNuQ1RFNkZZWl9LaDg4N2rSAZgBQVVfeXFMT09zN1YzWm94cE5NcUdwVm9ERGlaMXVQdDBfUEpIMkxKVVZKV0hSUmlXNWh2TXFuUFN0YlRWODgxUmljWjE5eWgySWVqMjJ1Sl9KWGU1V1dKTGFwczAxSTJtYVdHLVdTRWp0bUN6N2tNbVhiM1pkT0JBMjZGWkhtQ1RsT2VlVXYyejBWU0tZR1dGczRFcFJ2U1U?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-05-08T19:01:37.465Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-08-uae-schools-learning-models-may-10.md"
     }
   ]
 }

@@ -5291,6 +5291,24 @@
       "processedDate": "2026-05-08T13:06:30.902Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "81062666cb5723996640f020be788329ecf0c579c6fd20ceaae255799e884b68",
+      "title": "No extortion: UAE rejects Iran's transit fees in Strait of Hormuz",
+      "sourceUrl": "https://gulfnews.com/uae/no-extortion-uae-rejects-irans-transit-fees-in-strait-of-hormuz-1.500533540",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-08T13:45:55.593Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "19edbd19fe7f3c2bc2274d415b67f8d1bd80669d596332426a08d640d43a920f",
+      "title": "UAE foster mothers share journey of raising children 'who came from the heart’",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-foster-mothers-journey-children-came-from-heart",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-08T13:45:58.741Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

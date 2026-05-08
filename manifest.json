@@ -5390,6 +5390,15 @@
       "processedDate": "2026-05-08T17:02:01.141Z",
       "relevant": true,
       "outputFile": "output/2026-05-08-uae-schools-classroom-return-decision.md"
+    },
+    {
+      "urlHash": "0cec39cffd45cab6fefd1792542e3359b9bc2e60e09fce35a92fb8fe8bc65bdb",
+      "title": "Dubai to announce remote or in-person learning for private schools on 10 May",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-to-announce-remote-or-in-person-learning-for-private-schools-on-10-may-1.500534225",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-08T17:54:24.662Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

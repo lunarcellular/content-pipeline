@@ -5147,6 +5147,24 @@
       "processedDate": "2026-05-07T20:40:24.653Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1b8b1d81cee9ccfa54c709f6693ed8873be03229fbd7b5718af547f9c0811ea9",
+      "title": "ADNOC Distribution announces strategic partnerships at 'Make it in the Emirates'",
+      "sourceUrl": "https://gulfnews.com/business/adnoc-distribution-announces-strategic-partnerships-at-make-it-in-the-emirates-1.500533046",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-08T01:27:51.619Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "36bb58521d6c4612d05aa0b5a026ea342d7bf652c78b5b1b32238b64e6f2d448",
+      "title": "Hackers block access to platform used by thousands of US schools",
+      "sourceUrl": "https://gulfnews.com/world/americas/hackers-block-access-to-platform-used-by-thousands-of-us-schools-1.500533135",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-08T01:27:53.731Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

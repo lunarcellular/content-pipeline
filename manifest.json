@@ -5183,6 +5183,15 @@
       "processedDate": "2026-05-08T03:02:26.116Z",
       "relevant": true,
       "outputFile": "output/2026-05-08-uae-schools-third-language-requirement-2026.md"
+    },
+    {
+      "urlHash": "2f6818850bedecf25a52927ffcddc90c26292241fec10bf9dea6a81bfdf3a63f",
+      "title": "US State Department to revoke passports of parents who owe child support",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-state-department-to-revoke-passports-of-parents-who-owe-child-support",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-08T06:23:57.590Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

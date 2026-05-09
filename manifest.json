@@ -5444,6 +5444,15 @@
       "processedDate": "2026-05-09T03:00:51.661Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7b1fc220e65cdbb67de2e9c7f5750d454688e13e7b5cee97d3c8234dc9d05e4e",
+      "title": "Arab countries condemn 'reprehensible' Iranian attacks on UAE",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/09/arab-countries-condemn-reprehensible-iranian-attacks-on-uae/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-09T06:45:48.581Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -5471,6 +5471,24 @@
       "processedDate": "2026-05-09T07:12:30.325Z",
       "relevant": true,
       "outputFile": "output/2026-05-09-uae-education-authorities-remote-learning-decision.md"
+    },
+    {
+      "urlHash": "cba219d16ba1cc02ad159924e44f6d9e0c592cfa12ef7a436544f3b7173416af",
+      "title": "10th Gulf News Edufair begins with strong turnout in Dubai, highlights resilience of higher education sector\n\n",
+      "sourceUrl": "https://gulfnews.com/uae/education/10th-gulf-news-edufair-begins-with-strong-turnout-in-dubai-highlights-resilience-of-higher-education-sector-1.500534590",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-09T07:30:52.479Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f1f376791a16ecace6294981e3ee508599f93d13959460f1919c7bd1f4b7e0e6",
+      "title": "Woman 'wanted' in Ajman detained at airport over Instagram comment",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/crime/ajman-police-woman-detained-airport-instagram-comment-bullying",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-09T07:30:55.181Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

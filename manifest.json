@@ -5507,6 +5507,24 @@
       "processedDate": "2026-05-09T09:01:00.773Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9f9fa3e44eb6ca36658919dd57e5f51a369aea09262d9b614f718353db443596",
+      "title": "Caught on cam: Dubai Police release video of shocking near-miss involving child in stroller",
+      "sourceUrl": "https://gulfnews.com/uae/caught-on-cam-dubai-police-release-video-of-shocking-near-miss-involving-child-in-stroller-1.500534830",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-09T12:30:57.799Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9cb4160f539539149e27cdd8bf1bb2f3df876958bfd485e385db2ff5790f05b4",
+      "title": "World's largest AI campus 'now under construction' in UAE as nation commits to tech growth",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/5gw-uae-us-ai-campus-under-construction",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-09T12:31:02.637Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

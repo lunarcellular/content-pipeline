@@ -5435,6 +5435,15 @@
       "processedDate": "2026-05-08T20:36:17.768Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "dcd35adc94388baca0a12b847eccd4bad7f9f174d13f03fe40f65a52d2c59337",
+      "title": "Nearly a third of UAE parents still travelling without child car seats, study finds",
+      "sourceUrl": "https://gulfnews.com/uae/transport/nearly-a-third-of-uae-parents-still-travelling-without-child-car-seats-study-finds-1.500534269",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-09T03:00:51.661Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -5453,6 +5453,24 @@
       "processedDate": "2026-05-09T06:45:48.581Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "97d1792f733d106512a9187eb4da7cdfc72542d1cb59355c417498eaf07d2850",
+      "title": "Boy, 4, falls from 11th floor waiting for parents — survives",
+      "sourceUrl": "https://gulfnews.com/world/asia/boy-4-falls-from-11th-floor-waiting-for-parents-survives-1.500534605",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-09T07:12:12.537Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d05f93b41c5851f1104ec4eab0a7cf3dba9e409c5c4319bec577df2dd08586da",
+      "title": "UAE to announce decision on remote learning on Sunday",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/09/uae-to-announce-decision-on-remote-learning-on-sunday/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-09T07:12:30.325Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-09-uae-education-authorities-remote-learning-decision.md"
     }
   ]
 }

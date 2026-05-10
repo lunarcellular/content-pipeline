@@ -5723,6 +5723,24 @@
       "processedDate": "2026-05-10T15:15:46.717Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ac711f6acaf0eac910aa79fecd3fedfc58a625ba2fe3e47e107141f0ae3a8f7a",
+      "title": "GCC condemns in strongest terms egregious Iranian attacks on UAE and Kuwait",
+      "sourceUrl": "https://gulfnews.com/world/gulf/gcc-condemns-in-strongest-terms-egregious-iranian-attacks-on-uae-and-kuwait-1.500535783",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-10T15:45:52.114Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "756a98f269d65df5a745be405ebdd266a97f587edcc86c5fe0171ce340418f82",
+      "title": "Tortured children and missing fingernails: Syrian trial hears charges against Assad general ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/10/tortured-children-and-missing-fingernails-syrian-trial-hears-charges-against-assad-general/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-10T15:45:55.355Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

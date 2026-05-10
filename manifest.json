@@ -5696,6 +5696,15 @@
       "processedDate": "2026-05-10T13:16:06.547Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "da27dd5331a9b5f97c86d74e8e2808dda0a8c068904f194582bf64ff2ec8b991",
+      "title": "Algoma University highlights Canada study pathways for international students at Edufair ",
+      "sourceUrl": "https://gulfnews.com/uae/education/algoma-university-highlights-canada-study-pathways-for-international-students-1.500535723",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-10T14:30:54.707Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

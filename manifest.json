@@ -5840,6 +5840,24 @@
       "processedDate": "2026-05-11T08:15:55.712Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "47f41b21319a6a09466f4c140fc0ec34c9243e88e6fdfefddc04c1aae8fbb88b",
+      "title": "Nick Jonas shares heartfelt Mother’s Day tribute for Priyanka Chopra",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/nick-jonas-shares-mothers-day-tribute-priyanka-chopra",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-11T08:45:51.526Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "63755d939c9b49105e4bbab17ae47481726b693dd3aea510ca18f0959edd1f21",
+      "title": "Oil surges above $105 as Trump rejects Iran terms to end war",
+      "sourceUrl": "https://www.khaleejtimes.com/business/oil-prices-surge-trump-rejects-iran-terms-strait-of-hormuz",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-11T08:45:53.946Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

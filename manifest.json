@@ -5786,6 +5786,15 @@
       "processedDate": "2026-05-11T03:01:01.352Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f3a36f7711a685b8c30013d8220708876fa52b6e4bd9d93f01600f0b27782902",
+      "title": "Trump rejects Iran peace terms; Tehran warns of new attacks",
+      "sourceUrl": "https://www.khaleejtimes.com/world/us-israel-iran-lebanon-war-ceasefire-day-34-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-11T03:45:45.788Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

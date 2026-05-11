@@ -5795,6 +5795,24 @@
       "processedDate": "2026-05-11T03:45:45.788Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6aab1008fd183398a8b93cea348785ce7d67478d0812dd5bb69dd6e21775208e",
+      "title": "Long-term hotel deals available in the UAE right now ",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/2026/05/11/long-term-hotel-deals-available-in-the-uae-right-now/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-11T05:01:00.443Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a13a767b62520fd5937df641ce3e5731895b301f02cc97dec6ea654245bb29cb",
+      "title": "Adnoc Drilling posts Q1 profit rise on high fleet activity and long-term contracts",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/05/11/adnoc-drilling-posts-q1-profit-rise-on-high-fleet-activity-and-long-term-contracts/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-11T05:01:04.682Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

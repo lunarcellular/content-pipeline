@@ -5750,6 +5750,15 @@
       "processedDate": "2026-05-10T18:00:51.539Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "39466a5b342be4a6648a5d3d130748e475abcd510ed51f3114d319d4fc5cab86",
+      "title": "Arab Parliament Speaker condemns drone attack on Kuwait",
+      "sourceUrl": "https://gulfnews.com/world/mena/arab-parliament-speaker-condemns-drone-attack-on-kuwait-1.500535904",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-11T00:01:09.258Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

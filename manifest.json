@@ -5858,6 +5858,24 @@
       "processedDate": "2026-05-11T08:45:53.946Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c1bf8b7dce94884f3ff9ac5b1a3bbcdb9f3bafb3ee49c4190caac3bab1c97a14",
+      "title": "Why more children are developing vision problems at an earlier age",
+      "sourceUrl": "https://gulfnews.com/uae/health/why-more-children-are-developing-vision-problems-at-an-earlier-age-1.500533978",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-11T09:15:50.726Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb195a0bd636a32c55ff8c44e4160636ee96433c26670de584256399ea653108",
+      "title": "WRPro wins the ‘Best Education Tools MEA’ Award 2026",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/wrpro-wins-the-best-education-tools-mea-award-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-11T09:15:53.131Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

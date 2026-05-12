@@ -6263,6 +6263,24 @@
       "processedDate": "2026-05-12T13:01:03.294Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2feec1b442f5ad0ee376af325013013dd3ab3b6c7d162b75cfe542122cf965e1",
+      "title": "HCT launches solar energy project across UAE campuses",
+      "sourceUrl": "https://gulfnews.com/uae/hct-launches-solar-energy-project-across-uae-campuses-1.500537950",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T13:15:50.942Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "af30aec5a818b0ae1c67114dd834aa7e05179302afd76ba5d200550ac8864f89",
+      "title": "NEET UG 2026 cancellation leaves UAE students disappointed after exam day effort",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/neet-ug-2026-cancellation-uae-students-disappointed-effort",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-12T13:15:54.068Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

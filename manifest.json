@@ -6191,6 +6191,24 @@
       "processedDate": "2026-05-12T12:00:55.167Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9faa7e7944d23cb659777e40b06c71fdd254cfa9866feae45bfd38e80878b7cb",
+      "title": "ABu Dhabi hospital administers gene therapy to child with rare disorder",
+      "sourceUrl": "https://gulfnews.com/uae/health/abu-dhabi-hospital-administers-gene-therapy-to-child-with-rare-disorder-1.500537870",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T12:15:48.190Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ba2e305040927de45b898e41099388f4f02b064ee40deaba084d5042b90e7d0d",
+      "title": "Why some UAE children struggle when schools switch between in-person, online learning",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-children-struggle-schools-switch-online-distance-in-person-learning-tips-for-parents",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-12T12:15:50.913Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

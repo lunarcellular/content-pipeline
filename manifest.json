@@ -6065,6 +6065,15 @@
       "processedDate": "2026-05-12T06:00:51.750Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0895692496d0c1a32a19e027340bd1a8bac95b15a7019a84f8d6a5d5c88afde0",
+      "title": "Eid Al Adha holiday announced for Dubai's private schools",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/12/eid-al-adha-holiday-announced-for-dubais-private-schools/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-12T07:16:00.881Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

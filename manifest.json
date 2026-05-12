@@ -6074,6 +6074,24 @@
       "processedDate": "2026-05-12T07:16:00.881Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "a94b96646303597a64830ca64be7e17b67bfd72ac0fffdd80ebff297ab179bb8",
+      "title": "FamilyVisa.ae introduces online Visa Calculator to estimate UAE visa government fees",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/familyvisaae-introduces-online-visa-calculator-to-estimate-uae-visa-government-fees-1.500537519",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T07:45:49.210Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7091a384a06fbb9337f956d16079df3bcc51a5a4e95a92b9a382bda5bbd94e80",
+      "title": "NTA cancels NEET UG 2026, fresh exam dates to be announced",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/nta-cancels-neet-ug-2026-fresh-exam-dates-to-be-announced-1.500537510",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T07:45:52.282Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

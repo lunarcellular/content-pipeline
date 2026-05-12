@@ -6290,6 +6290,15 @@
       "processedDate": "2026-05-12T13:45:51.208Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "49ca53a5954772e99a5cdaef2e52cbc56b7c2c8a004adc6178f7932d752a608d",
+      "title": "UAE shuts training centre, records 21 education violations",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-shuts-training-centre-records-21-education-violations-1.500538153",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T15:46:37.896Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-12-uae-educational-authorities-inspections-2023.md"
     }
   ]
 }

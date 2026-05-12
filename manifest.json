@@ -6173,6 +6173,24 @@
       "processedDate": "2026-05-12T11:30:47.062Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4d116759492abd0df6362962254fc62adddcdc92d2827e25e15397cfe1d35621",
+      "title": "UAE ministry using AI to block ads from unlicensed educational centres\n",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/higher-education-ministry-using-ai-monitor-unapproved-false-ads",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-12T12:00:51.922Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e9315a0e693d3a1702c353ab92fd7faf28c50634e1654d846b86aac4197ee144",
+      "title": "Knesset passes law for tribunal to try alleged perpetrators of October 7 ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/12/knesset-passes-law-for-tribunal-to-try-alleged-perpetrators-of-october-7/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-12T12:00:55.167Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -6056,6 +6056,15 @@
       "processedDate": "2026-05-12T05:46:18.604Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "31a94b70d7fda184c753f69733f99b718f993ecb60a2e4bb45a291dd8f7dfeef",
+      "title": "CM Vijay orders closure of Tamil Nadu liquor shops near places of worship, schools",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/tamil-nadu-cm-joseph-vijay-closure-liquor-shops-near-places-of-worship-schools",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-12T06:00:51.750Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

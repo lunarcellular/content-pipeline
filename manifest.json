@@ -5966,6 +5966,33 @@
       "processedDate": "2026-05-11T18:01:12.878Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3233751571793804f192e91775a19a1a67b8e9441b5143e7e2b0e2af5c6e36e1",
+      "title": "Iran's Ghalibaf insists on 14-point proposal as ‘only path forward’",
+      "sourceUrl": "https://gulfnews.com/world/mena/irans-ghalibaf-insists-on-14-point-proposal-as-only-path-forward-1.500537250",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T03:00:47.713Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "84e520737c4c5e3e35c3f45f59ecef47599fdd505f178ce786e068a97f32959d",
+      "title": "Kids using makeup? UAE parents warned over viral skincare trends",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/kids-makeup-emotional-harm-viral-skincare-trend",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-12T03:00:51.968Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "84e520737c4c5e3e35c3f45f59ecef47599fdd505f178ce786e068a97f32959d",
+      "title": "Kids using makeup? UAE parents warned over viral skincare trends",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/kids-makeup-emotional-harm-viral-skincare-trend",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-12T03:00:54.688Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

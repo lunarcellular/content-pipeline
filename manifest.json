@@ -6029,6 +6029,33 @@
       "processedDate": "2026-05-12T05:30:53.164Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "95d60d843f7acc5e28854c2eda78bc36b55dfe29c30291c26474f18b1d28720c",
+      "title": "Dubai announces Eid Al Adha public holiday for private schools ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-announces-eid-al-adha-public-holiday-for-private-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-12T05:46:01.284Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "49ff9590c43f87bb1a3507e739c322c1736594d5b3e0760e04a831623235d6c2",
+      "title": "KHDA announces Eid Al Adha holiday for Dubai private schools",
+      "sourceUrl": "https://gulfnews.com/uae/education/khda-announces-eid-al-adha-holiday-for-dubai-private-schools-1.500537416",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-12T05:46:16.752Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a9e9d3a6d274ffcf21050a03b5e779b403f024cdd1b610e2e9da2c6b39289926",
+      "title": "KHDA announces Eid Al Adha holiday for Dubai private schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGdrTTFDZ0gyelZqd2N5b0lmN1hGZ2E5Sl81MzF5bVpjUV9ScFRhcTV4VVd3OUZTYzNJZDUwYXBTLTlVd0ZHX1h2aEtuOWZscW5MaktzNGFYQk4yTDFXRjByU3p6cVprRjVnZ2d6VS1EOFhYYy1aMkp4ZDNZdDVGR2hHdzd4dkdnQU1FUnFFNVZ1UGFSLXRGc3QydVJNdUh1WjQ5V2NPcnNJcGvSAb4BQVVfeXFMUFNBLXpxcW5wYmRyNXh1VFBCcWg1V01sUktKNUdrb3NJb2RvM1k0ZWdsZzNDWmwwTGE0TjhzZzV1d3dtSGdmTXFhd2ktUTNWamdaZzRGX0pWc3F5MFl0bGlQUWFsVHcyem1hbUNFRGN2amJGSWE4dmg4d0JDTXFfQWEzQ3lYOHBtcTY5eXlQSzRpRXh0VlNDNHl2X2tnbFEwaS1UTF9lc1VTSUpUZ3U0YW9WZk9nbDVjZ1ZCd3BlQQ?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-05-12T05:46:18.604Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

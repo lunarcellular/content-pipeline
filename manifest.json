@@ -6299,6 +6299,15 @@
       "processedDate": "2026-05-12T15:46:37.896Z",
       "relevant": true,
       "outputFile": "output/2026-05-12-uae-educational-authorities-inspections-2023.md"
+    },
+    {
+      "urlHash": "e59eb40579205739bc3745b50653494f25527d016fade736950059e448e34578",
+      "title": "Sharjah Islamic Bank  rights issue oversubscribed 3.2 times ",
+      "sourceUrl": "https://www.khaleejtimes.com/business/finance/sharjah-islamic-bank-rights-issue-oversubscribed-32-times",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-12T16:45:48.871Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -6119,6 +6119,24 @@
       "processedDate": "2026-05-12T08:31:08.857Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "80af196307fcba64ee77df9dd8f80e30476482405fe4c8cd943257ec1d01334a",
+      "title": "Forget vibrant shades, Apple's foldable iPhone Ultra to launch in few colours",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/forget-vibrant-shades-apples-foldable-iphone-ultra-to-launch-in-few-colours",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-12T10:00:52.611Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9175f3fb7682c5d3c807e3221f183809d48b66441306a297f67c08205afa4c61",
+      "title": "10-day Eid Al Adha break: Sharjah announces holidays for private schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/10-day-eid-al-adha-break-sharjah-private-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-12T10:01:10.402Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

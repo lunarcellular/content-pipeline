@@ -6605,6 +6605,15 @@
       "processedDate": "2026-05-13T12:37:29.918Z",
       "relevant": true,
       "outputFile": "output/2026-05-13-sharjah-digital-service-academic-certificates.md"
+    },
+    {
+      "urlHash": "a62cbf0a0f531398e9f78a962b3d15ad36f7e9f9be22da192483d623b28d5b2f",
+      "title": "New bank in Umm Al Quwain to offer accessible financial services powered by AI",
+      "sourceUrl": "https://www.khaleejtimes.com/life-and-living/banking-in-uae/umm-al-quwain-omla-community-bank-receives-approval-from-cbuae",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-13T13:01:09.260Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

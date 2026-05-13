@@ -6380,6 +6380,24 @@
       "processedDate": "2026-05-13T03:30:50.126Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a4da0314fa6387c8ee1cd279c35d824c65a7b1c543b766b8ac93f658657c3037",
+      "title": "Ajman announces Eid Al Adha public holiday for private schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/ajman-announces-eid-al-adha-public-holiday-for-private-schools",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-13T05:00:51.296Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a4da0314fa6387c8ee1cd279c35d824c65a7b1c543b766b8ac93f658657c3037",
+      "title": "Ajman announces Eid Al Adha public holiday for private schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/ajman-announces-eid-al-adha-public-holiday-for-private-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-13T05:00:53.359Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

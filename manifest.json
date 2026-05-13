@@ -6452,6 +6452,24 @@
       "processedDate": "2026-05-13T05:45:48.033Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "62dcf01a7015a26003075efd4802efc108c5625c365da08041516dbaee884032",
+      "title": "10-day Eid Al Adha break: Sharjah announces holidays for private schools - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUlpbnVycEc2Zmo4RnJhczByRlFQTUVhSnlVTHpMYlhuTWxQR3l2UXd2TjNMa0NmblVWOEJ6dzFMUDg2SHpGZVRVb0M0VHY3cExyQmExaWsxbDNZQ3J2cDF5QXBpQmo2UGFMSms0dEo3U3JYbjFTcmNCZHAwNkZvc0MxeHhZajV0czFRY3JJLUFSbWZxZHfSAZ4BQVVfeXFMUDZXVnIxWFBoeDFSY1dWRnBmcDlWMzBQQ25tTVFwOUlDQVBwSWdlUmV3QWhXOHBKak1wa2ZLWkx3RWRQLWVGeVZVaER5RlhuMDVSRm5kQXpBLUw2TE9DU1lSdEY5elJkTmwtQnp6YUpFTEdEZUFEUUdQbV9meHYzNlpkVEgwaTlxQlkzWU0wbWdKYzFWNXU1bWVFVmJnb0E?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-05-13T06:16:21.617Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "62dcf01a7015a26003075efd4802efc108c5625c365da08041516dbaee884032",
+      "title": "10-day Eid Al Adha break: Sharjah announces holidays for private schools - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUlpbnVycEc2Zmo4RnJhczByRlFQTUVhSnlVTHpMYlhuTWxQR3l2UXd2TjNMa0NmblVWOEJ6dzFMUDg2SHpGZVRVb0M0VHY3cExyQmExaWsxbDNZQ3J2cDF5QXBpQmo2UGFMSms0dEo3U3JYbjFTcmNCZHAwNkZvc0MxeHhZajV0czFRY3JJLUFSbWZxZHfSAZ4BQVVfeXFMUDZXVnIxWFBoeDFSY1dWRnBmcDlWMzBQQ25tTVFwOUlDQVBwSWdlUmV3QWhXOHBKak1wa2ZLWkx3RWRQLWVGeVZVaER5RlhuMDVSRm5kQXpBLUw2TE9DU1lSdEY5elJkTmwtQnp6YUpFTEdEZUFEUUdQbV9meHYzNlpkVEgwaTlxQlkzWU0wbWdKYzFWNXU1bWVFVmJnb0E?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-05-13T06:16:21.617Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -6344,6 +6344,24 @@
       "processedDate": "2026-05-12T23:44:06.766Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3457f232df7036b2d34b7e9287efe221ffd1aa7d339d7f7c7398184ecc3a0abf",
+      "title": "85-year-old French widow caught in Trump's immigration crackdown describes her detention",
+      "sourceUrl": "https://gulfnews.com/world/americas/85-year-old-french-widow-caught-in-trumps-immigration-crackdown-describes-her-detention-1.500538006",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-13T03:00:58.738Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "341cb4afb53077a2b2060e96ce09112db3884ff35b61623b71488d9f82d0ceba",
+      "title": "Sanju Samson casually joins beach cricket in Chennai and vibes with local gang",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/sanju-samson-casually-joins-beach-cricket-in-chennai-and-vibes-with-local-gang-1.500538494",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-13T03:01:02.060Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

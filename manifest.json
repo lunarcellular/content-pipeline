@@ -6623,6 +6623,42 @@
       "processedDate": "2026-05-13T14:15:57.872Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8e6158e785139dcca7400686ed98d99f016c92a0c5f999b60c9de5b6f2d3dde4",
+      "title": "The must-see off-site Venice Biennale Exhibitions of 2026",
+      "sourceUrl": "https://gulfnews.com/the-kurator/the-must-see-off-site-venice-biennale-exhibitions-of-2026-1.500539399",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-13T14:45:56.263Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ad97e86734cd63d1692b5449c9e924f1a1d6f28090db0ac0c3a3b39471121835",
+      "title": "UAE schools celebrate CBSE Class 12 results with 100% pass rates, perfect scores",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-report-strong-cbse-class-12-results",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-13T14:46:02.072Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dedb6f28e75b7ab0f26962034ded988eed936e139a3a2cc129b5f7b37b02bced",
+      "title": "'40-day crisis will never determine UAE's economy in the future,' says UAE minister ",
+      "sourceUrl": "https://www.khaleejtimes.com/business/40-day-crisis-will-never-determine-uaes-economy-in-the-future-says-uae-minister",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-13T14:46:04.793Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ad97e86734cd63d1692b5449c9e924f1a1d6f28090db0ac0c3a3b39471121835",
+      "title": "UAE schools celebrate CBSE Class 12 results with 100% pass rates, perfect scores",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-report-strong-cbse-class-12-results",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-13T14:46:07.152Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

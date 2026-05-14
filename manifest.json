@@ -6749,6 +6749,33 @@
       "processedDate": "2026-05-14T10:00:52.403Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0932799d26f033ee083e4081b7886f105b0c009c91970aac31511aa856341d6b",
+      "title": "Pakistan orders cybercrime probe into Cambridge exam paper leak",
+      "sourceUrl": "https://gulfnews.com/world/asia/pakistan/pakistan-orders-cybercrime-probe-into-cambridge-exam-paper-leak-1.500540329",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-14T10:45:50.843Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f4f012385b1fea98096840586933ac45d58f944238afd535850bbc268b7afece",
+      "title": "UAE launches AI-powered skills platform for future jobs",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-launches-ai-powered-skills-platform-for-future-jobs-1.500540251",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-14T10:45:53.917Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5f8f2c352b7a93af02578adfa49a9e582fe3dc30fa664bfbe00ae7f592212973",
+      "title": "UAE Skills Platform to connect students and job seekers to new opportunities",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-ai-powered-skills-platform-link-education-jobs",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-14T10:45:56.905Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

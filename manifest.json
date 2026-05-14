@@ -6731,6 +6731,15 @@
       "processedDate": "2026-05-14T09:01:45.604Z",
       "relevant": true,
       "outputFile": "output/2026-05-14-flexible-payment-plans-uae-school-fees.md"
+    },
+    {
+      "urlHash": "2a244e62d8e0bfb394f6b5d2de946fb4de03c684949b34c9ad8aba767088700f",
+      "title": "Responsible hiking in UAE: 'Any trail is a challenge when people are not prepared'",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/2026/05/14/responsible-hiking-in-uae-any-trail-is-a-challenge-when-people-are-not-prepared/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-14T09:30:45.491Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

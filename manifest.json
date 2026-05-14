@@ -6722,6 +6722,15 @@
       "processedDate": "2026-05-14T07:35:28.555Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "15567f05af11dda962d7b951fbe07f3a0084e334477f7136b15958f1caabbacd",
+      "title": "UAE school fees: Parents facing job loss, salary cuts offered easier payment plans - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczRpLTBHYkFJQUZ1UkRGQkNPdXBla3RrSG9zcjA4YXQzcVI4QVRrenF0c0VjMHJEY1BkUlJxRlVNclNFLUZ6X0h4Z2lRdFBlVEhPNWNjT3ZLV3B2d0tPSF9SVHVLTTAwci1MeGRhTzJtOFVQRzhyUWw5VzRaVDRlSk1ZSElnT3hjTVBXdHZkd3hiSUlqY2s3Q1hvOGTSAaQBQVVfeXFMUFA0b2FXdURyVEhYMEluTmdRUU1UY0xqeC1vcjktWmN6T3lrVEZUU0ItTlRBVTFtaVFLRk5RdmZqbEExQ2dvRU1Ob1k0NVBTa3YzTV9Pb1pCalZjNmlDNmRBSE52dzlXMC0zUkdLVkRHQ0NVWld0QTJBREJzOGNGbHNoYXQyS0JtNEFSMkd4azR5VWRjZlFFT2c4b0xLY19jeThjRXk?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-05-14T09:01:45.604Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-14-flexible-payment-plans-uae-school-fees.md"
     }
   ]
 }

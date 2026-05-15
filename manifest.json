@@ -6902,6 +6902,24 @@
       "processedDate": "2026-05-15T05:15:35.535Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "566e82ba74bdb4ad8226128186e4fc69147011155ced285aaaa56bd75144881e",
+      "title": "NEET-UG 2026 update: New exam date, admit card schedule; CBT mode from next year",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/neet-ug-2026-update-new-exam-date-admit-card-schedule-cbt-mode-from-next-year-1.500541330",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-15T06:45:28.378Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "64bd071ced5fbc8cf0b89474b18e77b1db8519bc58e3c169c40a71e821c89669",
+      "title": "Trump says he and Xi 'want straits open', agree that Iran should not have nuclear weapons",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/trump-xi-discuss-hormuz-strait-iran-nuclear-weapons",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-15T06:45:30.861Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

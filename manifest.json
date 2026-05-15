@@ -6992,6 +6992,33 @@
       "processedDate": "2026-05-15T11:45:42.806Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "afc8b457ed5d89e2e38e6cd2a50c964eb0494dbff93ac520ad2f59bd5fe6d9c7",
+      "title": "Dubai court revises visitation days in child custody case due to father's work schedule",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-court-revises-visitation-days-in-child-custody-case-due-to-fathers-work-schedule",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-15T13:15:33.708Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f8941d6d1ca949e5558ec034edee0f87a56f665922d709ed0df0704bd746713c",
+      "title": "Karnataka revokes hijab ban, allows school uniform with religious symbols under new rules",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/karnataka-revokes-hijab-ban-allows-school-uniform-with-religious-symbols-under-new-rules",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-15T13:15:35.780Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "afc8b457ed5d89e2e38e6cd2a50c964eb0494dbff93ac520ad2f59bd5fe6d9c7",
+      "title": "Dubai court revises visitation days in child custody case due to father's work schedule",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-court-revises-visitation-days-in-child-custody-case-due-to-fathers-work-schedule",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-15T13:15:37.968Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

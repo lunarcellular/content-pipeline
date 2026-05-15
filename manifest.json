@@ -6974,6 +6974,15 @@
       "processedDate": "2026-05-15T10:35:25.940Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "3431cc772ff15f0ed9eac795dae6ce2afe3b5fb2ceab73d56138a2372878db54",
+      "title": "Modi condemns attacks on UAE, thanks Sheikh Mohamed for taking care of Indian expats",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/modi-condemns-attacks-sheikh-mohamed-indian-expats",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-15T10:45:34.093Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

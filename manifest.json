@@ -6947,6 +6947,24 @@
       "processedDate": "2026-05-15T09:15:56.319Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b740d15aa20607d8a288cb82ab164690b94b0594b587b9595d4501da10d350f8",
+      "title": "Trump says made 'fantastic trade deals' with China's Xi",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/trump-trade-deals-china-xi",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-15T09:45:29.309Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d9fa8f22c8f47a1591e4eb6c92751d0fe83f350697e61ae0901505b883962d13",
+      "title": "Drake criticises DJ Khaled’s silence on Palestine as he drops three albums, including Habibti",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/music-stage/2026/05/15/iceman-drake-dj-khaled-free-palestine/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-15T09:45:32.567Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

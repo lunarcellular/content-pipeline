@@ -7037,6 +7037,24 @@
       "processedDate": "2026-05-15T14:15:35.543Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bb5cfb8874c55e65ccc2e6fa9dfa1bf1e31ef02e5d655b4f38ae017780b7089c",
+      "title": "UAE students score near-perfect CBSE results despite most exams being cancelled - here's how they did it",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-students-score-near-perfect-cbse-results-despite-most-exams-being-cancelled-heres-how-they-did-it-1.500541898",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-15T14:30:35.109Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "50c7b62e6ff925e5ea15e6c3463c94c8af23666e943f23474d5d8a95c3d683bc",
+      "title": "Libya 'open for business' with Britain as focus falls on energy sector",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/05/15/libya-open-for-business-with-britain-as-focus-falls-on-energy-sector/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-15T14:30:38.484Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

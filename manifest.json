@@ -7091,6 +7091,33 @@
       "processedDate": "2026-05-16T01:25:47.286Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b574e0007baca18636c29f30c27caf61ef27cfdde01348102de8c41bf6ff770c",
+      "title": "Why adaptability is the real superpower children need",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/why-adaptability-is-the-real-superpower-children-need-1.500542027",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-16T03:00:32.691Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7d5f60d907615dced62dfdc38463db1383dfda2bc4c2967767643f284b493164",
+      "title": "UAE's CBSE schools ramp up revisions, mentoring as assessment season begins",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-cbse-schools-revisions-mentoring-assessment-season",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-16T03:00:36.431Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7d5f60d907615dced62dfdc38463db1383dfda2bc4c2967767643f284b493164",
+      "title": "UAE's CBSE schools ramp up revisions, mentoring as assessment season begins",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-cbse-schools-revisions-mentoring-assessment-season",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-16T03:00:39.737Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

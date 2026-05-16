@@ -7172,6 +7172,42 @@
       "processedDate": "2026-05-16T10:45:34.866Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5d27bf16b18b8c66a2a04a6c563639a4a60a6e503ef51e81cb3747875f610809",
+      "title": "“Education without skills is just expensive tourism”",
+      "sourceUrl": "https://gulfnews.com/uae/education-without-skills-is-just-expensive-tourism-1.500542758",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-16T11:00:30.989Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "23b8e0b49474cd6fb7058cc6e366bb07e71c283c4f0037dd2535f1b17489969d",
+      "title": "India's CBSE mandates three languages for students from Grade 9 starting July 1",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/indias-cbse-mandates-three-languages-for-students-from-grade-9-starting-july-1",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-16T11:00:39.261Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2979709ef4e29a364915d93da097d189ceb5b38f3faaca0dfa6877c9b63f72ae",
+      "title": "Iran to announce traffic mechanism for Strait of Hormuz, collect fees, says MP",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-ceasefire-day-39-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-16T11:00:41.295Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0a76cdfb4318dfd5f7b15fc06feccdfd498965050d68eb63698e484af012077b",
+      "title": "Universities in UAE reassure pupils they will accept teacher-predicted grades",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/16/universities-in-uae-reassure-pupils-they-will-accept-teacher-predicted-grades/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-16T11:00:44.720Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

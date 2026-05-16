@@ -7154,6 +7154,24 @@
       "processedDate": "2026-05-16T08:00:40.453Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6091a7fcd2a5f55f14728541cfcc0a1fa259c19cc4c6b6e06b9b51db79546801",
+      "title": "NEET-UG leak case: Pune teacher arrested over Biology paper leak",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/neet-ug-leak-case-pune-teacher-arrested-over-biology-paper-leak-1.500542744",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-16T10:45:32.194Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fc33c441b4e0498f08a06e5869785189d55b7892a89e262c1c740dbeab811642",
+      "title": "India arrests second mastermind in Neet case; accused had direct access to Biology papers",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-arrests-mastermind-neet-case-access-biology-papers",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-16T10:45:34.866Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

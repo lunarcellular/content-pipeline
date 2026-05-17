@@ -7325,6 +7325,33 @@
       "processedDate": "2026-05-16T19:15:30.809Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "61d52fad5813a232f655945781d25d391dd2b45ec2c2e78bd0cc102ad7a5f714",
+      "title": "Iran plans fees for Strait of Hormuz transit; Israel strikes southern Lebanon",
+      "sourceUrl": "https://gulfnews.com/world/mena/iran-plans-fees-for-strait-of-hormuz-transit-israel-strikes-southern-lebanon-1.500543285",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-17T03:00:33.515Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5becd9c65030319071528cc80c79e2dd67eb11df0988fdef58c41577651e9d86",
+      "title": "Joint custody and consent? UAE court may pass new ruling on posting child’s photo online",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/joint-custody-consent-uae-court-may-pass-new-ruling-on-posting-childs-photo-online",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-17T03:00:37.071Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5becd9c65030319071528cc80c79e2dd67eb11df0988fdef58c41577651e9d86",
+      "title": "Joint custody and consent? UAE court may pass new ruling on posting child’s photo online",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/joint-custody-consent-uae-court-may-pass-new-ruling-on-posting-childs-photo-online",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-17T03:00:39.648Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

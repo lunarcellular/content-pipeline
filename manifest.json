@@ -7478,6 +7478,60 @@
       "processedDate": "2026-05-17T17:29:21.717Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "46e172f646e35d0cb2ac13b258bd3eafbb778693e1b4e9cd34b2e912ea21cc93",
+      "title": "Another first ball six and Vaibhav Sooryavanshi breaks huge IPL six-hitting record",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/ipl/another-first-ball-six-and-vaibhav-sooryavanshi-breaks-huge-ipl-six-hitting-record-1.500543964",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T03:00:38.512Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a039430944d6a4df3d631d8c04fb31101aaf6bd878addde4ebc5a71b7e01e064",
+      "title": "'Mother of all deals': India-EU cooperation to help bring stability to an unstable world — EU Commission President Ursula von der Leyen ",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/mother-of-all-deals-india-eu-cooperation-to-help-bring-stability-to-an-unstable-world-eu-commission-president-ursula-von-der-leyen-1.500544021",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T03:00:50.292Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6aea31162fa2c776a7b8c4da4bcfe9fdb16eeaa7cc73bb403c312909af441ad7",
+      "title": "Scientists uncover surprising health benefits of watermelon: Study",
+      "sourceUrl": "https://gulfnews.com/food/scientists-uncover-surprising-health-benefits-of-watermelon-study-1.500543870",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T03:00:53.814Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "038aa47d57281493eb55e354246f8bc56843f24a513bebe4edf5e93f6a2a0ec2",
+      "title": "Nice guy Aaron Rai dedicates US PGA win to wife and parents",
+      "sourceUrl": "https://www.thenationalnews.com/sport/2026/05/18/nice-guy-aaron-rai-dedicates-us-pga-win-to-wife-and-parents/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-18T03:01:01.493Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "35a885594f76143c71eb161614f9f0ed019534108099f790b06fce9cd090463b",
+      "title": "UAE's Indian schools exempt from new rule as CBSE mandates 3 languages from July 1",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/indian-schools-exempt-new-cbse-three-language-rule",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-18T03:01:42.354Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-18-uae-schools-cbse-three-language-requirement.md"
+    },
+    {
+      "urlHash": "35a885594f76143c71eb161614f9f0ed019534108099f790b06fce9cd090463b",
+      "title": "UAE's Indian schools exempt from new rule as CBSE mandates 3 languages from July 1",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/indian-schools-exempt-new-cbse-three-language-rule",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-18T03:01:42.354Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-18-uae-schools-cbse-three-language-requirement.md"
     }
   ]
 }

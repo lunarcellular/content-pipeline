@@ -7577,6 +7577,33 @@
       "processedDate": "2026-05-18T08:15:30.427Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "caa66d4f3b4bb4e7f6944191414d73089d6f2f1eb5c85419a01f20d879c4ec7c",
+      "title": "Kuwait warns of jail terms, hefty fines for illegal passenger transport",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwait-warns-of-jail-terms-hefty-fines-for-illegal-passenger-transport-1.500544407",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T09:15:32.962Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "144ac3ef4b9cd8e0bf90a4ae27d3e9ef678129d4485a602050285641255895eb",
+      "title": "‘Be strong’ and 5 phrases parents may want to avoid with their children—and what to say instead",
+      "sourceUrl": "https://gulfnews.com/lifestyle/why-telling-children-to-be-strong-may-harm-emotional-well-being-and-what-to-say-instead-uae-psychologists-say-1.500544382",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T09:15:36.376Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "16a1e52b03f9ea3775d7e22ca4299d0683d804b0aca1224ce216118c1469a6f0",
+      "title": "Abu Dhabi to host biggest edition of ISNR 2026 with 253 global exhibitors",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-to-host-biggest-edition-of-isnr-2026-with-253-global-exhibitors-1.500544384",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T09:15:38.956Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

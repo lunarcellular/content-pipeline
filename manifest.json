@@ -7649,6 +7649,33 @@
       "processedDate": "2026-05-18T11:15:30.952Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7eb7f6aa1def6799a32fda03b0df16699fe8b404ea96b1ab0705570dfd9e762c",
+      "title": "How a new UAE platform is giving hundreds of students from 54 universities real work experience",
+      "sourceUrl": "https://gulfnews.com/uae/education/how-a-new-uae-platform-is-giving-hundreds-of-students-from-54-universities-real-work-experience-1.500544570",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-18T11:30:42.072Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7950adb6344e1fa4001f587cde370aacbc77db02a24e31a02fcb37a9d74b1a26",
+      "title": "Dubai rolls out new school parking system; parents, staff can save up to 80%",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-school-parking-permits-faster-savings",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-18T11:30:44.767Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7950adb6344e1fa4001f587cde370aacbc77db02a24e31a02fcb37a9d74b1a26",
+      "title": "Dubai rolls out new school parking system; parents, staff can save up to 80%",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-school-parking-permits-faster-savings",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-18T11:30:47.351Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

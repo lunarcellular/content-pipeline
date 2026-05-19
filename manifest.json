@@ -7766,6 +7766,24 @@
       "processedDate": "2026-05-19T03:00:41.920Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3ef45b1e3862996d6023a85eeefcba4ae5faf5d4cfbe24ec8258a43faffdeb21",
+      "title": "Libyan ex-prison boss faces ICC war crimes hearing",
+      "sourceUrl": "https://gulfnews.com/world/africa/libyan-ex-prison-boss-faces-icc-war-crimes-hearing-1.500545308",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-19T03:45:31.426Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5c3fdf23f178214fa30ca8f738ca997223a9af7e2df6a79762c52dd8ac69b821",
+      "title": "Ruskin Bond launches new book at 92; shares fond childhood anecdotes",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/books/ruskin-bond-launches-new-book-at-92-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T03:45:35.145Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

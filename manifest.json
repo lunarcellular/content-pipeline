@@ -7829,6 +7829,24 @@
       "processedDate": "2026-05-19T09:15:33.962Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0e170dfae0354631f403a398c9f790106ab6dbd0dd0f3f77858c3532efe0fb84",
+      "title": "Abu Dhabi to host major Michael Jackson tribute concert this August",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/michael-jackson-tribute-show-abu-dhabi",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T10:30:33.674Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "91053675619e077f625a08bdd769261b6539fd77c8ddb44397ac097bf94bcf4c",
+      "title": "UAE's new Arabic law: How schools are transforming language learning by 2027 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalZTRXdqM0NPUkwtUkpIUWVobUdJblNtdkxHWnQ1dFBlbVU3LXkwbWlkamdqS1FrVXFkV0ZhREtObGpYOU1uN3M2TEwwdkhMYVZXS3FseHk0LXdBU3VQb2NOcGM0NjdtTVUta3ZTaVhTcHdhZE5ESFI0eHZBZmx6WFJKNHVNNk51VGxqSW4wMzFlQdIBmgFBVV95cUxQb2VfV0dxeF84UFUxMUVXSnZYb3U4akw1UzNnMzIwU0EyTllObWtoWlJCbWN2b1dxdEJnZjlUSkxKZ1FRRy0yYUVxNUI1Y3V6Y3Fua0hEWUQ0OFp2RHphMkFVckh3T1M4Q2RQZlZzaFNJSmlqdHNnckpNS3I2LVowNENkWHBiMDFtQW1aVnhEU3pfMkdTaDNzZ2xB?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-05-19T10:31:26.828Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-19-uae-schools-arabic-language-law-2027.md"
     }
   ]
 }

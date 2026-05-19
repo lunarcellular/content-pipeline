@@ -7901,6 +7901,33 @@
       "processedDate": "2026-05-19T12:00:42.402Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eff6b938d4320801da4df36174ff360bbbd05c7e1b83d50c9b2f34237054b21d",
+      "title": "IPL chairman urges players not to “focus on reels” citing Kohli as prime example",
+      "sourceUrl": "https://gulfnews.com/sport/ipl-chairman-urges-players-not-to-focus-on-reels-citing-kohli-as-prime-example-1.500546135",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-19T14:00:38.007Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "51d386d618ac9e0acf39324a217bc506b7b6a92cb2d8327fbde82be1e313fe63",
+      "title": "From refugee camp to global stage: Lebanon’s Alsama Project wins $500,000 education prize",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/lebanon-alsama-project-wins-500000-global-schools-prize",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T14:00:40.028Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "51d386d618ac9e0acf39324a217bc506b7b6a92cb2d8327fbde82be1e313fe63",
+      "title": "From refugee camp to global stage: Lebanon’s Alsama Project wins $500,000 education prize",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/lebanon-alsama-project-wins-500000-global-schools-prize",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-19T14:00:41.825Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

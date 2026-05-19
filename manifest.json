@@ -7730,6 +7730,42 @@
       "processedDate": "2026-05-18T16:00:42.706Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "86905fa5458127483129095373d7bb3bc17bcef2fd6270105645e7cc8b08cb5c",
+      "title": "9-day Eid Al Adha break in UAE: Schools urge students not to skip final days before leave",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-urge-students-not-skip-final-days-before-eid-al-adha-break",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T03:00:34.973Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "48d393bdda4722ba6608966b1a68828aa47457de5f2b8c193235a3c18103eb62",
+      "title": "UAE's new Arabic law: How schools are transforming language learning by 2027",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/new-arabic-law-schools-change-language-learning-by-2027",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T03:00:36.939Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "86905fa5458127483129095373d7bb3bc17bcef2fd6270105645e7cc8b08cb5c",
+      "title": "9-day Eid Al Adha break in UAE: Schools urge students not to skip final days before leave",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-urge-students-not-skip-final-days-before-eid-al-adha-break",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-19T03:00:39.842Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "48d393bdda4722ba6608966b1a68828aa47457de5f2b8c193235a3c18103eb62",
+      "title": "UAE's new Arabic law: How schools are transforming language learning by 2027",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/new-arabic-law-schools-change-language-learning-by-2027",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-19T03:00:41.920Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -7856,6 +7856,33 @@
       "processedDate": "2026-05-19T10:45:30.688Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3c059d9517e1646a64fc933fce81d6041a2cc87c3defa5e7650b82aa07ccef9d",
+      "title": "Dubai-based chefs to represent the UAE at International Food Exhibition Philippines 2026",
+      "sourceUrl": "https://gulfnews.com/uae/people/dubai-based-chefs-to-represent-the-uae-at-international-food-exhibition-philippines-2026-1.500545820",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-19T11:15:29.461Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6f8727fded5b8a3dc40fa7f231832f8e82aae6450af01d58371741f10b78ce28",
+      "title": "‘Harry Potter’ series to recast Ginny Weasley after actor exits show",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/harry-potter-series-ginny-weasley-recast-gracie-cochrane",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T11:15:32.112Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7ee265fb2099f7494b996308bb41a18f1a17c2676a6ecf59928387ccd14d5ea0",
+      "title": "Peter Jackson breaks silence on Ryan Gosling’s exit from 'The Lovely Bones'",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/peter-jackson-breaks-silence-on-ryan-goslings-exit-from-the-lovely-bones",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-19T11:15:34.700Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

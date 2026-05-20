@@ -7973,6 +7973,33 @@
       "processedDate": "2026-05-20T05:30:44.383Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e67fb7e9fb1aa3d6d76a16150a2231df47d06831f8a5156a048abaeb50045308",
+      "title": "How Arsenal banished 'nearly men' tag to end 22-year title wait",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/football/how-arsenal-banished-nearly-men-tag-end-22-year-title-wait",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-20T07:15:51.036Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7884035399c42a32ecb7d46f5050cb835dce9b664e023660b0c1e406480c24b4",
+      "title": "What is Bundibugyo? The rare Ebola strain alarming global health experts",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/health-bundibugyo-ebola-strain-symptoms-treatment-who-emergency",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-20T07:15:53.671Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "48c67d87db5637c9ee42f424337f8adf9098dcd04058037b39104595afb4ef04",
+      "title": "UAE sends 540 tonnes of Eid clothing for children in Gaza",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/20/uae-sends-540-tonnes-of-eid-clothing-for-children-in-gaza/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-20T07:15:55.744Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

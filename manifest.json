@@ -8108,6 +8108,15 @@
       "processedDate": "2026-05-20T18:00:50.142Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e5dfc2103c57b1585f68e799fe82276f9fea5d698d660efabaf360ffc9aac773",
+      "title": "At least five children killed in Israeli strike on south Lebanon",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/20/at-least-five-children-killed-in-israeli-strike-on-south-lebanon/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-20T18:30:55.705Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

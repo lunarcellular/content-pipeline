@@ -8126,6 +8126,15 @@
       "processedDate": "2026-05-20T19:46:15.489Z",
       "relevant": true,
       "outputFile": "output/2026-05-20-nafis-alpha-program-emirati-students.md"
+    },
+    {
+      "urlHash": "2ff3be616ef3b6636b619692bf4f2d176738bc1f6ce755eba3ab4ea76f9579af",
+      "title": "Iran examining US proposal, as Trump says in 'final stages' of talks",
+      "sourceUrl": "https://gulfnews.com/world/mena/iran-examining-us-proposal-as-trump-says-in-final-stages-of-talks-1.500547188",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-20T22:01:24.807Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -8081,6 +8081,24 @@
       "processedDate": "2026-05-20T16:30:56.102Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1e2fe07dcc0e8be75323beb8ba0d5dc5d3717ca8217b2f5de1bbd4c954bff0a8",
+      "title": "Iran’s Ghalibaf accuses US of seeking new war as Israel says military 'on highest alert'",
+      "sourceUrl": "https://gulfnews.com/world/mena/irans-ghalibaf-accuses-us-of-seeking-new-war-as-israel-says-military-on-highest-alert-1.500546714",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-20T16:45:56.595Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5abbbdfdd742b31e00608a06ad086dbfdbdd1db14a9f5b6601286dd5fef16853",
+      "title": "'We've come out stronger': Abu Dhabi students reunite for graduation ceremony after challenges of war",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/20/weve-come-out-stronger-abu-dhabi-students-reunite-for-graduation-ceremony-after-challenges-of-war/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-20T16:45:58.649Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -8117,6 +8117,15 @@
       "processedDate": "2026-05-20T18:30:55.705Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bbb9a251eb2512a2135097f80b221d847ba2745c9e15b81c47457338956f9306",
+      "title": "Nafis expands Alpha Program to develop Emirati school students’ future job skills",
+      "sourceUrl": "https://gulfnews.com/uae/education/nafis-expands-alpha-program-to-develop-emirati-school-students-future-job-skills-1.500547943",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-20T19:46:15.489Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-20-nafis-alpha-program-emirati-students.md"
     }
   ]
 }

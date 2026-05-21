@@ -8144,6 +8144,24 @@
       "processedDate": "2026-05-21T01:35:21.368Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7df16997434904afa238ee5ddcfce86035ff71f09c65ea4caf27b3b73a5e1993",
+      "title": "What more does Auqib Nabi need to do for an India Test spot?",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/what-more-does-auqib-nabi-need-to-do-for-an-india-test-spot-1.500547934",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-21T03:00:45.102Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "73e27a08c8c1b1e3a8b8c3493ee3f531dcf9f5aaa1d409b2ed70f96cdc9e9a9c",
+      "title": "UAE doctors save children with 65 heart surgeries in Bangladesh",
+      "sourceUrl": "https://gulfnews.com/uae/uae-doctors-save-children-with-65-heart-surgeries-in-bangladesh-1.500547977",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-21T03:00:47.908Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

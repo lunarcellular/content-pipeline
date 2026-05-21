@@ -8360,6 +8360,15 @@
       "processedDate": "2026-05-21T16:30:51.783Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "87ea82c6df87d7e51725b41e2232d26a2f5c8b359124f86ad0f6d1d8e742c29a",
+      "title": "ADEK, Aldar boost Emiratisation in education pact - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnhmeHZXazh3aXFheEdZeUpnWFRZUzM1MWJZQnJ2d3RYNHNjY0dkR2xpYTBZS2dZcWFuaFpmOE91S0xMalZfcm5peUJPSnFMQUxZT2xvM1JEVEZFOVRIVDgtMTdnZDRldENhVGV1QzRNYktRbzQ0OE0xeVpPb2Z2OGRTTUtmLU1GQ3NySHB0THplbkRqNS1FVWVqY9IBrgFBVV95cUxOWndKOEk2SUZWYUlsM2l6SDBNYUlwMktfQWtKR2s3VjVtbDBqOWVFVGQ1QkhlNnpoaW1JNWlWaEV4QUZBOXRhSzVKek1RdFBMQUlHYWx0R2UzMGNaZVN3dHB1NmI3bmtoZjNfb1FjVjQ2RTFvZEtaZzczejRHLVhUaFR0OENJdTctQlpQbVRTY0hMM01NNzF3aG1ad3lwSnlxQnlOLWtvby1WZEt5UkE?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-05-21T16:46:18.741Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-21-adek-emiratisation-education-abudhabi.md"
     }
   ]
 }

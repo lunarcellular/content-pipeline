@@ -8216,6 +8216,15 @@
       "processedDate": "2026-05-21T09:15:44.410Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "eba5e9abf523d0731c6050a8233ac9a98329ef314e5422d818e504d133645674",
+      "title": "Robert Downey Jr teases possible return of Sherlock Holmes franchise",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/robert-downey-jr-sherlock-holmes-3-update-susan-downey",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-21T10:15:47.238Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

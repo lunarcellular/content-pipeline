@@ -8180,6 +8180,33 @@
       "processedDate": "2026-05-21T07:01:22.311Z",
       "relevant": true,
       "outputFile": "output/2026-05-21-new-arabic-programme-uae-schools-literacy.md"
+    },
+    {
+      "urlHash": "369ef3ba7e448e4065ee82b3dd0be33a032131ac24b1f4ea76042c96adcb9a57",
+      "title": "Abu Dhabi pushes Emirati representation in classrooms with new education partnership",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-pushes-emirati-representation-in-classrooms-with-new-education-partnership-1.500548437",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-21T09:01:51.520Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-21-abu-dhabi-emirati-representation-education.md"
+    },
+    {
+      "urlHash": "2abffc564a5ab55e2309389d4bfdee915c9efd306c6ad31b0e929e87d8118604",
+      "title": "RAK private schools to roll out programme in September to help kids read Arabic",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/rak-private-schools-to-roll-out-programme-in-september-to-help-kids-read-arabic",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-21T09:02:47.026Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-21-arabic-literacy-programme-rak.md"
+    },
+    {
+      "urlHash": "2abffc564a5ab55e2309389d4bfdee915c9efd306c6ad31b0e929e87d8118604",
+      "title": "RAK private schools to roll out programme in September to help kids read Arabic",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/rak-private-schools-to-roll-out-programme-in-september-to-help-kids-read-arabic",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-21T09:02:47.026Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-21-arabic-literacy-programme-rak.md"
     }
   ]
 }

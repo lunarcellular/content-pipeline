@@ -8324,6 +8324,42 @@
       "processedDate": "2026-05-21T16:15:52.521Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "313378cbd9d55a2278bb931bcb4f9f0f44aa30c1ef921823e619a3b80b1bb220",
+      "title": "Abu Dhabi Awards announces winners of nationwide school competition",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-awards-announces-winners-of-nationwide-school-competition-1.500549134",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-21T16:30:44.107Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1b4b42c979e84738ea1ef5343a0acb7f9fda096d7fa4d928910399099fb2254c",
+      "title": "Saudi Arabia launches new Red Sea shipping service linking Jeddah, Salalah and Djibouti",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-launches-new-red-sea-shipping-service-linking-jeddah-salalah-and-djibouti-1.500549035",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-21T16:30:47.031Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b4d31e3bda858872827d928d5b88c10be869c6dc2fd53a739e0901519e5ab2d6",
+      "title": "Abu Dhabi Awards announces winners of nationwide school competition - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDRzMEo2TzNaa2tEMjRON2FVUUF1YkF3REJJTUNBdkxlYVpHV1g5UFdJUDVIYVRScHZHYURGWTN5NHUtVnItcGVKX0xNdmstWE5fb1kyWjJwMjVsUUo5R2lwRmdvQzVGYjlRLUdfazZNY1RLMTIwZ281c19Ma3RfbHN0WVJ2Z2ktX3ZqUHJEYUlxZnAxb1JmY0phd2xqY0hKbUk1aEJnY1A0WlZpLUxvbUlJeGPSAccBQVVfeXFMT2RPaHNuOFhBbnZYQ0F0SWV5MVR0YmFzWGxkbklaMlI0clUyODRWRGhBbU1EZ2cyZHQwWllWMWtrY2x1czhFZF9LRlZFTUhQa0t1Z0E3ZF9hZ2hiNGZybU9hM3FZUHZQQjRHMUVoV0IxbHUzM0lMMTMtTVFNY01LR1BiOTE5RFVLWXB6dVU0cm82THJ3SXBJSWFxOUlwRnNwTmgxZEdpd0JCdkFKaldNSjFfRk9KcmlKXzlVZGplUC1acHIweDNRQQ?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-05-21T16:30:48.880Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "977d56abcc9dc300099f9431831135ea17a8af612802610a7cf57c44ff87ab7c",
+      "title": "UAE school fees: Tabby offers monthly payment plans as 88% parents feel financial strain - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmNiaEQ0Zl8wTUp6OTRWeGtjeHQxS0t6OU1ndWd6SlZ1eFJRVU5EdXY3bF9lclZvRzRCNWRHcTNMRElYLUZ0SlVfdmZwWUpodzFCLXZLWWNCeVZyMzRqaDVmQnp2QnhoblNPWUt2T25Id0w3QzJ1OGZmdjY5dmI1d2lDM1BKdUExd1RWWEVNUExTOFJxaDAtWVhDMmZCQdIBngFBVV95cUxNNmNiaEQ0Zl8wTUp6OTRWeGtjeHQxS0t6OU1ndWd6SlZ1eFJRVU5EdXY3bF9lclZvRzRCNWRHcTNMRElYLUZ0SlVfdmZwWUpodzFCLXZLWWNCeVZyMzRqaDVmQnp2QnhoblNPWUt2T25Id0w3QzJ1OGZmdjY5dmI1d2lDM1BKdUExd1RWWEVNUExTOFJxaDAtWVhDMmZCQQ?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-05-21T16:30:51.783Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

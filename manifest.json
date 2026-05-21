@@ -8171,6 +8171,15 @@
       "processedDate": "2026-05-21T04:45:41.136Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d7fbefa150ebc5c3c767048c2c0e825979e371dbd1579aabdbf5002c31014f7d",
+      "title": "Some UAE schools to get new Arabic programme: What parents need to know",
+      "sourceUrl": "https://gulfnews.com/uae/education/some-uae-schools-to-get-new-arabic-programme-what-parents-need-to-know-1.500548283",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-21T07:01:22.311Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-21-new-arabic-programme-uae-schools-literacy.md"
     }
   ]
 }

@@ -8567,6 +8567,24 @@
       "processedDate": "2026-05-22T12:15:48.825Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4523a5621e8f148c4e9ded430221b9c4618b8665f058ca0e4fd1ef148667ad02",
+      "title": "UAE art guide: 11 museum and gallery exhibitions to see, from Picasso to the Baghdad Modern Art Group",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/05/22/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-22T12:30:53.956Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "341eceff9883878e24cd097b204d50a5512ecf019c92202018e1e3b7a91f8e2f",
+      "title": "Dubai's KHDA confirms no increase in private school fees for next academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubais-khda-confirms-no-increase-in-private-school-fees-for-next-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-22T12:31:06.322Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -8540,6 +8540,24 @@
       "processedDate": "2026-05-22T10:30:44.911Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c0bac88c1a7eec609c0dedded074f812a52699acc419974d24a83a089f62a30d",
+      "title": "Novo Nordisk selects the UAE as a global hub for pharmaceutical distribution",
+      "sourceUrl": "https://gulfnews.com/uae/health/novo-nordisk-selects-the-uae-as-a-global-hub-for-pharmaceutical-distribution-1.500549940",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-22T11:15:45.103Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9a47df24d42d2e6ca1850babd27488916ff5b917531b63406d2a28b800e6aca5",
+      "title": "Pakistan’s Mohammad Amir eligible for IPL now? Here’s the reason",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/pakistans-mohammad-amir-eligible-for-ipl-now-heres-the-reason-1.500549949",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-22T11:15:47.012Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

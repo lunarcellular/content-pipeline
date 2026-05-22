@@ -8612,6 +8612,15 @@
       "processedDate": "2026-05-22T12:47:21.312Z",
       "relevant": true,
       "outputFile": "output/2026-05-22-dubai-private-school-fee-hike-2026-27.md"
+    },
+    {
+      "urlHash": "ddcae02ced4df53839d8551de82cc4bae4ea4406c2210f174b1f0c54228283bf",
+      "title": "New UAE rules for June 2026: Higher Salik and parking fees, salary deadlines, and lower legal age",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/ask-us/uae-june-2026-rules-salik-parking-fees-salary-deadlines-legal-age-1.500550148",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-22T13:30:58.356Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

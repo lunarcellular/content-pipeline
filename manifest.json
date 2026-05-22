@@ -8522,6 +8522,24 @@
       "processedDate": "2026-05-22T09:00:49.430Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bfc85b1c0f1b2b26f7d7a19be911a383d716d257ee30c4fa947f59a33cb70c54",
+      "title": "Trump hails end of 'The Late Show' as host Stephen Colbert bows out",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/trump-end-the-late-show-stephen-colbert-bows-out",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-22T10:30:42.557Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b6a21a0457fde537216b814e3400c6216521c2a6b1a9a5bee54109547e148910",
+      "title": "Dubai's Salik and Parkin to add 5 per cent VAT on road toll and parking fees",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/22/dubai-salik-parkin-vat-toll-parking-fees-june/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-22T10:30:44.911Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

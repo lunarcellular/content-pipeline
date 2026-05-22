@@ -8414,6 +8414,51 @@
       "processedDate": "2026-05-22T01:30:51.215Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "37f04c018cfd7f8e1d962a1a4ee37ee9932860b6470e4798be7ef1ed299f86cd",
+      "title": "UN 'gravely concerned' by an Afghan Taliban law that has provisions on child marriage",
+      "sourceUrl": "https://gulfnews.com/world/asia/un-gravely-concerned-by-an-afghan-taliban-law-that-has-provisions-on-child-marriage-1.500549413",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-22T03:00:49.104Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "13c7dc3ffa5a2b16964b994908fc1e3ea8917daf33821edcb58d6984a4528430",
+      "title": "'They didn't deserve to die': Know the children killed in Duterte's Philippines drug war",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/they-didnt-deserve-to-die-know-the-children-killed-in-dutertes-philippines-drug-war",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-22T03:00:51.412Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ed1550ad893068bd1e9579121fc941ceacc85b0a51b6369f0a7329efaf8c49e2",
+      "title": "Fake news, insulting UAE symbols: Media official shares 7 examples of problematic posts",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-problematic-social-media-posts-law-rules-fake-news",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-22T03:00:53.387Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ed1550ad893068bd1e9579121fc941ceacc85b0a51b6369f0a7329efaf8c49e2",
+      "title": "Fake news, insulting UAE symbols: Media official shares 7 examples of problematic posts",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-problematic-social-media-posts-law-rules-fake-news",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-22T03:00:56.038Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "54e2f89cdd2cc863e77d3231aecf41394026c2fcad6da6310602dc2bd5b7fe93",
+      "title": "Ras Al Khaimah classroom scheme to make Arabic easier to learn will be expanded",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/22/ras-al-khaimah-classroom-scheme-to-make-arabic-easier-to-learn-will-be-expanded/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-22T03:01:26.051Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-22-ras-al-khaimah-arabic-learning-programme.md"
     }
   ]
 }

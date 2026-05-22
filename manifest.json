@@ -8459,6 +8459,15 @@
       "processedDate": "2026-05-22T03:01:26.051Z",
       "relevant": true,
       "outputFile": "output/2026-05-22-ras-al-khaimah-arabic-learning-programme.md"
+    },
+    {
+      "urlHash": "cf8495df373c31a068ab5e7f42638e58035a4d15a781ca8d8efd5005128d96bd",
+      "title": "Ahmed Bin Khalaf Al Otaiba: Growth and AI transformation",
+      "sourceUrl": "https://www.khaleejtimes.com/business-technology-review/ahmed-bin-khalaf-al-otaiba-growth-and-ai-transformation",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-22T04:15:40.457Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

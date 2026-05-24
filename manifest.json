@@ -8846,6 +8846,60 @@
       "processedDate": "2026-05-24T06:45:40.867Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a8fc0ff3c824c35fe8029f923ce1a0e10be6a11254195240aae48b1f8a7609bb",
+      "title": "Nobody’s child: Dubai issues special permission to bury twice-abandoned Filipina girl",
+      "sourceUrl": "https://gulfnews.com/uae/nobodys-child-dubai-issues-special-permission-to-bury-twice-abandoned-filipina-girl-1.500551746",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-24T13:31:07.904Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a52c2bc29287dcddd88a83ecd492ad19e6628fd7e4ecc67a5d8138e99f9ae0bb",
+      "title": "India's CBSE says 'incorrect fees' charged in some cases of answer book applications",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-cbse-incorrect-fees-some-answer-book-applications",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-24T13:31:09.897Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3e9ee8dccefbfa868ed24e4f498954e992f46cae675715a844d98deddab4053c",
+      "title": "Opening Hormuz strait, war in Lebanon: What we know about possible Iran-US deal",
+      "sourceUrl": "https://www.khaleejtimes.com/world/possible-iran-us-deal-lebanon-strait-of-hormuz-nuclear-programme",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-24T13:31:11.517Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a52c2bc29287dcddd88a83ecd492ad19e6628fd7e4ecc67a5d8138e99f9ae0bb",
+      "title": "India's CBSE says 'incorrect fees' charged in some cases of answer book applications",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-cbse-incorrect-fees-some-answer-book-applications",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-24T13:31:13.815Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "92808867e3f42efe9067d16b73d6fa0ddd9e5749e4adb1d3bd5c7f8e8f5e1994",
+      "title": "Israeli strike kills six-month-old boy and his parents in central Gaza, medics say",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/24/israeli-strike-kills-six-month-old-boy-and-his-parents-in-central-gaza-medics-say/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-24T13:31:15.607Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dc41de047a78b91ebdc13824af0b59fb1074371ef686e7011353234830e3f9bf",
+      "title": "Iran war latest: Iran says Strait of Hormuz will not return to pre-war status under possible US deal",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/23/live-us-iran-war-pakistan-talks/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-24T13:31:17.543Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

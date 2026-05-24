@@ -8909,6 +8909,24 @@
       "processedDate": "2026-05-24T14:15:42.883Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3a251f2911b63d89694e21d27a982764bd6680c5a382776f166fa1beb02c71ca",
+      "title": "India's CBSE postpones deadline for answer book request submission",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/india-cbse-deadline-answer-book-request-submission-postponed",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-24T18:00:48.080Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3a251f2911b63d89694e21d27a982764bd6680c5a382776f166fa1beb02c71ca",
+      "title": "India's CBSE postpones deadline for answer book request submission",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/india-cbse-deadline-answer-book-request-submission-postponed",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-24T18:00:51.089Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

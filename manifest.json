@@ -9107,6 +9107,24 @@
       "processedDate": "2026-05-25T12:45:48.209Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fa6e2dae34edeade1d1c6695b9f2370ccc571b78189d9622a3ec0823e81bbd13",
+      "title": "UAE Eid Al Adha travel: Is it still possible to book a last-minute flight out?",
+      "sourceUrl": "https://gulfnews.com/business/aviation/uae-eid-al-adha-travel-is-it-still-possible-to-book-a-last-minute-flight-out-1.500552843",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-25T13:30:47.366Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a69815ddc71eba1666be8dced9784c6d9563c624fac1099ce244b890ce93ace2",
+      "title": "Arabic stand-up goes global as John Achkar’s ‘Aam Jarrib’ lands on Shahid",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/john-achkar-aam-jarrib-shahid-olympia-special",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-25T13:30:49.727Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

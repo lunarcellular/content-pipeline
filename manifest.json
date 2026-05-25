@@ -8981,6 +8981,24 @@
       "processedDate": "2026-05-25T07:00:55.199Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8220a13da5b1247bbd12649d36900b67a3446e4dd6757e53d39520c2be71ee54",
+      "title": "ADIB, DAMAC launch landmark home finance plan to ease path to ownership in UAE",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/adib-damac-launch-landmark-home-finance-plan-to-ease-path-to-ownership-in-uae-1.500552457",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-25T08:30:50.537Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b282d756c68e7dcff40d903ef613ccbaa962ffe9fe95bc25652297025db4aea5",
+      "title": "Ghalibaf re-elected as Iran's Parliament Speaker as tensions rise over US talks",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/25/ghalibaf-re-elected-as-irans-parliament-speaker-as-tensions-rise-over-us-talks/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-25T08:30:52.713Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

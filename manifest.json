@@ -8999,6 +8999,24 @@
       "processedDate": "2026-05-25T08:30:52.713Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "66a2694f765c316d403826104e056e60c9bfe86da3d31602a280ef3fabfd6cd7",
+      "title": "Jacqueline El Boghdadi: How ADNOC Distribution is reinventing the road trip experience",
+      "sourceUrl": "https://gulfnews.com/podcasts/the-hustle/jacqueline-el-boghdadi-how-adnoc-distribution-is-reinventing-the-road-trip-experience-1.500552536",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-25T09:30:45.825Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3040d8223b3306fe83e74ac93ce1c4f2cb9a09a8469ddaf2b86a733493353aeb",
+      "title": "Eid Al Adha 2026: Abu Dhabi Police urge parents to keep kids away from fireworks",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/eid-al-adha-2026-abu-dhabi-police-fireworks-warning-kids",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-25T09:30:47.940Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -8927,6 +8927,33 @@
       "processedDate": "2026-05-24T18:00:51.089Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "55381601a5b8e06f2f496be351293162c59371800422152e317311f621d43fb5",
+      "title": "US and Iran continue talks on key terms as Trump urges negotiators not to rush deal",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-and-iran-continue-talks-on-key-terms-as-trump-urges-negotiators-not-to-rush-deal-1.500552196",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-25T03:00:52.276Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c9ceb8e29d229782f03b67831fbbfef728fbae131f42b2dfb0dffa451906e81f",
+      "title": "Parents relieved as Dubai private schools barred from hiking fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/parents-relieved-dubai-private-schools-fees-freeze",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-25T03:01:41.039Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-25-dubai-private-school-fees-freeze-2026-27.md"
+    },
+    {
+      "urlHash": "c9ceb8e29d229782f03b67831fbbfef728fbae131f42b2dfb0dffa451906e81f",
+      "title": "Parents relieved as Dubai private schools barred from hiking fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/parents-relieved-dubai-private-schools-fees-freeze",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-25T03:01:41.039Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-25-dubai-private-school-fees-freeze-2026-27.md"
     }
   ]
 }

@@ -9080,6 +9080,33 @@
       "processedDate": "2026-05-25T12:30:48.655Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a5f9b0a49faeb2ba31fcc18c1d6ef898f31afce6fce43a7247165db8c32e8a7e",
+      "title": "Dubai Police celebrate Eid Al Adha with people of determination",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-police-celebrate-eid-al-adha-with-people-of-determination-1.500552699",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-25T12:45:42.613Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a6f9129d9f2358361a67b523c2e72286b213e4705a8eb483139c6fb2db847d3e",
+      "title": "Iran demands ‘service fees’ for vessels in Hormuz ahead of potential US deal",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/25/iran-demands-service-fees-for-vessels-in-hormuz-ahead-of-potential-us-deal/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-25T12:45:45.452Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8b7712a545975cb3b2dc31d40b4b351a1c6ea239da69e55e53b0d085a4c177b8",
+      "title": "Iran war latest: Iran's Ghalibaf and Araghchi in Doha for talks on agreement with US",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/05/25/live-us-iran-negotiations/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-25T12:45:48.209Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

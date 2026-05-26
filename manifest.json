@@ -9224,6 +9224,24 @@
       "processedDate": "2026-05-26T07:15:44.582Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c44333c04cd88e635476ee0371e52bab133a9a441d8dde2ae4399e6a0ca89da4",
+      "title": "Meet 19-year-old UAE student eyeing Ironman after 42-km marathon finish",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-student-athlete-eyeing-ironman-marathon",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-26T08:00:56.595Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f05829d04d45124ccf4ba9759869cc168e3700db8102779f0c49bcbd1fe313f6",
+      "title": "UAE to waive Dh834m in bank loan interest fees for retired Emiratis",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/26/uae-to-waive-dh834m-in-bank-loan-interest-fees-for-retired-emiratis/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-26T08:00:58.719Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

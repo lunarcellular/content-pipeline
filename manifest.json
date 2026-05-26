@@ -9143,6 +9143,42 @@
       "processedDate": "2026-05-25T14:45:44.528Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ec656cf36f1432cd4bb7747ca869962bdfec90b2c88161824ba6c2df008e4fef",
+      "title": "Why many UAE students are seeking CBSE mark re-evaluation",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/students-seeking-cbse-mark-reevaluation-new-osm-system",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-26T03:00:58.582Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d021a24294f230c106088d0468976abb6ccd9cad279b0b6121364ee8e67e3fd7",
+      "title": "UAE schools open to platforms like Tabby for monthly payment plans",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-flexible-tuition-payment-plans-tabby",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-26T03:01:01.233Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ec656cf36f1432cd4bb7747ca869962bdfec90b2c88161824ba6c2df008e4fef",
+      "title": "Why many UAE students are seeking CBSE mark re-evaluation",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/students-seeking-cbse-mark-reevaluation-new-osm-system",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-26T03:01:04.422Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d021a24294f230c106088d0468976abb6ccd9cad279b0b6121364ee8e67e3fd7",
+      "title": "UAE schools open to platforms like Tabby for monthly payment plans",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-flexible-tuition-payment-plans-tabby",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-26T03:01:07.795Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

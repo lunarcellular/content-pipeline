@@ -9296,6 +9296,42 @@
       "processedDate": "2026-05-26T10:30:50.003Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2d5a192efe23b51eb7e89bfd2518f90348b23075236a504ddf849edd440067ec",
+      "title": "Ahmedabad medical student missing in Georgia for 12 days, family seeks govt intervention",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/ahmedabad-medical-student-missing-in-georgia-for-12-days-family-seeks-govt-intervention-2-1.500553765",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-26T13:00:49.859Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0d3366889aaee4dd553f99b34ca90ce31cc1b32455da0bedb8c9b9e81997d60e",
+      "title": "Gurindervir Singh: India's fastest man ran for 12 kms daily to reach school ",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/gurindervir-singh-indias-fastest-man-ran-for-12-kms-daily-to-reach-school",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-26T13:00:52.124Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "506538e1196274c6bf73b93952beebe7889a45e7d40ad61e4663074021a69df2",
+      "title": "Why many UAE students are seeking CBSE mark re-evaluation - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXVqckNMNnpRUU9lRGgwV2xRSjFWdFNRSU1Sd0dGRlVuR29nLTJPaUFEZ3hHYy1fRXZRYmxNaTFJbVBtZ1ZOOGFoSXNfRHFKbXdwUW9BVy1LQTRDTlEwS180QVhJYjBPNkFKTXd0allOLTZLSlVXc2lHRjk1bW9YWWpsb1JwRG1CZVMxZUNLRlloSGRzaDViN29LbEctZ9IBpgFBVV95cUxOYmh2b3I5MVAyNlNxN2NCM2FmTFBwUlpUcl8yNEF1Ykx5a1pXNEExMDVtdEFIRmczRm9QamplbGlzdHJxWmk2Y01RZk9qTklrR1NIQnRISHdjTzNpX1c1QnJEbWJKSWhsWkR6ZEo0SHRKcWlTQ3BIUFNWTnIzNXVuMTVOUFpUcUVtSzRmeV9tcnhOZGJWQjFKc2pjclg5b2ZpME8zTGZ3?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-05-26T13:00:55.613Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dd4233e783dd3e8c9e3e40cab9328bf4f5286410f57310b61aa845755dd5b864",
+      "title": "UK’s social media rules ‘like giving children a hammer and saw’",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/05/26/uks-social-media-rules-like-giving-children-a-hammer-and-saw/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-26T13:00:58.514Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

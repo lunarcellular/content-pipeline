@@ -9278,6 +9278,15 @@
       "processedDate": "2026-05-26T10:00:58.717Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "db36d33abc2d427f3f5c8b59da18b7b202a037234b4d95c9e89c920bd5e6068d",
+      "title": "Several killed after train crashes into school bus in Belgium",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/fatalities-train-crash-school-bus-belgium",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-26T10:15:46.628Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

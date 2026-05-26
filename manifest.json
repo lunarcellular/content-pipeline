@@ -9197,6 +9197,24 @@
       "processedDate": "2026-05-26T05:00:48.848Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2043a9873d5f666ec85bec513b2f0337dcd2158380e26a0ff12655f4f68dac4b",
+      "title": "Why unsupervised children’s use of delivery apps raises safety risks",
+      "sourceUrl": "https://gulfnews.com/uae/why-unsupervised-childrens-use-of-delivery-apps-raises-safety-risks-1.500553428",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-26T06:45:41.826Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a28ceb37450d21afab6937e509f25b1e56ea85e1732d0f5fdeb9f51e6eea11de",
+      "title": "Pep Guardiola: Michael Jordan, Noel Gallagher and former players pay tribute to departing Man City boss",
+      "sourceUrl": "https://www.thenationalnews.com/sport/football/2026/05/26/pep-guardiola-michael-jordan-noel-gallagher-and-former-players-pay-tribute-to-departing-man-city-boss/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-26T06:45:44.714Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

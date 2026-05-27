@@ -9368,6 +9368,33 @@
       "processedDate": "2026-05-26T17:15:45.222Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a89aa37dbeb3ed2ec7e6eb8517da9d336e67827a92d971c42bd8d2560e55ee4c",
+      "title": "Aldar Education to fast-track hiring of 300 Emirati teachers in Abu Dhabi; how it works",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/adek-aldar-education-hiring-emirati-teachers-uae-graduate-pipeline-leadership",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-27T03:00:48.761Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a89aa37dbeb3ed2ec7e6eb8517da9d336e67827a92d971c42bd8d2560e55ee4c",
+      "title": "Aldar Education to fast-track hiring of 300 Emirati teachers in Abu Dhabi; how it works",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/adek-aldar-education-hiring-emirati-teachers-uae-graduate-pipeline-leadership",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-27T03:00:51.812Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "327ccc473626bff30da75f347765659441d12850033b3d3de73ec0ffd6b6f1c1",
+      "title": "The Mandalorian and Grogu is made for children first, says director Jon Favreau",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/film-tv/2026/05/27/the-mandalorian-and-grogu-is-made-for-children-first-says-director-jon-favreau/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-27T03:00:53.903Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

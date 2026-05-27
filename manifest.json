@@ -9413,6 +9413,24 @@
       "processedDate": "2026-05-27T05:15:45.542Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9dc829ea29ae6d42cea25a0b50fd679738872727336bb5cffc9de23a9124790c",
+      "title": "For UAE students, Eid Al-Adha is about holding on to what matters",
+      "sourceUrl": "https://gulfnews.com/lifestyle/for-uae-students-eid-al-adha-is-about-holding-on-to-what-matters-1.500554281",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-27T05:45:55.389Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f9ab38433f042daed64d290b2b19d2fc696382632177898c4ee32a1b895c4132",
+      "title": "Belgium rail crash leaves 4 dead, children hurt",
+      "sourceUrl": "https://gulfnews.com/world/europe/belgium-rail-crash-leaves-4-dead-children-hurt-1.500554493",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-27T05:45:57.887Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

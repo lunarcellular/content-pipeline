@@ -9620,6 +9620,15 @@
       "processedDate": "2026-05-28T08:30:52.937Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2d537745dc4479f3faab5f97f39ded395d500bcd250199efc2409aeebf49b276",
+      "title": "Can AI detect speech delays in children? UAE startup says yes with 15-minute game",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-startup-ai-game-chatty-check-detects-speech-delays",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-28T08:45:44.388Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

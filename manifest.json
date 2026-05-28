@@ -9575,6 +9575,15 @@
       "processedDate": "2026-05-28T00:16:16.016Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "52772d841dd7debb5d63a141f8d27a8461b1427cf4a0e0c63f750d1c5e925822",
+      "title": "Dubai private school fees are frozen — but parents still have things to review",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/dubai-private-school-dees-frozen-review-parents-financial-planning",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-28T03:01:44.952Z",
+      "relevant": true,
+      "outputFile": "output/2026-05-28-dubai-schools-freeze-tuition-fees-2026-27.md"
     }
   ]
 }

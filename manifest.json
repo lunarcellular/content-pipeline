@@ -9602,6 +9602,24 @@
       "processedDate": "2026-05-28T08:00:52.414Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c6c779be2abdef07d1ec0346edc6cca076921d80ee1c3a8c7ae6994a48d7a1fe",
+      "title": "Inflation turns Eid grave visits into costly burden in Rawalpindi",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/inflation-turns-eid-grave-visits-into-costly-burden-in-rawalpindi-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-28T08:30:49.897Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c0442436a5a128cb1c31550c927c9561655bfb68d8c4148ccbb09f69a3328b0a",
+      "title": "Fire in Kenya girls' school dorm kills 16, injures 73, says police source",
+      "sourceUrl": "https://www.khaleejtimes.com/world/africa/deadly-fire-kenya-girls-school",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-28T08:30:52.937Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

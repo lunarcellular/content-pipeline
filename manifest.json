@@ -9593,6 +9593,15 @@
       "processedDate": "2026-05-28T03:31:49.520Z",
       "relevant": true,
       "outputFile": "output/2026-05-28-dubai-private-school-fees-freeze-2026-27.md"
+    },
+    {
+      "urlHash": "894ab19d15159771ec5437f7173e438da75977b6f056dedd0285f52b1a1741c1",
+      "title": "16 dead, 73 injured in Kenya school fire: police source",
+      "sourceUrl": "https://gulfnews.com/world/africa/16-dead-73-injured-in-kenya-school-fire-police-source-2-1.500555672",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-28T08:00:52.414Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

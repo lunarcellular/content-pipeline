@@ -9656,6 +9656,33 @@
       "processedDate": "2026-05-28T10:45:51.438Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "22c5e2ea562462d9a2002a8c3cbf87bc58e49fd28f27282c470db53161368e7e",
+      "title": "UAE parents taught how to instill financial skills in their children",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-parents-taught-how-to-instill-financial-skills-in-their-children",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-28T12:31:04.957Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "11492f9e756f948a8b299c9139b95566a53dc7f62e2f5f491d027ebe5a22239b",
+      "title": "Kangana Ranaut's 'Bharat Bhhagya Viddhaata' offers tribute to India's 'unseen heroes'",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/kangana-ranauts-bharat-bhhagya-viddhaata-motion-poster-out",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-28T12:31:07.847Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "22c5e2ea562462d9a2002a8c3cbf87bc58e49fd28f27282c470db53161368e7e",
+      "title": "UAE parents taught how to instill financial skills in their children",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-parents-taught-how-to-instill-financial-skills-in-their-children",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-05-28T12:31:09.929Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

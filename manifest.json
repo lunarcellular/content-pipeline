@@ -9791,6 +9791,24 @@
       "processedDate": "2026-05-29T12:15:47.086Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1ed98bd0d082ca0c4c885fee84057333856be3db5eb43fe945bae6a9c766bdd3",
+      "title": "Emirates unveils giant flying tribute to Premier League champions Arsenal",
+      "sourceUrl": "https://gulfnews.com/business/aviation/emirates-unveils-giant-flying-tribute-to-premier-league-champions-arsenal-1.500557080",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-29T12:45:53.144Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "eb3b6ea381213dbeb1e6f3d9322dabb6de89ab42e7e53b6d31f23a96b8830aa4",
+      "title": "Trump weighs 60-day Iran ceasefire framework as Hormuz access, frozen assets and nuclear talks hang in balance",
+      "sourceUrl": "https://gulfnews.com/world/trump-weighs-60-day-iran-ceasefire-framework-as-hormuz-access-frozen-assets-and-nuclear-talks-hang-in-balance-1.500556889",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-29T12:45:55.331Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

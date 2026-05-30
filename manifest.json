@@ -9962,6 +9962,15 @@
       "processedDate": "2026-05-30T10:45:40.846Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6b59a06c39614256406cfb2dc9d8cca8ef7e290de1ea9d1d6b43303de225f2d1",
+      "title": "Afghanistan truck overturns, 20 dead including 12 children",
+      "sourceUrl": "https://gulfnews.com/world/asia/afghanistan-truck-overturns-20-dead-including-12-children-1.500558148",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-30T15:45:42.341Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

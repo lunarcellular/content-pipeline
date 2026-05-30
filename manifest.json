@@ -9944,6 +9944,15 @@
       "processedDate": "2026-05-30T10:15:43.551Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "edbd47301a8e6ba47f8e76f6b1af097ef99ad73fd9a590865a748b440120194c",
+      "title": "What are the new charges for drivers as Dubai introduces 5% VAT on toll and parking fees?",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/30/dubai-new-salik-vat-5-june-1-monday-parking-fees/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-30T10:30:50.316Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

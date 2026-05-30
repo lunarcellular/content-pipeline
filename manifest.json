@@ -9935,6 +9935,15 @@
       "processedDate": "2026-05-30T08:15:45.691Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "92e5dc62ed67ed793a145dcc4cb14a8df034e3348876f3fcf05435a09d2d1731",
+      "title": "Children among 18 killed after truck overturns in eastern Afghanistan",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/afghanistan-deadly-accident-truck-overturns",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-30T10:15:43.551Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

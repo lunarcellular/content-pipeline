@@ -9917,6 +9917,24 @@
       "processedDate": "2026-05-30T04:00:47.640Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "12fe66a88f17a30f2967dae001b69678de8aa3f98ae8e142edadff990e4e45f7",
+      "title": "UAE football body terminates contract of national team coach, staff",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/football/uae-football-body-ends-contract-national-team-coach",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-30T08:15:43.050Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d1fef7e3ad7c6ebe35896ec953398794b496220c9f57014811695f615c63e4f8",
+      "title": "What are the new charges for drivers as Dubai introduces 5% VAT on toll and parking fees?",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/05/30/what-are-the-new-charges-for-drivers-as-dubai-introduces-5-per-cent-vat-on-toll-and-parking-fees-from-monday/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-30T08:15:45.691Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

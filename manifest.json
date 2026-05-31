@@ -10007,6 +10007,24 @@
       "processedDate": "2026-05-31T03:30:50.260Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b8ab5c5910d53761e5268049286117e14dc559719f675c809d9255c18771d98b",
+      "title": "Emily Blunt says she avoided AI for key scene in Steven Spielberg's new sci-fi film",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/emily-blunt-avoided-ai-disclosure-day-steven-spielberg",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-31T06:05:37.229Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c307cbd829936bbf8a5f1a5faa11c85c58133bd4bfd42487e57cddc788632724",
+      "title": "Attacks on Barakah and other nuclear plants 'incredibly reckless' says top UN inspector",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/05/31/uae-iran-barakah-rafael-grossi/",
+      "sourceName": "The National",
+      "processedDate": "2026-05-31T06:05:39.342Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

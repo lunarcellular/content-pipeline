@@ -10106,6 +10106,15 @@
       "processedDate": "2026-05-31T10:15:42.027Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b0b8df57fe94b3429446d271d829338dbdd5745b89519734c3bb824438643c32",
+      "title": "CBSE admits security breach: What led the board’s U-turn on OSM controversy, explained",
+      "sourceUrl": "https://gulfnews.com/uae/education/cbses-osm-controversy-explained-why-the-board-admits-security-gaps-after-portal-was-hacked-1.500558632",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-05-31T11:00:50.441Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

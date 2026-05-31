@@ -10088,6 +10088,15 @@
       "processedDate": "2026-05-31T09:30:44.371Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "96911da183ecdad2448e0cfe8ca4e3264bac2ea40f310b844b69894060b9534e",
+      "title": "CBSE reveals security flaws in evaluation portal after teen hacker finds vulnerabilities ",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/cbse-security-flaws-onmark-evaluation-portal",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-05-31T10:00:49.219Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

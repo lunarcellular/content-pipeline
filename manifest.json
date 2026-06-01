@@ -10151,6 +10151,51 @@
       "processedDate": "2026-05-31T21:33:44.265Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b54c11ca0c316ff95b5445f911868a5725c40b21ee3d84da399d9cab10d54eb8",
+      "title": "Parents cannot raise resilient children in a society that leaves them to struggle alone",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/parents-cannot-raise-resilient-children-in-a-society-that-leaves-them-to-struggle-alone-1.500557346",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-01T03:00:52.537Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2e8f4c03676209a8f94eba173fa152be12678a7b53dae305d8371d54648c91c2",
+      "title": "UAE students go back to school after Eid break; some return straight to exams",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/students-back-to-school-exams-after-eid-break",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-01T03:00:54.784Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2e8f4c03676209a8f94eba173fa152be12678a7b53dae305d8371d54648c91c2",
+      "title": "UAE students go back to school after Eid break; some return straight to exams",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/students-back-to-school-exams-after-eid-break",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-01T03:00:56.790Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a7a09150761e3bd2219eccdccd7a567234332a5dec35504f3a7b8b17579a2776",
+      "title": "World Cup 2026 Group F guide: Hannibal is main man for Tunisia, Netherlands need Gakpo goals",
+      "sourceUrl": "https://www.thenationalnews.com/sport/football/2026/06/01/world-cup-2026-group-f-guide-hannibal-is-main-man-for-tunisia-netherlands-need-gakpo-goals/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-01T03:00:58.545Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c4ae36f1b9d61ff9c1cdc4f52ba6eb2aecb981d6d34e0a4202b06254c1172472",
+      "title": "What are the new charges for drivers as Dubai introduces 5% VAT on toll and parking fees?",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/01/salik-toll-charge-dubai-parking-fee/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-01T03:01:00.462Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -10358,6 +10358,15 @@
       "processedDate": "2026-06-01T13:45:48.618Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "004332e0ecdc13cef93f823af11805efe375cd6e94fea509f2f6b671beaffd01",
+      "title": "Trump says Israel, Hezbollah agree to not attack each other",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/trump-says-israel-hezbollah-agree-not-attack-each-other",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-01T18:30:47.898Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

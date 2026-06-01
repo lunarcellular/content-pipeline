@@ -10286,6 +10286,33 @@
       "processedDate": "2026-06-01T12:15:47.147Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0332226922acf8de7b3394ac40d5d1d3800dd4c44850287724836f4ea7f14166",
+      "title": "Kerala schoolgirl’s snakebite death puts annual risk in focus",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/kerala-schoolgirls-snakebite-death-puts-annual-risk-in-focus-1.500559715",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-01T13:00:56.777Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7eb64f8997a2f41e1ff71286ec8354f2fefc9dd2061d4567fcfd833619dd8c54",
+      "title": "Vaibhav Sooryavanshi’s IPL rise gets Bollywood nod from filmmaker Shekhar Kapur: 'Sensational cricketer'",
+      "sourceUrl": "https://gulfnews.com/entertainment/vaibhav-sooryavanshis-ipl-rise-gets-bollywood-nod-from-filmmaker-shekhar-kapur-sensational-cricketer-1.500559153",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-01T13:00:59.015Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d0e82a264c89282464b71a3900b5e13be2afad279879c1fe5c0a07981faab1b5",
+      "title": "Dubai experts call for earlier orthodontic screening in children",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/dubai-experts-call-for-earlier-orthodontic-screening-in-children",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-01T13:01:02.066Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

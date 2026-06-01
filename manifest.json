@@ -10340,6 +10340,24 @@
       "processedDate": "2026-06-01T13:31:01.338Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "21799597646399de6347ac0d83dc4d8e6ce44bfd10c2232b8eccae6a1ed7a8a6",
+      "title": "Sharjah toddler’s fatal high-rise fall sparks urgent UAE child safety alert",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/emergencies/sharjah-toddler-fatal-high-rise-fall",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-01T13:45:46.757Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "21799597646399de6347ac0d83dc4d8e6ce44bfd10c2232b8eccae6a1ed7a8a6",
+      "title": "Sharjah toddler’s fatal high-rise fall sparks urgent UAE child safety alert",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/emergencies/sharjah-toddler-fatal-high-rise-fall",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-01T13:45:48.618Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

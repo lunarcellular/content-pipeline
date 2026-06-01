@@ -10268,6 +10268,15 @@
       "processedDate": "2026-06-01T09:30:52.373Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7b0a94f0ab8f3ac45d44104d43f687b70d8b39214f6202418cba373a8a7dd8f5",
+      "title": "1,000 suspected Ebola cases, 282 confirmed in Congo: Survivors describe their recoveries ",
+      "sourceUrl": "https://gulfnews.com/world/africa/1000-suspected-ebola-cases-282-confirmed-in-congo-survivors-describe-their-recoveries-1.500559513",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-01T10:27:22.147Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

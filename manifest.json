@@ -10520,6 +10520,15 @@
       "processedDate": "2026-06-02T09:45:50.818Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b84b920ced0cd3b2a7a820da9f0d6e8e118f5036f50f8cd2b27d6f168d65690a",
+      "title": "Anthropic's Claude offline in apparent major outage",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/06/02/anthropics-claude-offline-in-apparent-major-outage/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-02T10:30:50.461Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

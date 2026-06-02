@@ -10412,6 +10412,24 @@
       "processedDate": "2026-06-02T03:00:54.183Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3f7986c92e82fe136182786681b9a69c5cd3d593af42fb4cbf5787393f2c549e",
+      "title": "CBSE portal vulnerability: UAE schools reassures students of 'fair' evaluation process - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTJsQ09pM25ZTG1ya0dXUDBsUml5QlpYNm1xQWNjWFpWYzBGZU1rejlRWXhTM2R2R1NYeGZzZkZ2ZzNUbG83OE5SVjFwX0hrclpKazdnZ0dLWEV0bHRHVU12LVVqZ25tUXl0c2NCZlVHZW9OM2NnSzJqUENKYTV0N09yMzdQbzJ2Q1hYRUJzUlpxNnpNYXloUnEwXy1TaXd4MUZlQ2R3WXBZSlc0UmhnWNIBuAFBVV95cUxPcWlXQU9Eck1Ga3ZObFVpbFNnd0UtR0dQbGR1ekRwemcyazl4VWFQeGRha05iTGdVejdFVHExM3Rockc5ek1JS0FYTV9HdU9rMXJxSzMweVFDdE13Rld3T1B3ZmZnQ2dqZnl6MkZUOXZtWEpBNnAxUXRNNnVfbHNIN1V3eEVDdy1lSVVpdE9GQkpoWDNLU1dPN2w3QXVVY1NBTXJ6dXV1eFVuLXZGVGs2cldlNkZWajJL?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-02T03:15:42.967Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9638158f2dc2ecd772e16f05107f7cfd84187bf9d8c90fdc72e24463ca128f23",
+      "title": "Emirates NBD and FAB lead responsible AI index as region's banks close gap with global peers",
+      "sourceUrl": "https://www.thenationalnews.com/business/banking/2026/06/02/emirates-nbd-and-fab-lead-responsible-ai-index-as-regions-banks-close-gap-with-global-peers/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-02T03:15:45.734Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

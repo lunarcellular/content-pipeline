@@ -10511,6 +10511,15 @@
       "processedDate": "2026-06-02T08:31:01.476Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "6704b7fc9a8567383789b930e8a3db53ab8839e5a28e7f49f3f3ba67c3e4b679",
+      "title": "Abu Dhabi freezes rent hike: What is Tawtheeq platform; registration process, fees",
+      "sourceUrl": "https://www.khaleejtimes.com/life-and-living/abu-dhabi-tawtheeq-platform-registration-process-fees-requirements",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-02T09:45:50.818Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

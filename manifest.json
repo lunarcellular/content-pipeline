@@ -10466,6 +10466,15 @@
       "processedDate": "2026-06-02T05:12:31.875Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "17fff51bbc11098e3ad73337de91fa4b8f9c5ee44e8f0f0fc98a01c5d3781b3c",
+      "title": "When will UAE schools close for summer holidays? Term dates and breaks explained",
+      "sourceUrl": "https://gulfnews.com/uae/when-will-uae-schools-close-for-summer-holidays-term-dates-and-breaks-explained-1.500560451",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-02T07:31:27.966Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-02-uae-school-calendar-2026-2027.md"
     }
   ]
 }

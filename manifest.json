@@ -10475,6 +10475,42 @@
       "processedDate": "2026-06-02T07:31:27.966Z",
       "relevant": true,
       "outputFile": "output/2026-06-02-uae-school-calendar-2026-2027.md"
+    },
+    {
+      "urlHash": "60c7ee815e1c7820cd7b388be04916512eeace358337c87d250242169ff3274c",
+      "title": "Florida sues OpenAI, CEO Altman over ChatGPT 'endangering kids, deceiving parents'",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/florida-sues-openai-ceo-altman-chatgpt-unsafe-minors",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-02T08:30:55.447Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "992e4cfdf2aaa4ee5f60a9c2905e82e41a493feb58b9499d972cc9388ca499f1",
+      "title": "Who gave the best Eidiya during your childhood",
+      "sourceUrl": "https://www.khaleejtimes.com/videos/who-gave-the-best-eidiya-during-your-childhood",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-02T08:30:57.242Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d7e788c9f2f0200892a38d29ccdabfb2216ad740876718e7a9d97af8b4f972f1",
+      "title": "India's visa rule change: Foreigners need to apply for stay extension within 180 days",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-visa-rule-change-foreigners-stay-extension-180-days",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-02T08:30:58.924Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e99832710b699216dac489ac9b1353148d40aec5907c5c5fdf503290f89dbf15",
+      "title": "When will UAE schools close for summer holidays? Term dates and breaks explained - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDc5eUNPalA4WXpLTGV2Y3N0UkJBRnVOcFlQbkJZU0ItUDVscFBYZHphU0M2VXdOcjM0NTNjZXFhUXlMbGRtbEFUamNLYTFrODBBbWt4U1loZXl6c2h0MGhGWThvVXJpd05JTU1IZTlpdkZMZGpxY0lfZ3llRWE3ckVCcUdLVW5mR2J0RWJwdXBySWY0RGdSQUFoMkRuY2NIc2NqNm02QjlvZUk3V3FBQ2pLczdZd3fSAccBQVVfeXFMUGlfdS1DS2RXSmsyYUFiYkN3RTFGOTAzOEV4dEctNzBoeU1xMjBZQnp2UHhEeHVZN3JLWUhJT2puSVIxRUxqazdTcWZON3pkcm5mYlpwamdYQ1NSRTdCVEVqQXVDbXZkbW5jdWtVakZESno0OHlEMVEwVnNHekViYmtab0stN09OYmY2NVctMlUxaGVaUndYTWtMMThTSktKY1dvQzRaYVpDcmFiX2RvbklVQnhXU3BibzhoNHFfQjVibkc3SzVhMA?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-06-02T08:31:01.476Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

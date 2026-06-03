@@ -10898,6 +10898,24 @@
       "processedDate": "2026-06-03T12:15:54.543Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5c9f8ca6b42a07c8172f6e58d88774b9bb6304924da5cdea861f9d0850f323e1",
+      "title": "Teen founder launches Legal Hero to make law accessible for students - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUVXallPSVpnWjBCYnNIYUk0SUZXeWMzQmx1eFF5M2tybTZ1d2VJdGphVWlXQnM0NlBXNHRhMXA2TjVsUmRYek5TWHZ6NXluVkhWaEVkUkI4QWJBdER6TUt0Wl9VTTF4VWJVc0RQX3RHNjVneTJ6NWxKLVItcVMxdFdwRW9DWFFianRJblRIRU1CUjl5OWZ5NmhrMFNKdll1MmNuU1BvYThEZW1n0gG0AUFVX3lxTE5oRDJVMUc3V2w5OU9Rd2lsTFpXTjVPTWpIUm9VcThhQ1dFN3c0V2Y1SEJaRG10VW81ZWp2eEZaMVNKOERxM25NQ2lNcXBIU1JUSVRqM18xQ0lJRTVfUVNxVmNjZXRvajkwWlpzVDk4VGxSYi1aYVN6VkNQU0E1SXd0RnNvWmd0NGY1R1dYazM3bHB2N0FUTC1aNkxpblJXejBuRlZzU2prSkFtZS1VMnRzanRJSA?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-06-03T12:30:57.541Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ce9e9a25510a89131b92053c87d41cb9529a791960c3a4db9cd0ed5681d2a5a8",
+      "title": "UAE Skills Platform to develop 1,700 future skills for 200,000 students",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-skills-platform-to-develop-1700-future-skills-for-200000-students-1.500562120",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-03T12:31:28.824Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-03-uae-skills-platform-future-skills-students.md"
     }
   ]
 }

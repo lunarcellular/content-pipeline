@@ -10961,6 +10961,15 @@
       "processedDate": "2026-06-03T14:45:55.994Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4d0f22f256a9afbcfb75014a4abfe52c4a7511910d168d0c819265e9809f7f62",
+      "title": "UAE weather alert: Dust and low visibility forecast through Saturday as winds strengthen",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-alert-dust-and-low-visibility-forecast-through-saturday-as-winds-strengthen-1.500562322",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-03T15:16:00.579Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -10691,6 +10691,24 @@
       "processedDate": "2026-06-02T23:06:47.592Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1b2945f0bd650d11181879b6c11bb3a6d885a88aef5cc30665d332908fa446da",
+      "title": "After escaping the Taliban and years in exile, the Afghan women's soccer team rises again",
+      "sourceUrl": "https://gulfnews.com/sport/football/after-escaping-the-taliban-and-years-in-exile-the-afghan-womens-soccer-team-rises-again-1.500561354",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-03T01:48:44.124Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8d50251e5443dec66df91828ac64731fbe125f3b3a7213685af11aa7fe61416d",
+      "title": "Sharjah toddler's death: Parents of neighbouring girls secure bail after tragedy",
+      "sourceUrl": "https://gulfnews.com/uae/sharjah-toddlers-death-parents-of-neighbouring-girls-secure-bail-after-tragedy-1.500561190",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-03T01:48:46.579Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

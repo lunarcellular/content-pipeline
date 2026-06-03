@@ -10754,6 +10754,15 @@
       "processedDate": "2026-06-03T06:30:47.315Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "461d8ff5105c68644d4602f97db79bf2fff6c18234fb4c766bf488c746c8cd6e",
+      "title": "Dubai's KHDA to resume inspections at schools with no more than 24 hours' notice",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-khda-resume-inspections-monitoring-private-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-03T06:45:58.333Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

@@ -10808,6 +10808,33 @@
       "processedDate": "2026-06-03T07:16:45.290Z",
       "relevant": true,
       "outputFile": "output/2026-06-03-khda-short-notice-inspections-dubai-schools.md"
+    },
+    {
+      "urlHash": "e89a75efb5a432b38c7a16df03ef67523f6b5a47e1d5ea7f7a949daf68ca1931",
+      "title": "UAE President pays tribute to pioneering UAE educator Dr Mahmoud Al Qaisiya - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkdmNUMtUWxyNEE0S01saHM1TC0wZkVvZURTNVluMDlNM3A4R2RkLU96VDQ1Tl9jQnNTZ0g2Zld0VEtlSXk0SnhKNmZwR1MxOHdxM3c2UVlPOUpwc09IaGtDcXM2eXI4cmZvaUJYdHdlbkFWZkJ1T25LRzR1QVJmTzdmcTA1MzJyZHg3UUtVeGU1MnNXckRLT1hUNnVjNXVrVGxadHZkaWNEMnU0MWZJWW42WWgxaVY4UEQtdGg2a9IB0gFBVV95cUxPaG8xOXBpYmNEMXBMSGFnU1FZRVNBR2hPcExOOWhtcjZTWjZwbzhUQXo3UmE0M05fc3ozMzE5b2k5c3dDWmdKcjktQnlVckJ1U1Jxc0RicWtWWklHQnNkY2J2MWF0dm9iMDVPWWRnWkRWN1lIQ0FfNmozcU15TGJiaUJIZkJ2UGt3YW9OZWVtUDNwLU9NWlMxYUZjUGFxazJySHRCR2hHLVI1bzAyY3ZQYi1MekdETGRkUUlfT1RXYzQ4TVZvWkdlelk1VUp6UFJnRnc?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-06-03T07:30:53.584Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5c9f02cf26e1053c1dc61aa7bca785d1c04d5fab838650481860bb998da9dc18",
+      "title": "Are we teaching children to think or simply to comply? - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOVdVbzFySnlOWDFZTjN0UzZZWFJWa1Z5cFZGNU1GMmpPVGczdURxS2s3OThsNEpKUV91M2xHb1h4Y2dGWkoyYTJsZ0VVLW4xU3I1YWNyeTgzZTVxaTFoWGRjdG5IaXc3bkxlRUptWXExcmQ3ay1TbEV6UWs5NXRJYVl3NWRLYnlSQzQ4OXhFclFvUW84dDhQSXUtSnFCc2xoaE1Z0gG2AUFVX3lxTFBOSmFYWW1hdHV2cFBMWVFIOEVYZEhtVW15T0NTRmc5SGpNUWNsd1l3dW5hSUtNVDNGam0tZnhEY08zek90cFdvdFlDazJGLTBVMW1aTnhvN0w3N09PMzdKaUg1U2xUNC05V3I5dDhRemwta1FzdzNJbXJETGpqck9TeWhjN1RDT3FBNVJxTnpXdE1INE96VGtIcG5WQ3NLQnd0bVFmSS1uOTh2dVNoWnlha3Rxd2Z3?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-06-03T07:30:56.005Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "740966ce3feb3f2afcebdab8db7bea14397fba1e2ae7cfe71a472bf7472ead6a",
+      "title": "Kuwait suspends commercial flights after Iranian drones hit airport terminal",
+      "sourceUrl": "https://www.thenationalnews.com/travel/2026/06/03/kuwait-suspends-commercial-flights-after-iranian-drones-hit-airport-terminal/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-03T07:30:58.091Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

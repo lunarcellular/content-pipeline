@@ -10925,6 +10925,15 @@
       "processedDate": "2026-06-03T12:46:21.878Z",
       "relevant": true,
       "outputFile": "output/2026-06-03-uae-parent-friendly-label-applications.md"
+    },
+    {
+      "urlHash": "26bba4eb672125347e84bc54bb140ac0670d8c67f47572ce8a8b6292a32fd12b",
+      "title": "IMF says prolonged Iran war could weigh on Saudi Arabia's medium-term outlook",
+      "sourceUrl": "https://www.thenationalnews.com/business/economy/2026/06/03/imf-says-prolonged-iran-war-could-weigh-on-saudi-arabias-medium-term-outlook/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-03T13:15:56.644Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

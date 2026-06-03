@@ -10916,6 +10916,15 @@
       "processedDate": "2026-06-03T12:31:28.824Z",
       "relevant": true,
       "outputFile": "output/2026-06-03-uae-skills-platform-future-skills-students.md"
+    },
+    {
+      "urlHash": "42c7d975f64aae4fe69f98aa73b24c3b96049b5116f0bc32a7ea0145ae0eb4af",
+      "title": "60 days left to apply for UAE’s Parent-friendly Label",
+      "sourceUrl": "https://gulfnews.com/uae/60-days-left-to-apply-for-uaes-parent-friendly-label-1.500562130",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-03T12:46:21.878Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-03-uae-parent-friendly-label-applications.md"
     }
   ]
 }

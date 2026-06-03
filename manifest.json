@@ -10790,6 +10790,24 @@
       "processedDate": "2026-06-03T06:59:44.129Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "9e94647eb5efec8462f504fcd7e0db7e6629e2b2ce014dacc5a4c11707648318",
+      "title": "KHDA to inspect Dubai schools with no more than 24 hours’ notice",
+      "sourceUrl": "https://gulfnews.com/uae/khda-to-inspect-dubai-schools-with-no-more-than-24-hours-notice-1.500561669",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-03T07:16:45.290Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-03-khda-short-notice-inspections-dubai-schools.md"
+    },
+    {
+      "urlHash": "61d025a27c44fce8699ae93438a3a3888474a5225c538b3b42c7bd9e2a9735e8",
+      "title": "KHDA to inspect Dubai schools with no more than 24 hours’ notice - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUjBjdlREdEhzOV83aEp0TjVZZjJpYXZ6N0k5OGIyYjdhYmNKaGJ2MjZjLTkzd1I2SmZUUUpPSHlnM0xyRTA3ZjlQcDVTZl9XTV9uRnE2eE1xaHBmR091VTZYdVJieHA0aE9mTXJiWnR6Q3RFQkVqWGxjSW9xU2t5Y0o1QXNZTVotMmFCQkZ5LWRJcHBWTDlzMTlaRXAtcG9nVGfSAbIBQVVfeXFMUHl0TTJWcFQ1NWFvMjJaSThhQVhoUzV1Z0dWS3ZidndsT29HajFaWk5qVUdtLWxLMWtwSlJ6Zl9qMlpPakF2eGdUWUZVdm51akoyc1JRWC1kYWhWSGhzeC1TVTV3b045S1NvX3dkUGJsLVI0TGtsUzE2alp5QUliQ3RhQWM0STV1OVhCdmdRZ0g3Sk9FVHpCSjJXb21XbnZFMF93SmlVRlVDeHU4Z3VmcnFQQQ?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-06-03T07:16:45.290Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-03-khda-short-notice-inspections-dubai-schools.md"
     }
   ]
 }

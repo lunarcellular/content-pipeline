@@ -11240,6 +11240,24 @@
       "processedDate": "2026-06-04T12:30:58.389Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "17b58cc8cdf8d02724c7e3c73a7d47b6e771c8a9186b5318e56fd3d43cf75759",
+      "title": "Dubai announces public holiday for schools, universities for Hijri New Year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-announces-public-holiday-for-schools-universities-for-hijri-new-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T12:46:14.860Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "17b58cc8cdf8d02724c7e3c73a7d47b6e771c8a9186b5318e56fd3d43cf75759",
+      "title": "Dubai announces public holiday for schools, universities for Hijri New Year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-announces-public-holiday-for-schools-universities-for-hijri-new-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-04T12:46:26.516Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

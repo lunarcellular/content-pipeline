@@ -11060,6 +11060,15 @@
       "processedDate": "2026-06-04T04:00:54.041Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "21dd5d809ccbe1f291d652f0e247e164219facea8622e749d4f80c6f77c0d2da",
+      "title": "Watch: Kuwait releases footage of Iranian attack on airport that killed 1, injured 63",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/kuwait-footage-iranian-attack-airport-video",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T05:45:53.926Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

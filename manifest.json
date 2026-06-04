@@ -10988,6 +10988,15 @@
       "processedDate": "2026-06-03T17:46:38.955Z",
       "relevant": true,
       "outputFile": "output/2026-06-03-khda-quality-assurance-dubai-schools-2026.md"
+    },
+    {
+      "urlHash": "841633cddef61ba126ed8d4b0f03d14b19aa9528a7fd7b3025b19b234379d19b",
+      "title": "Video: CCTV footage reveals moment Iran Shahed-136 drone hits Kuwait airport terminal",
+      "sourceUrl": "https://gulfnews.com/world/mena/video-cctv-footage-reveals-moment-iran-shahed-136-drone-hits-kuwait-airport-terminal-1.500562643",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-04T01:45:38.427Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

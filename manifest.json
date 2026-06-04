@@ -10997,6 +10997,60 @@
       "processedDate": "2026-06-04T01:45:38.427Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "641baa934bd09d8ccf2dfabfe14f5a390ac610cf65869cdae3c7b348a1b167b5",
+      "title": "Online safety: Which countries are moving to curb children's social media access",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/online-safety-which-countries-are-moving-to-curb-childrens-social-media-access",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T03:00:54.326Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4ef21cd7f8a76a2dd524186e27dcd171e9e513406cec9311f9d8981b1e301946",
+      "title": "New perks: UAE employers add will-planning, wellness cash, flexible work",
+      "sourceUrl": "https://www.khaleejtimes.com/business/new-perks-uae-employers-add-will-planning-wellness-cash-flexible-work",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T03:00:58.660Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9f0d88ba2549dda9647a1d4017fbfb976c54da11bca4b935fcbea9aa6234e6ca",
+      "title": "New UAE-approved weight-loss pill must be used responsibly, experts say",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/04/new-uae-approved-weight-loss-pill-must-be-used-responsibly-experts-say/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-04T03:01:05.276Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "098ecb58293d621addd8466695921f00aa75ab0bfaa270a049f35d8e9726adab",
+      "title": "New KHDA quality visits announced for Dubai schools: What parents need to know",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/khda-quality-visits-dubai-schools-explainer",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T03:01:17.000Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "098ecb58293d621addd8466695921f00aa75ab0bfaa270a049f35d8e9726adab",
+      "title": "New KHDA quality visits announced for Dubai schools: What parents need to know",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/khda-quality-visits-dubai-schools-explainer",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-04T03:02:08.181Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-04-khda-quality-assurance-visits-dubai-schools.md"
+    },
+    {
+      "urlHash": "f4deb633fcfbccae51b56a4a575506900be9de8fa7f80c5d9961690355763d73",
+      "title": "New KHDA quality visits announced for Dubai schools: What parents need to know - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWNZMmxqZDJqcFpvaEV6SXlpaUVKOGhpc2FNQTEtYU5WSmx4VV9yOVdkZV9oTVBGYjF4U0R0MFBXSUR6bzEtQnVueG5GYzhMUUZIYzkzRXc3VUJwcTBMU2V6c1dMN3hXdW01SVlUN1VsLU1EVkxlM21SWGs3aTloRlRIa29neG9uV0NqV241SdIBlwFBVV95cUxPUmRVZ3NJZThmR29VRTJDcG1paWRHZFp5MzdsbXgwR3RqQmc4X1U0UlNCWDVXQjY1clFIMklsUk1FTXllZEN0VW5ZV1lKek5QWjE2VEtodEZ1Y09vLTRQTkV5M2tSM2RUWXNzc3RoVUlpSjRVbjRfaGJqeVZONGc2d25FVDNiUC1US1E2TkJkU2VQdUFaQ29J?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-06-04T03:02:08.181Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-04-khda-quality-assurance-visits-dubai-schools.md"
     }
   ]
 }

@@ -11258,6 +11258,15 @@
       "processedDate": "2026-06-04T12:46:26.516Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "5c6ddd7b6e47e31d9710ed98e9b0f144eaafb254a9558af7e15a69b6b83e5a86",
+      "title": "Kuwait releases footage of deadly airport attack after Iran denies responsibility",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/06/04/kuwait-releases-footage-of-deadly-airport-attack-after-iran-denies-responsibility/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-04T13:01:09.910Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

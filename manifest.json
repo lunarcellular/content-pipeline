@@ -11294,6 +11294,15 @@
       "processedDate": "2026-06-04T13:43:28.683Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "1fbb4d747fe8cb5b93a6dddcfe307143f0b237f152f0cf1e395cd298efaae032",
+      "title": "Construction worker who stabbed Saudi student to death in Cambridge jailed for life",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/06/04/construction-worker-who-stabbed-saudi-student-to-death-in-cambridge-jailed-for-life/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-04T14:15:56.922Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

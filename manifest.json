@@ -11159,6 +11159,15 @@
       "processedDate": "2026-06-04T08:46:26.963Z",
       "relevant": true,
       "outputFile": "output/2026-06-04-investment-in-dubai-schools-expansion.md"
+    },
+    {
+      "urlHash": "06280a0211940fd63917bdc65f398595ea8227f5a11af5158a098ddce75e2d96",
+      "title": "Saudi Arabia adds new Red Sea shipping route linking Jeddah with India and Djibouti to boost trade connectivity",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-adds-new-red-sea-shipping-route-linking-jeddah-with-india-and-djibouti-to-boost-trade-connectivity-1.500563011",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-04T09:00:58.210Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -11312,6 +11312,15 @@
       "processedDate": "2026-06-04T15:16:06.588Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "d60c51aae8711f003bc061ae3553162a0672cda686b25965c78f550eba03dbf0",
+      "title": "Syrian Foreign Minister Al Shibani arrives in Algiers for ice-breaking visit",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/06/04/syrian-foreign-minister-al-shibani-arrives-in-algiers-for-ice-breaking-visit/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-04T15:30:56.293Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

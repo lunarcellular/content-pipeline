@@ -11195,6 +11195,42 @@
       "processedDate": "2026-06-04T10:46:00.677Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "145d8b06f71aa10c7b44a7515bb19d8f971ae87be29f0c4ff123417c4f87cd8e",
+      "title": "Binance launches fully regulated AED fiat-crypto ramp in UAE with zero deposit fees",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/binance-launches-fully-regulated-aed-fiat-crypto-ramp-in-uae-with-zero-deposit-fees-1.500563239",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-04T12:15:50.568Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "32c41b40e630fee3b40960c13cb6a82814c3545124721eaeae756738e1c78e67",
+      "title": "ADIB launches mobile salary payment service for UAE employers",
+      "sourceUrl": "https://gulfnews.com/business/banking/adib-launches-mobile-salary-payment-service-for-uae-employers-1.500563308",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-04T12:15:52.726Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "99df3926084cfad07563cd4f9d401a5a26ff1b242e0d5a85bbd9fe9a7c5ed244",
+      "title": "PureHealth launches AI-focused medical university campus in Greece",
+      "sourceUrl": "https://gulfnews.com/uae/health/purehealth-launches-ai-focused-medical-university-campus-in-greece-1.500563283",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-04T12:15:54.887Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0de7b7276a5f82ca5e4d775e995c953922a1f8a721313f047d156c673a158c7a",
+      "title": "Why are regional attacks continuing despite US-Iran ceasefire? Trump clarifies definition",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-iran-ceasefire-trump-clarifies-definition",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T12:15:56.475Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

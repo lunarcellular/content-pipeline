@@ -11303,6 +11303,15 @@
       "processedDate": "2026-06-04T14:15:56.922Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e06f566536c4b054a08aef8e520c55911e04611d0eebc3c4e7c939e20449f9b1",
+      "title": "UAE announces Term 3 exam dates for thousands of school students - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdU15X1phamRYejJ3VjE1bUVwY2stR2xNcEVkR0JpM1JEZEFVeHluSVE1UUh2ZXNfTkE2aGFMZTFDSWFScXZwWDcwajlCUGlueWU2WktKUkwwM05Jd0VBR2ZkX29NQU9PR2VLTUdVRGpEY0kzME9Qem9PSTc0TDd5YlNTSVVfb3Q00gGQAUFVX3lxTFBlcXRzSHAySGl6NTJ4cmRHbXBxQ1N3M0FmbzN6MmFyc3BPbG1WSzhycXlQckZzZV9COF9pX29CWnkzR3hJb3hGWkJGUC1GcFctMkI3Q2pYS0tWdUNvQ2xld1JMeGhzVjY5SXd4T3hPWkpPRG9ONmZfQ2JCNnJpUUVyQzU1SGJ4Mm5ja0ZQVHd5eg?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-04T15:16:06.588Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

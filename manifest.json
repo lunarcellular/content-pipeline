@@ -11069,6 +11069,24 @@
       "processedDate": "2026-06-04T05:45:53.926Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "54c82b0d9d22a7da149f5100c8d31eea68b02897ba456d74fbe8dd4c4d1a8158",
+      "title": "Lalit Modi reveals PM Modi's passion for cricket, demands better fan experience",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/cricket/lalit-modi-reveals-pm-modis-passion-for-cricket-demands-better-fan-experience",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T07:15:51.248Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "22059151d990a1e6e48dc1a4c94019ee793ca90488e68dffac967a6b07e45875",
+      "title": "UAE announces Term 3 exam dates for thousands of school students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-term-3-exam-schedule-2025-2026-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-04T07:16:04.821Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

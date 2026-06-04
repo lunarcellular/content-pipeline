@@ -11267,6 +11267,15 @@
       "processedDate": "2026-06-04T13:01:09.910Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1cacd5ead6224a3c41a29648f86b47f09ef4a7a871fe72334c70578e45e4d7c9",
+      "title": "Dubai school calendar 2026–27: Key term dates, holidays, half-term breaks for parents",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/dubai-school-calendar-202627-term-dates-holidays-half-term-breaks",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-04T13:16:07.901Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

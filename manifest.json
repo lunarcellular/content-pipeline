@@ -11087,6 +11087,24 @@
       "processedDate": "2026-06-04T07:16:04.821Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "f854507c7725ceb44fe8b0df3b358e7e8f1d5c4233d430bac88e0dda3d5ef1e7",
+      "title": "GEMS Education to invest Dh2 billion, add 20,000 student seats in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/gems-education-invest-dh2-billion-dubai-school-setas",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-04T07:46:02.881Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f854507c7725ceb44fe8b0df3b358e7e8f1d5c4233d430bac88e0dda3d5ef1e7",
+      "title": "GEMS Education to invest Dh2 billion, add 20,000 student seats in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/gems-education-invest-dh2-billion-dubai-school-setas",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-04T07:46:36.573Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-04-investment-dubai-schools-student-capacity.md"
     }
   ]
 }

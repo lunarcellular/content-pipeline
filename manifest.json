@@ -11411,6 +11411,24 @@
       "processedDate": "2026-06-05T06:45:48.669Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f5ee50dc74f833257a4bef9fe4697dec953507b5c4f44958c6eba696aff90691",
+      "title": "US-Iran tensions: Oman's explosion hit oil terminal resumes operations as Hezbollah and Israel trade fresh strikes",
+      "sourceUrl": "https://gulfnews.com/world/mena/middle-east-tensions-omans-explosion-hit-oil-terminal-resumes-operations-hezbollah-israel-trade-fresh-strikes-1.500563951",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-05T08:01:03.315Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "05e8a388d4dc2dd56a1bb1b8072006ab48c2ebb775c7e63c8f49a487eedcc562",
+      "title": "Amity University's media studies department launches student-led #LetUsDiabeatIt campaign",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/amity-universitys-media-studies-department-launches-student-led-letusdiabeatit-campaign",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-05T08:01:05.331Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

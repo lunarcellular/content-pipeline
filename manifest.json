@@ -11483,6 +11483,24 @@
       "processedDate": "2026-06-05T08:50:30.565Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "750e03a0be04aee0a3498658dfde477bcc40517477462d12b4f762749efa8b40",
+      "title": "Construction worker jailed for life over fatal stabbing of Saudi student in Cambridge",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/man-jailed-life-fatal-stabbing-saudi-student-cambridge",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-05T09:15:56.183Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "909ce7646a1b8c407ca4c95b32c0c5d10adb4689bde45817d2c62b59e9c10834",
+      "title": "AEON Dubai makes sports medicine core to longevity care, linking muscle strength to long-term health",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/aeon-dubai-makes-sports-medicine-core-to-longevity-care-linking-muscle-strength-to-long-term-health",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-05T09:15:58.082Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

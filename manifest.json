@@ -11384,6 +11384,24 @@
       "processedDate": "2026-06-05T05:15:54.874Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "76bd76bb662da56083bcae3c2a0be978a824d3fac93783df06ce9727698a77cc",
+      "title": "UAE family spends Dh154,000 on UK visas as demand for long-term travel access grows",
+      "sourceUrl": "https://www.khaleejtimes.com/life-and-living/visa-and-immigration-in-uae/uae-family-spends-dh154000-on-uk-visas-as-demand-for-long-term-travel-access-grows",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-05T06:30:58.222Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "76bd76bb662da56083bcae3c2a0be978a824d3fac93783df06ce9727698a77cc",
+      "title": "UAE family spends Dh154,000 on UK visas as demand for long-term travel access grows",
+      "sourceUrl": "https://www.khaleejtimes.com/life-and-living/visa-and-immigration-in-uae/uae-family-spends-dh154000-on-uk-visas-as-demand-for-long-term-travel-access-grows",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-05T06:31:00.406Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

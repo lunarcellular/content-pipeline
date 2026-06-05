@@ -11366,6 +11366,24 @@
       "processedDate": "2026-06-05T03:00:54.423Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "94d079482df4a79cbc0377b9e6588112ed37eece8defc435bd4269709e4cc6a4",
+      "title": "Middle East tensions: Oman oil terminal hit by blast, Israel-Hezbollah strikes resume as US warns Americans",
+      "sourceUrl": "https://gulfnews.com/world/mena/middle-east-tensions-oman-oil-terminal-hit-by-blast-israel-hezbollah-strikes-resume-as-us-warns-americans-1.500563951",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-05T05:15:52.752Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "27298095bbecbd109a489edb71fda8672d9209a6a93836d8169c33ae47728c7d",
+      "title": "Oman suspends oil loading at Mina al Fahal terminal following explosion, sources say",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-ceasefire-day-59-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-05T05:15:54.874Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

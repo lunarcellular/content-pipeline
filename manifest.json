@@ -11708,6 +11708,24 @@
       "processedDate": "2026-06-06T13:15:47.503Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "91004bcfd0b94efe8158ab88317738aae10e6c774a6108c31fa17a7145241873",
+      "title": "India's total fertility rate has fallen to 1.9 children per woman for the first time",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/indias-total-fertility-rate-has-fallen-to-19-children-per-woman-for-the-first-time-1.500565768",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-06T16:45:53.253Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "809a111044f61fbdc16e95cf77b4f3275463958405220b2928c4ac40ad06195c",
+      "title": "Dubai's KHDA to resume inspections and ratings for private schools ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/06/dubais-khda-to-resume-inspections-and-ratings-for-private-schools/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-06T16:46:16.168Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-06-dubai-schools-inspections-2026.md"
     }
   ]
 }

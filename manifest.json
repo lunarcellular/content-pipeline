@@ -11672,6 +11672,24 @@
       "processedDate": "2026-06-06T09:30:52.573Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0bd66754fbc81851512f476a55ac6ae98745e89ee10866608164c04b7fb740d4",
+      "title": "ADRES partners with Keyper to launch flexible monthly digital rent payments in Abu Dhabi",
+      "sourceUrl": "https://gulfnews.com/uae/adres-partners-with-keyper-to-bring-flexible-monthly-digital-rent-payments-to-abu-dhabi-1.500565462",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-06T10:16:31.888Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b70345e880147c87a08d30ba7ca15f8a14477ffc0838fcb481ed98bbf4b00e84",
+      "title": "'Cockroaches never fear': Scores of Indian students angered by exam leaks take to streets",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/hundreds-of-indian-students-angered-by-exam-leaks-protests",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-06T10:16:33.988Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

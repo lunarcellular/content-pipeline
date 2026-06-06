@@ -11627,6 +11627,15 @@
       "processedDate": "2026-06-05T22:36:39.956Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fb229a40846de79b876b6b24b88ea111eea4e139e1e1c3f7e80918a6fc7a546a",
+      "title": "UAE weather forecast: Dusty conditions, rising temperatures and possible fog in coastal areas",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-forecast-dusty-conditions-rising-temperatures-and-possible-fog-in-coastal-areas-1.500565137",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-06T04:30:52.645Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

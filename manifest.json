@@ -11645,6 +11645,24 @@
       "processedDate": "2026-06-06T08:45:47.462Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e12095fbff949c0c193ea828b8ee7a73ef791250d54e791826e08f15f90904a6",
+      "title": "Heat stress in children's sports: UAE doctors, parents weigh risks as temperatures climb",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/heat-stress-childrens-sports-uae-doctors-parents-weigh-risks-summer",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-06T09:00:58.882Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e12095fbff949c0c193ea828b8ee7a73ef791250d54e791826e08f15f90904a6",
+      "title": "Heat stress in children's sports: UAE doctors, parents weigh risks as temperatures climb",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/heat-stress-childrens-sports-uae-doctors-parents-weigh-risks-summer",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-06T09:01:00.911Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

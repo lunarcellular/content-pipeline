@@ -11906,6 +11906,24 @@
       "processedDate": "2026-06-07T14:15:46.821Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9b2c98eaaf1ef101be69e52cfaee6fdc73ea1b5e891b33a59301c9c69c1526b0",
+      "title": "India flyover school offers lifeline to street children",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-flyover-school-offers-lifeline-to-street-children-3",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-07T14:30:55.097Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ddb579f9a96984d4564ed74c4b65fb710b9d458331069f9d7414b9deb963eb69",
+      "title": "SpaceX IPO running at two times oversubscribed, sources say",
+      "sourceUrl": "https://www.khaleejtimes.com/business/markets/spacex-ipo-running-at-two-times-oversubscribed-sources-say-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-07T14:30:56.708Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -11852,6 +11852,24 @@
       "processedDate": "2026-06-07T11:00:53.123Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ade725a0871d49c1dd2abf63d3e2444078d3c254574da7a61929fed773ccd9f7",
+      "title": "Venus and Jupiter to stage rare close approach visible across UAE skies",
+      "sourceUrl": "https://gulfnews.com/uae/venus-and-jupiter-to-stage-rare-close-approach-visible-across-uae-skies-1.500566257",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-07T12:00:57.920Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "693c4d44204e049d8dfe3706dde58c674626bff74cb0d3e419ebc2debaaeec18",
+      "title": "Explained: From meme to movement, how ‘Cockroach Party’ inspired Indian students protest",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/explained-from-meme-to-movement-how-cockroach-party-inspired-indian-students-protest",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-07T12:00:59.772Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

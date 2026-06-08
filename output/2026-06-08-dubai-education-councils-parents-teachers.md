@@ -1,12 +1,12 @@
 ---
-title: "Dubai Expands Education Councils to Include Parents and Teachers"
-metaDescription: "Dubai's KHDA introduces new councils for parents and teachers to shape education policy starting in the 2026-27 academic year."
+title: "Dubai Education Councils to Include Parents and Teachers"
+metaDescription: "Dubai's KHDA introduces new education councils for parents and teachers to enhance community involvement in schools."
 slug: "dubai-education-councils-parents-teachers"
 focusKeyword: "Dubai education councils"
-secondaryKeywords: ["KHDA initiatives", "parent involvement in education", "teacher councils Dubai", "education policy Dubai"]
-h1: "Dubai Education Councils: A New Era of Parental and Teacher Involvement"
-readingTime: "5 min read"
-sourceUrls: ["https://gulfnews.com/uae/education/dubai-expands-education-councils-to-include-parents-and-teachers-1.500567253"]
+secondaryKeywords: ["KHDA", "community involvement in education", "Dubai schools", "parent participation"]
+h1: "Dubai Education Councils to Include Parents and Teachers"
+readingTime: "4 min read"
+sourceUrls: ["https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmxndmFXdTRzZEV4QW5POERXdDJ6OU5yTUNRSnljbHlqNlVZNVJOYklzMVBQYlR5OTh0bWlXZkg1bXFoVkdET2thY2pYTUl5QU45cExSRlBLNkR6cUV2dFFhRnlwV19hMFlNZ0NHcW9CRzV4Q1VNMThfV3RPWExwSjZTSlU4alI4TnBaMFk1MGNtSk9sVHdIU3dITHpvdVBBTHNzOHBieFdjR2NYMnZrd9IBwwFBVV95cUxPVXdqUVo1Y2gwU3FRVXh4bHpWeVVxT2duTG1nbFVwTC01QU5qZ0VLeW5SYV8tdndMbm56dlV5TVBMdi1ONERBcnA0RF9HR1dtRl9fWmRzSjhRT3FuOFB4cThVeGxCengzaDVXSUd2YzNkTjlDdDBwWVJmR2JzdzltYVdibkZ1WGlYVFFrSFZ3Uldrb2pnZTdYcWhHQTlFVGgyTlg3UFQ3a2lydWdOMVBrTUVPZFBKNkFhUjMyM0wycmhZRlk?oc=5"]
 generatedDate: "2026-06-08"
 category: "education"
 schema: "NewsArticle"
@@ -16,32 +16,34 @@ imageCredit: "Sue Zeng"
 imageCreditUrl: "https://unsplash.com/@suezeng"
 ---
 
-## Introduction to New Councils
+## Introduction of New Councils
 
-[Dubai](https://www.schoolsery.com/schools?location=Dubai)'s Knowledge and Human Development Authority (KHDA) is set to enhance community involvement in education by introducing new councils for parents and teachers, effective from the 2026-27 academic year. This initiative aims to formalise the participation of families and educators in decision-making processes, thereby enriching the private education landscape in the emirate.
+In a notable move to enhance community participation in education, [Dubai](https://www.schoolsery.com/schools?location=Dubai)'s Knowledge and Human Development Authority (KHDA) announced the establishment of new councils that will formally include parents and teachers in decision-making processes. Starting in the 2026-27 academic year, the Dubai Parents Council and the Dubai Educators Council will provide platforms for families and educators to engage with the education system actively.
 
-## Expanding on Successful Models
+## Background and Purpose
 
-This development builds on the successful establishment of the Dubai Students Council, launched in the previous academic year. The Students Council comprises 16 students from various grades and backgrounds, serving as a platform for student voices in education policy discussions. The positive outcomes from this council have demonstrated the importance of structured student engagement in improving educational practices.
+This initiative builds upon the existing Dubai Students Council, which has been operational since the 2025-26 academic year. The Students Council comprises 16 students from various backgrounds and curricula, aiming to ensure that student perspectives are considered in education policy discussions. The success of this model has prompted KHDA to extend similar opportunities for parental and educator involvement, reflecting a commitment to a more inclusive educational framework.
 
-## The New Councils
+The councils are expected to address critical issues such as student wellbeing, teaching quality, and community engagement. By facilitating a structured dialogue between parents, educators, and the regulatory body, KHDA aims to foster trust and improve the overall learning experience within private [schools](https://www.schoolsery.com/schools) and early childhood centres across Dubai.
 
-The newly proposed councils will consist of the Dubai Parents Council and the Dubai Educators Council, each comprising 15 members selected through a transparent process to ensure diverse representation. These councils will enable parents and teachers to voice their opinions, raise concerns, and contribute suggestions focused on enhancing learning experiences in private [schools](https://www.schoolsery.com/schools) and early childhood centres across Dubai.
+## Council Composition and Selection
 
-The introduction of these councils aligns with broader objectives outlined in Dubai’s Education 33 Strategy, which seeks to create a more inclusive and futuristic educational framework. The councils will address critical issues such as student wellbeing, teaching quality, and the relationship between schools and communities, reinforcing the commitment to a collaborative approach in education.
+Each of the new councils will consist of 15 members selected through a transparent process, ensuring diverse representation. KHDA received significant interest for these councils, with 152 applications for the Parents Council and 160 for the Educators Council, including submissions from Emirati families and education professionals. This high level of engagement indicates a strong desire among the community to contribute to the educational landscape.
 
-## Involvement and Selection Process
+Membership in these councils will be voluntary and unpaid, with initial appointments lasting one year. Members will have the option to reapply for a second term based on their performance and eligibility, allowing for continuity and the potential to build on their contributions.
 
-KHDA has reported a strong interest in these new councils, with 152 applications for the Parents Council and 160 for the Educators Council. This enthusiasm highlights the desire among families and educators to actively participate in shaping educational policies. The selection process aims to ensure fairness and representation, allowing individuals who are closest to the learning environment to share their insights and experiences.
+## Alignment with Educational Strategies
 
-## Goals and Objectives
+The introduction of the Dubai Parents Council and the Dubai Educators Council aligns with the broader goals of Dubai’s Education 33 Strategy, which seeks to create a more inclusive and future-oriented education system. These councils are seen as advisory platforms, ensuring that the lived experiences of families and educators inform education policies and practices.
 
-The primary aim of these councils is to build trust between families, educators, and regulatory bodies, promoting a more connected education ecosystem. By facilitating open dialogue among stakeholders, the councils will help tailor policies to better meet the needs of students and the community. The councils will serve as advisory platforms, ensuring that education policies are informed by real-life experiences from those involved in the educational process.
+KHDA emphasises that the councils will enable those closest to the students to share real experiences and insights, contributing to more responsive and practical educational policies. This shift towards open communication and collaboration among stakeholders is viewed as a critical step in enhancing the quality of education in Dubai.
 
-KHDA emphasises that the councils will operate on a voluntary, unpaid basis, with each term lasting one year. Members will have the opportunity to apply for a second term based on their performance and eligibility, fostering continuity and engagement in the educational dialogue.
+## Implications for Parents
 
-## Conclusion and Future Implications
+For parents in Dubai, the establishment of these councils presents an opportunity to play a more active role in shaping the educational environment. By participating in these councils, parents can voice their concerns, share ideas, and collaborate with educators to enhance the educational experience for their children. This initiative not only empowers parents but also fosters a sense of community ownership over the education system.
 
-The introduction of the Dubai Parents Council and the Dubai Educators Council represents a significant step towards a more participatory approach in education. By including parents and teachers in the decision-making process, KHDA is setting a precedent for collaboration that could lead to meaningful changes in the education system.
+As KHDA moves towards implementing these councils, parents may expect more opportunities for engagement with schools and the regulatory authority, potentially impacting various aspects of school operations and educational policies.
 
-This initiative will likely resonate well with parents seeking schools that not only focus on academic excellence but also prioritise community involvement and responsiveness to feedback. As the education landscape in Dubai continues to evolve, these councils may play an essential role in shaping policies that reflect the needs and aspirations of families and educators alike.
+## Conclusion
+
+The introduction of the Dubai Parents Council and the Dubai Educators Council marks a significant development in the UAE's educational landscape. By integrating parents and teachers into formal decision-making processes, KHDA is paving the way for a more collaborative and inclusive educational environment. This initiative reflects a growing recognition of the importance of community involvement in education, which is essential for the continued improvement of learning experiences in Dubai's schools.

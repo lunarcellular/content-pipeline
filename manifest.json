@@ -12140,6 +12140,15 @@
       "processedDate": "2026-06-08T13:01:03.919Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "f7c65a5306ae31f5391bd7a9bed33eed1c3a78da1665b78042e016a2a9561c83",
+      "title": "Dubai expands education councils to include parents and teachers - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmxndmFXdTRzZEV4QW5POERXdDJ6OU5yTUNRSnljbHlqNlVZNVJOYklzMVBQYlR5OTh0bWlXZkg1bXFoVkdET2thY2pYTUl5QU45cExSRlBLNkR6cUV2dFFhRnlwV19hMFlNZ0NHcW9CRzV4Q1VNMThfV3RPWExwSjZTSlU4alI4TnBaMFk1MGNtSk9sVHdIU3dITHpvdVBBTHNzOHBieFdjR2NYMnZrd9IBwwFBVV95cUxPVXdqUVo1Y2gwU3FRVXh4bHpWeVVxT2duTG1nbFVwTC01QU5qZ0VLeW5SYV8tdndMbm56dlV5TVBMdi1ONERBcnA0RF9HR1dtRl9fWmRzSjhRT3FuOFB4cThVeGxCengzaDVXSUd2YzNkTjlDdDBwWVJmR2JzdzltYVdibkZ1WGlYVFFrSFZ3Uldrb2pnZTdYcWhHQTlFVGgyTlg3UFQ3a2lydWdOMVBrTUVPZFBKNkFhUjMyM0wycmhZRlk?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-06-08T13:46:42.655Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-08-dubai-education-councils-parents-teachers.md"
     }
   ]
 }

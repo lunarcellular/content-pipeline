@@ -12122,6 +12122,15 @@
       "processedDate": "2026-06-08T11:16:38.661Z",
       "relevant": true,
       "outputFile": "output/2026-06-08-dubai-education-councils-parents-teachers.md"
+    },
+    {
+      "urlHash": "f991d06ee602fafe327252698a53e9e43a466ca01e25921e59b601b4d3314a79",
+      "title": "Seven killed as minibus collides with lorry in Dubai",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/08/seven-killed-as-minibus-collides-with-lorry-in-dubai/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-08T12:15:57.420Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

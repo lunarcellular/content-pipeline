@@ -12158,6 +12158,24 @@
       "processedDate": "2026-06-08T14:15:53.257Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2743c4ff55b7c26c071feb19c87933bfb8d5fe0f1b0f26b46b42d994f39eeb5e",
+      "title": "Dubai carries out 24,820 food inspections in five months",
+      "sourceUrl": "https://gulfnews.com/business/dubai-carries-out-24820-food-inspections-in-five-months-1.500567527",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-08T14:45:55.957Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6b214593bded7f2edc3d37e8d7445c24cb785616c0e3a746ad2bb06de495e36a",
+      "title": "Explained: Who is eligible for remote resit exams in the UAE?",
+      "sourceUrl": "https://gulfnews.com/uae/education/explained-who-is-eligible-for-remote-resit-exams-in-the-uae-1.500567561",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-08T14:46:29.409Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-08-remote-resit-exams-uae.md"
     }
   ]
 }

@@ -12230,6 +12230,15 @@
       "processedDate": "2026-06-08T16:32:25.589Z",
       "relevant": true,
       "outputFile": "output/2026-06-08-khda-new-councils-parents-educators-dubai.md"
+    },
+    {
+      "urlHash": "e971643e6611253b4d3546fa1bc7b9c15cb0c22371576da2a4d729d468e76476",
+      "title": "Israel says schools to reopen June 9 after one-day closure over Iranian missile attacks",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/israel-schools-reopen-june-9-after-closure-iranian-missile-attacks",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-08T17:15:52.775Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

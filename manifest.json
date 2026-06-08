@@ -12059,6 +12059,15 @@
       "processedDate": "2026-06-08T07:45:47.361Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3df96e6ece4a193df5b3a4e41084e95929805c9bdef02950569bd1b27a8c6159",
+      "title": "KHDA expands Dubai education councils to include parents, educators",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/khda-expands-dubai-education-councils-include-parents-educators",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-08T09:16:01.819Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

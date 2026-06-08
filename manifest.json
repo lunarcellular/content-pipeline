@@ -12104,6 +12104,24 @@
       "processedDate": "2026-06-08T10:45:50.833Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "78c496031aa8145d0ce56962471b641e93eb49d531287e1496a06cbd69076c1e",
+      "title": "Tell Me Why transparency and market intelligence are critical for long-term growth of the UAE property market",
+      "sourceUrl": "https://gulfnews.com/podcasts/tell-me-why/tell-me-why-transparency-and-market-intelligence-are-critical-for-long-term-growth-of-the-uae-property-market-1.500567274",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-08T11:15:56.486Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9ebcf8a9ca4e8063ed5846ad199e0eef642cb5677f889947d355c90889efc984",
+      "title": "Dubai expands education councils to include parents and teachers",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-expands-education-councils-to-include-parents-and-teachers-1.500567253",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-08T11:16:38.661Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-08-dubai-education-councils-parents-teachers.md"
     }
   ]
 }

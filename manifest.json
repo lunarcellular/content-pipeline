@@ -12176,6 +12176,15 @@
       "processedDate": "2026-06-08T14:46:29.409Z",
       "relevant": true,
       "outputFile": "output/2026-06-08-remote-resit-exams-uae.md"
+    },
+    {
+      "urlHash": "7d80f74a4c6fde1d481d243f7760a3ccea791af03529ab7ae50396154e7ebb57",
+      "title": "Bahrain says mourning for Iran's supreme leader 'prohibited' during Ashura",
+      "sourceUrl": "https://www.thenationalnews.com/news/gulf/2026/06/08/bahrain-says-mourning-for-irans-supreme-leader-prohibited-during-ashura/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-08T15:05:43.089Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

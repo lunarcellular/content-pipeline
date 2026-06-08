@@ -12068,6 +12068,33 @@
       "processedDate": "2026-06-08T09:16:01.819Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "f273ded869985210e6d23dca17e1e9053b9ebeceda6b7cb49f734b2267519f81",
+      "title": "Panic at Philippine elementary school as earthquake hits",
+      "sourceUrl": "https://gulfnews.com/world/asia/panic-at-philippine-elementary-school-as-earthquake-hits-1.500567154",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-08T09:30:58.552Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1754cc108fae75256eee3570156f26fef06f7365a5ef9ee7462e3b8f89b75251",
+      "title": "Earthquake in Philippines: At least 15 dead, schools closed after tremors",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippines-massive-earthquake-june-8-death-toll",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-08T09:31:00.988Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1d4f37a4289f0a1ea6486b20907ce1b96b9cc968df43f554c5a11e682e067956",
+      "title": "UAE introduces new 2025–2026 inspection framework for public schools ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/new-20252026-public-school-inspection-framework",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-08T09:31:16.643Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

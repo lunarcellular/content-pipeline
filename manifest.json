@@ -12095,6 +12095,15 @@
       "processedDate": "2026-06-08T09:31:16.643Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "5a55688cb45c87ad71fbe8864a1c5cb4d3e930d9e3237b05d73eb217291671f3",
+      "title": "7 killed, 9 injured after minibus-truck crash on Dubai’s Emirates Road",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/emergencies/7-killed-9-injured-after-minibus-truck-crash-on-dubais-emirates-road",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-08T10:45:50.833Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

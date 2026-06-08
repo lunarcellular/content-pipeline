@@ -12212,6 +12212,24 @@
       "processedDate": "2026-06-08T15:46:38.030Z",
       "relevant": true,
       "outputFile": "output/2026-06-08-remote-resit-exams-dubai.md"
+    },
+    {
+      "urlHash": "2cd0da6cb4bae1e2fe82a05005e3a6d19e86b110d775e48902cdd299f409cee0",
+      "title": "UAE introduces new 2025–2026 inspection framework for public schools - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRW9XSmFDZkxkX3NyVTBjWkJ3RXFJNVZsQlVxMjR0VG1XQmVMODh3dlhadVpSbjlhckpESkY1X2JRNXR6Sm92ajc4eW0yc1B4RVR0T1FBaXczak9kZDhIWk9PSHJSY2t5TWlIdHJ3SDlFaTF4N0NBRkFFbWZGd2hDOE5CM3NXUmYwV3hmYWkya0tobVF50gGcAUFVX3lxTE9DYjJVbVc4ZEFVeGJCcVFnVHFHQVJES1hPWWg0Zl83dGxMMnNHcEQtZ19FR1FqZUdDQnZiWWtac0c4NWQ0VTNQMy0xYThtbG9UMGZYNFNDYWt6WXltUWRMT04yMGRadmh4YWN0Rkx1X0ZrODVaWlFxdjZnNWJzZ1VBME9kU0F5bmhZd25DMWU2OVZnTWx6VXpFYXhWTQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-08T16:31:56.239Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-08-uae-public-school-inspection-framework-2025-2026.md"
+    },
+    {
+      "urlHash": "9b3c20af0306e5a511cba7e7da3b960aa7985496449abf3075fcfc687e6d635e",
+      "title": "KHDA expands Dubai education councils to include parents, educators - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa0FGdnRzNFlXNS1xa3F3OHVDXzFMbE9waXJkTVI0QlVMS1Nya2dNWUJxOXBycXV3RUhaYzdEVmpQOWNEZi00bmNPc0ZJUmw4a19nanlIbzU2b0wyZWNpdmh2MHpSc19BczVnMjZBN0M4cmU5aVNSWWVFcS1MU3pFbHA0TzFRMERGZ3daRE5KTjBOa3hsZ1V3ZWY2QWpLLWVEUkJSc0gtVnVzUdIBsgFBVV95cUxQeHpQVlZweER5SGpmZGFzYmpvdkJsWW9adzlNUU54LVRUbFRvMVFXOVBscjFJaFA0ZFZhN2I5UlY3NnczLU90YTJISU5iYnhtcnZOZzJmYUFkSmEwd1lWQzh0WHl3U1NObFpvMjVYY29sbnZ5V1VUbXFYQ3lTYl9EQzFyOE02akNkQkdvYndjel9UeXk2Y2IzNFRLUWdWQnczRGlHZE42czBxMDJIc2RNRnVB?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-08T16:32:25.589Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-08-khda-new-councils-parents-educators-dubai.md"
     }
   ]
 }

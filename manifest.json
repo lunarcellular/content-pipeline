@@ -12194,6 +12194,24 @@
       "processedDate": "2026-06-08T15:15:56.877Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "336056c68f9169b2bee183dbf2440d3042350fbe412d4d08bf49d0c237e19560",
+      "title": "Tell Me Why transparency and market intelligence are critical for long-term growth of the UAE property market - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSmo4UHdRLXViMEhHTEoySkFCQi10bkhMOGg3cnQ0djhaaWdzdnNOOFNKVHpPQUljVm5iZ1dEZElJN0N3aUxONTd1dldtdUxxQllrdkZwZFM0VmJSSU52ZkEyQzlmMTIzT2FTbXNiSDFvSFVxUFdNdVdfdVdvb3NGaWFFbW5HaG4zaUdleU1ISkFvc3hrUWlYaUhsYXBFX1hOdWQ3UHRKM2g5N2p5N1o1VThmZ0dyNmgybXBwQ1lvcFpPMlF1c0JPd1diN25ydGwwUGl6RzVqdG9Wai1GUjRXbGlMaUw1TV9mQkF3UlFPNVNhUzB4X3fSAYgCQVVfeXFMTUlxOGdlVno1UHo2RGRicGJaajBOamRxbjNUT1Z5LUczeXQ1aXBzaWozTmV4dC1INmhWNzcxS3JIMnpiN29zQTVoV2dxNmx4blhBYXp1UzJaSElJMjBfV01vTEVuYTlZZjVUb2h3UmdmbHl3bEJPZFdzeFJ5R2tBMU16aUFPU0RteWZUUmNRZjB0OUQ2WUsyWUY1M1MtRWJ2VjhHY0otdG1KeEVtZ1BKU2JHVnZCZ1p3Z0hlZzlmX0VQUndobE9IQ01TVTlESHRlRmdJVzhjRGJQY1o0aTlBNjhhMTAyVXZGc0xOc1VIbFhtNkRiMjBYNFVrbk9ITkxySkVTcmhzS0dZ?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-06-08T15:46:03.501Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3062d0504de91e88bac28465af65790a2fb9162d663f5b1bdfa7e243d5c7556f",
+      "title": "Explained: Who is eligible for remote resit exams in the UAE? - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1AtMEJ0U1I0TThqd0JxelhKUVNKNTJsZnB6VEFWUW5SeFhlRWFSMFBKOTNZSzRFLWdRQThFRmtzMkJOckJ6MDJyZk5TZGR4TEZtekMxNHZqVzNaNndIeHVfZjJWN1BHNXE4dDU5X0NabDR2bkdzYVd4d2VkWlRHc3p4OVd6LWpTaWd1TXE1LS1CZkhNd20wUjlsNk9SYVVheVAxNGN6RVpxUdIBvAFBVV95cUxOX2JOZzRPNGJtZ0lTN1RLTHZSODZPQ2k4YTRUU01laVJwTXVlV2JDZ2g0TjdTUk1EYlFmZWZKMWw2ZVp0dDZFQThndTlfSjd1S3Rwdm5mY1FTZ1Q3WGJ4b2VfdG1HdnlkRlFJR3NuQ0x4QkhSMjB3c19xcy1nOUVhVFEzMTItbnNNbmRMNDZta1JacVE2VkQ5X2pjeDlueHc4MFljTUZNNTRjT1Z3ajZ0V1N3Ukc0SFp5T1ZpVQ?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-06-08T15:46:38.030Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-08-remote-resit-exams-dubai.md"
     }
   ]
 }

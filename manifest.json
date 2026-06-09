@@ -12545,6 +12545,15 @@
       "processedDate": "2026-06-09T13:31:44.233Z",
       "relevant": true,
       "outputFile": "output/2026-06-09-new-uk-school-dubai-september.md"
+    },
+    {
+      "urlHash": "da9ebfe6cafe32239824acec9339cde7a295e1c9efcde8ade156fcb87c92ed03",
+      "title": "'Lifesaver': How Filipino school girls built flood-rescue app to 'answer cries for help'",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/zayed-sustainability-prize-2026-winners-philippines-guatemala-netherlands",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-09T14:45:48.292Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -12320,6 +12320,33 @@
       "processedDate": "2026-06-09T05:00:59.718Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "01ff0434fe74f398f9c9de26dea584f348d547efa83a48a6cebe6f13c2cacf4d",
+      "title": "Irish crime group lieutenant Sean McGovern gets 24-year jail term after Dubai extradition in Kinahan case",
+      "sourceUrl": "https://gulfnews.com/world/europe/sean-mcgovern-gets-24-year-jail-term-after-dubai-extradition-in-kinahan-case-1.500567476",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-09T05:30:56.731Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3b5f5de73b0381dae48c3cb071d196066042f62755d66ffe6432142428eca433",
+      "title": "UAE schools enter final stretch before summer break: Students juggle exams, activities - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXRjSEJOX2pBblNHN25iRTVqcGJuSm1lOE4zblk3MVFoTUdRRWJUSUdmejVLZ25yQ0lWeE1FR3VvZ3FIem1ib3RlNmJpc0dhQVI2dzlmYWhLMWZGSVNneThCUXRVcnJpZlBjSF83T0dQcFFnRXVtdG1KZkhTNnNJbHVET0RpVHhMWWdwWHk2dnh3ZGfSAZsBQVVfeXFMTzgtWWNZZkc5eXdWSFRTN0kzbmlvWXNZSmtNY1ZQRmhPMmVKRjZ6ZURzNlktRzRKN1BLQmRsZnBTaVJQTzdOMkt6U1NscGlRSEtVQ2hhSlh6ZnVWdTVOWkMwVmxqMjZtWmxxYVNNbmgzZkZwRFNWNnYya2MxOG9kcXIzdjA1MWM2clVYOU1ja0NwTkpJajNIOEFjaHc?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-06-09T05:30:58.998Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3b5f5de73b0381dae48c3cb071d196066042f62755d66ffe6432142428eca433",
+      "title": "UAE schools enter final stretch before summer break: Students juggle exams, activities - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXRjSEJOX2pBblNHN25iRTVqcGJuSm1lOE4zblk3MVFoTUdRRWJUSUdmejVLZ25yQ0lWeE1FR3VvZ3FIem1ib3RlNmJpc0dhQVI2dzlmYWhLMWZGSVNneThCUXRVcnJpZlBjSF83T0dQcFFnRXVtdG1KZkhTNnNJbHVET0RpVHhMWWdwWHk2dnh3ZGfSAZsBQVVfeXFMTzgtWWNZZkc5eXdWSFRTN0kzbmlvWXNZSmtNY1ZQRmhPMmVKRjZ6ZURzNlktRzRKN1BLQmRsZnBTaVJQTzdOMkt6U1NscGlRSEtVQ2hhSlh6ZnVWdTVOWkMwVmxqMjZtWmxxYVNNbmgzZkZwRFNWNnYya2MxOG9kcXIzdjA1MWM2clVYOU1ja0NwTkpJajNIOEFjaHc?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-09T05:31:01.104Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

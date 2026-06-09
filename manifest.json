@@ -12437,6 +12437,24 @@
       "processedDate": "2026-06-09T09:00:56.754Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a06e9c5373bbd5000fb0e5767bc8a16e8709062ab403a15eb09d3ee8a02bc4a9",
+      "title": "US says BYD, Baidu, Alibaba, other tech giants aiding China's military",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-byd-baidu-alibaba-tech-giants-aiding-china-military",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-09T09:30:56.130Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0ac3f7d9ff604ca76787cc0198477b1820658e24e59087f65b063fc02d3410fe",
+      "title": "Newsweek: Indian gangsters use US, Canada asylum, student visas to run transnational crime",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/newsweek-indian-gangsters-use-us-canada-asylum-student-visas-to-run-transnational-crime",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-09T09:30:57.936Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

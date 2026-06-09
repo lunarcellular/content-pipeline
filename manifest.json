@@ -12392,6 +12392,24 @@
       "processedDate": "2026-06-09T08:00:59.679Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ad0d11e9bbdc50c2d08369f02e0930a52eed73ba838baeb6f96785ccbec75d9c",
+      "title": "Qatar-born residents, children of Qatari mothers can now apply for National Service",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/qatar-ministry-of-defence-national-service-eligibility-expands",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-09T08:15:52.802Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "44668d36bdbe8bd18338258baa8e190c4f13f094d388ef4a0f1cae577955e157",
+      "title": "Look: Katy Perry, Justin Trudeau make first red carpet appearance together at Tribeca Festival",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/katy-perry-justin-trudeau-at-tribeca-film-festival",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-09T08:15:54.934Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -12536,6 +12536,15 @@
       "processedDate": "2026-06-09T13:15:48.551Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9708fa09845ec6dc49e0cf0fe4b4adb8ae11dbdceacfa56c63fab99c5722b524",
+      "title": "UK's Harrow School on track to open in Dubai in September, says headteacher",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/09/uks-harrow-school-on-track-to-open-in-dubai-in-september-says-headteacher/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-09T13:31:44.233Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-09-new-uk-school-dubai-september.md"
     }
   ]
 }

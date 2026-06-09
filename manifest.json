@@ -12410,6 +12410,24 @@
       "processedDate": "2026-06-09T08:15:54.934Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f7c9f5570ae44fe836e8223306898f95867947d7ec8baf4ea6b7b8a66e0964c2",
+      "title": "Katy Perry, Justin Trudeau make first red carpet appearance together at Tribeca Festival",
+      "sourceUrl": "https://gulfnews.com/entertainment/katy-perry-justin-trudeau-make-first-red-carpet-appearance-together-at-tribeca-festival-1.500568210",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-09T08:30:59.479Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8f447726694a24090389d88c1ed62828a67d2cdec73139baa4459f58b4247f3b",
+      "title": "How Emirati people of determination are redefining success",
+      "sourceUrl": "https://gulfnews.com/uae/people/how-emirati-people-of-determination-are-redefining-success-1.500568186",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-09T08:31:01.401Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

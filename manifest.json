@@ -12572,6 +12572,15 @@
       "processedDate": "2026-06-09T15:01:08.588Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "205b40621db107eb0f9d1ce5f096c289e25101618975a52419d44524144b9ef7",
+      "title": "Apple introduces 'Siri AI', announces new child-safety controls",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/apple-introduces-siri-ai-announces-new-child-safety-controls",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-09T16:01:02.769Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

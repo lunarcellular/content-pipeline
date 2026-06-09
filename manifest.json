@@ -12473,6 +12473,24 @@
       "processedDate": "2026-06-09T10:00:58.383Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1fd4add09e8bf7e5fb377d50c312402ff2b4f230cd340ced6254513b028521f0",
+      "title": "AD Ports starts trial operations at Egypt's Safaga terminal ",
+      "sourceUrl": "https://www.thenationalnews.com/business/economy/2026/06/09/ad-ports-starts-trial-operations-at-egypts-safaga-terminal/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-09T10:46:31.063Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a08e6434bd6326b9354f0df77f6c506ae1d8cb9ab7c146614adfca98af068ca8",
+      "title": "Qatar-born residents and children of Qatari mothers can now apply for national service",
+      "sourceUrl": "https://www.thenationalnews.com/news/gulf/2026/06/09/qatar-born-residents-and-children-of-qatari-mothers-can-now-apply-for-national-service/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-09T10:46:32.893Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

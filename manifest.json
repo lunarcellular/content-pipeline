@@ -12257,6 +12257,42 @@
       "processedDate": "2026-06-08T23:48:47.031Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "75d99432084831856567ff857e4e13b59c6944417f226f02a7c480b5558162f5",
+      "title": "Pentagon labels tech giant Alibaba, robotmaker Unitree and EV giant BYD as 'aiding' Chinese military",
+      "sourceUrl": "https://gulfnews.com/world/americas/pentagon-labels-tech-giant-alibaba-robotmaker-unitree-and-ev-giant-byd-as-aiding-chinese-military-1.500567897",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-09T03:01:00.278Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "af4f36446d0ae22f37b5e699e1ec660f38e95954847fd7189ae7ffd3daabfae8",
+      "title": "UAE schools enter final stretch before summer break: Students juggle exams, activities ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-final-stretch-before-summer-break-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-09T03:01:02.572Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "af4f36446d0ae22f37b5e699e1ec660f38e95954847fd7189ae7ffd3daabfae8",
+      "title": "UAE schools enter final stretch before summer break: Students juggle exams, activities ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-final-stretch-before-summer-break-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-09T03:01:05.100Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cc2e9ee54de1b44d728a685fc15a7fbff7e743e9b70d464249e32306ca8bed76",
+      "title": "Sick child in Gaza has surgery delayed by Iran clashes",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/06/09/sick-child-in-gaza-has-surgery-delayed-by-iran-clashes/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-09T03:01:07.437Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

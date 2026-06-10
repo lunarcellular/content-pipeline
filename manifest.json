@@ -12680,6 +12680,24 @@
       "processedDate": "2026-06-10T09:45:54.546Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "76fa215cddfa97125eb2e4f0295fe290d30408af70d87edc4fe234fa11b9b2fc",
+      "title": "UAE industrial exports hit Dh262b as sector’s GDP contribution climbs by 70%",
+      "sourceUrl": "https://www.khaleejtimes.com/business/uae-industrial-exports-hit-dh262b-as-sectors-gdp-contribution-climbs-by-70",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-10T12:01:03.883Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7251590c713401b9d8963c95d02bf51785bab284885c2d49b14f70713f611ab4",
+      "title": "DIB raises $1b in landmark sukuk deal amid market volatility",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-raises-1b-in-landmark-sukuk-deal-amid-market-volatility",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-10T12:01:06.162Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

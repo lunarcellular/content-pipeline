@@ -12626,6 +12626,24 @@
       "processedDate": "2026-06-10T04:30:55.168Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cd1ed1af51e0cbb7d7f2aeebae51bf65a0107e01e5ff6a7908ac63d17e9cf4c4",
+      "title": "Rob Reiner's son Nick Reiner seeks trust funds for legal defence in parents’ murder case: 'He loved them’",
+      "sourceUrl": "https://gulfnews.com/entertainment/rob-reiners-son-nick-reiner-seeks-trust-funds-for-legal-defence-in-parents-murder-case-he-loved-them-1.500569271",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-10T05:00:56.279Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c7d0bded279844497d320c32aacad24227a18e788a6a7e676b292aa7505b2283",
+      "title": "Qatar expands national service eligibility to expats with military and residency benefits",
+      "sourceUrl": "https://gulfnews.com/world/gulf/qatar/qatars-ministry-of-defence-expands-national-service-program-to-expats-1.500569251",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-10T05:00:58.022Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

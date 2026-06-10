@@ -12590,6 +12590,33 @@
       "processedDate": "2026-06-10T03:01:05.577Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f3bfbfe6708a1ebf541ac624a4ee8753ebd8e8f34c665632da81252ec3c21ee5",
+      "title": "UAE weather forecast: Temperatures to hit 47°C amid dust and possible fog through weekend ",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-forecast-temperatures-to-hit-47c-amid-dust-and-possible-fog-through-weekend-1.500569157",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-10T03:30:55.807Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8bf610f0e33221a1af55ea0d62036f9fda7789f3a5e03e9cb9998844d301aeea",
+      "title": "Qatar-born residents, children of Qatari mothers can now apply for National Service - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVVTUWJyWDFVcC1DME1EVDVveVlHU0hXeDh4OVFQVUZhWkgwMEhSajFmNHhiTThLdEN5VzNERlR2QkhVdl82eUxKQVpSbG5TUDNSZUxGeWdNTndZdjdIVC1DcHVBd0RUTGhzY0ptWVh6OEhsSnhmQVRhVTh2bm9nRjVPa1BiajBqcHZfYnNJT3pGVVlwbjB2WlB6T0tJOUlIampGWNIBrAFBVV95cUxQQTBhRUhuNU83X1h2cWs3UjFMdGVydzJ1ZE5zdm15YjJqWkRXVkgxV1VHTFBkMVdRZGhyc3dJZUpzR0hVV1NaNENBY0VmTjVucC1qd1VYNlRlb0RldkR6NTZaLTA4bTJGSXpmc2wwazlfbW9QMF9GSHMtUE9ldGdVa2JoRVp3NVFEODE0d09fa21ubnBHaWEwWUZnclVYY0ZoaEstWEpkb0NsN1Zm?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-06-10T03:30:57.655Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "19b0c354ff0b37c277aac1fd86b897d45034e19046b4b1f811a570f035c44f29",
+      "title": "Sharjah approves new pay framework for Quran teachers, staff",
+      "sourceUrl": "https://gulfnews.com/uae/government/sharjah-approves-new-pay-framework-for-quran-teachers-staff-1.500569189",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-10T03:31:33.670Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-10-sharjah-new-pay-framework-quran-educators.md"
     }
   ]
 }

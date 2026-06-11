@@ -12896,6 +12896,24 @@
       "processedDate": "2026-06-11T11:30:55.907Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eb2fb57b6fd7e63b05ddc6bb48bc824de709c28ee64cc7d94807c2a9a42b84af",
+      "title": "Two longtime UAE residents, KT subscribers, win diamond necklaces",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-two-kt-subscribers-win-diamond-necklaces",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-11T12:01:02.259Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "eb2fb57b6fd7e63b05ddc6bb48bc824de709c28ee64cc7d94807c2a9a42b84af",
+      "title": "Two longtime UAE residents, KT subscribers, win diamond necklaces",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-two-kt-subscribers-win-diamond-necklaces",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-11T12:01:06.223Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

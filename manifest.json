@@ -13355,6 +13355,24 @@
       "processedDate": "2026-06-13T14:45:45.616Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5b79d174c42c73cc411b9a88f88762dd2c9cd8ef29c827d17f21285b65e3db3c",
+      "title": "Look: Incredible scenes as Qatar earn first ever World Cup point ",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/fifa-world-cup/look-incredible-scenes-as-qatar-earn-first-ever-world-cup-point",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-13T23:34:30.788Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b405086b82201368ed6bb9454adf73a44e79a5ace9c60906f86254deb8a2fd0a",
+      "title": "'Legend': Cricket world pays tribute to Williamson after retirement",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/cricket/legend-cricket-world-pays-tribute-to-williamson-after-retirement",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-13T23:34:32.645Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

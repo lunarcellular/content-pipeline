@@ -13292,6 +13292,24 @@
       "processedDate": "2026-06-13T04:45:47.151Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e1f18b497b2f7de2b51c60b8bb576f10d0be5987bca2f5279fd5b8c8f52f0b0e",
+      "title": "Dubai markets show high compliance as over 8,400 inspections find stable prices",
+      "sourceUrl": "https://gulfnews.com/business/dubai-markets-show-high-compliance-as-over-8400-inspections-find-stable-prices-1.500573020",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-13T08:00:57.303Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8849fdf556a4986859e8d6c941399c25b181c1d6f827a55bfbafaeed5c840caf",
+      "title": "Blake Lively awarded legal fees in Justin Baldoni dispute, court denies damages claim",
+      "sourceUrl": "https://gulfnews.com/entertainment/blake-lively-awarded-legal-fees-in-justin-baldoni-dispute-court-denies-damages-claim-1.500573010",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-13T08:00:59.656Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

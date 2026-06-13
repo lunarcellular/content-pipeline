@@ -13265,6 +13265,24 @@
       "processedDate": "2026-06-12T22:10:36.719Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1ddc8836a8e5694d29eb9e0b92faba17f27ab62043201b68bbabcdcc574aa05f",
+      "title": "Sharjah residents explore flexible hours, alternative routes as road works cause traffic",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-residents-flexible-hours-alternative-routes-road-works-begin",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-13T03:00:56.841Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1ddc8836a8e5694d29eb9e0b92faba17f27ab62043201b68bbabcdcc574aa05f",
+      "title": "Sharjah residents explore flexible hours, alternative routes as road works cause traffic",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-residents-flexible-hours-alternative-routes-road-works-begin",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-13T03:00:58.914Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

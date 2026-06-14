@@ -13373,6 +13373,24 @@
       "processedDate": "2026-06-13T23:34:32.645Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0dfdd4ed655dad34ea02c1fe6a93aca2d7da034ff9070b10654d1d1e20472f17",
+      "title": "Dubai's Emirates Road crash: Safety experts raise questions about minibuses",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-traffic-safety-experts-dangers-of-minibuses-emirates-road-crash",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-14T02:02:28.978Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0dfdd4ed655dad34ea02c1fe6a93aca2d7da034ff9070b10654d1d1e20472f17",
+      "title": "Dubai's Emirates Road crash: Safety experts raise questions about minibuses",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-traffic-safety-experts-dangers-of-minibuses-emirates-road-crash",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-14T02:02:30.817Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

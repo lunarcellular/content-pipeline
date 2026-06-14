@@ -13445,6 +13445,33 @@
       "processedDate": "2026-06-14T12:26:59.532Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2bcf3cc2e8b787cccf52fa6b5d7fde6a330cc4b295f8e24be4f0680fa11474f1",
+      "title": "€463m Liberty Galati auction draws GCC interest in European steel giant",
+      "sourceUrl": "https://gulfnews.com/world/463m-liberty-galati-auction-draws-gcc-interest-in-european-steel-giant-1.500574025",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-14T14:00:55.055Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "92cdc060eef783d9469fe0f204daee495a4c585bb9934ceb15f7395f8d1cfb43",
+      "title": "Abu Dhabi Police announces job openings: How to apply and eligibility",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-police-announces-job-openings-how-to-apply-and-eligibility-1.500574019",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-14T14:00:57.131Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "09eb59b393c291492d8830a79627fce340ff6fdd8c78ebc15dfb4921588c0083",
+      "title": "Iran war latest: Beirut strike shows US unwilling to meet obligations, says Ghalibaf",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/06/13/live-us-iran-deal-trump-signing-geneva-sunday/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-14T14:00:59.553Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

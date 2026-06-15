@@ -13643,6 +13643,15 @@
       "processedDate": "2026-06-15T13:01:05.065Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ac6d48692e240a322aa5a52c1239a8e8b481b332634c5452ed9c7fb4474b7cc0",
+      "title": "Kuwait reopens Terminal 4 for select Gulf, international flights",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwait-reopens-terminal-4-for-select-gulf-international-flights-1.500575118",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-15T14:15:56.924Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -13859,6 +13859,24 @@
       "processedDate": "2026-06-16T11:01:09.937Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ad9943bcd599fdb8e473974c987b95f153b5bfe2fdcb0fa2c524acc13df02976",
+      "title": "UAE distributes over Dh46 billion in VAT and excise revenues after 15% rise",
+      "sourceUrl": "https://gulfnews.com/business/tax-news/uae-distributes-over-dh46-billion-in-vat-and-excise-revenues-after-15-rise-1.500576120",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T12:15:54.609Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0002140d10ce9a7f2dabb1fc99acd671b95efa4f315701725beb9316e03f0666",
+      "title": "India suspends Telegram over medical entrance exam fraud concerns",
+      "sourceUrl": "https://www.thenationalnews.com/business/2026/06/16/india-suspends-telegram-over-medical-entrance-exam-fraud-concerns/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-16T12:15:56.451Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

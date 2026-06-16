@@ -13814,6 +13814,24 @@
       "processedDate": "2026-06-16T06:30:59.181Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "da2910c1c8919e872d4bf0b878aeee511e1cd5a504161efa62beb572f032ca78",
+      "title": "No tolls, just fees? What Iran's plan for Strait of Hormuz means",
+      "sourceUrl": "https://gulfnews.com/world/mena/no-tolls-just-fees-what-irans-plan-for-strait-of-hormuz-means-1.500575992",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T10:15:57.951Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8ef938ed4ed536e185d8391e21fe0e066dbf3a30bd06916f53734fb6ca3b2511",
+      "title": "Abu Dhabi launches specialised mental health network for children",
+      "sourceUrl": "https://gulfnews.com/uae/health/abu-dhabi-launches-specialised-mental-health-network-for-children-1.500576009",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T10:16:00.474Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

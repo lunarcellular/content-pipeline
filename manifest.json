@@ -13760,6 +13760,24 @@
       "processedDate": "2026-06-16T03:01:11.909Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "46fb2d98223ebfe28dfa797d405eb07e48d76d1089be134e7dedf51b253a3c7a",
+      "title": "Netflix doubles down on the hockey romance genre after Off Campus rage: Icebreaker series next in queue",
+      "sourceUrl": "https://gulfnews.com/entertainment/netflix-doubles-down-on-the-hockey-romance-genre-after-off-campus-rage-icebreaker-series-next-in-queue-1.500575611",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T03:30:50.388Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4c980c16e1bb97de76f4ef1a102c02e92b824808062be3bd5bff31d15d7f74e4",
+      "title": "Release of $25 billion, return of nuclear experts to Iran set: What we know so far about US-Iran deal terms",
+      "sourceUrl": "https://gulfnews.com/world/mena/release-of-25-billion-return-of-nuclear-experts-to-iran-set-what-we-know-so-far-about-us-iran-deal-terms-1.500575546",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T03:30:52.187Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

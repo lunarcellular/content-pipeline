@@ -13724,6 +13724,42 @@
       "processedDate": "2026-06-16T00:15:17.188Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "351ff553d79e1dddbdf30cd7a5bdb9505ec5f37a3decaf701b5d83a9859e9d58",
+      "title": "Which countries are banning social media for children?",
+      "sourceUrl": "https://gulfnews.com/technology/which-countries-are-banning-social-media-for-children-1.500575457",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T03:01:04.518Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e7d75f144864350894e49c6b67736a8ee38757d90e65ad3b86ef7d0e1a39fec9",
+      "title": "Cuba quantifies impact of US oil blockade on children's health, daily life",
+      "sourceUrl": "https://gulfnews.com/world/americas/cuba-quantifies-impact-of-us-oil-blockade-on-childrens-health-daily-life-1.500575480",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T03:01:06.951Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "09f96723b4c535a3006cc9c154deb3d375cc45929e98cc8dadba1c19efb299f2",
+      "title": "38-year-old Dubai resident dies while playing cricket; parents fly in for burial",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-resident-dies-playing-cricket-parents-travel-india-last-rites",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-16T03:01:09.938Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "09f96723b4c535a3006cc9c154deb3d375cc45929e98cc8dadba1c19efb299f2",
+      "title": "38-year-old Dubai resident dies while playing cricket; parents fly in for burial",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-resident-dies-playing-cricket-parents-travel-india-last-rites",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-16T03:01:11.909Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

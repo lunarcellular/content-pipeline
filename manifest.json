@@ -13931,6 +13931,15 @@
       "processedDate": "2026-06-16T15:35:38.266Z",
       "relevant": true,
       "outputFile": "output/2026-06-16-abu-dhabi-education-future-priorities.md"
+    },
+    {
+      "urlHash": "7f87ee7b59bf121417446b1e54f3ee85a583e1e6291220531bed8d117b327c73",
+      "title": "Toy Story 5 review: The toys are back, but childhood itself is at risk",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/film-tv/2026/06/16/toy-story-5-review-the-toys-are-back-but-childhood-itself-is-at-risk/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-16T16:15:59.759Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

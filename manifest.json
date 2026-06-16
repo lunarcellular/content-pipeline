@@ -13922,6 +13922,15 @@
       "processedDate": "2026-06-16T13:15:54.037Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e859f40ce5502592d0febf95fdf7b0baf4d82db0848aef5c3d13c003c8fbc65c",
+      "title": "Abu Dhabi sets four priorities to shape the future of private education",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-sets-four-priorities-to-shape-the-future-of-private-education-1.500576465",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T15:35:38.266Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-16-abu-dhabi-education-future-priorities.md"
     }
   ]
 }

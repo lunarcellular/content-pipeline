@@ -13877,6 +13877,24 @@
       "processedDate": "2026-06-16T12:15:56.451Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bc1be556e31299267418681a8dd1bdf2f59a6d3a7678bffd2bee51a4ec06593d",
+      "title": "Roblox rolls out new child accounts worldwide with stricter safety controls",
+      "sourceUrl": "https://gulfnews.com/technology/roblox-rolls-out-new-child-accounts-worldwide-with-stricter-safety-controls-1.500576209",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T12:45:51.453Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "df2a13dd9e8b2956e7c92f329f6f46d594ca567211d65d38d95ce1ebbac7d58a",
+      "title": "Abu Dhabi court bars divorced couple from posting children's images on social media",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/16/abu-dhabi-court-bars-divorced-couple-from-posting-childrens-images-on-social-media/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-16T12:45:53.319Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

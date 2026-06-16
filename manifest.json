@@ -13805,6 +13805,15 @@
       "processedDate": "2026-06-16T06:01:12.590Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "312f010f884a5bb3faccfc4c01ec01f9c3e07f7949ece036ae4d09a29db5e057",
+      "title": "India temporarily bans Telegram ahead of NEET re-exam to prevent paper leaks",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/india-temporarily-bans-telegram-ahead-of-neet-re-exam-to-prevent-paper-leaks-1.500575772",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-16T06:30:59.181Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

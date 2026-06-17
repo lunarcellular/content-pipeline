@@ -13958,6 +13958,51 @@
       "processedDate": "2026-06-16T18:45:59.520Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "18eb0ac6c4ea4560920c11cdaf12cd1b042461775e50c435eba906d664b214c1",
+      "title": "UAE weather: Temperatures to hit 44°C amid dust and possible fog overnight",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-temperatures-to-hit-44c-amid-dust-and-possible-fog-overnight-1.500576889",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-17T03:01:01.136Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0be78bafe41e82645a41084f99b5f55d1b6fda61edeedbbbf00eb2a85aa8f4a6",
+      "title": "Indian expat who died while playing cricket in Dubai left a big void, friends and family say in tributes",
+      "sourceUrl": "https://gulfnews.com/uae/emergencies/indian-expat-who-died-while-playing-cricket-in-dubai-left-a-big-void-friends-and-family-say-in-tributes-1.500576681",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-17T03:01:03.221Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2b3e7e2c31955a97e250f2ae68ddb15173890aed58ecfe1323122fd8045f1790",
+      "title": "Jobs in UAE: Schools ramp up teacher hiring for 2026-27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/jobs/uae-jobs-schools-teacher-roles-hiring-2026-27-academic-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-17T03:01:06.029Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2b3e7e2c31955a97e250f2ae68ddb15173890aed58ecfe1323122fd8045f1790",
+      "title": "Jobs in UAE: Schools ramp up teacher hiring for 2026-27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/jobs/uae-jobs-schools-teacher-roles-hiring-2026-27-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-17T03:01:07.806Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "637587c109bd6a21322e595a516d45402afd25d6615991a1e624f2035406e087",
+      "title": "New art gallery in Abu Dhabi begins with a virtual exhibition and a vision for growth",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/2026/06/17/new-art-gallery-in-abu-dhabi-begins-with-a-virtual-exhibition-and-a-vision-for-growth/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-17T03:01:09.886Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

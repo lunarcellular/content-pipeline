@@ -14759,6 +14759,15 @@
       "processedDate": "2026-06-19T13:00:59.742Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c5ef6fa5ead1415f390750aab963f07a290239fcd3da570692d23cca47288011",
+      "title": "Abu Dhabi schools barred from denying students exams over unpaid tuition fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/abu-dhabi-ban-schools-deny-student-entry-exams-unpaid-tuition-fee",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-19T13:46:29.386Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-19-abu-dhabi-schools-exam-access-unpaid-fees.md"
     }
   ]
 }

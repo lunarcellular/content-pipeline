@@ -14678,6 +14678,15 @@
       "processedDate": "2026-06-19T09:45:54.400Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "483706380cbd2da4698b2a72ab1177e16479e7363b2dc00ce16e91294349eed2",
+      "title": "Abu Dhabi schools barred from excluding students over unpaid fees ",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-schools-barred-from-excluding-students-over-unpaid-fees-1.500579934",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-19T10:46:29.318Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-19-abu-dhabi-schools-unpaid-fees.md"
     }
   ]
 }

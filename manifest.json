@@ -14579,6 +14579,24 @@
       "processedDate": "2026-06-19T07:45:46.290Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "18764c3a722544037a304975d7bd44dad736869caf2346f7845828bf0b887b32",
+      "title": "Tax makes UAE economy transparent and sustainable, officials at the ICAI Dubai conference tells delegates",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/tax-makes-uae-economy-transparent-and-sustainable-officials-at-the-icai-dubai-conference-tells-delegates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-19T08:00:59.092Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "43111bae37b16404861e25902bec1fc6c9111bb2fa830f4b6c2aedf73975e5ee",
+      "title": "Abu Dhabi unveils new private education strategy with focus on AI, wellbeing and national identity",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-unveils-new-private-education-strategy-with-focus-on-ai-wellbeing-and-national-identity-1.500579765",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-19T08:01:31.407Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-19-abu-dhabi-private-education-strategy-ai-wellbeing.md"
     }
   ]
 }

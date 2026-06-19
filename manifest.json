@@ -14435,6 +14435,42 @@
       "processedDate": "2026-06-19T01:46:10.249Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5ae7e82c9e8772e35ea0664011cb1aa042d130b7540e1150dfaaad8729e5cb92",
+      "title": "UAE social media ban: Doctors see children skipping sleep, meals to keep scrolling",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-social-media-ban-doctors-see-children-skipping-sleep-meals-to-keep-scrolling",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-19T03:00:58.399Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d1cedbaf159e21deb88e86b7315bb383d28a422e27f1f7fd686874058f5fffe1",
+      "title": "Dubai airport journeys from 2032: Trains to terminals, no check-in queues, bags in minutes",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-airport-journeys-from-2032-trains-to-terminals-no-check-in-queues-bags-in-minutes",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-19T03:01:01.001Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5ae7e82c9e8772e35ea0664011cb1aa042d130b7540e1150dfaaad8729e5cb92",
+      "title": "UAE social media ban: Doctors see children skipping sleep, meals to keep scrolling",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-social-media-ban-doctors-see-children-skipping-sleep-meals-to-keep-scrolling",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-19T03:01:03.026Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d1cedbaf159e21deb88e86b7315bb383d28a422e27f1f7fd686874058f5fffe1",
+      "title": "Dubai airport journeys from 2032: Trains to terminals, no check-in queues, bags in minutes",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-airport-journeys-from-2032-trains-to-terminals-no-check-in-queues-bags-in-minutes",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-19T03:01:05.101Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

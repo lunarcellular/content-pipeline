@@ -14723,6 +14723,33 @@
       "processedDate": "2026-06-19T12:16:18.942Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d7daccfddf02226231c59a2ab10ac9410e78cd76d9c4975a537e998a0a42528a",
+      "title": "'I'll be able to speak': Moroccan football star Hakimi reacts to trial for rape",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/fifa-world-cup/morocco-national-team-captain-achraf-hakimi-rape-trial-france",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-19T12:30:56.274Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3c7a7b58b6395a08cde4320623b37d52433551cd0436b45ff498244ba334dfbe",
+      "title": "People of Determination are customers, not charity cases, inclusion expert says in Abu Dhabi",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-awards-people-of-determination-customers-not-charity-cases-inclusion-expert",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-19T12:30:58.369Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3c7a7b58b6395a08cde4320623b37d52433551cd0436b45ff498244ba334dfbe",
+      "title": "People of Determination are customers, not charity cases, inclusion expert says in Abu Dhabi",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-awards-people-of-determination-customers-not-charity-cases-inclusion-expert",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-19T12:31:00.315Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

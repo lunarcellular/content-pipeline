@@ -14606,6 +14606,24 @@
       "processedDate": "2026-06-19T08:16:05.572Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "fa353253a4fba0556a6b47d281ae9ae6ab95fc1e3d1362cf0051ff7ea1691371",
+      "title": "UAE parents of child stars welcome under-15s social ban despite 'owing careers to social media'",
+      "sourceUrl": "https://gulfnews.com/entertainment/uae-parents-of-child-stars-welcome-under-15s-social-ban-despite-owing-careers-to-social-media-1.500579681",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-19T08:45:47.515Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a87e0aa616edb61203b7b040d4f78fb54e77f174667bdd1824491aa2e971547e",
+      "title": "Money Lessons that Stick: How childhood money lessons shape lifelong financial habits",
+      "sourceUrl": "https://gulfnews.com/friday/money-lessons-that-stick-how-childhood-money-lessons-shape-lifelong-financial-habits-1.500579797",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-19T08:45:49.558Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

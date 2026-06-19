@@ -14687,6 +14687,15 @@
       "processedDate": "2026-06-19T10:46:29.318Z",
       "relevant": true,
       "outputFile": "output/2026-06-19-abu-dhabi-schools-unpaid-fees.md"
+    },
+    {
+      "urlHash": "1ed0e3f474e466b144249d5e4bdb4a09d0bc2043920e4ef161e7f313ca916e29",
+      "title": "UK ordered to find 'Tripoli cache' of documents in Libya torture lawsuit",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/06/19/uk-ordered-to-find-tripoli-cache-of-documents-in-libya-torture-lawsuit/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-19T11:00:56.537Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

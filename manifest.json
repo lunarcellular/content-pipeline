@@ -14813,6 +14813,33 @@
       "processedDate": "2026-06-19T15:15:49.459Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "977fc735fdc5cacbaf223f754d25ea57af760887e1218ff1ef002c610eb18813",
+      "title": "Mastermind Awards 2026: Honouring the world's most influential leaders, innovators & visionaries ",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/mastermind-awards-2026-honouring-the-worlds-most-influential-leaders-innovators-visionaries-1.500580331",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-19T15:30:52.169Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "daa50edae12dc8779afe1464d02fa66aadee718e934c001655d186c49f82002e",
+      "title": "Tax makes UAE economy transparent and sustainable, officials at the ICAI Dubai conference tells delegates - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVUd2aUFYVnB3a3FFdVBRX0diNGtWemI5S0hEdW90b010QjlPc1JrZk1tTWU2Y0RITTZKb3ZBNmtMMnhYYVMzTS1HWE93azBzXzVCSjI2cWFVNkMwVjNya2tKTEwwTS11ck5OUDQ0dlpVVlotVDhLZUxuQVc1WWF0aG5md2QwMUs1dVZndjRrX1hGZXV5cVpSdHVtcDEyOUtPYnR2c3Y0emVFZHJCa3dPekFqTHNmbzFjZDVBWkZoMGYwY0p2cTBFQWVBcGJSVlI1XzVvYmtoR2o1U2ZL0gHkAUFVX3lxTE5QVFRlSW55aVFDNEhGcENnWHNiT0V2Z0VxRDRmbnZkZUVQckhhYVcyZmVvd3I3ak1VcUhjQU5ldHhFdmV2TU9sZHc3b21kSXYybUVmR2JucjNsUmxtRUE1YTJ4a3RORDFaM2ZuOHVuOF9iNDNsVjQ2S3h2bWJzNjlOTTA1aWlMS293VGk5N0ZlaGtzZkNHU2lJTHRWazVTWUc0ZHFzMG9UQWN6S3hKcmRRS042dmpCeEQ0SWQ1NnVZSjdpdDg0LTM1ZWlTS0dkNlM0bmZrWFp4U01JaWU3S2VHOWx0MA?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-19T15:30:56.689Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9b929d0804068423825bfcacecdae3b919e1c6d3990fa2cc40f3c5d36a005116",
+      "title": "Abu Dhabi schools barred from denying students exams over unpaid tuition fees - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXhwLUpNUFkwOXpLbWxzam9CUkJLTWN1Y3dXbWdPbmhvdFNrdWoyNnJKNzRVVEJoRTdDWGZyQVRMdHhoOEtMbG1WTEZ3MDVRVjF2ZnlvMnRHRzdwazkxNmFoWGRHMlRfd2Qxd1ppc0o3WG5jSXVoN2Rxa3Y4Q0dpSUlUTzcwaEpHeEVqelVOX0plMnFpUW5LXy1tdHgwZHZFdm1kQ0lTOG5PaUNz0gG0AUFVX3lxTE1TcFpPQjlEQVV4cWF5a3JKb3pqcnI5UlBNYUs5cW1LbFMyX0ZhbU5CdTVuTGJid0pJVWlGeUdOaWwwODhZdDJ4Y2hkNUJVR282NTIyY3pKeEY0RVhUallmSlk1SF9mbFJPV2UtOEExOU10eUJ4WDhsbVkwVERpelF5MUhDVldhVnVnNVBiM2R1MVctVXNVTVdqVmxKdUdwN2JlTjFZdHdXelByOWtlNXBRbEwzeQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-06-19T15:31:43.600Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-19-abu-dhabi-schools-exams-unpaid-tuition.md"
     }
   ]
 }

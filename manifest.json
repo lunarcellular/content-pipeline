@@ -14696,6 +14696,33 @@
       "processedDate": "2026-06-19T11:00:56.537Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b80c132ab8148afa10d71aa28da314989d769c6b2ffcfa652091db7a31d59eef",
+      "title": "Umm Al Quwain ruler's support helps orphaned student fulfil parents' dream",
+      "sourceUrl": "https://gulfnews.com/uae/umm-al-quwain-rulers-support-helps-orphaned-student-fulfil-parents-dream-1.500579969",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-19T12:16:15.432Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0c9ab73b9eff20c27ae0a85ca18a3f35a68c98562131af2b31e1ff17058b91ac",
+      "title": "Over 5,000 kids, 1,000 parents: Dubai launches initiative to protect children online",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/over-5000-kids-1000-parents-dubai-launches-initiative-to-protect-children-online",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-19T12:16:17.285Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "03f1743b2fe5bd3a9f8abd737d1f35fd7a67df6992d02cca265f8db7d29ff86f",
+      "title": "I grew up just fine without social media – and so will your child",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/2026/06/19/i-grew-up-just-fine-without-social-media-and-so-will-your-child/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-19T12:16:18.942Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -14975,6 +14975,24 @@
       "processedDate": "2026-06-20T07:01:05.861Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bbecb4071a4ad05e29400d135171ff446784b35604d1ec4208c13e825f0fa8e9",
+      "title": "UAE first in region to approve innovative pulmonary fibrosis treatment",
+      "sourceUrl": "https://gulfnews.com/uae/health/uae-first-in-region-to-approve-innovative-pulmonary-fibrosis-treatment-1.500580533",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-20T07:15:54.243Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3b292c802db574cbd3ff67a4c1fbdfee6948a99931bb7b55b63d5dd614a424c3",
+      "title": "Ismael Saibari early strike gives Morocco World Cup win over Scotland",
+      "sourceUrl": "https://gulfnews.com/sport/football/world-cup/ismael-saibari-early-strike-gives-morocco-world-cup-win-over-scotland-1.500580605",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-20T07:15:57.789Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

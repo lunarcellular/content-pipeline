@@ -14894,6 +14894,33 @@
       "processedDate": "2026-06-19T18:00:54.827Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c24a23d2fc1f43f582f231478ff1e3893be1ae707adfa573b8b554ffa465b8d3",
+      "title": "UAE social media law: Penalties, parental controls and under-15 account suspensions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-social-media-law-penalties-parental-controls-and-under-15-account-suspensions",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-20T03:00:54.489Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c24a23d2fc1f43f582f231478ff1e3893be1ae707adfa573b8b554ffa465b8d3",
+      "title": "UAE social media law: Penalties, parental controls and under-15 account suspensions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-social-media-law-penalties-parental-controls-and-under-15-account-suspensions",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-20T03:00:56.421Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d37d26ea21a936f5690250d6a740578f3bf37441951548aabf7f26cd06d55990",
+      "title": "Life lessons: UAE school heads say new social media rules will 'protect childhood in digital age'",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/20/life-lessons-uae-school-heads-say-new-social-media-rules-will-protect-childhood-in-digital-age/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-20T03:00:58.248Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -15092,6 +15092,24 @@
       "processedDate": "2026-06-20T13:45:50.758Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f161cb6eabed36e7f248454e207ef1780667ac6a59c95e0500d0bbee69fac445",
+      "title": "CCTV, AI monitoring: How India's testing agency prepared for Neet-UG 2026 re-exam",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/cctv-ai-monitoring-india-nta-neet-ug-2026-re-exam",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-20T15:45:54.974Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0da458365e644ecb87717cbff1dc6bf893836cd8663d3e8317faaa02a408e7cb",
+      "title": "'Champion': Activists mourn Lebanon's turtle advocate killed in Israeli strike",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/lebanon-turtle-advocate-killed-israel-attack",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-20T15:45:56.966Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

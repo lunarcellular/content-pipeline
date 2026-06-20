@@ -14993,6 +14993,15 @@
       "processedDate": "2026-06-20T07:15:57.789Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0718c059fb593bea12d8ab229f9e8f915aa2178502b8a35c85e208bec7609e3b",
+      "title": "UAE sets new standards for exams tailored to students of determination",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-sets-new-standards-for-exams-tailored-to-students-of-determination-1.500580810",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-20T07:46:21.659Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-20-uae-exam-standards-students-of-determination.md"
     }
   ]
 }

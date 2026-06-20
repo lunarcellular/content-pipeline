@@ -15047,6 +15047,15 @@
       "processedDate": "2026-06-20T11:00:58.473Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ca1a0f0e71f985ab1f5c8ba25bd8d0cf5d318a9469d2047d80b0bcd81a167076",
+      "title": "Kuwaiti student killed in stabbing during attempted robbery in North Carolina",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwaiti-student-killed-in-stabbing-during-attempted-robbery-in-north-carolina-1.500581013",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-20T11:31:33.053Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

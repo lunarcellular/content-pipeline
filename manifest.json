@@ -15020,6 +15020,15 @@
       "processedDate": "2026-06-20T10:30:59.234Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "510ef27d54cf304e017523e100f0c7691585d8aaa943f8622953ce6f67c8d7a0",
+      "title": "'Be quiet now': Israeli envoy clashes with UN official at sexual violence in conflict hearing",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/be-quiet-israeli-envoy-un-official-sexual-violence-conflict",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-20T10:45:46.413Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

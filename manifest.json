@@ -15029,6 +15029,24 @@
       "processedDate": "2026-06-20T10:45:46.413Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cf2f1c6485bb0777aea0a53a31ffc14986cd4fb26714856208fb144653f9e2ef",
+      "title": "'Years of unexplained pain': UAE patients recount life with undiagnosed fibromyalgia",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-patients-recount-life-undiagnosed-fibromyalgia",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-20T11:00:56.396Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cf2f1c6485bb0777aea0a53a31ffc14986cd4fb26714856208fb144653f9e2ef",
+      "title": "'Years of unexplained pain': UAE patients recount life with undiagnosed fibromyalgia",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-patients-recount-life-undiagnosed-fibromyalgia",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-20T11:00:58.473Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -15245,6 +15245,24 @@
       "processedDate": "2026-06-21T11:00:58.118Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "27578a937814eadee361649948ebde5e8dddfcbc1b70747ada24249491c60743",
+      "title": "Israeli fire kills nine people in Gaza, including a child and journalist, medics say",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/israel-kill-nine-people-gaza-child-journalist-medics-say",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-21T11:45:44.934Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2592c35c1b85531e623bf191a068d33a9cc3cc60b419b1723504590d162cf7a5",
+      "title": "World Cup: France are preparing for intense battle against cornered Iraq",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/fifa-world-cup/world-cup-france-are-preparing-for-intense-battleagainst-cornered-iraq",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-21T11:45:46.820Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

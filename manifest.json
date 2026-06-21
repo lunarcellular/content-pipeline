@@ -15218,6 +15218,24 @@
       "processedDate": "2026-06-21T09:00:57.946Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b1ae4a5a7e31fc77a7afbeff8e961c765547bc580c5ab551ee28c25a3c0cc1cb",
+      "title": "UAE e-commerce boom drives demand for flexible delivery solutions",
+      "sourceUrl": "https://www.khaleejtimes.com/business/uae-e-commerce-boom-drives-demand-for-flexible-delivery-solutions",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-21T09:30:50.062Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a282faa66a199ab44d1879a4c26b803bb07e6e9ff6059db1f83e871b503249a8",
+      "title": "Dubai forum to examine how AI is reshaping government jobs and decision-making",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dubai-forum-to-examine-how-ai-is-reshaping-government-jobs-and-decision-making",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-21T09:30:52.083Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

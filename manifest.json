@@ -15110,6 +15110,24 @@
       "processedDate": "2026-06-20T15:45:56.966Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dd1fed57c0e893f93d409a53215842b9ed5def78f68830492bfd30aec8d5df6b",
+      "title": "UAE weather update: Temperatures to reach 47°C as humid conditions and possible rain expected this week",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-update-temperatures-to-reach-47c-as-humid-conditions-and-possible-rain-expected-this-week-1.500581437",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-21T03:00:58.907Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3442ab52aaf9ee232e3aef5904ab50189e9c40019da509b2f26c1be589f5b584",
+      "title": "UAE's parent-friendly plan encouraging more fathers to put families first",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/21/uaes-parent-friendly-plan-encouraging-more-fathers-to-put-families-first/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-21T03:01:00.926Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

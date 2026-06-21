@@ -15191,6 +15191,24 @@
       "processedDate": "2026-06-21T08:15:45.385Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8c4908e4a41ae27fc9a66a690e6ac51e6b98f8e51e5e4290c85bdcc9ddcf8edc",
+      "title": "Ask Gulf News: Can your employer force you to travel after termination?",
+      "sourceUrl": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-can-your-employer-force-you-to-travel-after-termination-1.500581639",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-21T08:45:51.425Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "14a00452284a2c64f9f26803f2a076e3277ded531f61e608493d236de8bcc131",
+      "title": "Ask Gulf News: Can a separated father travel abroad with his child without the Mother's consent?",
+      "sourceUrl": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-can-a-separated-father-travel-abroad-with-his-child-without-the-mothers-consent-1.500581643",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-21T08:45:53.431Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

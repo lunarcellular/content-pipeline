@@ -15569,6 +15569,33 @@
       "processedDate": "2026-06-22T12:45:55.085Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "827f047aec0f5112fd4a887761134f79ca2b505acf49e834c645bccd385273d6",
+      "title": "21K School opens admissions for Global North Cohort, addresses gap in GCC education",
+      "sourceUrl": "https://gulfnews.com/friday/21k-school-opens-admissions-for-global-north-cohort-addresses-gap-in-gcc-education-1.500582883",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-22T13:01:01.144Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2f2e0d3641a386187d62ee5796813a0412e510b4fbff246fb8ab09267b5c8d83",
+      "title": "Priyanka Chopra celebrates Nick Jonas on Father's Day, calls him 'Best Dad'",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/priyanka-chopra-celebrates-nick-jonas-fathers-day",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-22T13:01:03.221Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "08eaa22482b537aa12132d9ad2a40e970dafe0d649e20b355cf4119f525bfa30",
+      "title": "Abu Dhabi launches research on kids' school experiences, identity, and family wellbeing",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/abu-dhabi-research-grants-programme-kids-school-experience-identity",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-22T13:01:05.118Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

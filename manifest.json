@@ -15461,6 +15461,33 @@
       "processedDate": "2026-06-22T08:01:03.459Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ac07ad2b2669dfb61a77be3af8a1f15b54b0d2cc69dc3f8309b26875db2c5693",
+      "title": "How holistic development shapes effective teaching and learning",
+      "sourceUrl": "https://gulfnews.com/gn-focus/how-holistic-development-shapes-effective-teaching-and-learning-1.500582478",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-22T08:30:50.409Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a987a9b9ccc64388eb03d6f9f8886235f4983eefe016471bc944e39c8f160d9",
+      "title": "Inside Global Schools Group’s blueprint for embedding future-ready skills in everyday learning",
+      "sourceUrl": "https://gulfnews.com/gn-focus/inside-global-schools-groups-blueprint-for-embedding-future-ready-skills-in-everyday-learning-1.500582495",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-22T08:30:54.652Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bf3e04b97b7cf947df9f60ac19dc0f2dd9ed5b772beba4cf203141ba13937681",
+      "title": "UAE schools begin year-end exams as ministry rolls out anti-cheating measures",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-begin-year-end-exams-as-ministry-rolls-out-anti-cheating-measures-1.500582492",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-22T08:31:24.349Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-22-uae-schools-anti-cheating-exams.md"
     }
   ]
 }

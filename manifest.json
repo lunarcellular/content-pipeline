@@ -15488,6 +15488,24 @@
       "processedDate": "2026-06-22T08:31:24.349Z",
       "relevant": true,
       "outputFile": "output/2026-06-22-uae-schools-anti-cheating-exams.md"
+    },
+    {
+      "urlHash": "cc77c6932a7d57a9dc487d54c8efbad3ce1b83038852a2488661dceb7141eef9",
+      "title": "Industry-driven learning takes hold in UAE higher education \n",
+      "sourceUrl": "https://gulfnews.com/gn-focus/industry-driven-learning-takes-hold-in-uae-higher-education-1.500582619",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-22T09:45:51.345Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9a9a1f459f995cd7ec1e950312d11c7846181516234cdd6fe94acbe1fd9bc3bd",
+      "title": "How a 15-year-old Bihar teenager Vaibhav Sooryavanshi became cricket's newest record-breaking force",
+      "sourceUrl": "https://gulfnews.com/sport/how-a-15-year-old-bihar-teenager-vaibhav-sooryavanshi-became-crickets-newest-record-breaking-force-1.500582592",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-22T09:45:53.755Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

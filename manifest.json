@@ -15767,6 +15767,24 @@
       "processedDate": "2026-06-23T04:15:56.668Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8148af849e5742569304647d4ada2df88abac00f5bef5321097f6a609568e89c",
+      "title": "Philippines: One of the high school shooting suspects got gun from aunt",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/philippines-one-of-the-high-school-shooting-suspects-got-gun-from-aunt-1.500583524",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T04:45:45.780Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2c3d3f9bfd945def32ec5077d2bf469d7492f6409b772126c29c84064a6ee4bb",
+      "title": "Iran to administer Strait of Hormuz, says Ghalibaf; Israel military to remain in Lebanon",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-6-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T04:45:47.911Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

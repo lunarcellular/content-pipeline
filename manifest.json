@@ -16037,6 +16037,24 @@
       "processedDate": "2026-06-23T16:01:12.074Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c6ac86f6a5f09734bef234d44c4597b2d05daf790030ab0ef9856a62b78937ec",
+      "title": "Major US visa shift: What a 4-year stay limit could mean for international students",
+      "sourceUrl": "https://gulfnews.com/world/americas/major-us-visa-shift-what-a-4-year-stay-limit-could-mean-for-international-students-1.500584381",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T16:15:52.879Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0a3d7629e0141371e858e937570b105c7c197f151b7190289904ab6fb1e4cf92",
+      "title": "UN report accuses Israel of war crimes against children in Gaza",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/06/23/un-report-accuses-israel-of-war-crimes-against-children-in-gaza/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-23T16:15:55.654Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

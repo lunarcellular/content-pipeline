@@ -15866,6 +15866,24 @@
       "processedDate": "2026-06-23T10:15:46.462Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fdafd4665feaf4affcf4cca7cf836790237a2c8219c16a933962d48b7fd5eff0",
+      "title": "Dubai graduate chosen as student voice of Stanford’s 2026 commencement",
+      "sourceUrl": "https://gulfnews.com/lifestyle/dubai-graduate-chosen-as-student-voice-of-stanfords-2026-commencement-1.500583838",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T10:30:59.960Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "115465a13f8cf47ded1298580b1378cb7154e1bad6b99d06c499c733bcd71135",
+      "title": "Bengaluru parents, younger sister murdered; daughter, boyfriend arrested",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/bengaluru-parents-younger-sister-murdered-daughter-boyfriend-arrested-1.500583928",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T10:31:02.579Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

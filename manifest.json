@@ -15974,6 +15974,33 @@
       "processedDate": "2026-06-23T13:31:08.922Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7bd6a84939af44c55b7846b7c646d6d71f0bd51a7bec52cff61bb08262a5e2b8",
+      "title": "Trump says Iran fully agreed to nuclear inspections, Tehran denies US claims",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/trump-iran-agreed-nuclear-inspections-tehran-denies",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T13:46:02.463Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d4b905cb10682bf24861dd06496521d9ab6d71e821b5720f8c381cadf2d7e5b4",
+      "title": "Watch: Mammootty honoured with Padma Bhushan; son Dulquer Salmaan cheers him on",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/mammootty-honoured-with-padma-bhushan",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T13:46:04.808Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "654a13530a14fde482e5af5a54e011ce97bf036178258a236dc52bd8d3dfcdc5",
+      "title": "Singer Alka Yagnik receives Padma Bhushan from Indian President Droupadi Murmu",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/alka-yagnik-receives-padma-bhushan",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T13:46:06.806Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

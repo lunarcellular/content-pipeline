@@ -15929,6 +15929,24 @@
       "processedDate": "2026-06-23T12:45:57.972Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ffe268320dc51a72a6a7eab8d06e8ec944e221e21e7fd3bb5b05089b3feb47c2",
+      "title": "CBSE Class 12 re-evaluation gives Ranchi student perfect 500/500",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/cbse-class-12-re-evaluation-gives-ranchi-student-perfect-500-500-1.500584065",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T13:01:06.620Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2303c79a10a38540cdad36d4cfe95450a60278192c309c7ac741c738c40c7b66",
+      "title": "Pregnant Sudanese mother, four children killed in Riyadh apartment fire",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/pregnant-sudanese-mother-four-children-killed-in-riyadh-apartment-fire-1.500583674",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T13:01:08.705Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

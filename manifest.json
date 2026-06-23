@@ -16010,6 +16010,24 @@
       "processedDate": "2026-06-23T14:30:59.037Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "774f701ccc5811f76b95b3f0dfb6ece188c7c0078707a2cf96c3feef67ec92f6",
+      "title": "Dubai launches mobile vehicle inspection service from Dh370",
+      "sourceUrl": "https://gulfnews.com/uae/transport/dubai-launches-mobile-vehicle-inspection-service-from-dh370-1.500584290",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T14:45:54.656Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "74e072ad8e91a66c35e58d13eedebfcce99b2cf233a35f1c63655ab1fc02b2c3",
+      "title": "UAE CBSE students report major grade boost in class 12 re-evaluation",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-cbse-students-report-major-grade-boost-in-class-12-re-evaluation-1.500584253",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T14:45:57.033Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

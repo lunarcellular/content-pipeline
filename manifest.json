@@ -15911,6 +15911,24 @@
       "processedDate": "2026-06-23T12:00:59.130Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5babf442b9f18d086fcdb3c1e6082a5cb685db9fdee3b5f9dc63217a8852820f",
+      "title": "IBMC group CEO Sajith Kumar honoured with Angola Leaders Award in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/ibmc-group-ceo-sajith-kumar-honoured-with-angola-leaders-award-in-dubai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T12:45:55.566Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a747b00d96475dfcf3180368a82701ca2b19e0eb24c7a086d86928525bcb63e",
+      "title": "Dubai RTA launches mobile vehicle inspection services across UAE from Dh370",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-rta-launches-aber-mobile-car-inspection-services",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-23T12:45:57.972Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

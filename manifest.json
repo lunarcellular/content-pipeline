@@ -15677,6 +15677,69 @@
       "processedDate": "2026-06-23T01:32:17.426Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "149019a9a7994fd60f1bf316f0a491eef45a3aec49cd796b23e536cc03c042a3",
+      "title": "UAE children react to under-15 social media ban: No TikTok? More time for play, sports and friends ",
+      "sourceUrl": "https://gulfnews.com/uae/uae-children-react-to-under-15-social-media-ban-no-tiktok-more-time-for-play-sports-and-friends-1.500583321",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T03:00:55.209Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4a3affb04bcfb0c61c86b035a6946b47c8b9a4de6e454da0d712f398127839aa",
+      "title": "Amnesty slams EU migration cooperation with 'racist' Libya",
+      "sourceUrl": "https://gulfnews.com/world/africa/amnesty-slams-eu-migration-cooperation-with-racist-libya-1.500583415",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-23T03:00:57.482Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "112f7ec4f67f86f36b7e5b3353b0da5d29e60d5b9873b972cf17b76ba27ff0d5",
+      "title": "Philippines school shooting renews global push for safer schools",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippines-school-shooting-renews-global-push-for-safer-schools",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T03:00:59.815Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e9961fc8e1962159e806141acd48d6e99fcdb33e6c706d396f925ce57cd6e350",
+      "title": "Should UAE schools brace for absences as airfares rise ahead of summer holidays?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-absences-airfares-rise-summer-holidays",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T03:01:02.432Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "43e97e03410a70d8cd78837e6998c3749a5a4703e54a0ccc33ef7892f91a13a5",
+      "title": "UAE’s new child social media rules spark push for safer, smarter digital habits",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/new-child-social-media-rules-push-safer-smarter-digital-habits-kids",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-23T03:01:04.386Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e9961fc8e1962159e806141acd48d6e99fcdb33e6c706d396f925ce57cd6e350",
+      "title": "Should UAE schools brace for absences as airfares rise ahead of summer holidays?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-absences-airfares-rise-summer-holidays",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-23T03:01:06.497Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "43e97e03410a70d8cd78837e6998c3749a5a4703e54a0ccc33ef7892f91a13a5",
+      "title": "UAE’s new child social media rules spark push for safer, smarter digital habits",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/new-child-social-media-rules-push-safer-smarter-digital-habits-kids",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-23T03:01:08.567Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

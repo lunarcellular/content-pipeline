@@ -16172,6 +16172,24 @@
       "processedDate": "2026-06-24T07:45:46.435Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "90c907565878bad3b8b5eb1f7870630ffd6b8e06a62b3d1e72d091f8e44db8bc",
+      "title": "Emirates begins inspections after Airbus reports cracks found in some A380 wings - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2tYUmJPQXZRWUxiWXpWZ05tb19TbFFiVTdRbjBFT1FPOUFxN2gyQjNPZ2hJM0Fhd2REWGtLd0V0c2tqV3l2LWdNT0tJUzVjeVFNTU5JMmJsXzc5Q1p2NkdCTmJsbXZuZVY1aHYyQjZoQWpkZ3NFMmgtRS1RbkVqM2t0WHFwYXlQNGMtR0Z4a3JaQllTUDhJLWJEVlVmTHfSAacBQVVfeXFMUGJoTksyR3hNQnJlaml5LXhYZFN4WTN0SGI3OVFxblFKRHFaRlRlRXpTejVLNzVaSkxwNUFPc21GZFpLTVM5SlU1YXBQYjdDZDdMaUpqU3VhYXBzdWU5MThlM2Y5dG1GSlg4S2ZDTFZZS1ljWXRCSnM0V0pPOXlvSlNmTTRpUjROUXJ2Z3FZX0xQdXFhdnUteXdEOTVLcHBrZFgtdjFvNzg?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-06-24T09:00:56.041Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8a684c344d31c3a83875605bdf05fe986b1a90f02513483681927eec6d33bcb6",
+      "title": "Emirates A380 fleet to urgently undergo inspections after cracks found in wings",
+      "sourceUrl": "https://www.thenationalnews.com/business/aviation/2026/06/24/emirates-a380/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-24T09:00:58.544Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

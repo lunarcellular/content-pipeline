@@ -16127,6 +16127,15 @@
       "processedDate": "2026-06-24T05:30:56.131Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "089cd7a2e02d8731c8fa72fc98d13072c10896b6fae2d869c237d0e0a5150505",
+      "title": "Emirates begins inspections after Airbus reports cracks found in some A380 wings",
+      "sourceUrl": "https://www.khaleejtimes.com/business/aviation/emirates-inspections-airbus-cracks-found-a380-wings",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-24T06:01:04.483Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

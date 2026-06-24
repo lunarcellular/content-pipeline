@@ -16271,6 +16271,24 @@
       "processedDate": "2026-06-24T16:05:36.879Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b352ef949c20d51a52f5efdc5bae3e4bdfeeedca613eb00250ace6a659b89e02",
+      "title": "Dubai announces flexible working hours for govt employees during peak summer months",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-announces-flexible-working-hours-for-govt-employees-during-peak-summer-months",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-24T17:01:01.005Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0637ced267b84432c7f1dd81c2d4d18ce9919aee6e3bc1c88f14cf6b59f5f6f3",
+      "title": "Protecting children from drugs is 'national and civil duty'",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/24/protecting-children-from-drugs-is-national-and-civil-duty/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-24T17:01:02.958Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

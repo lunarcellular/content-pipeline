@@ -16145,6 +16145,15 @@
       "processedDate": "2026-06-24T06:15:54.615Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9394eaa080139ef11597ad75c2a7d9985c37ecbc0e085e541490585ff13049a2",
+      "title": "UAE weather alert: Heavy rain, strong winds and dust reduce visibility in Al Ain through Thursday",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-alert-heavy-rain-strong-winds-and-dust-reduce-visibility-in-al-ain-through-thursday-1.500584965",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-24T06:45:51.592Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

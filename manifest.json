@@ -16622,6 +16622,15 @@
       "processedDate": "2026-06-25T16:01:02.302Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2abf4a150bea80479681cb00173e21c68b57bd982b2d12e8cb978f4ccd501990",
+      "title": "IBM unveils tech for chip smaller than 1 nanometer in AI computing push",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/ibm-unveils-tech-for-chip-smaller-than-1-nanometer-in-ai-computing-push-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-25T16:15:45.484Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -16388,6 +16388,24 @@
       "processedDate": "2026-06-25T06:45:47.329Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6ae6cae93c913e0f8b1ea05b5281ead8a595c4f50350530772db25088261260c",
+      "title": "Philippine authorities prevent Leyte school attack after online Facebook threat alert",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/philippine-authorities-prevent-leyte-school-attack-after-online-facebook-threat-alert-1.500586233",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-25T07:01:38.047Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "576f788cd8e612ede61330ba07f492c82ea1e24d31b1bfa28784774b8b257ff9",
+      "title": "UAE students thrive in tougher US admissions as Hale delivers elite offers",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-students-thrive-in-tougher-us-admissions-as-hale-delivers-elite-offers-1.500586224",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-25T07:01:41.078Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -16550,6 +16550,24 @@
       "processedDate": "2026-06-25T11:15:57.551Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fc4fd02ea82ef2cdf4eb6dd1e8ac6a9399715eda60c2055dac542f160e1f79e2",
+      "title": "Oman rules out Hormuz transit fees as Rubio warns Iran tolls risk global shipping chaos",
+      "sourceUrl": "https://gulfnews.com/world/mena/oman-rules-out-hormuz-transit-fees-as-rubio-warns-iran-tolls-risk-global-shipping-chaos-1.500586042",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-25T11:30:52.090Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "15330366c2ba8992a56b3eee73f37fc3209a67abeb323d37e9269a469651095b",
+      "title": "Oman says 'no transit fees' in any future arrangement on Hormuz",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-8-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-25T11:30:53.943Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

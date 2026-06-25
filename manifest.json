@@ -16595,6 +16595,15 @@
       "processedDate": "2026-06-25T14:15:59.536Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b89128f18e928476e57d7106f315076f51d42418c65f6313db8a2cf41a1cb889",
+      "title": "UAE Education Ministry launches AI-driven 'Nova' transformation project",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-education-ministry-launches-ai-driven-nova-transformation-project-1.500586809",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-25T14:31:47.753Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-25-uae-education-ministry-ai-transformation-project.md"
     }
   ]
 }

@@ -16325,6 +16325,24 @@
       "processedDate": "2026-06-25T01:28:32.655Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2701ddf255cc95c1a4c07e6bbac5c081a756308afdd3dad24958c383e8983dbb",
+      "title": "5-year-old swallows 52 magnets; UAE doctors warn of hidden risks to children",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/5-year-old-swallows-52-magnets-uae-doctors-warn-of-hidden-risks-to-children",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-25T03:01:00.136Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2701ddf255cc95c1a4c07e6bbac5c081a756308afdd3dad24958c383e8983dbb",
+      "title": "5-year-old swallows 52 magnets; UAE doctors warn of hidden risks to children",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/5-year-old-swallows-52-magnets-uae-doctors-warn-of-hidden-risks-to-children",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-25T03:01:04.278Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

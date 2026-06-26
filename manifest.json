@@ -16757,6 +16757,15 @@
       "processedDate": "2026-06-26T03:46:06.339Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c61234af3f1bfeb5b1c71e43ee20c9d63357b8f895c3773db0f6120b17bbc2f2",
+      "title": "DIB unveils Unlocking Sustainable Finance series to accelerate climate transition across priority sectors",
+      "sourceUrl": "https://gulfnews.com/business/banking/dib-unveils-unlocking-sustainable-finance-series-to-accelerate-climate-transition-across-priority-sectors-2-1.500585537",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-26T04:15:58.548Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

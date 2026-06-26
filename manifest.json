@@ -16667,6 +16667,33 @@
       "processedDate": "2026-06-25T22:57:17.017Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "abcee4447dafa0532c072e2ad0d0b471b6e6d62df933c948b9ce4fff83b67e39",
+      "title": "Quake-hit Venezuela's hospitals care for children left alone",
+      "sourceUrl": "https://gulfnews.com/world/americas/quake-hit-venezuelas-hospitals-care-for-children-left-alone-1.500587251",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-26T03:00:56.596Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6dddc040ab21261f861bb25078c1200cb1eab2797d185935010437d326c173ac",
+      "title": "Commentary: Banning violent online games after Philippine school shooting will not protect children",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/banning-violent-online-games-after-philippine-school-shooting-will-not-protect-children",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-26T03:00:58.759Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d71bd45cdc66350b8ef3b9c0fbba08ba59af99e29f24ebefaf89d003f8fac6a5",
+      "title": "Almost 330 families report teenage children to Sharjah Police over drug addiction ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/26/almost-330-families-report-teenage-children-to-sharjah-police-over-drug-addiction/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-26T03:01:01.201Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

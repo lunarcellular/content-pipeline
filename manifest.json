@@ -16955,6 +16955,24 @@
       "processedDate": "2026-06-27T03:00:57.459Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f97c29737f2bafc08af31e6f646fe79c85c79b0dfd03a9cf326520337ae6cc33",
+      "title": "Cape Verde smallest nation to reach World Cup knockouts after tie with Saudi Arabia",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/fifa-world-cup/cape-verde-reach-world-cup-knockouts-draw-saudi-arabia",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-27T05:15:46.117Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b28411b8fc51c46954723689f667519a773d4c83e490a6622d756ba013b874b4",
+      "title": "IAEA inspections at bombed Iranian nuclear sites key to lifting sanctions",
+      "sourceUrl": "https://www.thenationalnews.com/news/europe/2026/06/27/iaea-inspections-at-bombed-iranian-nuclear-sites-key-to-lifting-sanctions/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-27T05:15:48.141Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

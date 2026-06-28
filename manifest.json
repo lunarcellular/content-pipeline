@@ -17027,6 +17027,42 @@
       "processedDate": "2026-06-27T19:15:47.120Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f8cb348607f24d8646f317048c6caf11810e601c8f21dc51943e0b283c62cab1",
+      "title": "'Play is no time wasted': New study urges UAE parents to stop chasing productivity",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/play-is-no-time-wasted-new-study-urges-uae-parents-to-stop-chasing-productivity",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-28T03:01:00.753Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bfb0ef40c5504aef352999ad044811e0f46f428710cec5cafd6248c37a8a1cd3",
+      "title": "Can parents in the UAE be criminally liable for their minor children’s actions? ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-law-parents-criminal-liability-for-minor-childrens-actions",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-28T03:01:03.145Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f8cb348607f24d8646f317048c6caf11810e601c8f21dc51943e0b283c62cab1",
+      "title": "'Play is no time wasted': New study urges UAE parents to stop chasing productivity",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/play-is-no-time-wasted-new-study-urges-uae-parents-to-stop-chasing-productivity",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-28T03:01:05.381Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bfb0ef40c5504aef352999ad044811e0f46f428710cec5cafd6248c37a8a1cd3",
+      "title": "Can parents in the UAE be criminally liable for their minor children’s actions? ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-law-parents-criminal-liability-for-minor-childrens-actions",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-28T03:01:07.222Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

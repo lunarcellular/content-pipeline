@@ -17396,6 +17396,24 @@
       "processedDate": "2026-06-29T16:15:59.365Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2da0986ea37ee86c7cf411c536ec01b3f86800f375c2984d239b8a0ddc4ca29e",
+      "title": "Children need more conversations and fewer screens",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/children-need-more-conversations-and-fewer-screens-1.500590740",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-29T23:43:25.046Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3155b853841096524d13435a1be9c5c0c4a5b1b5fb3430bb75e39592285a9208",
+      "title": "San Francisco Archdiocese agrees to pay $395 million to settle child sex abuse lawsuits",
+      "sourceUrl": "https://gulfnews.com/world/americas/san-francisco-archdiocese-agrees-to-pay-395-million-to-settle-child-sex-abuse-lawsuits-1.500591335",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-29T23:43:27.179Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

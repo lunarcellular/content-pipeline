@@ -17369,6 +17369,33 @@
       "processedDate": "2026-06-29T15:31:00.239Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cb0dc100959978146c1af72b966353bbd0185f667bba60aeb6b9c93cdaa0f0f6",
+      "title": "UAE develops new framework to regulate children's use of social media",
+      "sourceUrl": "https://gulfnews.com/technology/media/uae-develops-new-framework-to-regulate-childrens-use-of-social-media-1.500591047",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-29T16:15:55.207Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "81035a7ce906b48f92f0180d292e363c001a3dbd496b03fa936ecf11902a9578",
+      "title": "193,000 rides and counting: Dubai's smart minibus pooling service sees growing demand",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/dubai-minibus-pooling-service-demand-193000-rides-since-2024",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-29T16:15:57.218Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "82cebd3b43900d4edc6ac699781bb4f91db4516b576a01510edd90342e0e4e5e",
+      "title": "Enzo Maresca: The 'incredible manager' tasked with replacing Pep Guardiola at Man City ",
+      "sourceUrl": "https://www.thenationalnews.com/sport/football/2026/06/29/enzo-maresca-the-incredible-manager-tasked-with-replacing-pep-guardiola-at-man-city/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-29T16:15:59.365Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

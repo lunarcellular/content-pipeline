@@ -17351,6 +17351,24 @@
       "processedDate": "2026-06-29T13:45:49.639Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fcea5f39cba826b48ad19ce8eb50965ca9203ab8ff121b330fbe3b64fad0081d",
+      "title": "Here's why co-parenting is gaining steady popularity",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/co-parenting-rise",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-29T15:30:57.574Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ed9326f0aa0f4571693f48ea7f7ef532229f67dde77410ff9a8419453d196f5c",
+      "title": "Eni and Libya's NOC launch offshore gas project boosting country's energy output",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/06/29/eni-and-libyas-noc-launch-offshore-gas-project-boosting-countrys-energy-output/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-29T15:31:00.239Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

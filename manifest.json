@@ -17333,6 +17333,24 @@
       "processedDate": "2026-06-29T13:31:07.636Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cf5147625202dd9db448bdec546eddc2853da5cefd51802e63ef734a03eb6e87",
+      "title": "Strawberry Moon to be visible in UAE on June 30; will it turn pink?",
+      "sourceUrl": "https://www.khaleejtimes.com/space/strawberry-moon-visible-uae-june-30",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-29T13:45:47.650Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ee15bf00d3c0a0d2aee477b5ec874b413d1317c9ff2d6af136dab65e6c40c537",
+      "title": "Iran war latest: Oman rejects Hormuz transit fees and backs international law",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/06/29/live-us-iran-doha-talks-hormuz/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-29T13:45:49.639Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

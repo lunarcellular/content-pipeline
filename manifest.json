@@ -17243,6 +17243,24 @@
       "processedDate": "2026-06-29T09:00:59.906Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "966ab85da0997806e43fa22d321154df189c87584e07308c957e82adacd803a8",
+      "title": "'Child cannot consent': UAE's new social media ban shifts liability to tech platforms",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-new-social-media-ban-minors-liability-tech-platforms",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-29T09:15:45.250Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "966ab85da0997806e43fa22d321154df189c87584e07308c957e82adacd803a8",
+      "title": "'A child cannot consent': UAE's new social media ban shifts liability to tech platforms",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-new-social-media-ban-minors-liability-tech-platforms",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-29T09:15:47.300Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

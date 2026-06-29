@@ -17261,6 +17261,24 @@
       "processedDate": "2026-06-29T09:15:47.300Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f88969377f656bd1d70848f5c5e86fc30090790c126793738d9a38c6f7cfd7a",
+      "title": "'This is a novel of domestic horror': Booker-shortlisted author Avni Doshi's second book examines terror of relationships",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/books/avni-doshi-on-second-novel-the-first-house",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-29T09:30:54.663Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "65fe4480918275cc3b43134179a8084447872a8f5f175e257ad7ec396ae687c3",
+      "title": "UK's Epsom College to open branches in Abu Dhabi and Dubai in major school partnership",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/06/29/uks-epsom-college-to-open-branches-in-abu-dhabi-and-dubai-in-major-school-partnership/",
+      "sourceName": "The National",
+      "processedDate": "2026-06-29T09:31:10.760Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-29-uk-independent-schools-abu-dhabi-dubai.md"
     }
   ]
 }

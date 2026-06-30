@@ -17675,6 +17675,15 @@
       "processedDate": "2026-06-30T16:01:30.125Z",
       "relevant": true,
       "outputFile": "output/2026-06-30-dubai-education-33-strategy.md"
+    },
+    {
+      "urlHash": "1c1e44158ae6a8bcf56e3dbd7134eefe6aa1da90b3a0008c555aad7d99ad95bd",
+      "title": "New passport fees announced for Indian expats in UAE from July 1",
+      "sourceUrl": "https://gulfnews.com/uae/new-passport-fees-announced-for-indian-expats-in-uae-from-july-1-1.500592283",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-30T16:15:49.290Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

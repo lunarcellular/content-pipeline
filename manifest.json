@@ -17531,6 +17531,24 @@
       "processedDate": "2026-06-30T07:30:56.274Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c540ca872b9c2f861b711262bd69cd23e81dcc68ddbbe045f1dbf73d1429e09b",
+      "title": "People take day off work; little boy wears train uniform to ride inaugural Etihad Rail",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/people-day-off-boy-train-uniform-inaugural-etihad-rail",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-30T09:00:59.259Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c540ca872b9c2f861b711262bd69cd23e81dcc68ddbbe045f1dbf73d1429e09b",
+      "title": "People take day off work; little boy wears train uniform to ride inaugural Etihad Rail",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/people-day-off-boy-train-uniform-inaugural-etihad-rail",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-30T09:01:01.602Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

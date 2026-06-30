@@ -17414,6 +17414,24 @@
       "processedDate": "2026-06-29T23:43:27.179Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e61a84ccb38a111c1a399b69049b69e7f9b1cc2750ed1ec6cae4c3851cfde60f",
+      "title": "'Powerhouse' Haaland leads by example at World Cup: Norway coach Solbakken",
+      "sourceUrl": "https://gulfnews.com/sport/football/world-cup/powerhouse-haaland-leads-by-example-at-world-cup-norway-coach-solbakken-1.500591400",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-30T01:52:41.404Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e3a7e8968b5a706b6dd9ca80cd44dff106616411db11f0f7f76fb0f876e54be9",
+      "title": "The UAE’s social media age limit is a win for child safety",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/the-uaes-social-media-age-limit-is-a-win-for-child-safety-1.500590055",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-30T01:52:43.491Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

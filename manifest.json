@@ -17639,6 +17639,24 @@
       "processedDate": "2026-06-30T14:45:36.895Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0c0f9333dd7104ac73a36f0378f1ddbb2435209d23bf7f341adbced9649c435b",
+      "title": "Indian passport fees in UAE jump up to 75% from July 1",
+      "sourceUrl": "https://gulfnews.com/uae/indian-passport-fees-in-uae-jump-up-to-75-from-july-1-1.500592283",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-30T15:01:08.313Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5360b8a3c4d36f17198087837beaf6a366c2c04c1c33308626accd1cbb142a9f",
+      "title": "Indian passport fees increase in UAE: New prices announced",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-passport-fees-increase-in-uae-new-prices-announced",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-30T15:01:10.482Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

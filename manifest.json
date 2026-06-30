@@ -17666,6 +17666,15 @@
       "processedDate": "2026-06-30T15:13:09.447Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0e474660038a95ac461dffb120ebe5d3cd41b73577411e55cd924892e38c2ddc",
+      "title": "Dubai’s Education 33 Strategy: Sheikh Hamdan reviews key education programmes",
+      "sourceUrl": "https://gulfnews.com/uae/dubais-education-33-strategy-sheikh-hamdan-reviews-key-education-programmes-1.500592379",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-30T16:01:30.125Z",
+      "relevant": true,
+      "outputFile": "output/2026-06-30-dubai-education-33-strategy.md"
     }
   ]
 }

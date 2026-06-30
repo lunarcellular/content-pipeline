@@ -17558,6 +17558,33 @@
       "processedDate": "2026-06-30T09:30:52.290Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d6a89801a50086329f8ce90e35c4e402d0ec357b398c0fa3bf516c9ef3d471ff",
+      "title": "Deaf man reunites with family 35 years after boarding wrong train as a child",
+      "sourceUrl": "https://gulfnews.com/world/asia/deaf-man-reunites-with-family-35-years-after-boarding-wrong-train-as-a-child-1.500591803",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-06-30T09:45:44.519Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8c8edd78cab09bb454c3a8843b4176fb78ad5a2c9c71a6e2fbc874b5e0b3738c",
+      "title": "UAE teen dies on the way to exams in RAK; father mourns son who was 'widely loved'",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/emergencies/father-mourns-high-school-student-died-way-to-rak-final-exams",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-06-30T09:45:47.134Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8c8edd78cab09bb454c3a8843b4176fb78ad5a2c9c71a6e2fbc874b5e0b3738c",
+      "title": "UAE teen dies on the way to exams in RAK; father mourns son who was 'widely loved'",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/emergencies/father-mourns-high-school-student-died-way-to-rak-final-exams",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-06-30T09:45:49.548Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

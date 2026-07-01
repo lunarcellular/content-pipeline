@@ -17720,6 +17720,24 @@
       "processedDate": "2026-06-30T21:15:57.300Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eb1464d0867fca6bcaf64e41a408c91574065fc5dad13a8e4724ae4f9c20375f",
+      "title": "Iran not to enter talks with US unless MoU's certain provisions fulfilled: Ghalibaf",
+      "sourceUrl": "https://gulfnews.com/world/americas/iran-not-to-enter-talks-with-us-unless-mous-certain-provisions-fulfilled-ghalibaf-1.500592751",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T03:01:02.613Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c4994ddb3d9c137ee34f3a505f34b31859c4026ea915d810527f7f03e6b181d8",
+      "title": "'Prevention must go beyond saying no': Clinics and schools look to bolster UAE anti-drug campaign",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/01/prevention-must-go-beyond-saying-no-clinics-and-schools-look-to-bolster-uae-anti-drug-campaign/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-01T03:01:05.157Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

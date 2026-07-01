@@ -17981,6 +17981,15 @@
       "processedDate": "2026-07-01T14:01:09.792Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d638f015077bf6754ed1b34e83f7496a86a2d1662026d0ec184d89ca4b8422a7",
+      "title": "Etihad expands flights to Brussels, Dhaka, Kraków, Palma and Zanzibar",
+      "sourceUrl": "https://gulfnews.com/business/aviation/etihad-expands-flights-to-brussels-dhaka-krak%C3%B3w-palma-and-zanzibar-1.500593566",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T14:45:48.036Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

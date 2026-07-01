@@ -17801,6 +17801,24 @@
       "processedDate": "2026-07-01T04:15:46.954Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "67c720d7333f17b3c8f6c520d4195d653df736910ffad0212760a25bf09f0bd3",
+      "title": "Takeaways from US Supreme Court: Citizenship, presidential power, voting, immigration",
+      "sourceUrl": "https://gulfnews.com/world/americas/takeaways-from-us-supreme-court-citizenship-presidential-power-voting-immigration-1.500592649",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T04:45:55.066Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d810f8592bee5252aeb0164d8d0fe1ac2e4c2907664d572f2fc4262c2d1da7d3",
+      "title": "Life after likes: How UAE parents can help children navigate the offline transition",
+      "sourceUrl": "https://gulfnews.com/lifestyle/life-after-likes-how-uae-parents-can-help-children-navigate-the-offline-transition-1.500592086",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T04:45:57.212Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -17738,6 +17738,24 @@
       "processedDate": "2026-07-01T03:01:05.157Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b6f48cef2bcb208adc2851029f62f16df23a56212a1366bb06a6c2a2b68d1b2e",
+      "title": "Sharjah Police unveil new airport uniform to boost readiness",
+      "sourceUrl": "https://gulfnews.com/uae/government/sharjah-police-unveil-new-airport-uniform-to-boost-readiness-1.500592708",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T03:30:55.915Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2e889e7ef66f0c3a9b68632f521f1e643f597570dc0cc190bdf70e31ed381b8c",
+      "title": "Nine children killed as three-wheeled vehicle plunges into canal in southern Egypt",
+      "sourceUrl": "https://gulfnews.com/world/mena/nine-children-killed-as-three-wheeled-vehicle-plunges-into-canal-in-southern-egypt-1.500592769",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T03:30:58.315Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

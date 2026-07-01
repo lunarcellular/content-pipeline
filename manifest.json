@@ -17765,6 +17765,33 @@
       "processedDate": "2026-07-01T03:45:56.324Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "73a94c5f04a71ba2c4bce54908eec174db359dd2bf8af2b72b79088a338d6e38",
+      "title": "LEORON Institute appoints Lule Bunjaku Karapinar as CEO, GCC Markets and Executive Education",
+      "sourceUrl": "https://gulfnews.com/world/gulf/leoron-institute-appoints-lule-bunjaku-karapinar-as-ceo-gcc-markets-and-executive-education-1.500591975",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-01T04:02:12.143Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0a83a7027da76164e00f3d992f97e3fae6e861d1a63762bed86a7754841b179d",
+      "title": "LEORON Institute appoints Lule Bunjaku Karapinar as CEO, GCC Markets and Executive Education - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ2NGZzJvVHpOMU02X3dvNm84SUJFMFZIUEhwT3Z6Q192TEpQM0w0Ull0NXZxVVJlTThxeFI1dWNUelQtMlp6alFEeWxlQUV2a2E2WnlFYWF0U2ZOWUJ5eUhqeUlfS3haQXBaQXQ1eGRTb2ZDMVZZQ0U1V1FfMThpdGl1dHlQRlA4OWQ4Q21pQnE5cVJtc01YbERZdmJvUHhJU0dKMy1vVldnOVNySkN2R1NOd3AtLVdydzRrTUM4cWhXLWdCUGhMUENzSTFOM3pO0gHjAUFVX3lxTFByRWFzbTZkTUhHYVY0Y1BkTDh4eUd6YjFzdVc0UUpxb2Roc09DajIwcUxIMElGa2Y1WGxjTXNwcWR1UVJZQ1REWThGSDlVZTlGcnVzbHh0QTJjVWhjUlVrWVpmR0VfVGQ5RUdoYmtieVdaTmNKd0lacVlOMmwxREdKT3Y2dVJvenJTWEVXSUw4R2loRXgxWExKQ0F0ZDZYN0FyLXo4bnozRFNkdW8zQndIQ09xZDhmak1RX2c3OURKTGxOSDZrVnlyMHFkT1dRczRLSFE1eU1lOUZpdWNLdW5DWWM4?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-07-01T04:02:15.016Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2fe99f6b9f5f463610e5f0e9badbcc2887cf1b89e470ef0122d1c94215396d4f",
+      "title": "Iran blocks talks with US envoys till ceasefire terms are fulfilled",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-14-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-01T04:02:17.415Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

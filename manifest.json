@@ -18035,6 +18035,24 @@
       "processedDate": "2026-07-01T21:08:41.589Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4352cae14ab9fffa61cb4c1e6f214c6e3230f81b4ef19487c1ba9f95e1eba72a",
+      "title": "Over Dh6,000 per child: UAE parents struggle to find affordable summer camps",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/summer-holiday-camps-children-rising-costs-parents",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-02T03:00:59.272Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4352cae14ab9fffa61cb4c1e6f214c6e3230f81b4ef19487c1ba9f95e1eba72a",
+      "title": "Over Dh6,000 per child: UAE parents struggle to find affordable summer camps",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/summer-holiday-camps-children-rising-costs-parents",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-02T03:01:02.381Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

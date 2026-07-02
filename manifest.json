@@ -18062,6 +18062,24 @@
       "processedDate": "2026-07-02T04:14:55.046Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "32003fad80dedf2f1f94f2e98f324c613c126606cd68e9422fa46a497152646c",
+      "title": "YouTube gives UAE parents new controls over children’s viewing",
+      "sourceUrl": "https://gulfnews.com/technology/youtube-gives-uae-parents-new-controls-over-childrens-viewing-1.500594239",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-02T07:15:47.102Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1361447288d16d31f2d914d82e548a522f0b51d7e5e4763d2bbab4ec8c088a7f",
+      "title": "UAE unveils global vision to boost community contributions to over Dh20 billion by 2031: Sheikh Mansour",
+      "sourceUrl": "https://gulfnews.com/uae/government/uae-unveils-global-vision-to-boost-community-contributions-to-over-dh20-billion-by-2031-sheikh-mansour-1.500594215",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-02T07:15:50.027Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

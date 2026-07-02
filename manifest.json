@@ -18089,6 +18089,24 @@
       "processedDate": "2026-07-02T07:45:51.719Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5adac85eac87192d2341cb266616b955686269612c955d002a8a0a902a60a499",
+      "title": "Syria's Al Shibani says Damascus open to talks with Hezbollah during Beirut visit",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/07/02/syrias-al-shibani-says-damascus-open-to-talks-with-hezbollah-during-beirut-visit/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-02T09:45:47.169Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a2811d8a976180e20aaa716c35952857c9281a6789d7f1ec11c6842cef18f131",
+      "title": "AI models must complement, not cannibalise, knowledge creation",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/comment/2026/07/02/artificial-intelligence-ai-llm-knowledge-research-science-technology/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-02T09:45:49.421Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

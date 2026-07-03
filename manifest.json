@@ -18332,6 +18332,24 @@
       "processedDate": "2026-07-03T06:30:59.830Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bc2de222adcc9c549befd391c402929889164e591078202d7f6a8aa7084edc9c",
+      "title": "How UAE teachers are spending their summer break - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUVPYTZaQ0hlUDU0QUxudkNUejFMa2l6b1YyZVhIQnhCeEhXakk4THYzZ2lFV2gzd0c4aFdhZTV1SU11U2JNZFdDZnpLTHZzQWFPc015ZEMzYzVzeS1tR0M0Q1BpcXVFU29tT2wxd0s4ZE9YLUh6NFA0SlRXaWV6dFhxd3pCXy00amNEbFdKVmdCWkV2TGlDTTdTQdIBrgFBVV95cUxOMFFvbGx5X2VPZEE5ME9paEJVR1ItTUgwTkZrVTZsd3dBSmNEd0RDNTlVWEZYdkYtWDk0QUdiNWtxUVlRUEdLMGliX3cteC1XRlE2Z2FsOGZONGlwb3I4QzdXZVJGWjBISFJOaFpiSjdrY1RqbXZDUTV2bVdEWXFxLUV2djJPVHZnMGNzbzdocnVuRHJtdWRkODJrQnp2Ukc5a3h5cjJtcndVQTMtZkE?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-07-03T06:45:45.728Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bb13caf9f17f558e6fb0aca6bddee5d82800f0491da13a00e69b05310c260866",
+      "title": "BITS Pilani Dubai Campus empowers future women engineers through leadership",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/bits-pilani-dubai-campus-empowers-future-women-engineers-through-leadership",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-03T06:45:47.714Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

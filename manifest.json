@@ -18422,6 +18422,15 @@
       "processedDate": "2026-07-03T10:01:01.845Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "684a59505ee00db4b09681488b86c2e93230b1f750841b1e02cb9702be2936f2",
+      "title": "Dubai examines more than 20,000 documents, finds over 900 with irregularities",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-examines-20000-documents-finds-over-900-with-irregularities",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-03T10:45:51.730Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

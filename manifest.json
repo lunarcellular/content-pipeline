@@ -18350,6 +18350,33 @@
       "processedDate": "2026-07-03T06:45:47.714Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5bf1fcf3853eaaa47cbf151d12e6ab9e6254251489f175f33a708749069c6736",
+      "title": "Emirates expects 3,500 children to fly alone this summer",
+      "sourceUrl": "https://gulfnews.com/business/aviation/emirates-expects-3500-children-to-fly-alone-this-summer-1.500595548",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-03T07:45:47.973Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "26a5ebe26d834353360283ddad24c7f8c3cfb69f059e3d43fb28a9a44b5c04bd",
+      "title": "Locked in washing machine: Indian authority probes alleged child abuse at daycare",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-ncpcr-alleged-child-abuse-bengaluru-daycare-it-office",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-03T07:45:50.823Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "03dfee237c3f1097e9395c0a835ed32b268f3ad20d65e78d5f9dcc0107d53fbd",
+      "title": "200+ brands, 100+ speakers confirmed for Forex Expo Dubai 2026",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/200-brands-100-speakers-confirmed-for-forex-expo-dubai-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-03T07:45:53.206Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

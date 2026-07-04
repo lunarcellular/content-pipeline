@@ -18485,6 +18485,78 @@
       "processedDate": "2026-07-03T21:18:57.533Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8103a9486eb5d0e05e7298026e518ef12cb6f24ee9b893bd4faf99bee5746b8b",
+      "title": "Ask Gulf News: My marriage wasn't officially registered — how do i get my child's birth documents?",
+      "sourceUrl": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-my-marriage-wasnt-officially-registered-how-do-i-get-my-childs-birth-documents-1.500595979",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-04T03:01:09.149Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "40856084aab8a5989eb70f155f2f86ad7a4e66ea939a5963352c135dda8a0242",
+      "title": "Indian passport services in UAE: Fees, timings, walk-in rules explained",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-passport-services-in-uae-fees-timings-explained",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-04T03:01:16.164Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "90fd2b89a2d7ec03bfb7a37a28e918ac3c25f1e3935a2fa2d876ff0850684445",
+      "title": "UAE's under-15 social media ban: Child influencers can use parent-owned accounts",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/child-influencers-parent-owned-accounts-under-15-social-media-ban",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-04T03:01:19.138Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "40856084aab8a5989eb70f155f2f86ad7a4e66ea939a5963352c135dda8a0242",
+      "title": "Indian passport services in UAE: Fees, timings, walk-in rules explained",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-passport-services-in-uae-fees-timings-explained",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-04T03:01:22.185Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "90fd2b89a2d7ec03bfb7a37a28e918ac3c25f1e3935a2fa2d876ff0850684445",
+      "title": "UAE's under-15 social media ban: Child influencers can use parent-owned accounts",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/child-influencers-parent-owned-accounts-under-15-social-media-ban",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-04T03:01:25.021Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d3de6b1f73505b3af812a730256c79fab75c92946f493da6cd369a555d0b9931",
+      "title": "UAE school calendar 2026-27: When do schools reopen after summer break?",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-school-calendar-2026-27-when-do-schools-reopen-after-summer-break-1.500596274",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-04T03:02:29.900Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-04-uae-school-calendar-2026-27.md"
+    },
+    {
+      "urlHash": "5e0803f989dbedb68088f8f6ed64ab16824b3ccf81a951d676b2a34a0627b17a",
+      "title": "UAE school calendar 2026-27: When do schools reopen after summer break? - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU5oc1ZHRHhNQzZ0cDFEVkdOdE5vM0xkeVZaMnRWTkkwNG9jTlZUZGxjSDh0Q2UxSjBGVDJZdFJGT3dzX2t4U3hzejdIXzRGZ25NWlgxMWxFRjdNT05CaWlVMzljT0ZYVmRPb3c3cjctMERvMVFvQXVYWmVZUFVHdWVWbnU0NEp0QmswcmprcDNKVExkOC1NMEN2bEd3UjE4eWM5YkJxQ2J5N3M5aXJMOTJQQ25xS0llenRtMUMxLXVPek000gHXAUFVX3lxTE03YnZRS1RjNmlpbl9xNFdLZWlCdVVGb2UzczBMaDRRQ0NwRWE4RzVhM21hbmF1YmlVM0kybnliUHdNZWN3cEZNU3pId0w5UkRvZks5WU1iX2lKYjBKMDVlcjJPaFRUemlhZUladUpiLV8yNGdUTXVwNGdtVWZ0ZjFzVFl2X01aay15eXlmTENWRUZScHVlUEtIY0dONHpVUGUwaVFidE9ORUpNZE1iSi1zZi0xSzA4cjl6Q3NmeEZKeDhSWHVzSkRleFpLRF9oTERpdjZJZjlF?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-07-04T03:02:29.901Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-04-uae-school-calendar-2026-27.md"
+    },
+    {
+      "urlHash": "5e0803f989dbedb68088f8f6ed64ab16824b3ccf81a951d676b2a34a0627b17a",
+      "title": "UAE school calendar 2026-27: When do schools reopen after summer break? - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU5oc1ZHRHhNQzZ0cDFEVkdOdE5vM0xkeVZaMnRWTkkwNG9jTlZUZGxjSDh0Q2UxSjBGVDJZdFJGT3dzX2t4U3hzejdIXzRGZ25NWlgxMWxFRjdNT05CaWlVMzljT0ZYVmRPb3c3cjctMERvMVFvQXVYWmVZUFVHdWVWbnU0NEp0QmswcmprcDNKVExkOC1NMEN2bEd3UjE4eWM5YkJxQ2J5N3M5aXJMOTJQQ25xS0llenRtMUMxLXVPek000gHXAUFVX3lxTE03YnZRS1RjNmlpbl9xNFdLZWlCdVVGb2UzczBMaDRRQ0NwRWE4RzVhM21hbmF1YmlVM0kybnliUHdNZWN3cEZNU3pId0w5UkRvZks5WU1iX2lKYjBKMDVlcjJPaFRUemlhZUladUpiLV8yNGdUTXVwNGdtVWZ0ZjFzVFl2X01aay15eXlmTENWRUZScHVlUEtIY0dONHpVUGUwaVFidE9ORUpNZE1iSi1zZi0xSzA4cjl6Q3NmeEZKeDhSWHVzSkRleFpLRF9oTERpdjZJZjlF?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-07-04T03:02:29.901Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-04-uae-school-calendar-2026-27.md"
     }
   ]
 }

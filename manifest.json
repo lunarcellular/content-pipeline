@@ -18593,6 +18593,15 @@
       "processedDate": "2026-07-04T10:01:03.180Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "03a1644f447a0457f5f81e33c756eb23c82a9b794796ea138de59c0ef3827702",
+      "title": "Dubai to teach key life skills under education action plan",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/04/dubai-to-teach-key-life-skills-under-education-action-plan/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-04T12:01:37.619Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-04-dubai-schools-life-skills-programme-2026.md"
     }
   ]
 }

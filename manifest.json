@@ -18557,6 +18557,15 @@
       "processedDate": "2026-07-04T03:02:29.901Z",
       "relevant": true,
       "outputFile": "output/2026-07-04-uae-school-calendar-2026-27.md"
+    },
+    {
+      "urlHash": "b6bef08f6734bc31eb515b5cd7d138c0a34b7e52f2bb70e688d33966de05f055",
+      "title": "Cape Verde show anything is possible at World Cup with 'big hearts'",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/fifa-world-cup/cape-verde-anything-is-possible-fifa-world-cup-big-hearts",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-04T04:01:01.730Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

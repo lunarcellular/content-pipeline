@@ -18728,6 +18728,24 @@
       "processedDate": "2026-07-05T09:45:57.070Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "65d2d75a775b8c073ce3d4ebb846a71af24fbc1cd7d35083b41cb15f4af696cb",
+      "title": "Dubai Police issues travel warning to UAE families: Don't leave children alone",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-travel-warning-uae-families-child-safety-abroad",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-05T10:01:15.066Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "65d2d75a775b8c073ce3d4ebb846a71af24fbc1cd7d35083b41cb15f4af696cb",
+      "title": "Dubai Police issues travel warning to UAE families: Don't leave children alone",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-travel-warning-uae-families-child-safety-abroad",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-05T10:01:17.379Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

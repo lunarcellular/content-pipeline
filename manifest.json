@@ -18656,6 +18656,24 @@
       "processedDate": "2026-07-04T17:15:47.564Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e66cfee711eba4f2748cd4fc3d57379d23a50bf33f99f02f92d6093e0ce7a187",
+      "title": "UAE schools just closed for summer - here is exactly how many days off students get this year - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU5oc1ZHRHhNQzZ0cDFEVkdOdE5vM0xkeVZaMnRWTkkwNG9jTlZUZGxjSDh0Q2UxSjBGVDJZdFJGT3dzX2t4U3hzejdIXzRGZ25NWlgxMWxFRjdNT05CaWlVMzljT0ZYVmRPb3c3cjctMERvMVFvQXVYWmVZUFVHdWVWbnU0NEp0QmswcmprcDNKVExkOC1NMEN2bEd3UjE4eWM5YkJxQ2J5N3M5aXJMOTJQQ25xS0llenRtMUMxLXVPek00?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-07-05T01:17:20.791Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e66cfee711eba4f2748cd4fc3d57379d23a50bf33f99f02f92d6093e0ce7a187",
+      "title": "UAE schools just closed for summer - here is exactly how many days off students get this year - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU5oc1ZHRHhNQzZ0cDFEVkdOdE5vM0xkeVZaMnRWTkkwNG9jTlZUZGxjSDh0Q2UxSjBGVDJZdFJGT3dzX2t4U3hzejdIXzRGZ25NWlgxMWxFRjdNT05CaWlVMzljT0ZYVmRPb3c3cjctMERvMVFvQXVYWmVZUFVHdWVWbnU0NEp0QmswcmprcDNKVExkOC1NMEN2bEd3UjE4eWM5YkJxQ2J5N3M5aXJMOTJQQ25xS0llenRtMUMxLXVPek00?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-07-05T01:17:21.833Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

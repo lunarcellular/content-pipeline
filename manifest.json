@@ -18962,6 +18962,24 @@
       "processedDate": "2026-07-06T09:45:47.841Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1cb60d09824cab88a9f37af792d3cb0a94b532fe6b89fce454da7297bcfc77e1",
+      "title": "UAE school summer break: Dubai travel time slashed by over half as traffic eases",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/less-traffic-school-summer-holidays-start-commute-cut-by-half",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-06T11:01:14.470Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1cb60d09824cab88a9f37af792d3cb0a94b532fe6b89fce454da7297bcfc77e1",
+      "title": "UAE school summer break: Dubai travel time slashed by over half as traffic eases",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/less-traffic-school-summer-holidays-start-commute-cut-by-half",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-06T11:01:16.653Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

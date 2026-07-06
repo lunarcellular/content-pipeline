@@ -18818,6 +18818,42 @@
       "processedDate": "2026-07-05T15:45:51.586Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d2df2040082463fad04712bddce12c25af3c10e1c1575cf3fe12ee4deaced7d3",
+      "title": "How UAE families can set up stronger parental controls on Apple and Android devices: Key features that matter most",
+      "sourceUrl": "https://gulfnews.com/uae/how-uae-families-can-set-up-stronger-parental-controls-on-apple-and-android-devices-key-features-that-matter-most-1.500597464",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-06T03:01:09.473Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3aa2c766f54656158c73b611cb3e7d5c1d14db98358ef50b30de3204bdeb1562",
+      "title": "Loved ones speak of loss as UAE billionaire helps families of Emirates Road crash victims",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/billionaires-aid-reaches-families-emirates-road-crash-victims-sri-lanka-india",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-06T03:01:11.803Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ee764d97c5df23f9d91c3b161fa7d891df7b26e2e5da164e76eda75d2fce22ee",
+      "title": "UAE firms face AI, cloud, machine learning talent shortage, eye Eastern Europe, Africa for hiring",
+      "sourceUrl": "https://www.khaleejtimes.com/business/uae-firms-face-ai-cloud-machine-learning-talent-shortage-eye-eastern-europe-africa-for-hiring",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-06T03:01:14.181Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3aa2c766f54656158c73b611cb3e7d5c1d14db98358ef50b30de3204bdeb1562",
+      "title": "Loved ones speak of loss as UAE billionaire helps families of Emirates Road crash victims",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/billionaires-aid-reaches-families-emirates-road-crash-victims-sri-lanka-india",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-06T03:01:16.156Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

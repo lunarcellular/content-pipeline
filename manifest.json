@@ -19007,6 +19007,24 @@
       "processedDate": "2026-07-06T12:01:11.543Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ad176c595074f9245ff7d7c64e9a1c550207e706233593a7099eef19b73007e7",
+      "title": "UAE summer camps: How do you pick the right one for your child? Experts explain",
+      "sourceUrl": "https://gulfnews.com/uae/uae-summer-camps-how-do-you-pick-the-right-one-for-your-child-experts-explain-1.500598480",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-06T12:46:26.002Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f1a662b0c5153341718134be1cd6182b0b86124182e756b539764e6d5d68eef1",
+      "title": "Pupils across UAE celebrate IB results despite disruption caused by Iran war",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/06/pupils-across-uae-celebrate-ib-results-despite-disruption-caused-by-iran-war/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-06T12:46:28.256Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

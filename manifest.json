@@ -19079,6 +19079,33 @@
       "processedDate": "2026-07-06T15:01:15.001Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "237828acc290f96fb4b527c9d22e7efff69879a68ab06f74ba646a3950095f97",
+      "title": "25 million Pakistani children still out of school: Report",
+      "sourceUrl": "https://gulfnews.com/world/asia/pakistan/25-million-pakistani-children-still-out-of-school-report-1.500598426",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-06T15:31:06.471Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e724c8f83f63beb325bf895201342167b6a51171122cb046d8c85751beb574eb",
+      "title": "25 million Pakistani children still out of school: Report - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMXlqZE5xQ2lldE9iUWV6SDNOMjRNcktER0VsRC1DemJTQ0J0MTBYSEp2ZHZfZ3FsVnN2bkZUMVo1c0lTMWRJb1VkcGZwS3hGRkVIOFZ6VUZnZkJFcElqTDRZUjhnZXJlTHdtM2NmTFQ5M2xEZlRsaWNlUmZfakNicTFRc2RiMHZuUTJDOERPWjZocnRCZzlub1otTFNvMWFvdFdvTGxlU3RVWTkwU3c?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-07-06T15:31:08.661Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f3d469d26ab2f6da25fcba734c63f97ebb5c36bc67e50f8428f0a0922d96bf62",
+      "title": "India aims to make it easier to short by nearly doubling stocks eligible for borrowing, sources say",
+      "sourceUrl": "https://www.khaleejtimes.com/business/markets/india-aims-to-make-it-easier-to-short-by-nearly-doubling-stocks-eligible-for-borrowing-sources-say",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-06T15:31:10.795Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

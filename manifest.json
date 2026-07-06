@@ -18917,6 +18917,33 @@
       "processedDate": "2026-07-06T08:01:12.184Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "190d36176d499b0f00484379f10a9d6e3f22c3a5fa8ff26f4a5aebd41ed6728d",
+      "title": "Look: Kate Middleton shares photos of Three Peaks Challenge with Prince William and her children by her side",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/kate-middleton-shares-photos-of-three-peaks-challenge-with-prince-william",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-06T08:31:06.163Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "61970233911bb68c4f32b6197359d5d0865cc2a887c2cb40d93057225068f687",
+      "title": "World must not let AI 'vibe-code' humanity's future, warns UN chief",
+      "sourceUrl": "https://www.khaleejtimes.com/world/un-chief-guterres-warns-world-ai-risks-vibe-code",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-06T08:31:08.368Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "29687e15cf9c360596b0ad26614011072cd99159dfbc93d83e4b7e68fb4d068b",
+      "title": "Ismael Saibari fitness concern for Morocco ahead of France World Cup quarter-final clash",
+      "sourceUrl": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/06/ismael-saibari-fitness-concern-for-morocco-ahead-of-france-world-cup-quarter-final-clash/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-06T08:31:10.682Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

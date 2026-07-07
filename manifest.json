@@ -19304,6 +19304,24 @@
       "processedDate": "2026-07-07T13:15:52.908Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7ff4cfbb9db8625bf5d518ef7b1d8baecc3a4370b000797e0d54358402578de3",
+      "title": "‘Thala for a reason’: FIFA World Cup leads global tributes as MS Dhoni turns 45 today",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/thala-for-a-reason-fifa-world-cup-leads-global-tributes-as-ms-dhoni-turns-45-today-1.500599970",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-07T14:16:02.275Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "45463d713b35ae55c75ce598dd0e5a3df2c7c7afdb2585a1c2bff1e7108e3ffa",
+      "title": "Iran war latest: Doha says Iran 'fully responsible' for attack on Qatari tanker",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/07/07/live-hormuz-shipping/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-07T14:16:04.915Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

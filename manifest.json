@@ -19223,6 +19223,15 @@
       "processedDate": "2026-07-07T05:01:07.810Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a7d8b04e7c4947593a6d79ead98a34c168b2701e456454ec1a02e98e6ae2c89b",
+      "title": "ADNOC Distribution to acquire Shell Downstream South Africa in $1 billion deal",
+      "sourceUrl": "https://gulfnews.com/business/energy/adnoc-distribution-to-acquire-shell-downstream-south-africa-in-1-billion-deal-1.500599235",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-07T05:31:07.412Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

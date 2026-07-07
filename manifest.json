@@ -19250,6 +19250,24 @@
       "processedDate": "2026-07-07T09:45:48.296Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "12875c936cc970b4a424b80eab31be19c92b199b33506396c51eae47a2e0f285",
+      "title": "Dubai centre helps students of determination find their voice through assistive tech",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-al-noor-training-centre-helps-students-of-determination",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-07T11:01:18.431Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4e4a0bbc83931d436daf715c6998509aca69c961386b861b37ed1dcfcdac4f52",
+      "title": "Khor Fakkan port terminal capacity to be doubled amid Hormuz disruption",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/07/07/khor-fakkan-port-terminal-capacity-to-be-doubled-amid-hormuz-disruption/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-07T11:01:20.618Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

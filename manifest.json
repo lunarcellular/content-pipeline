@@ -19322,6 +19322,24 @@
       "processedDate": "2026-07-07T14:16:04.915Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d188d6c604b50335faa238ee92054c22d166f7e4d0a6dc08a00d65286cb30c5a",
+      "title": "Sharjah student-artist Mayed Almheiri named a finalist for Dior Photography and Visual Arts Prize",
+      "sourceUrl": "https://www.thenationalnews.com/magazine/2026/07/07/sharjah-student-artist-mayed-almheiri-named-a-finalist-for-dior-photography-and-visual-arts-prize/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-07T14:31:17.017Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e126a943d9ed3bbb381ac368ed902c71e9ff4eedcfac49f4bb86853c90a55b5d",
+      "title": "Syria's Al Shara vows to arrest those responsible for blasts during Macron's visit",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/07/07/explosions-heard-in-damascus-during-macron-visit/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-07T14:31:20.906Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

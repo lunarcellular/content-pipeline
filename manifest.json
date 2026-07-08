@@ -19475,6 +19475,15 @@
       "processedDate": "2026-07-08T07:31:37.170Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7bccc219b58a00a55e4651b27e81693bead5bc508cae4b40998fdfb2af97cdb8",
+      "title": "GCC children need protection built into the internet, not left to parents",
+      "sourceUrl": "https://gulfnews.com/business/analysis/gcc-children-need-protection-built-into-the-internet-not-left-to-parents-1.500600805",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-08T08:31:15.195Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

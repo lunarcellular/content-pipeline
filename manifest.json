@@ -19484,6 +19484,24 @@
       "processedDate": "2026-07-08T08:31:15.195Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "960c2698bb7e16f9d7ebdf071468d1edb5e3e035c6d704617ba7d7670141ec3c",
+      "title": "Sheikh Hamdan meets Dubai students after gold medal win at London Olympiad",
+      "sourceUrl": "https://gulfnews.com/uae/sheikh-hamdan-meets-dubai-students-after-gold-medal-win-at-london-olympiad-1.500600824",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-08T08:45:48.567Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "26f7afa9c06095eaabc9882737bb52e45ff37646b7854ee955dea2781395beef",
+      "title": "What is AI Cannibalism, and can it be fixed?",
+      "sourceUrl": "https://gulfnews.com/technology/what-is-ai-cannibalism-and-can-it-be-fixed-1.500600785",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-08T08:45:50.516Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

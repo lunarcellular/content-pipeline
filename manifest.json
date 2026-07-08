@@ -19511,6 +19511,24 @@
       "processedDate": "2026-07-08T09:15:30.143Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ccfb26adacf29bfd20ebfb046e16d801f361a97d815ac5e1100d0f86cc3eda28",
+      "title": "International Indian School, Abu Dhabi follows a competency-driven learning model \n\n",
+      "sourceUrl": "https://gulfnews.com/gn-focus/international-indian-school-abu-dhabi-follows-a-competency-driven-learning-model-1.500600904",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-08T09:31:13.442Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2e810f9bd671eb210215f417991ddb218af159943259f37bff779b2705835ef4",
+      "title": "Sheikh Hamdan meets Dubai pupils who set 'shining example' with international competition win",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/08/sheikh-hamdan-meets-dubai-pupils-who-set-shining-example-with-international-competition-win/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-08T09:31:15.648Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

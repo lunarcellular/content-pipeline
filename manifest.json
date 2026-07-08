@@ -19457,6 +19457,24 @@
       "processedDate": "2026-07-08T07:16:31.195Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "a4e48b75ee404750965f08a287073ef12ed6f001a5ff9b3f3dfff8689e3473ad",
+      "title": "Robert Pattinson compares his 'The Odyssey' character to Jacob from 'Twilight'",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/robert-pattinson-the-odyssey-jacob-twilight-comparison",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-08T07:31:19.977Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b0dcb437710db80378e154fb150a7f4ce5a319682443766e048bd4d23b4c856a",
+      "title": "UAE Ministry of Education announces exam results schedule for all grades",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-ministry-of-education-announces-exam-results-schedule-for-all-grades-1.500600746",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-08T07:31:37.170Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

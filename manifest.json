@@ -19430,6 +19430,33 @@
       "processedDate": "2026-07-08T04:45:56.885Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5902dd69d477bcda58b8680d699e36ae6ace64104aee8db898d95884388b9aa8",
+      "title": "UAE announces 2025-26 school results dates, timings for Grades 1-12",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/2025-26-uae-school-results-july-12-13-grades-1-12",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-08T07:16:06.790Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fbf24c4649f9d9a4ae5e0349dfd775b726e7d8bf75cd34bf52ddc74da7a418b2",
+      "title": "UAE announces 2025-26 school results dates, timings for Grades 1-12 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTViNDluX0N2YmxQZ3VkOU1QUmtvVDJVb0JuWFpFSmQwVkhSVnlpZnNzMERWMm14NUlSNHBtTWx2VFUwR2dZamY0Q3Fnb3JCcVBzeDVybUYxTHhvNjdNX3RfNk9FRG90ckFKcnNLa182dlNYck9KaUNPQUktcklXZHJJQlJkdWpIVmRFX2Zid2lFbXZsR0dN0gGfAUFVX3lxTFBxbGlYU1hrQzBXaWYtZHZKS3dvZC1kOWU2NUZsTkI5dE1rNTNtNVZxZnNxM24wZFRnUVBYbWhZNHVWMnEyNXlHSTk4VklzVnd3YnFCOGdtaGNlUHhTZVljYjVHLWdDTzM3VkxRUDFlSGEwNGJ0OE1PVkxjTUtteWdIczV4ZGpfVHpZRE1LMVFIR3daMjVFZ3ExYXU3YWN2cw?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-07-08T07:16:19.605Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fbf24c4649f9d9a4ae5e0349dfd775b726e7d8bf75cd34bf52ddc74da7a418b2",
+      "title": "UAE announces 2025-26 school results dates, timings for Grades 1-12 - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTViNDluX0N2YmxQZ3VkOU1QUmtvVDJVb0JuWFpFSmQwVkhSVnlpZnNzMERWMm14NUlSNHBtTWx2VFUwR2dZamY0Q3Fnb3JCcVBzeDVybUYxTHhvNjdNX3RfNk9FRG90ckFKcnNLa182dlNYck9KaUNPQUktcklXZHJJQlJkdWpIVmRFX2Zid2lFbXZsR0dN0gGfAUFVX3lxTFBxbGlYU1hrQzBXaWYtZHZKS3dvZC1kOWU2NUZsTkI5dE1rNTNtNVZxZnNxM24wZFRnUVBYbWhZNHVWMnEyNXlHSTk4VklzVnd3YnFCOGdtaGNlUHhTZVljYjVHLWdDTzM3VkxRUDFlSGEwNGJ0OE1PVkxjTUtteWdIczV4ZGpfVHpZRE1LMVFIR3daMjVFZ3ExYXU3YWN2cw?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-07-08T07:16:31.195Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

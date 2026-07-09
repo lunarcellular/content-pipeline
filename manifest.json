@@ -19700,6 +19700,42 @@
       "processedDate": "2026-07-09T09:01:31.836Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e3f7b905f404dbc7f70cce1f411a86db232a69ef0cca30f147ceac8d1df697d3",
+      "title": "Abu Dhabi student crowned UAE champion of 10th Arab Reading Challenge",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-student-crowned-uae-champion-of-10th-arab-reading-challenge-1.500602122",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-09T09:41:44.962Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fc5162616597e3a06a96366983eaf9f215f8c1be93154cebe13ce07068a5d04e",
+      "title": "Dubai Crown Prince lauds 4 Emirati students after global science gold medal in UK - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON3FqdXNJcHVvUWxwYkpRNkc1TWNjazlBMFo5c1Qyc1J1UXhwZlkxdHJORklQM3ZvYmFSV3ZUeDZOdXBTQlNNdU5MbjQ4RERLa3Z3dklsWlFfSGkzOWdBemJIdm5NaTVQZEgxYUZLSl9NQ2tFaTdnd3hRZ1l0NWVFb2RnTUJsamZtMFh6Rk0tc0ZPOU8yYXh2ZEVHOE1VRzdkMmFTN292cmdtTnExaHFuNXRMeGx6czNjeXJ4dF94ZG5faUk3aXfSAc4BQVVfeXFMUGVBVXgtY004TkEwNHZ5dU5MT0Z5cUhjOEI5TEZkczBYRjV6NjkzaWtRSGFjc3dZMFQyNEpXWFlveklsZ1hzam5rR21ocURHRG55S1phWUszaFlXa29Gdm9wVHlwdHdQZG9mLVlndmxrWWh4WDBWLWZza3QwMTRERWYwcl9tS3BTRGg5TWdBaE1tV0FmWnIzSHg4clQ5RWx4M1JpcThwbWFYUW84UmY2b25xWmlvek11Nk9uU1YzU1g1a0U2ZmVBT1Z5MS1SN0E?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-07-09T09:41:47.261Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0d669798d9ada18d4170849182860bfdf030f4bb094e084200cffc3b062f47dc",
+      "title": "Queen Rania reveals Princess Iman is pregnant with second child",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/2026/07/09/queen-rania-reveals-princess-iman-is-pregnant-with-second-child/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-09T09:41:49.509Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1d399d5e73c7b859789233a61b050c1600a87000a9c73590c27b7ab7aee5ccee",
+      "title": "Fall in international students hits UK economy",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/07/09/fall-in-international-students-hits-uk-economy/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-09T09:41:51.717Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

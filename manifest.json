@@ -19907,6 +19907,15 @@
       "processedDate": "2026-07-10T13:15:50.412Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "d12b9d25d912f05b177ef31edb646496130548299eceac78b89e4592992a1823",
+      "title": "HCT, Siemens partner to build smart campuses for UAE's net-zero goals",
+      "sourceUrl": "https://gulfnews.com/uae/hct-siemens-partner-to-build-smart-campuses-for-uaes-net-zero-goals-1.500603842",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-10T14:31:08.355Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

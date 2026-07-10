@@ -19817,6 +19817,24 @@
       "processedDate": "2026-07-09T22:05:13.048Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7a8eb237eb405842eadda7de1cdd1c7764095a0af2423e144d48d8c520199a30",
+      "title": "Is Jofra Archer Vaibhav Sooryavanshi's kryptonite?",
+      "sourceUrl": "https://gulfnews.com/sport/is-jofra-archer-vaibhav-sooryavanshis-kryptonite-1.500603132",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-10T03:31:22.979Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "748ac8bc2b09b30e8186b35011412f71ada176b3fc866dd52d550da77113fe70",
+      "title": "How UAE university students are using AI to reduce insurance claim rejections",
+      "sourceUrl": "https://www.khaleejtimes.com/business/how-uae-university-students-are-using-ai-to-reduce-insurance-claim-rejections",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-10T03:31:25.412Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

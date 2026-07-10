@@ -19853,6 +19853,15 @@
       "processedDate": "2026-07-10T04:15:48.554Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5942fea2ed074f04333ebe2fcb111f656408817ab30c405696cbabd5ab7a5784",
+      "title": "Taaleem posts record revenue as premium school fees rise 3.5%",
+      "sourceUrl": "https://www.khaleejtimes.com/business/taaleem-posts-record-revenue-as-premium-school-fees-rise-35",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-10T07:16:30.305Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-10-premium-school-fees-uae.md"
     }
   ]
 }

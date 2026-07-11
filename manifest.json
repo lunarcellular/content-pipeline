@@ -19925,6 +19925,42 @@
       "processedDate": "2026-07-10T18:15:53.867Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "31b09d58600f904a3c3cca6cca514edba01e4abb781cd39a92e071293d4600db",
+      "title": "Analysis: Philippine VP Duterte’s impeachment trial must speak to Filipinos, not just lawyers",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippine-vp-dutertes-impeachment-trial-must-speak-to-filipinos-not-just-lawyers",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-11T03:01:12.162Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5e7390187176f42271d27ef9f1923e9eb1f604f119fbed4de318833004cdc03f",
+      "title": "Copycat school violence in Philippines increasing, senate hearing reveals",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/copycat-school-violence-in-philippines-increasing-senate-hearing-reveals",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-11T03:01:16.038Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2f007aa13c8e77e394b62ef574d57c714e6737e31463fb4a9950b7b58a64c526",
+      "title": "Fujairah Police urge parents to keep children safe around water this summer",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/fujairah-police-parents-children-safe-water-summer",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-11T03:01:18.051Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2f007aa13c8e77e394b62ef574d57c714e6737e31463fb4a9950b7b58a64c526",
+      "title": "Fujairah Police urge parents to keep children safe around water this summer",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/fujairah-police-parents-children-safe-water-summer",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-11T03:01:20.538Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

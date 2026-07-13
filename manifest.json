@@ -20249,6 +20249,33 @@
       "processedDate": "2026-07-13T00:12:14.759Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "31158a14fb3887d48591a97a52ffd481ef6ce8b9196401660eb9b4aab8615208",
+      "title": "Think UAE teachers get the summer off? What 2-month holiday looks like for educators",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-teachers-summer-holidays-vacation-educators-explain-break",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-13T03:01:15.016Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "31158a14fb3887d48591a97a52ffd481ef6ce8b9196401660eb9b4aab8615208",
+      "title": "Think UAE teachers get the summer off? What 2-month holiday looks like for educators",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-teachers-summer-holidays-vacation-educators-explain-break",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-13T03:01:17.292Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e0f6135cb01bf4c745aae13426e06e6febc63784834e63359dc8c4886d98b02b",
+      "title": "Pupils map UAE school's biodiversity one plant at a time",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/13/pupils-map-uae-schools-biodiversity-one-plant-at-a-time/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-13T03:01:19.509Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

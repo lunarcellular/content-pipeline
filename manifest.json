@@ -20285,6 +20285,33 @@
       "processedDate": "2026-07-13T03:31:15.731Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f03065b451a9693d4d7eb8f5ab3df6687bb0f4543698ab66f5ca3a5e7d93a02",
+      "title": "\"My mother sold her jewellery to buy me shoes; I bought her gold after the IPL\": Sakib Hussain",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/my-mother-sold-her-jewellery-to-buy-me-shoes-i-bought-her-gold-after-the-ipl-sakib-hussain-1.500605776",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-13T04:01:18.331Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9a923cc7a6bf043251ac1e815945b6325cb450910072e5ef97e3c647a334c135",
+      "title": "Think UAE teachers get the summer off? What 2-month holiday looks like for educators - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVZJTFVKWk5KdnZnX3JXNHI2QnNwZEk2emRWbWRpNTJvWi1nTHRRdEdIYnkyMEJXRVViN3dwMWVtOFJwMlNtUTBfOXVmVWdSTU01TVUtXzBZRnNyeHpwUXB3RGZ2NEIxblo0OVpCblU0YURid3hCRGhkdGZ0aXA0VXJ5VXVfWVlYWDZaUHp3Y1BPYW93LThtM2NFYWdZNGwxZGF1ZUZRVdIBrwFBVV95cUxQQ1MwbUd1eVRqcVNKdXVGMkRRd0pTeDN2Z2FYX2l0YjZvbmMtYkdDYnlqeVJxLWlmcVYzenk3ZDFfcDhOdjFLUVBTMHZoVWFDSm9XdzlKZ3BjRGYzMlNkWl9mTFd1ajNFZndQNjgxMHE2UHhlZTBxSm4yeGZaSU1oRHFEWWxOaWhuVUhzdER1RHIybW1leXZZS3JfSGlGWlc0eW9wbDlLTGRwVy1LNGJj?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-07-13T04:01:21.750Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "19cbe5fbe8afebe6a4a4cd2d4166aae53938a330f095ff179608aaf29664ac21",
+      "title": "My Dubai Rent: 'Dog parent' pays Dh350,000 for apartment in pet-friendly Palm Jumeirah ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/13/dubai-property-prices-rental-market/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-13T04:01:24.384Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

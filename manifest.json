@@ -20393,6 +20393,24 @@
       "processedDate": "2026-07-13T12:31:20.107Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fcdbd22d27992383eca80480a59fdabe1f8603801a249c0031cdd9da99577e35",
+      "title": "Terra's Hundred Hives reaches its first Dubai school",
+      "sourceUrl": "https://gulfnews.com/uae/terras-hundred-hives-reaches-its-first-dubai-school-1.500601159",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-13T12:45:50.014Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e205401d3ac046e66ef10784f3348e0fe0c8483f24b9de89d5d9eb724207d2f6",
+      "title": "Authorities warn of 'deliberate' wildfire south of Paris",
+      "sourceUrl": "https://www.thenationalnews.com/news/europe/2026/07/13/authorities-warn-of-deliberate-wildfire-south-of-paris/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-13T12:45:52.090Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

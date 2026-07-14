@@ -20609,6 +20609,24 @@
       "processedDate": "2026-07-14T09:01:25.183Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "244a8589a726c1ec00dfdb6267bf34873c4c7e9021bdf0572cc58eb319ef351f",
+      "title": "St. Kitts and Nevis expands Middle East biometric enrolment network ",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/st-kitts-and-nevis-expands-middle-east-biometric-enrolment-network-1.500607354",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-14T09:15:47.669Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a801eb986ee56a10e4f1e924072a15a2d29ff912aebc6c0f911bfc83b065d0f6",
+      "title": "Justin Baldoni asks judge to reject Blake Lively's $8 million legal fees request",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/justin-baldoni-asks-judge-to-reject-blake-lively-8-million-legal-fees-request",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-14T09:15:49.420Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

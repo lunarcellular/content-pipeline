@@ -20573,6 +20573,24 @@
       "processedDate": "2026-07-14T07:31:16.385Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5ec34871900ac1878b23f308217c20fdbfeecf6bace5ed10fecc6c896cb965f5",
+      "title": "Tom Holland says IMAX acting requires subtlety, hails Christopher Nolan's camera team",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/tom-holland-hails-christopher-nolans-camera-team",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-14T08:15:48.470Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb56a0f5a9cfee0275c6c6fe7779f08d32e221959ff255ae7474999b953becc2",
+      "title": "UAE Award for Higher Education launched; categories announced",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-award-for-higher-education-launched-categories-announced",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-14T08:15:50.674Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

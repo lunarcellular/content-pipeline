@@ -20555,6 +20555,24 @@
       "processedDate": "2026-07-14T07:15:55.045Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a6a74215ada95c40b5a20fa3461f1b4d9eec3712a0ff5c5a12c78627fd47b01f",
+      "title": "Dubai's Clinic of Hope gives free treatment to 2,100 children of various nationalities",
+      "sourceUrl": "https://gulfnews.com/uae/health/dubais-clinic-of-hope-gives-free-treatment-to-2100-children-of-various-nationalities-1.500607192",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-14T07:31:14.245Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7d31388b2bf24fb6938e231e0900b8189ef43b364ac5437b1fd96811fd72dd16",
+      "title": "US completes 4th wave of strikes on Iran as Trump says deal still 'possible'",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-27-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-14T07:31:16.385Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

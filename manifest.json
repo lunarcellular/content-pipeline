@@ -20726,6 +20726,24 @@
       "processedDate": "2026-07-14T18:15:59.523Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d10c14648b19031f9020f4f84482a8ddf92eb8643a96cd944bbb5d6f7f165036",
+      "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
+      "sourceUrl": "https://gulfnews.com/world/americas/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave-1.500608157",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-15T03:01:16.191Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a798466d2fc4f39d932034b2542639584d20e6688f06b9c955e7bbe648383a2b",
+      "title": "Gibraltar ushers in a new era as British territory's border fence with Spain is removed",
+      "sourceUrl": "https://gulfnews.com/world/europe/gibraltar-ushers-in-a-new-era-as-british-territorys-border-fence-with-spain-is-removed-1.500608170",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-15T03:01:18.250Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

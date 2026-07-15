@@ -20834,6 +20834,24 @@
       "processedDate": "2026-07-15T10:45:48.192Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1693d113987ff4ea2dd9f49f696ac7809105773a67d0171b428c9a2d97dea1db",
+      "title": "I will continue to represent Philippines in the best way possible’: Alex Eala",
+      "sourceUrl": "https://gulfnews.com/sport/tennis/i-will-continue-to-represent-philippines-in-the-best-way-possible-alex-eala-1.500608875",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-15T12:46:02.528Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f6c980bacaae5d4a5f06597ddbf624fcf5eccdf2b7251aa2fbac13b84aeb42ca",
+      "title": "Dubai school fees for 2026-27 at Outstanding schools range from Dh29,488 to Dh111,799",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/dubai-school-fees-2026-27-tuition-costs-at-outstanding-schools-range",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-15T12:46:42.001Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-15-dubai-private-school-fees-2026-27.md"
     }
   ]
 }

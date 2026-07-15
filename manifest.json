@@ -20780,6 +20780,24 @@
       "processedDate": "2026-07-15T07:01:16.680Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fbf9fa22f073a920dbd48feb39d0507f74ba5625d39aee0bd14a09fba4285d92",
+      "title": "DIB posts strong H1 2026 results as gross revenue rises 10%",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-posts-strong-h1-2026-results-as-gross-revenue-rises-10",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-15T07:31:15.200Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb9797bbd5daaac5a3116d2aca653a973f2f9d5082a1b6adf5078196f7a7c578",
+      "title": "Indian passport fees increase: UAE social workers urge review of price hike",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-indian-expats-passport-fee-hike-review",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-15T07:31:17.474Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

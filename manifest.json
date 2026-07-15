@@ -20852,6 +20852,24 @@
       "processedDate": "2026-07-15T12:46:42.001Z",
       "relevant": true,
       "outputFile": "output/2026-07-15-dubai-private-school-fees-2026-27.md"
+    },
+    {
+      "urlHash": "83a305a2d9358b22efa2f67647b7d648079e3ffb0fb2e81b2f8348a2082a3574",
+      "title": "'Nothing will bring them back': Family speaks as killer in RAK murder case gets death - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONThpMG9TQTZPZ2J0YUhYdURkRGtUY09iejUyY3NXOFJabFNmRThOYzZNSUhENjNZNFVwNHoyRmU1UU1Kdm9VejQ0b3FHNk5ZNW1HNmVXY3NDSjR5S2IwajJMU0pSZEI4dmthWGZTc1RzZTB6NElPVkE5VHRiNUFpZVVCSEw1em5XNllDc2VrSF9JSjZf0gGcAUFVX3lxTFBGY1NmeWNiemtLbTVjdUR2dE9iSUhuOV9zNk94RURjZlVGNDVRejRGMWtab1FCR3NGYkhsNUhRQ0E5cnk5UnhRZnNvbVRTcFJ5d1UwcHZXS0pyYXJsNjJlUUxHODl3OWhCWkViSklBQmZlNFpUREV0ZmNvUFpncEVkR1YyS0VMMWNHUHBZdGNBOUE0dkw2Ql9CSTZuUw?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-07-15T13:31:15.091Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "772288a93c14abc0fb2fbc7ce99cd624cf483bcf277f21f7800f2d0432120fc6",
+      "title": "‘Thank you Leo’: Floating tribute to Argentina World Cup squad draws thousands to Indian village",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/15/thank-you-leo-floating-tribute-to-argentina-world-cup-squad-draws-thousands-to-indian-village/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-15T13:31:17.652Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

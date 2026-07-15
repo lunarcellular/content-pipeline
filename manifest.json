@@ -20753,6 +20753,24 @@
       "processedDate": "2026-07-15T03:15:46.788Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c0abab4c4a0bcc9f3da9a25d1686260af08c0f1b25dc1b7cda4a2bfedda7861f",
+      "title": "DIB posts half-year revenue of Dh12.4 billion",
+      "sourceUrl": "https://gulfnews.com/business/banking/dib-posts-half-year-revenue-of-dh124-billion-1.500608070",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-15T04:15:50.734Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "931baa6990448a09c3a4f3fb0ecca6b5ab66898f59b70e81f4ec71bdd6931e11",
+      "title": "Sonam Wangchuk hunger strike Day 17: Swara Bhasker says ‘Thank you for fighting for our children’s future’",
+      "sourceUrl": "https://gulfnews.com/entertainment/sonam-wangchuk-hunger-strike-day-17-swara-bhasker-says-thank-you-for-fighting-for-our-childrens-future-1.500608292",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-15T04:15:52.889Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

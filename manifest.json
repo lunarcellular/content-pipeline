@@ -20969,6 +20969,33 @@
       "processedDate": "2026-07-16T11:31:12.308Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1e40f83a4a385e4654a51d42a194170bfc63e145ef34d1961ecc08fd48c2db6c",
+      "title": "Burns, breathing issues: UAE parents warned of 'slime in microwave' challenge",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/burns-breathing-issues-uae-parents-warned-of-slime-in-microwave-challenge",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-16T12:01:20.482Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2ba41a02415b76a006b7d705ba71172766e38e0ac1c7062d5c47275ab8411456",
+      "title": "UAE approves university licensing framework to improve experience, education quality",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-new-university-licensing-framework-student-experience-quality-education-standards",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-16T12:01:22.657Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1e40f83a4a385e4654a51d42a194170bfc63e145ef34d1961ecc08fd48c2db6c",
+      "title": "Burns, breathing issues: UAE parents warned of 'slime in microwave' challenge",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/burns-breathing-issues-uae-parents-warned-of-slime-in-microwave-challenge",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-16T12:01:24.888Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

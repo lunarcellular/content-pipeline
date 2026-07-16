@@ -20933,6 +20933,33 @@
       "processedDate": "2026-07-16T08:31:13.580Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "919a32aa1929e7c7f63d8157601c1da0290ce04841c91fb7959075b950a48f61",
+      "title": "Iran slams US attack after childrens' cancer hospital evacuated due to nearby strike",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-29-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-16T11:15:56.500Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b986d78b7f62e8d06e5ebc96665fa25f290d2b302d7156762b0f105ba70f0da7",
+      "title": "'Zindagi Na Milegi Dobara' turns 15, Hrithik Roshan calls it a 'transformative' experience",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/zindagi-na-milegi-dobara-turns-15-hrithik-roshan-calls-film-a-deeply-transformative-experience",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-16T11:15:58.577Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2878a43927d941fb02fce39771a7406d00c4059d2754591c34ff5852fa234254",
+      "title": "Philippines' Marcos borrows P9.7 trillion in 4 years, highest in 40 years: Ibon Foundation",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippines-marcos-borrows-p97-trillion-in-4-years-highest-in-40-years-ibon-foundation",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-16T11:16:00.672Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

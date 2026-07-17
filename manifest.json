@@ -21077,6 +21077,42 @@
       "processedDate": "2026-07-17T01:13:23.712Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "63fb175b3ffdcda59e0ed63b9a4f2847cfd947153bf90efd8671eff46923acc4",
+      "title": "Meet Emirati metal band Metarust: Two brothers, a childhood friend and how Metallica fuelled their UAE rise ",
+      "sourceUrl": "https://gulfnews.com/uae/meet-emirati-metal-band-metarust-two-brothers-a-childhood-friend-and-how-metallica-fuelled-their-uae-rise-1.500610570",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-17T03:01:09.217Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2e5d2dba19d268a82f6aa333894102a9820c70d5975e013433534cd803ae2570",
+      "title": "ICC confirms charges against ex-Libyan prison boss",
+      "sourceUrl": "https://gulfnews.com/world/africa/icc-confirms-charges-against-ex-libyan-prison-boss-1.500610347",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-17T03:01:11.849Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7545d9578cd0ee3f4930267eb0da9974400a916e171f3d8c1024e57daf3a0142",
+      "title": "Indian passport renewal in UAE: Direct appointment system, higher fees, and what comes next",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-passport-renewal-in-uae-direct-appointment-system-higher-fees-consular-services",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-17T03:01:14.203Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7545d9578cd0ee3f4930267eb0da9974400a916e171f3d8c1024e57daf3a0142",
+      "title": "Indian passport renewal in UAE: Direct appointment system, higher fees, and what comes next",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-passport-renewal-in-uae-direct-appointment-system-higher-fees-consular-services",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-17T03:01:16.067Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

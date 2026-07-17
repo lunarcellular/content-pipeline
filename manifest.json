@@ -21185,6 +21185,24 @@
       "processedDate": "2026-07-17T09:31:00.118Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ea0c46117324b85f5b3e917ce2763d0002e1fec9904dbe3a21b4b3072d40e244",
+      "title": "Burjeel Medical City and New York-based Roswell Park launch clinical and academic collaboration to advance thoracic cancer care in the UAE",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/burjeel-medical-city-and-new-york-based-roswell-park-launch-clinical-and-academic-collaboration-to-advance-thoracic-cancer-care-in-the-uae-1.500611124",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-17T09:45:47.155Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8b5909cb94542826cf3bdbeeed9a6fab7256231053c46d1715d7f485282165ed",
+      "title": "The UAE student awarded Dh100,000 after graduation",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-plus/videos/the-uae-student-awarded-dh100000-after-graduation",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-17T09:45:49.153Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

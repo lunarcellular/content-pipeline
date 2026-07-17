@@ -21122,6 +21122,24 @@
       "processedDate": "2026-07-17T03:15:48.772Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1d203deb63d9817d7131dfda61c9a76b88bda9dce7d8243e77943753099db7ac",
+      "title": "Trump revives election fraud claims ahead of US midterms in primetime White House address",
+      "sourceUrl": "https://gulfnews.com/world/americas/trump-revives-election-fraud-claims-ahead-of-us-midterms-in-primetime-white-house-address-1.500610759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-17T03:31:04.346Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "35712a5c7bfe7f821782212b1797ad421146809a409d008f8a0866d56408d881",
+      "title": "US-Iran strikes: Qatar confirms child injured after Iranian missile attack",
+      "sourceUrl": "https://gulfnews.com/world/gulf/qatar/us-iran-strikes-qatar-confirms-child-injured-after-iranian-missile-attack-1.500610752",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-17T03:31:06.654Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

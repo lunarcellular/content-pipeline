@@ -21509,6 +21509,15 @@
       "processedDate": "2026-07-19T15:26:10.184Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d63fd5f1d3371bf8c05281b57edac1830364352d058a8a8b2dc5cfdd0e7db45c",
+      "title": "CBSE Grade 10 results: Months of uncertainty end as UAE students get board marksheets - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkJ4SjF4ZjZWOGt4eWs5QlNFRmxCVEIwYXNJVXlOdXRBREdNS3p3UEJCUWZJZDJwcW1qRFpzMlhTamEzc01uVlpndkIyamltOWhZTmVfUFJXdjJrQlVnUEk5UUhPcmdBTDlHQmVZN043YkhTeHZ6cFlDbGZ6SmNKdTVVY19BRDZVUWNPWkJRNExpMlpLOEVGRGV3QmF2T2fSAacBQVVfeXFMTWFuVkJlVmhHbnE1bVhhd1cwenpPalA1cEZZZk1kMHJtY0RvQ3FGV0wxNXloMU43Y09GMkk4UEJxM0VncGNvWlZHSWd5c0hRb2JJWUhxOTFGRzFyQ0ZMYnl1cFlHMUh1MHU1andsUmp6Z0lGRnNQT2RYcTdXc2RQMUtkaTF3Mjl0M2RPT3d3eG94ZjlDVWhaeWhDWWpBUFpDNy1maDZFSU0?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-07-19T17:16:25.187Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-19-cbse-grade-10-results-uae.md"
     }
   ]
 }

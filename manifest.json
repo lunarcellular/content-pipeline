@@ -21419,6 +21419,24 @@
       "processedDate": "2026-07-19T07:01:02.977Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "88bd0d19c92436d45ed97ae331e4b8a7fcaa71569a1de8b76cb89b858f50ea87",
+      "title": "Is ‘grandmacore’ the new self-care? Why young people are knitting, baking and embracing old-school hobbies",
+      "sourceUrl": "https://gulfnews.com/lifestyle/is-grandmacore-the-new-self-care-why-young-people-are-knitting-baking-and-embracing-old-school-hobbies-1.500609903",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-19T07:45:58.338Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "633630e22b3c7673bd565414c38f59533ec1891171d4d42dca4fc1da413e4b97",
+      "title": "CBSE Grade 10 results: Months of uncertainty end as UAE students get board marksheets",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/final-cbse-grade-10-results-uae-students-mixed-reaction",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-19T07:46:00.361Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -21572,6 +21572,24 @@
       "processedDate": "2026-07-20T04:31:19.168Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "727ed13f4d4c89be89935a225a8164e2707c9de89f035e1b5904cef7ab672159",
+      "title": "Shoaib Akhtar's football panel appearance leaves fans unimpressed",
+      "sourceUrl": "https://gulfnews.com/sport/football/world-cup/shoaib-akhtars-football-panel-appearance-leaves-fans-unimpressed-1.500613651",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-20T05:30:53.072Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2c98205efff63138b4538960efbe4cb38855617ad52a97d05692c0ff2cb41b3c",
+      "title": "Mohanlal shares FIFA World Cup final experience as Spain beat Argentina in extra time",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/mohanlal-fifa-world-cup-2026-final-spain-argentina-instagram",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-20T05:30:55.048Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

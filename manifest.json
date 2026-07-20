@@ -21635,6 +21635,33 @@
       "processedDate": "2026-07-20T11:30:54.374Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2bda2ec34e7710a8b2dfab46a82c040ece7352bd445b1cd6e0cc3a32b8411d05",
+      "title": "UAE school to launch Motorsport Academy; students get weekly sessions at Dubai Autodrome",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/school-to-launch-motorsport-academy-weekly-sessions-dubai-autodrome",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-20T13:31:00.363Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dc09625b69f2e97c9a049f90d640bd108bb306601dfe47f2498e15c9311bf142",
+      "title": "UAE school to launch Motorsport Academy; students get weekly sessions at Dubai Autodrome - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEMydGwxcEZOcHMzcHdLbGpmLUtJajlJZFRKYmtKTXZjNmdiN0FvNWdFeDZGNGFGSUV0SXN4ZHZDejlzVzVtUktwdGRDaXNCWkZSdnpybkJzVUpDUDlpNkt4VXNKOGs3YVNxV0dOMU82TFR4bEdOOG5Bck13eWpjdE1oN3FyVnBTdHBjU2NiOWpVcVRNandubGs4YkRiV1gzNE9ZbEQ5LTNVcTAzSjJR0gG3AUFVX3lxTFBRdkRZWHEwQzRtMThPdUFSOW5JbU5CTVhuWVkzcGdJWE9kdG1WQmJicHJoeVZYYkJnY05WdUQ2STd6Tzk3cVdZYThuTGtkZ216TERBREY2bHc3LUkxSktEWEpCamhDLS14cDZzSFRtOWVsODV5NkZSdEJlN2Q2VE5XbTVoRUtoYTZWUHRjSHMxUUtlWnJQdzJlbG5PNWIzZTByal85bXZYWEhaejBkY2Rod2ZaUl9KZw?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-07-20T13:31:02.465Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "eec20e1e1ab574b2bb5c60c0753dc49aed828d836d7e3df899a04d2e33580567",
+      "title": "‘Joy, cheers and happiness’: Make-A-Wish children take to Esports World Cup stage",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/07/20/make-a-wish-children-take-to-esports-world-cup-stage-in-paris/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-20T13:31:04.803Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

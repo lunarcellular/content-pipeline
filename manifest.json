@@ -21608,6 +21608,24 @@
       "processedDate": "2026-07-20T10:35:31.833Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c0b7732c978b33c648aeae31a09ceaf8a2a83379cf7b4bb06ca364a5311a279b",
+      "title": "Khalifa University students develop AI platform to simplify cybersecurity compliance",
+      "sourceUrl": "https://gulfnews.com/uae/education/khalifa-university-students-develop-ai-platform-to-simplify-cybersecurity-compliance-1.500614032",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-20T11:00:58.595Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "733bb43a39e548c5d8d2fa7ce27a33210fcb1ff4cbcdc70965ab964eebe13f53",
+      "title": "Budgeting, online safety: How Abu Dhabi is preparing Emirati students for life abroad",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/abu-dhabi-preparing-emirati-students-life-abroad",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-20T11:01:00.746Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

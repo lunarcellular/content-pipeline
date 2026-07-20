@@ -21518,6 +21518,24 @@
       "processedDate": "2026-07-19T17:16:25.187Z",
       "relevant": true,
       "outputFile": "output/2026-07-19-cbse-grade-10-results-uae.md"
+    },
+    {
+      "urlHash": "aa521f8b1edcfd649ab209d57d2f1722e85b30b23ff30296bfb53bfa3280d7e7",
+      "title": "US Vice President JD Vance announces birth of fourth child",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-vice-president-jd-vance-announces-birth-of-fourth-child-1.500613561",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-20T03:15:56.846Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e6392dc1eeb1b937e22fd4c804475704e2936938e526d3ddb6befcf1d26a3b1c",
+      "title": "Beirut exhibition preserves memories of life and loss in southern Lebanon",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/2026/07/20/beirut-exhibition-preserves-memories-of-life-and-loss-in-southern-lebanon/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-20T03:15:59.194Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

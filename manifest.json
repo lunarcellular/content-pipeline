@@ -21536,6 +21536,33 @@
       "processedDate": "2026-07-20T03:15:59.194Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f0c3f1cf71644fcfe2ff2ef6a0e33c95b1688029d18d5dd11fc7163c5b22d62a",
+      "title": "Emirates International Schools celebrates outstanding IB results and EdArabia recognition",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/emirates-international-schools-celebrates-outstanding-ib-results-and-edarabia-recognition",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-20T04:15:47.168Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bf2402af3e1c0d5d4e09ce6423e7504e081f2c8912dc75bd9559b957e6d4677a",
+      "title": "US Vice President JD Vance announces birth of fourth child",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-vice-president-jd-vance-birth-fourth-child",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-20T04:15:49.176Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "82b014da95f66f685826e554e5bc84a5e3f5573853646c4dd19a4c2e01f68c19",
+      "title": "‘Your tears are our tears’: Argentina pay tribute to Lionel Messi after likely World Cup farewell",
+      "sourceUrl": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/20/lamine-yamal-consoles-tearful-lionel-messi-as-argentina-express-gratitude-for-greatest-joys-of-our-lives/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-20T04:15:50.869Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

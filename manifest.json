@@ -21671,6 +21671,33 @@
       "processedDate": "2026-07-20T13:45:51.385Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1cc5a52a1f525669f6cd5a30854d4b6bb8284c3d0b3544ab5283f4942f66e453",
+      "title": "UAE pool and beach safety guide for children: What parents need to know this summer",
+      "sourceUrl": "https://gulfnews.com/uae/uae-pool-and-beach-safety-guide-for-children-what-parents-need-to-know-this-summer-1.500614692",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-21T03:01:01.348Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ff555fb2cadf4fe80b025962f34706340f8009fbd25e509e39cdd233977150f3",
+      "title": "UAE students heading to US universities face visa crisis as families struggle to secure appointments",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-students-us-universities-visa-crisis-struggle-to-secure-appointments",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-21T03:01:05.067Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ff555fb2cadf4fe80b025962f34706340f8009fbd25e509e39cdd233977150f3",
+      "title": "UAE students heading to US universities face visa crisis as families struggle to secure appointments",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-students-us-universities-visa-crisis-struggle-to-secure-appointments",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-21T03:01:07.029Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

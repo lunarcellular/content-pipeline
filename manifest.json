@@ -21761,6 +21761,24 @@
       "processedDate": "2026-07-21T09:31:03.670Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e01e207278b5af8a68d57584ca8241117ce2169b154551c71d56fd5e603aa2e2",
+      "title": "DP World, EBRD sign €25 million green loan for Constanța Terminal",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dp-world-ebrd-sign-25-million-green-loan-for-constana-terminal",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-21T11:01:07.518Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "317471988e7c999ef0908fa1be19679da818e2e864191dd9a73cf16cdc4f300a",
+      "title": "How Ed Miliband's Syria legacy could haunt him in new Foreign Secretary role",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/07/21/how-ed-milibands-syria-legacy-could-haunt-him-in-new-foreign-secretary-role/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-21T11:01:09.757Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

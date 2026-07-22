@@ -21914,6 +21914,33 @@
       "processedDate": "2026-07-22T03:01:06.530Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "94ac43a45f2d0cdbc8c2ba91f44117e0ba5e1345c4c6370c70f679ef0d612326",
+      "title": "Saudi Arabia multiple-entry Umrah visa: Eligibility, cost and how to apply",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/visa-immigration/saudi-arabia-multiple-entry-umrah-visa-eligibility-cost-and-how-to-apply-1.500616008",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-22T05:01:11.521Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9aa2422a6a737bfb738d3f8bf62e2dde91aac8f173b81071165e7d81ccacbfc8",
+      "title": "UAE's new British, IB, international schools in 2026: A complete guide for parents",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-british-ib-international-schools-2026-fees-admission-curriculum",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-22T05:01:13.549Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4599ed549af58661f04c943c2f5793594361635a030addd99a9037841085fff2",
+      "title": "France, UAE and other countries banning or restricting social media for children",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/2026/07/22/which-countries-have-social-media-bans-for-children-uae/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-22T05:01:15.430Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

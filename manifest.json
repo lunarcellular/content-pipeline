@@ -21986,6 +21986,15 @@
       "processedDate": "2026-07-22T07:24:02.030Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8b1061519baff38366d0aa32542cc340a1e8a8f2d0bbaa61bb3e42044705ad02",
+      "title": "Sharjah to launch Early Childhood Centres combining nurseries, kindergartens",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-early-childhood-centres-combine-nurseries-kindergartens",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-22T07:46:11.754Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-22-sharjah-early-childhood-centres.md"
     }
   ]
 }

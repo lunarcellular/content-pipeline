@@ -21995,6 +21995,24 @@
       "processedDate": "2026-07-22T07:46:11.754Z",
       "relevant": true,
       "outputFile": "output/2026-07-22-sharjah-early-childhood-centres.md"
+    },
+    {
+      "urlHash": "3298c2243d5fcb92072b0a3dd753c2b37989b60ffa1b4f759ff744a9c849a275",
+      "title": "Dubai: Kunal Ganjawala to headline 'Baithak' with special tribute to KK",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/kunal-ganjawala-to-headline-baithak",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-22T09:01:08.386Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "45bcee6cb116f523c490cb0ecf075593a10630c8bb4c04c44caef4a4ab5e31f2",
+      "title": "'Godzilla vs Kong' actors Millie Bobby Brown, Rebecca Hall pay tribute to Kaylee Hottle",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/godzilla-vs-kong-millie-bobby-brown-rebecca-hall-pay-tribute-to-kaylee-hottle",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-22T09:01:10.720Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

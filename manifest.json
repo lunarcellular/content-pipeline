@@ -22103,6 +22103,24 @@
       "processedDate": "2026-07-22T15:45:57.244Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8ee28a80045f7adca1e81b6b34cc89f2f72aa9cc9af40875e1e8bd97b37665ea",
+      "title": "Food, shelter and hope: UAE support reaches 4,000 orphaned children in Gaza's largest orphan community",
+      "sourceUrl": "https://gulfnews.com/uae/food-shelter-and-hope-uae-support-reaches-4000-orphaned-children-in-gazas-largest-orphan-community-1.500616759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-22T17:01:08.180Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "16f529aabf47e204832b73642ae138b5832c38cc411aae1130bbc72df9f7cc6c",
+      "title": "DP World to develop two new port terminals in Fujairah",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dp-world-develop-two-new-port-terminals-in-fujairah",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-22T17:01:10.371Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -22454,6 +22454,24 @@
       "processedDate": "2026-07-23T17:31:03.595Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cf2b7dceaa87130ce2e93fa05b286a516ea3969b8f92d586b4708f34e1ee8689",
+      "title": "Cash relief: Pag-IBIG releases ₱5.82B in emergency loans — find out if you're eligible, know the deadline",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/cash-relief-pag-ibig-releases-582b-in-emergency-loans-find-out-if-youre-eligible-know-deadline-1.500618318",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-23T23:02:17.685Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "781e5fb66e9e383bd3e744aa2e8a083422d11e002fab9efc4a5f77bdc9bc5b7c",
+      "title": "US hits 86 nations with new tariffs to replace 'Liberation Day' charges ",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/07/23/us-tariffs-trump-forced-labour/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-23T23:02:19.806Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

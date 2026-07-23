@@ -22139,6 +22139,96 @@
       "processedDate": "2026-07-22T18:50:29.301Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "81770f0e870f5d630d37fdd685452b50e425d0ea461ba4983bcb4b13faae6174",
+      "title": "'We wanted to honour those who protect us': Dubai students dedicate song to UAE Armed Forces",
+      "sourceUrl": "https://gulfnews.com/uae/people/we-wanted-to-honour-those-who-protect-us-dubai-students-dedicate-song-to-uae-armed-forces-1.500616187",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-23T03:01:01.306Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "79a422c9533ffda444dcaa3bb8c430dfd486829ecf214d85a098e5c43ef1b04c",
+      "title": "UAE school admissions: FS1 or FS2? Parents seek clarity as age cut-off changes reshape enrolment decisions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-school-admissions-age-cut-off-fs1-fs2-parents-seek-clarity",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-23T03:01:03.685Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb1930d48e3ba289aa11a6628120b3c6d6a88869b8f08d0280ba00cb3f24f093",
+      "title": "Abu Dhabi supermarkets remove junk food from 'temptation zones'; residents make swap",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-supermarkets-remove-junk-food-from-temptation-zones-residents-make-swap",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-23T03:01:05.526Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2f0db9413b8ccf069576f4c2666198359943923b68a49ad21b42558a5e921dee",
+      "title": "UAE public holidays: Salalah, Bhutan and Jebel Akhdar top August long weekend escapes",
+      "sourceUrl": "https://www.khaleejtimes.com/travel/uae-public-holidays-august-long-weekend-travel-guide",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-23T03:01:07.350Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4f605cc57fb1c98b4daeff8d0ddfa1444c45b9f8de17e2242bc31e9bb05c1b15",
+      "title": "Bullying, vaping and gaming addiction prompt new UAE school awareness initiative",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/bullying-vaping-and-gaming-addiction-prompt-new-uae-school-awareness-initiative",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-23T03:01:09.443Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a0d10d884aaf3f5386eca2ba2834ed574bf64f677dd331e84e5001948ffb812",
+      "title": "Commentary: GCC families must rethink US education plans under new visa rules",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/gcc-families-must-rethink-us-education-plans-under-new-visa-rules",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-23T03:01:11.311Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "79a422c9533ffda444dcaa3bb8c430dfd486829ecf214d85a098e5c43ef1b04c",
+      "title": "UAE school admissions: FS1 or FS2? Parents seek clarity as age cut-off changes reshape enrolment decisions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-school-admissions-age-cut-off-fs1-fs2-parents-seek-clarity",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-23T03:01:13.233Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb1930d48e3ba289aa11a6628120b3c6d6a88869b8f08d0280ba00cb3f24f093",
+      "title": "Abu Dhabi supermarkets remove junk food from 'temptation zones'; residents make swap",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-supermarkets-remove-junk-food-from-temptation-zones-residents-make-swap",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-23T03:01:15.357Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4f605cc57fb1c98b4daeff8d0ddfa1444c45b9f8de17e2242bc31e9bb05c1b15",
+      "title": "Bullying, vaping and gaming addiction prompt new UAE school awareness initiative",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/bullying-vaping-and-gaming-addiction-prompt-new-uae-school-awareness-initiative",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-23T03:01:17.117Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a0d10d884aaf3f5386eca2ba2834ed574bf64f677dd331e84e5001948ffb812",
+      "title": "Commentary: GCC families must rethink US education plans under new visa rules",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/gcc-families-must-rethink-us-education-plans-under-new-visa-rules",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-23T03:01:18.878Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

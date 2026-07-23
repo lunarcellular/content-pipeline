@@ -22409,6 +22409,15 @@
       "processedDate": "2026-07-23T14:31:27.730Z",
       "relevant": true,
       "outputFile": "output/2026-07-23-uae-national-readiness-programme-emirati-graduates.md"
+    },
+    {
+      "urlHash": "7171c5e47fc17ff3e53ea233153cd1717fae2cbc4f75e8a04f3017618fc2737d",
+      "title": "India's Neet row: Tamil Nadu parties demand abolition of exam, seek state control",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-tamil-nadu-demand-abolition-neet-exam-state-control",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-23T15:01:26.072Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

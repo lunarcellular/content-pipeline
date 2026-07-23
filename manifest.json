@@ -22427,6 +22427,24 @@
       "processedDate": "2026-07-23T15:15:53.449Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "77951791c593d5bce0e28a3e3811d2eb146f7c889c02095d8ba2feb0cc782df0",
+      "title": "15-year-old Vaibhav Sooryavanshi breaks Sachin Tendulkar's record, sets world record with historic T20I fifty",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/15-year-old-vaibhav-sooryavanshi-breaks-sachin-tendulkars-record-sets-world-record-with-historic-t20i-fifty-1.500617972",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-23T15:31:40.587Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dc8830c052902388627d1373b48b9372290ab443031e12a2383b874639664e06",
+      "title": "Mother, baby killed in Fujairah car-truck collision, father and child stable",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/emergencies/uae-fujairah-road-accident-emirati-mother-child-killed-father-daughter-survive",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-23T15:31:42.448Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

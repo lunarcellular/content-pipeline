@@ -22400,6 +22400,15 @@
       "processedDate": "2026-07-23T13:01:14.910Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a5856ec6e6604dcbfa2251b82345b1e44137cc36b0fe57279601bc4545fb482e",
+      "title": "UAE launches 11-month national readiness programme to bridge school and work for Emirati graduates",
+      "sourceUrl": "https://gulfnews.com/uae/government/uae-launches-11-month-national-readiness-programme-to-bridge-school-and-work-for-emirati-graduates-1.500617893",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-23T14:31:27.730Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-23-uae-national-readiness-programme-emirati-graduates.md"
     }
   ]
 }

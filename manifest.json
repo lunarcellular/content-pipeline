@@ -22553,6 +22553,24 @@
       "processedDate": "2026-07-24T09:01:12.302Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6cf3569e2d3dc501b2bcf9ebdbb5d55cccedba957a8e6010a7fc5dcce2e01cc2",
+      "title": "‘Bro is still employed’: Inside the Cockroach Janta Party’s viral meme war over India’s exam leak scandal",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/bro-is-still-employed-inside-the-cockroach-janta-partys-viral-meme-war-over-indias-exam-leak-scandal-1.500618758",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-24T09:10:57.739Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fda1babfe04d2cf06df665d00dd0b45452808c4c021ffc0a90cf70db67489ed5",
+      "title": "Dubai rolls out new tool for passengers to check smart gate eligibility at DXB",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-dxb-new-tool-pre-check-smart-gates",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-24T09:11:01.700Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

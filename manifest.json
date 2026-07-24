@@ -22535,6 +22535,15 @@
       "processedDate": "2026-07-24T07:45:51.567Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "af5dc63476d16f91ce678101e23e12272ca23a919397fb65c2bebb75d30535f7",
+      "title": "UAE school transport fees to rise at some schools in 2026-27: What parents need to know",
+      "sourceUrl": "https://gulfnews.com/uae/uae-school-transport-fees-to-rise-at-some-schools-in-2026-27-what-parents-need-to-know-1.500618684",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-24T08:31:32.445Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-24-uae-school-transport-fees-increase-2026-27.md"
     }
   ]
 }

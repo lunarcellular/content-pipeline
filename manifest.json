@@ -22670,6 +22670,24 @@
       "processedDate": "2026-07-24T17:45:49.176Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d6aaaa45ec753a2a2fd0b319339fa4977905a7f0e61ea337df758356405e3999",
+      "title": "Can a liberal version of Israel survive?",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/comment/2026/07/24/israel-my-home-country-election-politics-middle-east/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-24T18:15:53.721Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1b2940d627cff356bc75ee6d12959e4f9b74ed7b41d1e01b42985b843013e91b",
+      "title": "Machine learning: How AI is muscling its way into the classroom",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/24/anthropic-claude-for-teachers-ai-llm-education/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-24T18:15:55.667Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

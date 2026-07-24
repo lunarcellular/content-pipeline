@@ -22661,6 +22661,15 @@
       "processedDate": "2026-07-24T17:15:48.001Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b34dffd7e9f40d99694806b24c0f0ad77e08ae8fc9d6c0e69c68df7d474785d1",
+      "title": "Nvidia, Microsoft and IBM among companies endorsing open AI models",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/07/24/jensen-huang-open-weight-ai-open-source/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-24T17:45:49.176Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

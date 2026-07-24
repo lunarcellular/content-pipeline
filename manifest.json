@@ -22544,6 +22544,15 @@
       "processedDate": "2026-07-24T08:31:32.445Z",
       "relevant": true,
       "outputFile": "output/2026-07-24-uae-school-transport-fees-increase-2026-27.md"
+    },
+    {
+      "urlHash": "17b964bb22c1eda0d2eac5d22b29a43793e9e4dfbb5c1bd0e9db92a3dfd6fb88",
+      "title": "Children bear heavy toll of Syria's landmine legacy",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/07/24/landmine-deaths-in-syria-increase-as-more-people-return/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-24T09:01:12.302Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

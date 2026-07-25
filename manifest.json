@@ -22733,6 +22733,24 @@
       "processedDate": "2026-07-25T03:01:05.125Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "609464f7aab7160bbeff350e673f4f44ea029c5e22a6c7c19cd678fc42c650f2",
+      "title": "'Betrayal': The young victims of India's NEET exam leak scandal",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/betrayal-the-young-victims-of-indias-neet-exam-leak-scandal-1.500619654",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-25T06:01:01.575Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "70616c32b0373110f8aa005d4f4b91b28afe4b05db98d008f9bc40a420adc82d",
+      "title": "Watch: Trump makes jokes about serving another term at press gala rerun",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-trump-press-gala-rerun-banned-third-term",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-25T06:01:03.204Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -22697,6 +22697,42 @@
       "processedDate": "2026-07-24T19:56:18.795Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d2cb30e28fcce63f751f069079d89cd39f7e606652b8f086c6239eca5fb01b21",
+      "title": "UAE forecast: Temperatures fall, with fog and possible showers ahead",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-forecast-temperatures-fall-with-fog-and-possible-showers-ahead-1.500619462",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-25T03:00:59.384Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f416d4c3f8a95cce1d4f878398a263476009145e709e710966d1f500100280a3",
+      "title": "How Dubai student bagged 100% scholarship, eased single mother's hardship",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dmu-dubai-zach-pilapil-gcc-impact-scholarship",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-25T03:01:01.418Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f416d4c3f8a95cce1d4f878398a263476009145e709e710966d1f500100280a3",
+      "title": "How Dubai student bagged 100% scholarship, eased single mother's hardship",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dmu-dubai-zach-pilapil-gcc-impact-scholarship",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-25T03:01:03.356Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "577a63a1cd0ff33773c5dc74651fb284e093171a94a8f44be8bfca1b46bd3461",
+      "title": "UAE school leaders optimistic for new academic year after Iran war disruption",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/25/uae-school-leaders-optimistic-for-new-academic-year-after-iran-war-disruption/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-25T03:01:05.125Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

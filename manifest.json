@@ -22841,6 +22841,24 @@
       "processedDate": "2026-07-25T14:01:03.280Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2e4ed2884dff166a2f5913d796d994260764a4c34ebf28f0113fe65c784428d1",
+      "title": "India appoints new Education Minister as Dharmendra Pradhan resigns after Neet protests",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-new-education-minister-pralhad-joshi-neet-protests",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-25T15:15:54.658Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cd4a7bb7e8e58908fefe21edc147ef6ec534e46a3f52d59f3e0fa734f151d817",
+      "title": "Who is Dharmendra Pradhan? India's Education Minister who resigned, what led to his downfall",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/dharmendra-pradhan-india-education-minister-resigned-led-to-his-downfall",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-25T15:15:56.548Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

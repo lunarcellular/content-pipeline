@@ -22886,6 +22886,24 @@
       "processedDate": "2026-07-25T17:00:58.871Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d462155084261451dac11739fdba5bc815b59d23784b7932234089a5f8989125",
+      "title": "US-Iran conflict: Apparent airstrike pause as Oman talks advance on Strait of Hormuz",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-iran-conflict-apparent-airstrike-pause-as-oman-talks-advance-on-strait-of-hormuz-1.500620344",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-26T03:01:04.598Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bc864dba68f9c3e786871d42df13d19ea3e32e8aeb732e1b48e5b13558130669",
+      "title": "Dubai's new premium British school aims to pursue 'culture of entrepreneurship'",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/07/26/dubais-new-premium-british-school-with-rich-royal-heritage-to-pursue-culture-of-entrepreneurship/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-26T03:01:06.454Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -23120,6 +23120,24 @@
       "processedDate": "2026-07-27T09:15:48.030Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "56b58d8b251cc46e6e315f4b88ecba019da8b899cc986a21ffc0c20a6721954f",
+      "title": "DIB strengthens the UAE’s national payments ecosystem with the launch of its Jaywan debit card",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-strengthens-the-uaes-national-payments-ecosystem-with-the-launch-of-its-jaywan-debit-card",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-27T10:01:04.248Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fd324a106de088cb85f97e1ddd8895896454ac7e5629298b82ec2714588d66f4",
+      "title": "Influenza vaccine in UAE: When is best time to get shots ahead of back-to-school?",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/influenza-vaccine-uae-back-to-school-season-doctor",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-07-27T10:01:06.556Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

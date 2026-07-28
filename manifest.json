@@ -23201,6 +23201,15 @@
       "processedDate": "2026-07-28T03:01:01.050Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3356126dd11e04c3b4c375d023f11cb6e6144e56df1dd263a7850ddee4126371",
+      "title": "FAA proposes seat inspections on 453 Boeing 737 MAX aircraft over safety risk",
+      "sourceUrl": "https://gulfnews.com/business/aviation/faa-proposes-seat-inspections-on-453-boeing-737-max-aircraft-over-safety-risk-1.500622304",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-28T05:15:50.308Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -23345,6 +23345,15 @@
       "processedDate": "2026-07-28T15:16:03.361Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "deb6a19c6ac0c696022047052741d6fff99e2f790548421956768544feb5963a",
+      "title": "UAE weather update: Hail, dusty whirlwind hit Masafi as storms lash Sharjah, eastern region; visibility drops in Dubai",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-update-hail-dusty-whirlwind-hit-masafi-as-storms-lash-sharjah-eastern-region-visibility-drops-in-dubai-1.500622780",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-28T16:15:57.856Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

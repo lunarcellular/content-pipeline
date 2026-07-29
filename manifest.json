@@ -23453,6 +23453,24 @@
       "processedDate": "2026-07-29T11:21:25.706Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "74ddd264035bc9e00a792cf2caa8489bef1860157bbe02f5aff1646a4a02b56e",
+      "title": "Beyond blockchain: Why governance determines success",
+      "sourceUrl": "https://www.khaleejtimes.com/business/innovation-city/beyond-blockchain-why-governance-determines-success",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-29T11:45:51.085Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f1c924a1b83ae00ffec23fcdb781a7a2e30a5c1fd3ac25f6e113dcdaee58866e",
+      "title": "Karan Johar offers tribute to old friends Shah Rukh Khan, Aditya Chopra",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/karan-johar-offers-tribute-shah-rukh-khan-aditya-chopra",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-29T11:45:53.418Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

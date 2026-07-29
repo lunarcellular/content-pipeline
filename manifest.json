@@ -23426,6 +23426,24 @@
       "processedDate": "2026-07-29T10:15:55.304Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "653a062c47dae0019a2ae0e3338cc09e32c0fbdb55b3120dfe85fa75c3f1b93a",
+      "title": "Stray dog injures 12 people, including children, in northern Jordan",
+      "sourceUrl": "https://gulfnews.com/world/mena/stray-dog-injures-12-people-including-children-in-northern-jordan-1.500623716",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-29T10:30:56.820Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "977723be0438886b8defdbbd8fb7c01762c7fb7105dbac94cb401c646aa41910",
+      "title": "Aftermath of deadly US-Saudi strikes on Iraq captured on camera",
+      "sourceUrl": "https://gulfnews.com/world/mena/aftermath-of-deadly-us-saudi-strikes-on-iraq-captured-on-camera-1.500623869",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-29T10:30:58.846Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

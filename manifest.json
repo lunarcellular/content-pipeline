@@ -23525,6 +23525,15 @@
       "processedDate": "2026-07-29T14:45:59.068Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "54068dec14182304bcc70defea2c72280a4ce4c3047c124f8947e5227059258a",
+      "title": "Drone hits LNG terminal at Egypt's Damietta port triggering partial closure",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/explosion-lng-terminal-egypt-damietta-port",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-29T16:30:58.199Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -23399,6 +23399,24 @@
       "processedDate": "2026-07-29T07:00:59.614Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "24bc645743cc2f5ce5b861cdd0008902b22edacc6fef195e80cf92c6faa182cb",
+      "title": "ADNOC Distribution launches Engage retail media network across the UAE",
+      "sourceUrl": "https://gulfnews.com/business/retail/adnoc-distribution-launches-engage-retail-media-network-across-the-uae-1.500623637",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-29T07:30:56.638Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "45d90c32287b9c54ee9ca3ccd6a112db6e77660c5283d2d238b8ea1d1e14f8d9",
+      "title": "Inside Mawaheb: How one Dubai art studio is helping people of determination find their voice",
+      "sourceUrl": "https://gulfnews.com/lifestyle/inside-mawaheb-how-one-dubai-art-studio-is-helping-people-of-determination-find-their-voice-1.500623220",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-29T07:30:58.856Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

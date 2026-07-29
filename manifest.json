@@ -23480,6 +23480,15 @@
       "processedDate": "2026-07-29T12:45:51.430Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d439d69ef90395a77d5b4198a71f9393e6fd7f26f903dd2d0b50c1a0bda3fd01",
+      "title": "Weather update: Rain hits parts of UAE as NCM warns of strong winds, dust and low visibility in Dubai, Abu Dhabi",
+      "sourceUrl": "https://gulfnews.com/uae/weather/weather-update-rain-hits-parts-of-uae-as-ncm-warns-of-strong-winds-dust-and-low-visibility-in-dubai-abu-dhabi-1.500624041",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-29T13:01:13.566Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

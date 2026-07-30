@@ -23705,6 +23705,33 @@
       "processedDate": "2026-07-30T10:01:01.798Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7bdff4dee2238ea287b8c2fb3df9dac67f27441a0c3d3a1ef7b61dc570473bdf",
+      "title": "UAE Capital Market Authority scraps 15 fees to cut regulatory costs",
+      "sourceUrl": "https://www.khaleejtimes.com/business/markets/uae-capital-market-authority-scraps-15-fees-to-cut-regulatory-costs",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-30T10:31:06.198Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fa29d78a47115da821dd6253d3196073e3af9aaf0027c4f5c97e04c6eaedcb77",
+      "title": "Indian police file charges against 13 arrested over Neet exam paper leaks",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-neet-exam-paper-leak-13-arrested-charged",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-30T10:31:08.551Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5fb9c0151699f9169f1f01d460613749de4d5df3ddbdc4a6919173a2b61d438a",
+      "title": "India: Eggs back in West Bengal state school meals after outcry",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-eggs-back-in-west-bengal-state-school-meals-after-outcry",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-30T10:31:10.646Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -23642,6 +23642,24 @@
       "processedDate": "2026-07-30T07:31:04.846Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "15e44aa0eb45e1f3cabac6114dd1ad3cb4fec5fe916f51e3e895281b1bd90d6c",
+      "title": "Emirates launches programme to help UAE students turn old aircraft into new products",
+      "sourceUrl": "https://gulfnews.com/business/aviation/emirates-launches-programme-to-help-uae-students-turn-old-aircraft-into-new-products-1.500625211",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-30T08:01:17.165Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "650e93198e0e8a4702c113c91533edf3a0a58c7ac74bdf4b54e46736759bcd5f",
+      "title": "Jared Leto accused of sexual misconduct by 10 women in new BBC documentary",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/jared-leto-sexual-misconduct-allegations-bbc-documentary",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-30T08:01:19.632Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

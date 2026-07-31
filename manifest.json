@@ -23957,6 +23957,15 @@
       "processedDate": "2026-07-31T11:46:21.031Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c35dda87472f9dbcfb693f18035ac238f85ed52192afa9fc96edab17bbfc9528",
+      "title": "UAE art guide: 11 exhibitions to see, from board games at Louvre Abu Dhabi to African art at Efie Gallery",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/07/31/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "sourceName": "The National",
+      "processedDate": "2026-07-31T12:29:15.240Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -24002,6 +24002,15 @@
       "processedDate": "2026-07-31T18:15:54.797Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "63377193fa573639eae4e5fa359a79227d29ba4b8b26092cac377a0232d549fe",
+      "title": "Abu Dhabi extends Parent-friendly Label application deadline",
+      "sourceUrl": "https://gulfnews.com/uae/government/abu-dhabi-extends-parent-friendly-label-application-deadline-1.500627223",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-31T22:38:42.481Z",
+      "relevant": true,
+      "outputFile": "output/2026-07-31-abu-dhabi-parent-friendly-label-application-deadline.md"
     }
   ]
 }

@@ -23849,6 +23849,24 @@
       "processedDate": "2026-07-30T20:48:26.327Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4c06ad0a8b0c38c71f4bee9ee5f47abb4ac3cc8d31ec37c6b87be97d5a189827",
+      "title": "UAE eVisa for GCC residents: Eligibility, requirements, fees and how to apply",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/visa-immigration/uae-evisa-for-gcc-residents-eligibility-requirements-fees-and-how-to-apply-1.500625775",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-31T03:01:08.476Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "666e4b5ea9701792b5b612f2726ef021ec8a49ef7d0bb89196df33f74e95af34",
+      "title": "Scorching heat continues, with afternoon showers possible across parts of the UAE",
+      "sourceUrl": "https://gulfnews.com/uae/weather/scorching-heat-continues-with-afternoon-showers-possible-across-parts-of-the-uae-1.500626060",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-31T03:01:10.695Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

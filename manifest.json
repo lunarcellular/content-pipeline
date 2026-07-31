@@ -23894,6 +23894,33 @@
       "processedDate": "2026-07-31T08:16:36.551Z",
       "relevant": true,
       "outputFile": "output/2026-07-31-uae-school-uniform-guide-2026-2027.md"
+    },
+    {
+      "urlHash": "39c426f660efd2545ef58ba70e9f9fce06424cd66010cc6876c63d17551ce143",
+      "title": "UAE prepares 150 Emirati scholarship students for studies abroad",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-prepares-150-emirati-scholarship-students-for-studies-abroad-1.500626508",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-31T08:31:03.230Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "20ce816654fd2d822ce1fd91a9d912008b1aed665d178dc1e6f0cc1225944873",
+      "title": "Woman learning to drive injures 17 after car crashes into Egyptian café",
+      "sourceUrl": "https://gulfnews.com/world/mena/woman-learning-to-drive-injures-17-after-car-crashes-into-egyptian-caf%C3%A9-1.500626478",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-07-31T08:31:05.301Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "34e7ea682b45ba428d78f4b73dd288cbed6c828ffbdfedeca7c9a958ad92586e",
+      "title": "Review: Breitling Top Time B01 Chronograph 41 Tribute to Aston Martin DB5\n",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/review-breitling-top-time-b01-chronograph-41-tribute-to-aston-martin-db5",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-07-31T08:31:07.314Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

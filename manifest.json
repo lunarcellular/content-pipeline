@@ -24038,6 +24038,15 @@
       "processedDate": "2026-08-01T08:01:12.232Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2798d4e061e113663bb600750e20c177b1c903abdf03e564832da11167666dee",
+      "title": "US Embassy Jordan issues alert over possible flight disruptions amid Middle East tensions",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-embassy-jordan-issues-alert-over-possible-flight-disruptions-amid-middle-east-tensions-1.500627622",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-01T11:01:09.867Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

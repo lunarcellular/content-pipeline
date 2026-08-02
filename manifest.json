@@ -24164,6 +24164,15 @@
       "processedDate": "2026-08-02T15:01:09.695Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f28272d45b21d71aedebbc4ee8bc41e74a66a4a1232b1667cbc303adc1ec885f",
+      "title": "UAE digitises educational document attestation with two-hour processing time",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-digitises-educational-document-attestation-with-two-hour-processing-time-1.500628562",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-02T18:01:29.289Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-02-uae-digital-attestation-educational-documents.md"
     }
   ]
 }

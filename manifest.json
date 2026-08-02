@@ -24173,6 +24173,15 @@
       "processedDate": "2026-08-02T18:01:29.289Z",
       "relevant": true,
       "outputFile": "output/2026-08-02-uae-digital-attestation-educational-documents.md"
+    },
+    {
+      "urlHash": "4802fef276c0a1349e9697b9f75c017840b96253f56a02f1ad268bb9ac702a52",
+      "title": "Nirmal Purja dies in avalanche: Childhood Nepal school grieves 'fearless' climber",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/nirmal-purja-nepal-school-grieves-climber-death",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-02T18:31:01.251Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

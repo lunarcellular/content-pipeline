@@ -24110,6 +24110,15 @@
       "processedDate": "2026-08-02T08:45:50.398Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a0fbd77deedafabbbcd001a778e3f6a0f4225929e2b40322011401cff1ed2cc7",
+      "title": "India's RBI tightens rules on bank deposit interest rates",
+      "sourceUrl": "https://gulfnews.com/business/banking/indias-rbi-tightens-rules-on-bank-deposit-interest-rates-1.500628242",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-02T09:45:49.038Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -24272,6 +24272,42 @@
       "processedDate": "2026-08-03T11:15:56.694Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e17ea01a397c6d4621a49a5333c2aa5be5fdb71f17ff58a3f068f18bab621850",
+      "title": "UAE approves Aani, Jaywan as new payment channels for federal service fees, fines",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/aani-jaywan-payment-channels-federal-fees-fines",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-03T11:35:43.273Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dbb93645217c0e631aa2fe5619b92fdea76d516619c6dc9c497995a240cacc3b",
+      "title": "Alex Cooper hits back at troll telling her to stop 'complaining' about pregnancy",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/alex-cooper-pregnancy-troll-gestational-diabetes-response",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-03T11:35:45.546Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0d6b1e7177e4b5089d9fafe9e3103282271d5612e2726e43139084f2cd1ab943",
+      "title": "Protests in Kerala for 1 month: Public service exam candidates demand jobs; probe ongoing",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-kerala-public-service-commission-exam-protests",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-03T11:35:48.618Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e17ea01a397c6d4621a49a5333c2aa5be5fdb71f17ff58a3f068f18bab621850",
+      "title": "UAE approves Aani, Jaywan as new payment channels for federal service fees, fines",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/aani-jaywan-payment-channels-federal-fees-fines",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-03T11:35:50.682Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

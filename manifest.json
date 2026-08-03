@@ -24317,6 +24317,15 @@
       "processedDate": "2026-08-03T12:01:12.358Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c0eab4629897201d79cc1d5e9532e0b264660ca5533686ad4cb2544167e176c8",
+      "title": "Sharjah announces private school calendar for 2026-2027 academic year",
+      "sourceUrl": "https://gulfnews.com/uae/education/sharjah-announces-private-school-calendar-for-2026-2027-academic-year-1.500629313",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-03T13:01:16.888Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

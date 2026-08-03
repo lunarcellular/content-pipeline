@@ -24209,6 +24209,15 @@
       "processedDate": "2026-08-03T03:01:47.147Z",
       "relevant": true,
       "outputFile": "output/2026-08-03-dubai-school-admissions-age-cut-off.md"
+    },
+    {
+      "urlHash": "5492958947033b925ccf3e77491fe89d884024416a86874b0bb623bc2a143021",
+      "title": "Heavy rain continues in Kerala: Schools shut as IMD warns of flash floods, landslides",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/heavy-rain-continues-in-kerala-schools-shut-as-imd-warns-of-flash-floods-landslides-1.500628770",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-03T04:15:51.838Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -24191,6 +24191,24 @@
       "processedDate": "2026-08-02T21:04:14.447Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2bf86767fbe5d1ed95faa61be36dc73809fd25b3f0497f3f102f3940d38e2fc8",
+      "title": "Dubai school admissions: KHDA guide explains new age cut-off rules",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-school-admissions-khda-new-guide-age-cut-off",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-03T03:01:47.147Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-03-dubai-school-admissions-age-cut-off.md"
+    },
+    {
+      "urlHash": "2bf86767fbe5d1ed95faa61be36dc73809fd25b3f0497f3f102f3940d38e2fc8",
+      "title": "Dubai school admissions: KHDA guide explains new age cut-off rules",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-school-admissions-khda-new-guide-age-cut-off",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-03T03:01:47.147Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-03-dubai-school-admissions-age-cut-off.md"
     }
   ]
 }

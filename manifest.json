@@ -24326,6 +24326,24 @@
       "processedDate": "2026-08-03T13:01:16.888Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "b8682f7d77f5065808664b4549319d2f476be67e8bfd51ebdfe0ce307610d16a",
+      "title": "Masked man drags, stabs Faridabad school teacher to death inside campus",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/masked-man-drags-stabs-faridabad-school-teacher-to-death-inside-campus-1.500629370",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-03T13:30:57.914Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "81711e8d83049853a7fca40dc2d382d22d930c16e105470a025321ac857d15cb",
+      "title": "Dubai school admissions: KHDA guide explains new age cut-off rules - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGhfVjBKaDJCeGhLeThsbHN6djJSZ05FQllmeHlpT25JOVNYQnUyNFR4YTg3OWRCUmlkUTBITzh4alU0MlRtN0Q1bzc4WjNkeWVKcmxpNU5ndHduMWFQSm5DQTlIT0FjX1YtR3BudGZGNGd4clRsRV92a19CTzdwd1pKNHVyNkxVdGhV0gGTAUFVX3lxTE93YklfaktSYThvVlBNUGEwa2R6T0NGLXVBbzU1T0Exbkx1SVl0dzlCLURiMGtMZVhzbUpIV1ZHU193ODJsbWhEOHdETDhabm1ldnFnWHRuNk5saGo0VnVMOXNqc2N1RUpnUGdjQUstby15U2czNmtlUURINWZ4bUdkOV9PZGVEYmwyT3Y2TDBKdzZDNA?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-03T13:31:16.339Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

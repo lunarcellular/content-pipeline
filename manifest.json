@@ -24353,6 +24353,15 @@
       "processedDate": "2026-08-03T13:45:49.681Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f7b967c3c927f9ab3269360c9e8fa65a9387b1449b881b13990559716f7109d1",
+      "title": "Abu Dhabi warns of thunderstorms, strong winds and possible hail this week",
+      "sourceUrl": "https://gulfnews.com/uae/weather/abu-dhabi-warns-of-thunderstorms-strong-winds-and-possible-hail-this-week-1.500629555",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-03T17:15:57.150Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

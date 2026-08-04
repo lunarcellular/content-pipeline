@@ -24470,6 +24470,15 @@
       "processedDate": "2026-08-04T12:47:05.854Z",
       "relevant": true,
       "outputFile": "output/2026-08-04-uae-student-transfer-rules.md"
+    },
+    {
+      "urlHash": "34b562bbce83a2441f3540d11fe5ee23623212b6c414629cb70056bd4aa68a15",
+      "title": "US Treasury Secretary says deal on Hormuz possible Tuesday or Wednesday: CNBC",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-48-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-04T13:01:08.655Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

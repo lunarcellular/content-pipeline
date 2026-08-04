@@ -24362,6 +24362,33 @@
       "processedDate": "2026-08-03T17:15:57.150Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2e54f490136a677872862df4b0b03fd5d7a70aa2033c641bc860a80ed95962f1",
+      "title": "Ukraine strike kills six, including three children: Russian governor",
+      "sourceUrl": "https://gulfnews.com/world/europe/ukraine-strike-kills-six-including-three-children-russian-governor-1.500629280",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T03:01:14.030Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "264cd4048f47e885aff2bb82e9bbceacccb90d4d076c95765eae4abbefb948cc",
+      "title": "Beyond classrooms: The future of learning is personal",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/beyond-classrooms-the-future-of-learning-is-personal-1.500629538",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T03:01:16.172Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b67201bb51f9f1c8213e59af84ad0c08d79ebf99227a11ac2d3d7bcb04f76297",
+      "title": "Qatar, Egypt, Turkiye condemn Israel's actions in Gaza as fresh strikes kill two",
+      "sourceUrl": "https://gulfnews.com/world/mena/qatar-egypt-turkiye-condemn-israels-actions-in-gaza-as-fresh-strikes-kill-two-1.500629763",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T03:01:18.245Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

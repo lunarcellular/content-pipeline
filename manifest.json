@@ -24488,6 +24488,24 @@
       "processedDate": "2026-08-04T13:15:53.232Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6757fdc198d967542486b62600c15395489cf5017bec3d534a6896ce9dfa970c",
+      "title": "Egypt earthquake: Mother dies after shielding children during tremor",
+      "sourceUrl": "https://gulfnews.com/world/mena/egypt-earthquake-mother-dies-after-shielding-children-during-tremor-1.500630553",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T16:15:53.759Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5adca548f861fbf3db989fae0853c0282b3060c9a2314d2a3774e29789fb3a7c",
+      "title": "Who is the violent settler Israel’s Defence Minister is determined to support? ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/04/who-is-the-violent-settler-israels-defence-minister-is-determined-to-support/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-04T16:15:55.908Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

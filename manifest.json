@@ -24443,6 +24443,33 @@
       "processedDate": "2026-08-04T12:15:52.948Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "59ad532de05a96927d08143275da9cbb407ded10b54353ba2324fc7dcdc21023",
+      "title": "Meet Indian expat student in Dubai chosen to represent UAE in building and launching satellite",
+      "sourceUrl": "https://gulfnews.com/uae/meet-indian-expat-student-in-dubai-chosen-to-represent-uae-in-building-and-launching-satellite-1.500630370",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T12:46:03.485Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "504cd9af2e813da1fcbd645447a5474d93da6b282e343b6f9121ae61e9ab7996",
+      "title": "UAE schools to have 185 teaching days in 2026-2027 academic year",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-to-have-185-teaching-days-in-2026-2027-academic-year-1.500630354",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T12:46:47.048Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-04-uae-schools-185-teaching-days-2026-2027.md"
+    },
+    {
+      "urlHash": "a161f53fae813fd140721472a0523339862b46e3a96fd9d9d9f9b677c75c08fa",
+      "title": "UAE sets two-week deadline for students to switch academic streams in new school year",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-sets-two-week-deadline-for-students-to-switch-academic-streams-in-new-school-year-1.500630322",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-04T12:47:05.854Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-04-uae-student-transfer-rules.md"
     }
   ]
 }

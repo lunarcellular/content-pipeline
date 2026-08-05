@@ -24515,6 +24515,24 @@
       "processedDate": "2026-08-05T03:15:56.654Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2d3438bb7baddb0fb1d217ff85e0464be9b808c85855bad6ed32f6c03464dc52",
+      "title": "ADNOC Distribution profit jumps 59% to record $568 million, dividend approved",
+      "sourceUrl": "https://gulfnews.com/business/energy/adnoc-distribution-profit-jumps-59-to-record-568-million-dividend-approved-1.500631038",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-05T05:46:02.491Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e98f3b0983765dbbcfec63cfd3e6afb26f35156164d4c544c75bb471c4e8ff8c",
+      "title": "Iran war latest: Iran says Trump threats delaying possible Hormuz deal",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/05/live-us-iran-hormuz/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-05T05:46:04.533Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

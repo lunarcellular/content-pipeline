@@ -24677,6 +24677,15 @@
       "processedDate": "2026-08-05T22:44:10.799Z",
       "relevant": true,
       "outputFile": "output/2026-08-05-dubai-emirati-teachers-private-schools.md"
+    },
+    {
+      "urlHash": "ed259c9f6ccee82bb3f47a2be03d7f9f4975ac503ba7839d319aac840b660c33",
+      "title": "Employers to bear their full share of pension contributions for Emirati employees",
+      "sourceUrl": "https://gulfnews.com/uae/employers-to-bear-their-full-share-of-pension-contributions-for-emirati-employees-1.500632043",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-05T23:41:44.911Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

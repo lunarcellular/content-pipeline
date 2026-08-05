@@ -24587,6 +24587,24 @@
       "processedDate": "2026-08-05T11:30:55.769Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f6064225d47bde8caf7cb394e91690537a9dca6cad8e3072049afeab5d916d5f",
+      "title": "Free summer camp at Dubai's Mohammed Bin Rashid Library; how to enrol kids",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/free-summer-camp-dubai-library-how-to-enrol",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-05T12:01:08.095Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "094f3f84ab6b9203051aceb7cc23d4b7e72a742fcc1504e2bf360a469b96b59f",
+      "title": "'We are in sorrow': Tributes paid to car showroom worker killed in Dubai gas cylinder blast",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/05/we-are-in-sorrow-tributes-paid-to-car-showroom-worker-killed-in-dubai-gas-cylinder-blast/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-05T12:01:10.436Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

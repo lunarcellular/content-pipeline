@@ -24578,6 +24578,15 @@
       "processedDate": "2026-08-05T11:01:10.264Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "612945cf7e1c288f0d4ef255f8dccd51bd81af7a58c807eed9c6665197c53fc3",
+      "title": "SpaceX rocket part 'the size of a school bus' believed to have crashed into the Moon",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/08/05/spacex-rocket-part-the-size-of-a-school-bus-believed-to-have-crashed-into-the-moon/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-05T11:30:55.769Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

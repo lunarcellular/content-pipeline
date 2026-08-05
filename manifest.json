@@ -24668,6 +24668,15 @@
       "processedDate": "2026-08-05T20:09:56.611Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "48af50df7a69028267878583d43d863c907f81ceccacec949b8a9ab8ac6c0543",
+      "title": "Dubai aims to increase Emirati teachers in private schools to 3,000 by 2033 - gulfnews.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDNtbkZGZ0hVWkcxLVpaQy0ybGVmWkNjOFlNdjhoR3h5LTBEeDdWVlZqLVpmdmNMaWw3R1lzVTBEbl9kaEJsYjJsN25mMk14N21zU3RFekVINGNtRzV4RGE2TzhBRkxmX3hUSGhpbnVJRkZxdmtEazF3ZVc0VkJ4ckZrelV4djJieUhEc3VIWlRWU3RsY2JvUVVlN2l0VktaY3RtZ2pQWFh5QWQxVlhhTVJLQ01PNDZoR3F5SWdR0gHQAUFVX3lxTE5FUVBNbVJ2ZEpfRHNTR2lGVnFiV2RUU1RkZ1VFM2tLZmFjcVhVS1ZuUXdtV0pNTk1SdmNMQlRPMWg0NEFXdXRILTBBV0E4NFhlTDBIeTJKRGUtelZqWTZtbGlBNWNzX1Rnc0VsSHVJTlV2Z3pJUXVxNjRnNXJJSTA5d1dBdzJtbjhYa0ZNQVF6SzhhbWRRQkU0aUlhbVBfME92QXVtR0ZZdUtsdjdybWNSWnRFeHF3RzM0ajRTYVlrSXN2b3FXaEpMVk5BVGdacXg?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-08-05T22:44:10.799Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-05-dubai-emirati-teachers-private-schools.md"
     }
   ]
 }

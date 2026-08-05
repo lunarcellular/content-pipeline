@@ -24623,6 +24623,24 @@
       "processedDate": "2026-08-05T13:31:36.691Z",
       "relevant": true,
       "outputFile": "output/2026-08-05-dubai-emirati-teachers-plan-2033.md"
+    },
+    {
+      "urlHash": "7470d14caa7685337470e2a437e4b0797eb054ae01a0d167ba9d3eed087475fa",
+      "title": "Indian Consulate in Dubai clarifies who is eligible for walk-in passport services",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-05T14:15:52.451Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7470d14caa7685337470e2a437e4b0797eb054ae01a0d167ba9d3eed087475fa",
+      "title": "Indian Consulate in Dubai clarifies who is eligible for walk-in passport services",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-consulate-in-dubai-clarifies-who-is-eligible-for-walk-in-passport-services",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-05T14:15:54.800Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

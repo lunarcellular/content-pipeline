@@ -24614,6 +24614,15 @@
       "processedDate": "2026-08-05T12:15:57.294Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5d53c96e6d3e1bd7ac2dd0ec0ff023d3b0d0cfb43e0961dc9e326fbeeeb64029",
+      "title": "Dubai aims to increase Emirati teachers in private schools to 3,000 by 2033",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-aims-to-increase-emirati-teachers-in-private-schools-to-3000-by-2033-1.500631614",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-05T13:31:36.691Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-05-dubai-emirati-teachers-plan-2033.md"
     }
   ]
 }

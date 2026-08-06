@@ -24686,6 +24686,33 @@
       "processedDate": "2026-08-05T23:41:44.911Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ca88d9fd23faaaf1aba072dbee9d1a9b6585030d0ebe54f5170600f282cf4419",
+      "title": "Dubai schools under Dh45,000: Top-rated KHDA schools with affordable fees",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/best-affordable-schools-dubai-khda-ratings-1.500631978",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-06T03:01:14.988Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "57d65ed2c6b08f5657c6913f93c6e0e3dcf7bb20db747c4d65f2e3b092959c70",
+      "title": "UAE back-to-school cost calculator: How much will parents spend on fees, uniforms?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-back-to-school-cost-calculator-2026-2027-academic-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-06T03:01:17.516Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "57d65ed2c6b08f5657c6913f93c6e0e3dcf7bb20db747c4d65f2e3b092959c70",
+      "title": "UAE back-to-school cost calculator: How much will parents spend on fees, uniforms?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-back-to-school-cost-calculator-2026-2027-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-06T03:01:21.222Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

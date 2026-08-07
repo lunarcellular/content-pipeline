@@ -24848,6 +24848,51 @@
       "processedDate": "2026-08-07T00:32:51.775Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e6a5ba9531bd0ad2f371eda7a93858d2c8502c70b94194bd0a7c1093715f0899",
+      "title": "More than a decade after 43 students vanished in Mexico, ex-governor arrested, accused of cover-up",
+      "sourceUrl": "https://gulfnews.com/world/americas/more-than-a-decade-after-43-students-vanished-in-mexico-ex-governor-arrested-accused-of-cover-up-1.500633216",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T03:00:59.637Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b9101fb9b1e90b32ea6763adcb856379f3b38dc6c0ee4816082e81b69cca2b26",
+      "title": "Dubai schools 2026–27: The four major rules every UAE parent needs to know",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/dubai-school-rules-2026-27-fees-age-calendar-1.500632835",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T03:01:01.357Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c9db074f4cd2da6c914e0544d389bb041d9e79931b33506a1d44202608c535cd",
+      "title": "Why every child should grow a plant",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/why-every-child-should-grow-a-plant-1.500632851",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T03:01:03.329Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "34a87e64fde14a19d6de3be4ec07c33bba6f7436edc606a824b88c5537fa8680",
+      "title": "Apply for UAE marriage contract online: Fees, eligibility, step-by-step guide",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-marriage-contract-online-guide",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-07T03:01:05.190Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "34a87e64fde14a19d6de3be4ec07c33bba6f7436edc606a824b88c5537fa8680",
+      "title": "Apply for UAE marriage contract online: Fees, eligibility, step-by-step guide",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-marriage-contract-online-guide",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-07T03:01:07.387Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

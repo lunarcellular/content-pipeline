@@ -24911,6 +24911,15 @@
       "processedDate": "2026-08-07T04:00:59.617Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "45058aefdb38b35dbe9ee517aa987b2d1f9a4a508b9cb8a25f18c71bd0084d2e",
+      "title": "At least 10 students wounded in school shooting near Bangkok",
+      "sourceUrl": "https://gulfnews.com/world/at-least-10-students-wounded-in-school-shooting-near-bangkok-1.500633285",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T04:46:01.690Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -24974,6 +24974,24 @@
       "processedDate": "2026-08-07T07:30:53.215Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b065bd26ef210d456d6234b73cefe0b20fd9c74404ceba5a31d567b48cbd3b5a",
+      "title": "DXB Terminal 3 transformed into indoor running track for Dubai Mallathon event",
+      "sourceUrl": "https://gulfnews.com/uae/dxb-terminal-3-transformed-into-indoor-running-track-for-dubai-mallathon-event-1.500633462",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T07:45:59.608Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "92a21dc5517c6441b71fae6cd8814df11b51ba711a8a459130bce2fd99319175",
+      "title": "Meta ordered to pay US state $567m to abate ‘public nuisance’ and child harm",
+      "sourceUrl": "https://gulfnews.com/world/americas/meta-ordered-to-pay-us-state-567m-to-abate-public-nuisance-and-child-harm-1.500633485",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T07:46:02.339Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

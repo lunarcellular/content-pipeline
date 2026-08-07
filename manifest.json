@@ -24947,6 +24947,24 @@
       "processedDate": "2026-08-07T06:30:58.322Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5d2417f83fc3debaba0ec4e7de0cb2599aa58e9da6fdca451023abd3bb250463",
+      "title": "China's first robot school turns machines into workers",
+      "sourceUrl": "https://gulfnews.com/world/chinas-first-robot-school-turns-machines-into-workers-1.500633447",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-07T07:01:11.864Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1ba003e7ccff65f331bb841f08c2f054377b2f2a7626e5ee21ff76c8d27f4e9a",
+      "title": "Teachers and pupils among six killed in Thailand school shooting",
+      "sourceUrl": "https://www.thenationalnews.com/news/asia/2026/08/07/teachers-and-pupils-among-six-killed-in-thailand-school-shooting/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-07T07:01:14.074Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

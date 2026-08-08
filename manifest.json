@@ -25055,6 +25055,33 @@
       "processedDate": "2026-08-07T14:01:08.540Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "badd2cc38774530fdeacf008998540b04523b2822df5fe9c84dc8d013103b7d2",
+      "title": "Teaching children to outsmart the algorithm",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/teaching-children-to-outsmart-the-algorithm-1.500633949",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-08T02:23:36.383Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cc643e191843d6e7a18808be7dfb158fe2e89d669f6977bc36a3f4f422d104db",
+      "title": "UAE back-to-school: Second-hand study tables and bookcases top parents' shopping list",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-second-hand-study-tables-parents-shopping-list",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-08T02:23:38.488Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cc643e191843d6e7a18808be7dfb158fe2e89d669f6977bc36a3f4f422d104db",
+      "title": "UAE back-to-school: Second-hand study tables and bookcases top parents' shopping list",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-second-hand-study-tables-parents-shopping-list",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-08T02:23:40.541Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

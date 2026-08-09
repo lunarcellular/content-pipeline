@@ -25199,6 +25199,24 @@
       "processedDate": "2026-08-09T07:31:00.044Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0a2076d6ab1c0763d50bcd79160148b4fe102a89e476a8be1c7892d07c260e13",
+      "title": "Abu Dhabi Civil Defence urges parents never to leave children unattended",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-civil-defence-urges-parents-never-to-leave-children-unattended-1.500635225",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-09T08:30:57.388Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fa98605b6826a4ca2f9320c3011c20469e75bfac62a19e4ebd34534b270ce792",
+      "title": "Iran FM says no talks with US, message exchange taking place via intermediaries: Mehr",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-peace-deal-day-53-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-09T08:30:59.384Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

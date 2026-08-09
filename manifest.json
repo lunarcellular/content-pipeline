@@ -25271,6 +25271,15 @@
       "processedDate": "2026-08-09T12:45:59.326Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c010adcf4e8dfa43623258cf1ebbfc8c2bbb3bb14a31774e80f55df886ff9d84",
+      "title": "UAE weather alert: Heavy rain, strong winds and poor visibility forecast",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-alert-heavy-rain-strong-winds-and-poor-visibility-forecast-1.500635533",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-09T16:17:31.598Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

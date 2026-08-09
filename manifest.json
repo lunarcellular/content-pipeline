@@ -25235,6 +25235,24 @@
       "processedDate": "2026-08-09T09:04:21.502Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fc849da2bd42f7a63018e99d65089117b89b7781f577a17bc0f8280cfe3b09a0",
+      "title": "Why has the US ordered inspections of 1,900 Boeing 737 Max jets?",
+      "sourceUrl": "https://gulfnews.com/business/aviation/why-has-the-us-ordered-inspections-of-1900-boeing-737-max-jets-1.500635281",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-09T09:31:01.055Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a9fd0551351c1094107affde1bb83e139ade95a7bc6a0a2181d647b7e26a08b",
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-09T09:31:03.402Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

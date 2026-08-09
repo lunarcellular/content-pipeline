@@ -25145,6 +25145,24 @@
       "processedDate": "2026-08-08T20:49:36.696Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "764720f44467966fb65003e199aa752ac219ad3f60e20e5e859ecc870db22953",
+      "title": "Ask Gulf News: Can UAE companies terminate employees on maternity leave?",
+      "sourceUrl": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-can-uae-companies-terminate-employees-on-maternity-leave-1.500632696",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-09T02:30:33.498Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "664f8c0a9b53b3fbf2917ffdd2393c38030456c349d21fb09ae480dd4302e35e",
+      "title": "Ask Gulf News: Can parents ask their children for monthly maintenance in the UAE?",
+      "sourceUrl": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-can-parents-ask-their-children-for-monthly-maintenance-in-the-uae-1.500635046",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-09T02:30:35.392Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

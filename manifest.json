@@ -25181,6 +25181,15 @@
       "processedDate": "2026-08-09T06:00:58.433Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3d1740067a90bd9c1d0da2716bfc93f884f66b616eaebbbebda24d63854beb1c",
+      "title": "Houthis claim responsibility for drone attack on Saudi Arabia’s Jazan refinery",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/08/09/fire-at-saudi-arabias-400000-bpd-jazan-refinery-brought-under-control/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-09T07:16:00.574Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

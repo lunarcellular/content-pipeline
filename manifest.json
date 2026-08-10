@@ -25397,6 +25397,33 @@
       "processedDate": "2026-08-10T10:45:56.558Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2ac0a070fa470950aef27cfcfbe602401aac9eff8d4461199befb743e0208d37",
+      "title": "Jharkhand exam protests escalate as police baton-charge students",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/jharkhand-exam-protests-escalate-as-police-baton-charge-students-1.500636185",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-10T11:45:52.093Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e6993d4e6fa565d465a4f56a945b21c9bdcff2104b0e69ae1f03e1b28944d7ce",
+      "title": "Oman rescues 1 child, 3 adults from drowning in two separate incidents ",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/oman-rescue-operation-4-individuals-drowning-muscat-sohar",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-10T11:45:54.524Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "05d101aa5854e0548537c1f855888d24b888f72e0da25e09a6e955a650d8180f",
+      "title": "'Insta parenting' can lead to children feeling exploited by parents, UAE doctors warn",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-sharing-children-photos-online-psychological-impact-doctors-warn",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-10T11:45:57.794Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -25361,6 +25361,24 @@
       "processedDate": "2026-08-10T09:01:06.146Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "81175c2282ae9f162ad01356a24b86f5e2a258cdcc6c01e22ce8d50010542b55",
+      "title": "UAE foils advanced cyberattacks targeting aviation, energy, education sectors",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-foils-advanced-cyberattacks-targeting-aviation-energy-education-sectors-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-10T09:31:15.765Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "81175c2282ae9f162ad01356a24b86f5e2a258cdcc6c01e22ce8d50010542b55",
+      "title": "UAE foils advanced cyberattacks targeting aviation, energy, education sectors",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-foils-advanced-cyberattacks-targeting-aviation-energy-education-sectors-2",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-10T09:31:18.154Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

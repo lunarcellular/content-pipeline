@@ -25433,6 +25433,33 @@
       "processedDate": "2026-08-10T12:46:09.118Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cb47076aa3c16ca6852a359131e25d63eb4de94242432c9b5082114c4ec68443",
+      "title": "4 doctors suspended over harassment after PG student dies by suicide in Surat",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/4-senior-doctors-suspended-after-pg-student-dies-by-suicide-in-surat-1.500636272",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-10T13:01:05.876Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "23fc6d1b9feff38fd608755af44edb0850378b9eedb75310205cebf3d85c66be",
+      "title": "Toxic cast fees revealed: Did Yash get paid more than Kiara Advani, Nayanthara,Tara Sutaria in  this Hollywood, Bollywood action thriller?",
+      "sourceUrl": "https://gulfnews.com/entertainment/toxic-cast-fees-revealed-did-yash-get-paid-more-than-kiara-advani-nayantharatara-sutaria-in-this-hollywood-bollywood-action-thriller-1.500636291",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-10T13:01:08.104Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "31b23db566b829fffd9feb9fe1a9972971be26d6ff7f518a47b368aa553be265",
+      "title": "Indian students step up exam protests in Jharkhand",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/indian-students-step-up-exam-protests-in-jharkhand-3",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-10T13:01:11.137Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

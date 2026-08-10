@@ -25280,6 +25280,42 @@
       "processedDate": "2026-08-09T16:17:31.598Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c2c325a8d64b63d1f02a5a24865a2eef0365a3a5d832e5c0e8bd70a8ef673d01",
+      "title": "Dubai shared housing: Families, bachelors among eligible groups; monthly rent default",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-shared-housing-law-eligible-groups-monthly-rent",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-10T02:13:15.765Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "776e05c33a9a6fa5a29a106d7048a3a485929b0c957e2169897e45d8fe89e166",
+      "title": "UAE back to school: 5 ways students can use AI to study without letting it do homework",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-5-ways-students-can-use-ai-to-study",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-10T02:13:17.776Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d063a1067113f96afbfe3792a306088e365eaec3df9e1c9bfc5f0b0ac9793e83",
+      "title": "UAE back to school: 5 ways students can use AI to study without letting it do homework - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2hxSDhtd05aZ1NYMmJZQU4zeWx6d3ZlQTlENFRXNHVQYjgtZEJibUk1WWdVMDQzd1p6RkdWYklZZUxyd1FtRkY4RDU5U21lZTJ0ckplLVdscG5nVjZ1Z0JqVzIxNVVkeldJb3hUSzBvMV9UQktuUFNPNnNWem9OZkFoYTA5S2EwZzdpNnl1cG5iZm92ck96ZNIBoAFBVV95cUxNM0g1R1Q4bTQtRDF1NHZ1d2UyQThWQXlmdDRPWktUNVA3Ujk3cjk2S1Q5TVhCZUtNZFBsWHRrc1U0UElzMFVURXpqQVV5Tmh2dzQxa1NtbElGRWlzREJHREJsM0tjRzZBOWt1UVRoZnZ3aWtzMVQ2U3JWWmtKbEoyclRKcTFtWVdkcTBhTnVlMFVvOC1ScFBVOUVGdTVMOTdo?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-08-10T02:13:19.723Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d063a1067113f96afbfe3792a306088e365eaec3df9e1c9bfc5f0b0ac9793e83",
+      "title": "UAE back to school: 5 ways students can use AI to study without letting it do homework - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2hxSDhtd05aZ1NYMmJZQU4zeWx6d3ZlQTlENFRXNHVQYjgtZEJibUk1WWdVMDQzd1p6RkdWYklZZUxyd1FtRkY4RDU5U21lZTJ0ckplLVdscG5nVjZ1Z0JqVzIxNVVkeldJb3hUSzBvMV9UQktuUFNPNnNWem9OZkFoYTA5S2EwZzdpNnl1cG5iZm92ck96ZNIBoAFBVV95cUxNM0g1R1Q4bTQtRDF1NHZ1d2UyQThWQXlmdDRPWktUNVA3Ujk3cjk2S1Q5TVhCZUtNZFBsWHRrc1U0UElzMFVURXpqQVV5Tmh2dzQxa1NtbElGRWlzREJHREJsM0tjRzZBOWt1UVRoZnZ3aWtzMVQ2U3JWWmtKbEoyclRKcTFtWVdkcTBhTnVlMFVvOC1ScFBVOUVGdTVMOTdo?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-10T02:13:21.719Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

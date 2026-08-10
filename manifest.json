@@ -25478,6 +25478,24 @@
       "processedDate": "2026-08-10T19:01:10.470Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4e453c82d3396e4bbf3183e5f8b3f1508f865cb64814dd89833b2ef5ff2cb8a9",
+      "title": "20-day countdown begins for UAE students' return to classrooms",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/20-day-countdown-begins-for-uae-students-return-to-classrooms-1.500636742",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-10T20:25:33.848Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1e7b0cc6f533aa5fb922c2ae95c0007a3f5617dcba30d83cad33eedfb60b016a",
+      "title": "Senior Iranian academic claims US is preparing military action against Iran",
+      "sourceUrl": "https://gulfnews.com/world/mena/senior-iranian-academic-claims-us-is-preparing-military-action-against-iran-1.500636736",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-10T20:25:36.195Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

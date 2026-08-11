@@ -25532,6 +25532,33 @@
       "processedDate": "2026-08-11T00:37:23.698Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "48e9858db9a24f585b901218be8bc8c8a107788498c5d7ec477a3603f5f0ce48",
+      "title": "I don’t care how old he is, Brett Lee shuts down Vaibhav Sooryavanshi age debate",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/i-dont-care-how-old-he-is-brett-lee-shuts-down-vaibhav-sooryavanshi-age-debate-1.500636748",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-11T02:54:24.410Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5bb665ab7a23bf1360b8b2861404ea3ee2120e1d18198f3ccf6bccd5c5b2a5c9",
+      "title": "UAE holidays 2027: Possible 6-day break, multiple long weekends expected",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-holidays-2027-possible-6-day-break-multiple-long-weekends-expected",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-11T02:54:26.475Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5bb665ab7a23bf1360b8b2861404ea3ee2120e1d18198f3ccf6bccd5c5b2a5c9",
+      "title": "UAE holidays 2027: Possible 6-day break, multiple long weekends expected",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-holidays-2027-possible-6-day-break-multiple-long-weekends-expected",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-11T02:54:28.544Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

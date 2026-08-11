@@ -25757,6 +25757,24 @@
       "processedDate": "2026-08-11T13:01:07.818Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "36dae15dee94de9a9a550ecc3e11e3313b1bc1af56e7b560f47f2597a1582ea9",
+      "title": "Dubai Police urges motorists to use flexible payment plans for traffic fines",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-flexible-payment-options-traffic-fines",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-11T13:46:04.170Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "36dae15dee94de9a9a550ecc3e11e3313b1bc1af56e7b560f47f2597a1582ea9",
+      "title": "Dubai Police urges motorists to use flexible payment plans for traffic fines",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-flexible-payment-options-traffic-fines",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-11T13:46:06.733Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

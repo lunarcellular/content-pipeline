@@ -26099,6 +26099,15 @@
       "processedDate": "2026-08-12T19:01:15.190Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d616dd09df69cbb508935149b051c056179f3301beb4b479f85bca2c24c19166",
+      "title": "Zimbabwe ferry capsizes with 95 people on board",
+      "sourceUrl": "https://gulfnews.com/world/africa/zimbabwe-ferry-capsizes-with-95-people-on-board-1.500637893",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T23:05:08.127Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

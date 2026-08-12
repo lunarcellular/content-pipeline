@@ -25910,6 +25910,24 @@
       "processedDate": "2026-08-12T09:01:09.150Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4d6ca27d11158ea3e1f1f83817ea3dd2ec3b26f5068494e95656285a49f52dab",
+      "title": "Inside Tata Sons power struggle:  Why N Chandrasekaran’s third term as chairman collapsed",
+      "sourceUrl": "https://gulfnews.com/business/markets/inside-tata-sons-power-struggle-why-n-chandrasekarans-third-term-as-chairman-collapsed-1.500638348",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T09:15:57.831Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "efe5d79a8e7f45518b7ba4b991bcb79b3ab1ad10408a7d9e7742008d2050aab3",
+      "title": "Sharjah Ruler approves 470 scholarships globally for Al Qasimia University",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-ruler-approves-scholarships-for-al-qasimia-university",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-12T09:15:59.790Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

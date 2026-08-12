@@ -25802,6 +25802,42 @@
       "processedDate": "2026-08-11T21:54:59.024Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "be211c78d65e18f1304378d1520b2bfeaa9063cbdb1291ae92cbc67b67b2da69",
+      "title": "Total solar eclipse: Where it will be visible and how long it lasts",
+      "sourceUrl": "https://gulfnews.com/world/total-solar-eclipse-where-it-will-be-visible-and-how-long-it-lasts-1.500637973",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T02:25:01.794Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2449dc37b1329cf4396beb42c6fc535b6873a7686ca40556d0e1c82a33302aeb",
+      "title": "Car bomb kills Haftar intel chief in eastern Libya",
+      "sourceUrl": "https://gulfnews.com/world/africa/car-bomb-kills-haftar-intel-chief-in-eastern-libya-2-1.500637944",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T02:25:03.759Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "417f22b247fc1bed3b6c23512cd85245c501e844e75113153e14c53946ba0e88",
+      "title": "A dissident's story: How Assad’s cousin Najib inflicted violence before revolt that led to death sentence",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/12/a-dissidents-story-how-assads-cousin-najib-inflicted-violence-before-revolt-that-led-to-death-sentence/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-12T02:25:05.708Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "efe75b9addb4d3833bb1cd7b26e051e22021178fb8de77e8d7028659b1f864ee",
+      "title": "UAE school calendar 2026-27: Term dates and holidays",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-school-calendar-2026-27-term-dates-and-holidays-1.500637553",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T02:25:38.314Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-12-uae-school-calendar-2026-27.md"
     }
   ]
 }

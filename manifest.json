@@ -25838,6 +25838,24 @@
       "processedDate": "2026-08-12T02:25:38.314Z",
       "relevant": true,
       "outputFile": "output/2026-08-12-uae-school-calendar-2026-27.md"
+    },
+    {
+      "urlHash": "53f637f1a5f99ab6a7a24fa3c12beb23bd90758dd61bb9807d8d0f019668cdee",
+      "title": "Drone strikes hit Libya's key western oil town as a car bomb kills an officer in the east",
+      "sourceUrl": "https://gulfnews.com/world/africa/drone-strikes-hit-libyas-key-western-oil-town-as-a-car-bomb-kills-an-officer-in-the-east-1.500637208",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T03:01:04.925Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9c72f0eed59aa90ccd4e2851586d49fbc132d06bca269821e31c355d8e9fcbcc",
+      "title": "UAE school calendar 2026-27: Term dates and holidays - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2R4NzNzZ3hYY21jUkJ1ZlFXY2NIa0YtaWxSLXdMZ2RuSnFobXRaV3BrMW5fYThFMG1IdGViMlVndGhGOTFOSHg0QWtuVXZMamo4MTNHRzFSaTJaS05wLVg5OUh6ZjRzdjZaN290UUlPODhMZ05SaHRhank1aE9ZUjA0TmZ1Vkk1VmpWRzRNaDBVS1VKd2NRQXJwcmlPSmVmSTF6UzZfM3hmTmdo0gG_AUFVX3lxTE11b2hBTWF0VVN5Y2pyRTBpVG94YjVaSmJ4cUMtTDIwak56cU9YWUJtVHh5X2hLM0RQU1JId0FwVmR2d1ZHNElDaHQtSnY4WVk3aDltdkhueTlYenVqaHlfc1NiX20yRG9UY1IyRWNNWTNpbE9DTGxaUTRfd2NhSHNKX0c1YnJJQzFPNFRUS3p0eXhsTkRhM3p3M1d2TURRajQ3bkRIZkJFMEJ3am5QR2xwRVNaOWJRWjFUOUVXNURJ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-12T03:01:26.044Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

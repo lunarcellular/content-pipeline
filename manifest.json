@@ -26000,6 +26000,24 @@
       "processedDate": "2026-08-12T12:01:12.539Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1e05f0d904dbd10140bb9e99c3fe9a170899decc8423da6fa17af6ce79ffa649",
+      "title": "Bahrain hands life terms to 2 for spying, jails 3 for allegedly supporting Iran",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/bahrain-life-sentence-spying-for-iran",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-12T12:15:52.315Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "52fda967edf260fe59578061bbeeabfca89f33a4612fa76d5b5720bb9047b31a",
+      "title": "Kuwait arrests 2 minors for learning how to make explosives, communicating with Daesh",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/kuwait-arrests-minors-learning-how-to-make-explosives-daesh",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-12T12:15:55.039Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

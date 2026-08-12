@@ -25856,6 +25856,15 @@
       "processedDate": "2026-08-12T03:01:26.044Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "26f147dca9e6c43a65bf7334bf575897c35e12a9852b9a574680b835fa82c360",
+      "title": "Back to school in UAE? Five apps every university student should download",
+      "sourceUrl": "https://gulfnews.com/lifestyle/back-to-school-in-uae-five-apps-every-university-student-should-download-1.500637427",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T04:01:06.467Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

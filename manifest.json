@@ -25964,6 +25964,15 @@
       "processedDate": "2026-08-12T10:31:03.750Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a2fc54d6bc27332b387d54acb6b73e9d3f56a7631c38a34fd2f924fa78fc3821",
+      "title": "Drone strike cuts power near Libya's Zawiya after electricity station destroyed",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/12/drone-strike-cuts-power-near-libyas-zawiya-after-electricity-station-destroyed/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-12T11:01:03.801Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

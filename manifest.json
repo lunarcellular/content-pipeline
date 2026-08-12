@@ -26090,6 +26090,15 @@
       "processedDate": "2026-08-12T18:01:09.450Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d93961a14f822fc4bb89efb2c4107dfa10493e15bcecd8a9f4bfa9632c6dbb53",
+      "title": "Watch: Total solar eclipse visible in Spain",
+      "sourceUrl": "https://gulfnews.com/world/europe/start-of-partial-eclipse-in-several-regions-of-spain-2-1.500637970",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-12T19:01:15.190Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

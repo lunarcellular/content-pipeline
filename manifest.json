@@ -26036,6 +26036,24 @@
       "processedDate": "2026-08-12T13:01:09.819Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "79634825c61b857ecc7e4a9e791b26885e345e9659855779ea6917eb9b7136e3",
+      "title": "Dubai startup dataHabibi launches AI platform for property intelligence",
+      "sourceUrl": "https://www.khaleejtimes.com/business/property/dubai-startup-datahabibi-launches-ai-platform-for-property-intelligence",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-12T13:31:00.366Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cae76b765cd079ad895ac5283f415229f3f2056234fcda8fe5db2b5d2eb60885",
+      "title": "Has Anthropic's new watermarking feature opened up another can of AI worms?",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/08/12/has-anthropics-new-watermarking-feature-opened-up-another-can-of-ai-worms/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-12T13:31:02.404Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

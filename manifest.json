@@ -25865,6 +25865,15 @@
       "processedDate": "2026-08-12T04:01:06.467Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "abc218205f1a510f8ec26c6cbdeda3e89ffd70bb9b260fcd2f7ef9e31188affb",
+      "title": "Libya's state power company says attack on Zawiya substation causes major outage",
+      "sourceUrl": "https://www.khaleejtimes.com/world/libya-state-power-company-attack-zawiya-substation-major-outage",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-12T05:59:07.151Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

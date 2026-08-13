@@ -26387,6 +26387,33 @@
       "processedDate": "2026-08-13T14:46:01.379Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "789e14d78107f302f15b0e91baa8cf0a66b0c6f088aa1f8f9a43ca4e4896591b",
+      "title": "UAE schools celebrate record A-level success and 100% pass rates after conflict-driven exam cancellations - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yVzA3UnpQNE9zejRGWlVKU0RTb3daUWg4cFlFbThnUFN4M0xqOC1ONFNiSDh2MVdMajJJSTd2dXdmUzRlTkQ0MzdKWXJEOG10TFA5U25vMG5OcWZKZHVta3pPdlJmY1JxZmxfa3d6TWhmNTJ0RnNoeXBpb9IBjgFBVV95cUxQU21BMS1UWlZ0LWpLb0c2WjR2SlRLSGtnaVEyN3c5UFVFdzNPbWNqNjNPejhlbmJaOXdMbGxyMTZ3SlpDelo0S3A5c3loRmNaY1BFbXFmNmkwQ2NDWWN5XzlsWndJN0g4TXk5MnFyTzR5bzNCcG8yY0V4YXVuaWp4WWZBRVRIaUxZTFFNUVp3?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-08-13T18:31:00.431Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a26db5e261a8fdf3bf9039fb3d17d3525ef1d53178202cad3f9dc141fa533bd4",
+      "title": "Sheikh Mansour's son among top A-Level achievers in UAE - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3FFUEhZRkdjaXZUekJpTjRfT3hGNjFzeF9Qb0ZsRkRnNWNaM1lZVld6MFE2OHFJQ0NqVHN3UHJhbXdVbTZLcHF0dWVmSEZPRGhQQVY5bWJCMWRnb0dteDlaWVJmTHp0dDVxTGdhbEJyTXhXel9VNVZ0UUZBRUZldGdGcGJhckU4OW5uaFQ3RUxSZVdaZzB6Z3RWSFJOVDZPM3M1blhwSDVJRlU3S2pFTFpqRdIBuwFBVV95cUxOZ0ktOG01SGo1TS1wMTQyTFRWV1JhcFlqWWxmY1B2SDRzcVZ1UThaUlR4QTctNTZraDVhYmp1LTVWaVBPR2k4MklQRlhtWTE5bHpKeS1Zc1IwQW1oYjkzM2ZUREw0ZUd1SlZtay1YWVlqS3E3VFlPT29sci05T0JRZHNuT1VpX2R5cGJJRzRwZHMzVWpjU3VuX3cxcjF3ajJscDNxTVZONkt3U0V2MjFhc1hGNEg1LXZwbnNv?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-08-13T18:31:04.871Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "546590bfa65b58340390dadebf37c5bf708c6c2b46f5b864084b7fd0d2936fbd",
+      "title": "UAE schools reveal changes as new age cut-off takes effect this year - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZjNLbklXX29Td095TUNRandyWEpqZ2h5VEt4YnpQUmlWQzdDOHB6Z1JrS0trdHZFeWE1VENDQ0ZxUmJCd0FMN1FTcjV4SXN6UnFHZ3VlOWE4SF9XcVExZ0gwMVpfa2tISlhwMllOd0U5S0R1a0hsN1E5b2ZTWjMxUW9Qa1k0VkxFM2xKTmMtUUU3QdIBmgFBVV95cUxNbHR4YTNfQW5PYVVNWklaZWxtQUEtQW1hSHRFeGRaa0RwQklyWGZqQXNPY2dFZGRNaXprd0FZWGdyUFhGaTViclEtZFlsYm0zMk9NZTRaLXp6MHBNN0dZM25zMjFTTXV5cEZkRWlkeTFIU3ozakNuVHN3S3NEX0FTN2s5b1BnVFZXTGNyTUlRMjkzblduTktObV93?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-08-13T18:31:34.969Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-13-new-age-cut-off-school-admissions-dubai.md"
     }
   ]
 }

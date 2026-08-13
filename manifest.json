@@ -26351,6 +26351,24 @@
       "processedDate": "2026-08-13T13:01:17.111Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bbd1f7b8d81d8a4741bfede88daaf1d4706f13e217ae059c29578203e2273c7e",
+      "title": "UAE students can meet global universities at education expo",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-students-can-meet-global-universities-at-education-expo-1.500639923",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-13T13:15:58.947Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "eaecf259e98ef5e8eea0f33ee301d6da272db43698bff0c3efe3cc40b4adaf57",
+      "title": "Emirati fighter Zamzam Al Hammadi back in the gym determined to improve on her PFL debut",
+      "sourceUrl": "https://www.thenationalnews.com/sport/combat-sports/2026/08/13/emirati-fighter-zamzam-al-hammadi-back-in-the-gym-determined-to-improve-on-her-pfl-debut/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-13T13:16:00.974Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

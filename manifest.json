@@ -26333,6 +26333,15 @@
       "processedDate": "2026-08-13T11:15:55.233Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "48f21608bf69250f0a65b7d4cc5755b6834c645af7a1f72ed9ce03b6b5b0fbe5",
+      "title": "Resilience, ambition and commitment: UAE class of 2026 celebrates outstanding A-Level results",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/13/resilience-ambition-and-commitment-uae-class-of-2026-celebrate-outstanding-a-level-results/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-13T12:16:07.212Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

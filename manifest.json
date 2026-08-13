@@ -26198,6 +26198,24 @@
       "processedDate": "2026-08-13T04:31:04.238Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b96aa765618152cbc81eeae89f1a24c3db877f3f8693c824cac9dca5e198b898",
+      "title": "Rihanna returns to childhood street in Barbados with her children",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/rihanna-childhood-street-barbados-children-rihanna-drive",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-13T06:07:03.281Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8301f7a4812a6eeb605cf80ff24d7f71b15a4293e42ec2a5c9bee3558b997dd4",
+      "title": "UAE's du joins MSCI Emerging Markets Index, boosting investor visibility",
+      "sourceUrl": "https://www.khaleejtimes.com/business/uaes-du-joins-msci-emerging-markets-index-boosting-investor-visibility",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-13T06:07:05.529Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

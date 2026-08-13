@@ -26108,6 +26108,51 @@
       "processedDate": "2026-08-12T23:05:08.127Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "71301d06662508d1ecca8dc65b995b2a7d9080fe7f8329f7163c9c9d4e36395d",
+      "title": "When home is suddenly somewhere else: Helping children find belonging after moving to the UAE",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/when-home-is-suddenly-somewhere-else-helping-children-find-belonging-after-moving-to-the-uae-1.500638652",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-13T02:39:46.827Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "20cf4671d8fddc4bd876feb0ce449a548fbe1b67dc3e682622318614611148af",
+      "title": "Tributes pour in for Indian expat student in UAE who died in Tamil Nadu after rare cancer battle",
+      "sourceUrl": "https://gulfnews.com/uae/tributes-pour-in-for-indian-expat-student-in-uae-who-died-in-tamil-nadu-after-rare-cancer-battle-1.500639132",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-13T02:39:48.700Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2fed2c3a8c41560234704c612465c627e498ef310f4f54bbb66b1f60b4886fdd",
+      "title": "New UAE music fees: Businesses to pay from Dh1,500 to Dh50,000 a year",
+      "sourceUrl": "https://www.khaleejtimes.com/business/new-uae-music-fees-businesses-to-pay-from-dh1500-to-dh50000-a-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-13T02:39:52.478Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dadc29de7fed855ee900c5628a6c3cdfccd6690e6f5237375310451ae226c86a",
+      "title": "UAE schools reveal changes as new age cut-off takes effect this year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-schools-changes-new-age-cut-off",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-13T02:40:42.170Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-13-new-age-cut-off-uae-school-admissions.md"
+    },
+    {
+      "urlHash": "dadc29de7fed855ee900c5628a6c3cdfccd6690e6f5237375310451ae226c86a",
+      "title": "UAE schools reveal changes as new age cut-off takes effect this year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-schools-changes-new-age-cut-off",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-13T02:40:42.170Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-13-new-age-cut-off-uae-school-admissions.md"
     }
   ]
 }

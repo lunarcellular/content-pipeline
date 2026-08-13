@@ -26315,6 +26315,15 @@
       "processedDate": "2026-08-13T10:38:34.988Z",
       "relevant": true,
       "outputFile": "output/2026-08-13-uae-a-level-results-2026.md"
+    },
+    {
+      "urlHash": "3d9fdb18721e880a13c5c29be4a16243b8383ca8535a488ab12a9b88b23fa9c5",
+      "title": "UAE schools celebrate record A-level success and 100% pass rates after conflict-driven exam cancellations",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-a-level-results-2026-1.500639664",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-13T11:01:06.893Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

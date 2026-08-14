@@ -26486,6 +26486,24 @@
       "processedDate": "2026-08-14T03:16:07.905Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f9b54a0069d13ed94303c8327fd4fa431da03f4dfdb7c3974d3fd87cfc295d46",
+      "title": "School memories from a strict convent childhood",
+      "sourceUrl": "https://gulfnews.com/friday/lifetstyle/school-memories-from-a-strict-convent-childhood-1.500639771",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T03:30:58.160Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "975d97f71b2e811ae9caecdfe35870127b856ba1176950d5f2f8869922a9cac8",
+      "title": "AI in schools brings back pen and paper",
+      "sourceUrl": "https://gulfnews.com/friday/lifetstyle/ai-in-schools-brings-back-pen-and-paper-1.500639667",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T03:31:00.522Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

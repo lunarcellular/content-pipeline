@@ -26594,6 +26594,33 @@
       "processedDate": "2026-08-14T11:31:06.354Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "03c5b0690be011a376e99fa8a20c89c425a33f8905c831f01e537767142784c3",
+      "title": "Dubai Police warn parents over hidden risks in children’s online games",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-police-warn-parents-over-hidden-risks-in-childrens-online-games-1.500641003",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T11:45:50.836Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dfd6b2a33b1343bb0da213a84c179a7af4fd509772b4c28ed1ef1adb148a235e",
+      "title": "Shoemart launches third annual Back-to-School Scholarship Campaign to support UAE students and families - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWXU5ZHgwZHh4bkFDS2RlQ0FmOGNFcUlfWC1xZHFlZzhLbEx2ZEJrMWJ2RXNUT0pGM1VmZ1BHQjYwcm5tU2JKaWNMMi0zVUdFZDhXaWN6VnRwMUpHODhFQ1paTmdwWjUxMElxWHlDODNaeDA0SWtjZkVHTm51cHhieHRJMHRpcFB0d29uMGlMZHpBR2thMWZ2ZkdNdG5uSHAwbXdGQXY4UmxRaHl0b2U1SHgxQksyQ2N4b1FTbk9JTWVZQ3UxTDZ6MHd4LWV3eEtMdGpFT0dLQVYxeEXSAeMBQVVfeXFMTm5nS1QwQ0dhSFhSSTI5NUtwWlNnYWFKSEdnS3d2czcyLURyWElZQnZIVVBtSDhzb3Z4bFVSVjQ4ZVhGSUtWMUdJeWhHTGt5ZWs4NDZJM2U3Qng1aHg1T3FBY0x6TGllSWF4bXNKNW9EM0lNRDJONTE2M0NiVmJDT3ZMNnVNVXdRN0xWT0VqUUd3Z0ZjMjZia2FQTXNNZzg0eGJNQnUzUW0xdF9KN1FsOUpHTFZSc2NVT3pRamltSFJaV2owZjVTbFJOVVFvUVlmX3hUdDZzU0hFZkktcHN5b3BjVG8?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-14T11:45:53.113Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b848905bf2d54a1754499ff193f95212c05379e0a376fc74d522389dc1ff41c3",
+      "title": "Iran-aligned Iraq militia warns government of 'internal strife' if forcibly disarmed ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/14/iran-aligned-iraq-militia-warns-government-of-internal-strife-if-forcibly-disarmed/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-14T11:45:54.962Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

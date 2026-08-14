@@ -26423,6 +26423,51 @@
       "processedDate": "2026-08-13T21:52:35.247Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b274f92327fbc5f74fba46070b806a4550633416602a0fc57e0d1769a835322b",
+      "title": "Young people want to create, contribute and be heard",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/young-people-want-to-create-contribute-and-be-heard-1.500640036",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T02:24:49.768Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "83705db6dd1fba51494fcde44bed5bc056a9257a7a69d28b02e6fadd55eef6fc",
+      "title": "Back to school: Which UAE banks let parents pay fees in instalments?",
+      "sourceUrl": "https://gulfnews.com/your-money/saving-investment/back-to-school-which-uae-banks-let-parents-pay-fees-in-instalments-1.500640244",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T02:24:51.779Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b27dcd4039dcb6c959b681deb57610e6dc8741f265dffa7e65d97940a9c97d7f",
+      "title": "Filipino teachers urge Marcos to build evacuation centers to avoid school disruptions",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/filipino-teachers-urge-marcos-to-build-evacuation-centers-to-avoid-school-disruptions",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-14T02:24:54.022Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ec90dc43c17bfe6da4dac8d1bd75a3abf5b643578cfe4935ec99399ddcb8f3d4",
+      "title": "UAE schools to reopen after 3-day weekend: When is the next holiday?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-2026-27-academic-year-schools-key-dates-holidays",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-14T02:24:56.228Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ec90dc43c17bfe6da4dac8d1bd75a3abf5b643578cfe4935ec99399ddcb8f3d4",
+      "title": "UAE schools to reopen after 3-day weekend: When is the next holiday?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-2026-27-academic-year-schools-key-dates-holidays",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-14T02:24:58.415Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

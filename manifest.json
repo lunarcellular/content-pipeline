@@ -26504,6 +26504,24 @@
       "processedDate": "2026-08-14T03:31:00.522Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "498d29bdcc4ca1a9f0bbf5329626b9b913f3b4630187171c0a1e4eff2bf4c022",
+      "title": "Amanat H1 profit rises 46% to Dh153.3 million on higher patient volumes, student enrolments\n",
+      "sourceUrl": "https://www.khaleejtimes.com/business/finance/amanat-h1-profit-rises-46-to-dh1533-million-on-higher-patient-volumes-student-enrolments",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-14T07:30:59.984Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "27175bc20ad719403b90cbee45232d9a75473742262d5c831c9076bf8ef203ad",
+      "title": "New UAE school age cut-off takes effect this year",
+      "sourceUrl": "https://www.khaleejtimes.com/videos/new-uae-school-age-cut-off-takes-effect-this-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-14T07:31:13.417Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

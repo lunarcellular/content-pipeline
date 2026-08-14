@@ -26522,6 +26522,33 @@
       "processedDate": "2026-08-14T07:31:13.417Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "90e28a7a5bb6b972103ddc49e12ee084946a36e284b2906f46aa1ea6800af3d3",
+      "title": "Al Ansari Exchange helps drive financial inclusion through trust, innovation and accessibility",
+      "sourceUrl": "https://gulfnews.com/gn-focus/al-ansari-exchange-helps-drive-financial-inclusion-through-trust-innovation-and-accessibility-1.500640757",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T09:01:15.324Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d529ed963a2d775c3df9e95b359e3463de649680e0f5f10a5b80819000946e60",
+      "title": "Abu Dhabi doctors save 13-month-old child with rare immune disorder",
+      "sourceUrl": "https://gulfnews.com/uae/health/abu-dhabi-doctors-save-13-month-old-child-with-rare-immune-disorder-1.500640773",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-14T09:01:17.772Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4c480ccdc340bd4d3568779caf4dac333a02980db662957753665102a7566c3c",
+      "title": "Shoemart launches third annual Back-to-School Scholarship Campaign to support UAE students and families",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/shoemart-launches-third-annual-back-to-school-scholarship-campaign-to-support-uae-students-and-families",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-14T09:01:19.954Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

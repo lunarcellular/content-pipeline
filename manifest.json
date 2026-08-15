@@ -26747,6 +26747,15 @@
       "processedDate": "2026-08-15T16:03:16.083Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a4d6913e7b1a725deee3ba23f66e444d971751bf986c6e25c5a500567181b034",
+      "title": "11 killed by Israeli airstrikes on Lebanon, including 3 children",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/lebanon-11-dead-israeli-strikes-hezbollah",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-15T17:58:27.425Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

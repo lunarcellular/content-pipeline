@@ -26792,6 +26792,15 @@
       "processedDate": "2026-08-16T06:31:00.588Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "027be10104f3a76545b5c2f3109fc8f44f505e42697d71e7792732d5300097bf",
+      "title": "UAE fog warning: Speed limits cut to 80kph as visibility drops below 1km",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/16/uae-fog-warning-speed-limits-cut-to-80kph-as-visibility-drops-below-1km/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-16T07:31:04.011Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

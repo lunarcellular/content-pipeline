@@ -27017,6 +27017,33 @@
       "processedDate": "2026-08-17T10:15:56.065Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e890f9b707ae53e1ed53076913dea3275952f721fd775714befb9600b5fa1967",
+      "title": "Education strengthens ties between Hainan Province and the UAE",
+      "sourceUrl": "https://gulfnews.com/gn-focus/education-strengthens-ties-between-hainan-province-and-the-uae-1.500643403",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-17T10:30:58.664Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2459d6709a9e47f16275378d5dc7b8bd4a05b4491c4230619dc2420c9ac28518",
+      "title": "VCU Arts Qatar stages collateral exhibition during the Venice Biennale exploring the thresholds of perception ",
+      "sourceUrl": "https://gulfnews.com/the-kurator/life/vcu-arts-qatar-stages-collateral-exhibition-during-the-venice-biennale-exploring-the-thresholds-of-perception-1.500643536",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-17T10:31:00.714Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a993495681b620edf62a4a95a3afdb2f4883bfc4a92f114ae59d5df1f2de5ec8",
+      "title": "Ministry of Higher Education automatically recognises qualifications of graduates from 41 universities across UAE",
+      "sourceUrl": "https://gulfnews.com/uae/education/ministry-of-higher-education-automatically-recognises-qualifications-of-graduates-from-41-universities-across-uae-1.500643475",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-17T10:31:02.989Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

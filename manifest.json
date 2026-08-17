@@ -26990,6 +26990,24 @@
       "processedDate": "2026-08-17T08:15:49.386Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "df2fc9076368982f95d9b08b220b35aaec852423087dd1e62a979a57c42b1eed",
+      "title": "Techie Tonic: AI-generated content may soon carry invisible watermarks",
+      "sourceUrl": "https://gulfnews.com/technology/techie-tonic-ai-generated-content-may-soon-carry-invisible-watermarks-1.500643490",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-17T09:46:00.301Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bc47459e226c60d96ea45cde0140ed7c091b88d941f53ae659eea0caa85cb404",
+      "title": "Indonesia’s 81st Independence Day celebrated in Abu Dhabi with vibrant cultural display",
+      "sourceUrl": "https://gulfnews.com/uae/people/indonesias-81st-independence-day-celebrated-in-abu-dhabi-with-vibrant-cultural-display-1.500643482",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-17T09:46:02.195Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -27152,6 +27152,33 @@
       "processedDate": "2026-08-17T20:01:43.135Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0012492b6cfe935d901470d41f7fd871cd2d2178a0159056d076fb3cc52b49d9",
+      "title": "Starting kindergarten in the UAE? Here’s what parents need to know about vaccines",
+      "sourceUrl": "https://gulfnews.com/uae/health/starting-kindergarten-in-the-uae-heres-what-parents-need-to-know-about-vaccines-1.500644162",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T03:00:48.582Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "50dcb090b25d8191ee4195395e7f3ca4a936021f4ae43da2f15995f4869cccd1",
+      "title": "Back to school in UAE: 10 traffic rules to know as fines reach up to Dh3,000",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/back-to-school-10-traffic-rules-fines-up-to-dh3000",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-18T03:00:50.756Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1d12785745f890b50ffc1ca446f7c01836da48899fe6d00695825d6a486953b5",
+      "title": "Back-to-school rush: Are UAE parents packing too much into the final weeks of summer?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/back-to-school-rush-uae-parents-students-final-weeks-of-summer",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-18T03:00:52.990Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

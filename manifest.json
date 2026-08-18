@@ -27395,6 +27395,24 @@
       "processedDate": "2026-08-18T09:15:49.300Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "58469880bb265975ade2ee31383382e5d5c4a459f888d7c078142ba52a53bceb",
+      "title": "Israeli warplanes strike airfield runway in Syria's Idlib, state TV reports",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/18/israeli-warplanes-strike-airfield-runway-in-syrias-idlib-state-tv-reports/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-18T09:31:03.159Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3b0e9956dea10c54ce82792cae0c8b31c3f15b2e38c7128f30deaa8f350b0332",
+      "title": "Libya needs up to $40 billion to develop its oil and gas sector",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/08/18/libya-needs-up-to-40-billion-to-develop-its-oil-and-gas-sector/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-18T09:31:05.914Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

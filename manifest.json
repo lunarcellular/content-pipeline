@@ -27440,6 +27440,24 @@
       "processedDate": "2026-08-18T10:04:06.503Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a53434b329a55e2c9c14a893c3d8cd2e67885baffd8390fdd7a289f6271f25ab",
+      "title": "'Set an example at home': UAE doctors share ways to reverse teens' insulin resistance",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/uae-doctors-insulin-resistence-prediabetes-warnings-signs-teenagers",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T11:01:48.444Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3e714b5f391ba236d65bf4ae1d39502959e62cbeba3936b928fa065f2950ffbf",
+      "title": "Iran war latest: Ghalibaf says Strait of Hormuz to stay shut until US meets terms",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/18/live-kushner-us-iran-deal/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-18T11:01:50.661Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

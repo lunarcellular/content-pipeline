@@ -27350,6 +27350,24 @@
       "processedDate": "2026-08-18T07:45:50.666Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ffafdb1538eb11aeb87d415e75be3bfc6bbda2b49aa04bc4f9d4c2e5ed96ea21",
+      "title": "Two students killed in shooting at Philippine school in Zamboanga",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/two-students-killed-in-shooting-at-philippine-school-in-zamboanga-1.500644406",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T07:55:26.541Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b8dcbf7c4cebcfe2feef791815363eaf8e606b5a4984bc98d739e82fdeb9f3b4",
+      "title": "Manila floods again: Billions of pesos for flood control, yet Metro Manila is still drowning — 7 possible solutions",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/manila-floods-again-billions-of-pesos-for-flood-control-yet-metro-manila-is-still-drowning-7-possible-solutions-1.500644345",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T07:55:28.546Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

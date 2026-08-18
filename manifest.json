@@ -27521,6 +27521,15 @@
       "processedDate": "2026-08-18T13:01:09.254Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "fd46f091016646839e963ac49920045aa6e4362fb0c8972ee7800506f8aa0b0d",
+      "title": "UAE announces 2026-2027 university academic calendar",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-announces-2026-2027-university-academic-calendar-1.500644759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T13:30:59.900Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

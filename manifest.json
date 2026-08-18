@@ -27242,6 +27242,33 @@
       "processedDate": "2026-08-18T06:30:59.308Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e433b9ed0082f8cd8caf7f9cae9d5783938f2a963c2fe2e399331b1645a491b1",
+      "title": "Tupac Shakur murder trial: Prosecutors say Duane Davis orchestrated 1996 killing",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/tupac-shakur-murder-trial-duane-keffe-davis-opening-statements",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T06:45:54.047Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "da14fded505f448d85ac9f45ced4d3bd1b1d5aea2ecd9eb3262ea7651041c5f8",
+      "title": "Education 4.0: How policy and technology are reshaping learning and employability in India",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/education-40-how-policy-and-technology-are-reshaping-learning-and-employability-in-india",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T06:45:56.094Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0e5203a1c3772fb685fe0b1682f3692e68fc45f37ce54deea2a3fd1a85fbee28",
+      "title": "EaseMyTrip launches feature to track fare drop, return savings after booking",
+      "sourceUrl": "https://www.khaleejtimes.com/business/aviation/easemytrip-resave-feature-track-fare-drop-return-savings-booking",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T06:45:58.043Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

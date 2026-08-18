@@ -27494,6 +27494,24 @@
       "processedDate": "2026-08-18T12:14:48.416Z",
       "relevant": true,
       "outputFile": "output/2026-08-18-new-age-cut-off-rules-dubai-school-admissions.md"
+    },
+    {
+      "urlHash": "16eacc3091aa18f5713452334b06980ebe5d3ebbeaf00cc69678da32f4fc2ec0",
+      "title": "Galgotias University students are building apps that solve real problems, now featured by Apple",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/galgotias-university-students-are-building-apps-that-solve-real-problems-now-featured-by-apple-2-1.500644742",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T12:31:10.931Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ee216e881ad755f4c461a3b880fa461c4e67bd2af82327e9677151aba99e9eae",
+      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
+      "sourceUrl": "https://www.khaleejtimes.com/business/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T12:31:13.449Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

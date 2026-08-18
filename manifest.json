@@ -27476,6 +27476,24 @@
       "processedDate": "2026-08-18T11:43:00.325Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "024340505916a69384f8798b05935ca5a648d40cf37bb912d2a93c29fd4a0c7f",
+      "title": "Best kids' school shoes on Amazon.ae 2026: Durable pairs for busy school days",
+      "sourceUrl": "https://gulfnews.com/best-buys/best-kids-school-shoes-on-amazonae-2026-durable-pairs-for-busy-school-days-1.500639466",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T12:14:16.485Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cec767a9b7dcd001c2086352a60ffbd6a4263bd9cc379a77990d4229309cc31c",
+      "title": "UAE school age cut-off rules 2026-27: New KHDA rules explained",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-school-age-cut-off-rules-2026-27-new-khda-rules-explained-1.500644699",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-18T12:14:48.416Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-18-new-age-cut-off-rules-dubai-school-admissions.md"
     }
   ]
 }

@@ -27422,6 +27422,24 @@
       "processedDate": "2026-08-18T09:45:54.360Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1b5ff5c50f21ff6a4f3ae2a974ad7dfba1c05faa5a7ebf5fb895eeea24c935f6",
+      "title": "India's Jharkhand to cancel JPSC, JSSC, other TDPL exams after student protests",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-jharkhand-cancel-jpsc-jssc-other-tdpl-exams-protests",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T10:04:04.287Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "819876cf9770f61a64d476c78d520a3a6e1fdf777dcea23c7232af4d2d02d255",
+      "title": "UAE’s first AI-enabled toy marketplace wants to solve parents’ birthday gifting dilemma",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/uae-ai-toy-marketplace-birthday-gifts-parents",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-18T10:04:06.503Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -27665,6 +27665,69 @@
       "processedDate": "2026-08-19T04:15:53.773Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "068fc4f129d5192e35253339573441e47d028860411db1d7c0218caf16ee5742",
+      "title": "Tamil Nadu extends 365-day maternity leave to third child",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/tamil-nadu-extends-365-day-maternity-leave-to-third-child-1.500645504",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-19T10:46:58.669Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d52315068ce270753855fe35cee1c2f3e873710603dda4db2cac29cca9498fda",
+      "title": "Dubai steps up back-to-school checks with nearly 800 retail inspections",
+      "sourceUrl": "https://gulfnews.com/business/retail/dubai-steps-up-back-to-school-checks-with-nearly-800-retail-inspections-1.500645493",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-19T10:47:00.836Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0e86fb70be750e7cf8d2d946b6324784b56ffe39d7e00642b6624b2628dd608a",
+      "title": "Salman Khan joins AR Rahman's music video tribute to Asha Bhosle",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/salman-khan-shah-rukh-khan-ar-rahman-asha-bhosle-tribute",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-19T10:47:03.236Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5b9d6b392ff1c9f3a619a29b85aef351af157d890817d74a6abcc6eb5f6de102",
+      "title": "DIB launches its first youth council to develop the next generation of talent",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-launches-its-first-youth-council-to-develop-the-next-generation-of-talent",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-19T10:47:05.257Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9cbb53af564e671c605a2f7c3cbb2c3d3d5efd05795b9e7f59612e99a6b74610",
+      "title": "Niu Lai: How a 'terrible' Chinese animated film became an unlikely box-office hit",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/film-tv/2026/08/19/niu-lai-how-a-terrible-chinese-animated-film-became-an-unlikely-box-office-hit/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-19T10:47:07.346Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "757904d99a3cf38c3e8edf5c20bd151194e01bdb50313919283cd732b09ccff7",
+      "title": "Car emissions crackdown in London improves child health ",
+      "sourceUrl": "https://www.thenationalnews.com/health/2026/08/19/car-emissions-crackdown-in-london-improves-child-health/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-19T10:47:09.409Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8106d89d727a8880b82d7d25b7f33bd7d253ea02e5b52cc8f5d7413b5af1c58b",
+      "title": "Iran's Parliament Speaker Ghalibaf arrives in Iraq for three-day visit",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/19/irans-parliament-speaker-ghalibaf-arrives-in-iraq-for-three-day-visit/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-19T10:47:11.672Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

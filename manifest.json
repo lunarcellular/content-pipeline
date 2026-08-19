@@ -27620,6 +27620,33 @@
       "processedDate": "2026-08-19T03:02:28.589Z",
       "relevant": true,
       "outputFile": "output/2026-08-19-khda-school-fees-dubai.md"
+    },
+    {
+      "urlHash": "b2511d494cd4bfff985a8dbb6b2eb438da53f90b71f4b8e9dd5f5da0f118213b",
+      "title": "Zamboanga school shooting: Philippine lawmakers demand urgent probe into gun access",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippines-school-shooting-lawmakers-demand-probe-gun-access",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-19T03:16:07.583Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d8e18a3892cf55a0d4815b9eb93fd64963b1a49d0c4195707205f000fdff284c",
+      "title": "Staff admission enough to convict Philippine VP Duterte over P625 million fund misuse",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/staff-admission-enough-to-convict-philippine-vp-duterte-over-p625-million-fund-misuse",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-19T03:16:09.489Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dd83d4106ce984f3108f29785f56eb79aaec31a267aa6fdb9045b99fc4fd2b65",
+      "title": "Dubai Charity Association launches 2026 education support campaign for 15 countries - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEtSSVU0RG5pVUVwMDRHWmxIel9vU0dHa3VicGlPcV9qbzBkcUE5VWpLOU5XYmZWR0M1VDRFdF9UVEZ1anVrUG5MeEhkekdEQ3gtbUlwcEpWQVpCMjFZYTI3SnNWdDNUcklTc04tZmZGZmNMdHR1b2EzM3IwMURUd1BRbzlfVzF2aVl3aE1xRDU?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-08-19T03:16:11.571Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

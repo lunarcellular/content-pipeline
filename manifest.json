@@ -27773,6 +27773,15 @@
       "processedDate": "2026-08-19T14:45:36.695Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "36a00e1cb8040a2878cc9861eebcf2e0e4e59a6194881b89dd2adb61c836df81",
+      "title": "UAE gives Grade 11 and 12 pupils more choice with AI electives",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-gives-grade-11-and-12-pupils-more-choice-with-ai-electives-1.500645842",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-19T15:06:01.015Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-19-uae-education-reforms-elective-choices.md"
     }
   ]
 }

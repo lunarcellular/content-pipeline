@@ -28097,6 +28097,15 @@
       "processedDate": "2026-08-20T13:12:28.202Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5ccac296e79dd6dd65962c65d2684236a0817f5e3cdabd09ad500801fcaa69a3",
+      "title": "UAE GCSE results 2026: Students score straight 9s and record top grades despite regional disruption - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTk0wYXg4Qnd3cUdZYzc4cTk2RmNXTVZVeHBoOTFHcWdXZ0VOV21qZDF6OGFkWmdZTEF2Qk1xa01hNktsZ3dXUnJSWWliN3lMRDdUZUZjcEVhZFZEMlNSWWtmU2tVcHhJNnkzbW9rWlV5a3FWalJPeDRLUUhqaHFvRzFxY085dlNlZ2JkSEhUNjRYc0FkQVRlVC1CcTVvcGxqYTVhdHlraXEtb0V2cnFoVERkYzRVUWZ5bFRjVFFXZlUwdmVRbmt6OVNIV1FwdTlYU2dwVHR3aE5nMFFWWXfSAfABQVVfeXFMT3E0R2hZME5XN1NibGcwQ1M1QXBPMmE3ckc1TTZBOGo2Ynp6WkV5MFNnLVpGdGtINUNQeFZBelRTNFNsU3NhX3Z4LXYxTHhwUE9tWHdFX3pZbXJuYXFsM2x5MktJXzBvY0R2VmtDTXQ3MzdjV2o1VmxtaU52NnhQOXdIcXIwN3Jpa0pSSWJ2U3Q2am1xU2tZQ0w2dVltUzhhem5TTmVCVkplY0YxeTFzUUxOelZvaUR1Y3JKbHBjbXEzbEpnb3I3UUNhX2gyMmFNazJvVVpMMENudHRnbUs1SmE0Z21IS2xyUWNoOUdiajFV?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-20T14:16:34.998Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-20-uae-gcse-results-2026.md"
     }
   ]
 }

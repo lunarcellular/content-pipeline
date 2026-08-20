@@ -28016,6 +28016,24 @@
       "processedDate": "2026-08-20T10:30:54.852Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e173c3c7a580a96d43f302b02217f68856040a3978040343c529702d41389822",
+      "title": "Back-to-school: How social media and peer pressure shape what children want",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/uae-back-to-school-social-media-peer-pressure-children-materialism",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-20T10:50:32.659Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "082bbdde1329094f008bb3f6978f86943b85cd17767225dd7e1169e64143bc49",
+      "title": "Al Shibani's visit the first to Pakistan by Syrian foreign minister in 19 years",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/20/al-shibanis-visit-the-first-to-pakistan-by-syrian-foreign-minister-in-19-years/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-20T10:50:34.999Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -27827,6 +27827,69 @@
       "processedDate": "2026-08-20T01:37:10.262Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8737ee7e1d7664c25c79cfb74c217f5da835511504cd4cf870c2195598df92ca",
+      "title": "British-Palestinian parents, teenage daughter die in sea off UK coast",
+      "sourceUrl": "https://gulfnews.com/world/europe/british-palestinian-parents-teenage-daughter-die-in-sea-off-british-coast-1.500646194",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-20T02:43:54.261Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2c03613bf688ac00d97ab650da990120b042f655dc96d3b19f9df2f27c395b6f",
+      "title": "Riyadh airport begins ‘Silent Airport’ rollout to cut terminal announcements",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/riyadh-airport-begins-silent-airport-rollout-to-cut-terminal-announcements-1.500646202",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-20T02:43:56.500Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "01171a91b5108cb2408e199ea92c3a0b075c5cdbad22e749365560352a0b631d",
+      "title": "School starts in 10 days: Here’s what UAE parents can expect to spend",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/expected-spending-schools-uniforms-fees-extracurriculars-uae-students",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-20T02:43:59.237Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6ccbbc15003917bf7a09856cb8f911976c0955cc5ba7d91bf2c96e36994326e1",
+      "title": "Makeup, recycled bottles: What UAE students are adding to back-to-school shopping lists",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-back-to-school-students-shopping-lists-makeup-sustainable-products",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-20T02:44:01.451Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6ccbbc15003917bf7a09856cb8f911976c0955cc5ba7d91bf2c96e36994326e1",
+      "title": "Makeup, recycled bottles: What UAE students are adding to back-to-school shopping lists",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-back-to-school-students-shopping-lists-makeup-sustainable-products",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-20T02:44:03.410Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "01171a91b5108cb2408e199ea92c3a0b075c5cdbad22e749365560352a0b631d",
+      "title": "School starts in 10 days: Here’s what UAE parents can expect to spend",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/expected-spending-schools-uniforms-fees-extracurriculars-uae-students",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-20T02:44:06.055Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "30a639f76b4b456868c5c03cabd6b08af38ab0f82795dee9003c4bd8bdf7afa5",
+      "title": "School starts in 10 days: Here’s what UAE parents can expect to spend - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPem5XeFQtTngwcE56eUE2TEpaVjgzblRSTG5DT2duY3B4NmdVTXloX3V5REN3VVZTYXVJN3hLTmVSM1dnakRQQjkyalpLSWcwOGVWWHdCLUtkdzdJQWJjb3BIZl9ZcDFwVWN6TVc2RVZWN1FkeGs2N2k0Mmt3Vm45bUNsWjM4UFk1OUdRN3dMMlAyejM0RGtLaWd4WWtoSTlESUFwT01vN041SUlKSERyLXR1RDNxZzVWS2tDNHhRMNIBxwFBVV95cUxNMWMwSEgyWHphZmN3Vy0zNE1lZnJoaHhKcEN4eGg4Rzd1cF9VNm15OW1ZZ19SZXpjQzktd0w1MDJaeVhJY3pFRGphaGJWcEs4M1NfczdGWGRhWVpRTldneVBuVkp4cm5zejJpY3F3R1NLZEVzZnpnWlBNZFBJQ3NHM0szUEMzeFJTdFhaTzZqVjdtWFZ2c19jRk5za21yckNCRFNYajRkRDM0dURCVmtwcW1OU29KVXBDZGZORmVzRmVabXN4LVhz?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-08-20T02:44:08.491Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

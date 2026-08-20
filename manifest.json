@@ -28079,6 +28079,24 @@
       "processedDate": "2026-08-20T13:01:05.855Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "78a7b5348468bc02d04171559d7e197a7bce31d7920636ec249f1968592245a6",
+      "title": "'Business as usual': UAE schools to open as planned despite missile alerts",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/20/business-as-usual-uae-schools-to-open-as-planned-despite-missile-alerts/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-20T13:12:25.976Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8b035442f1af279e5eeb4a2573c4aca705c70c66595688e1246707e778d80d11",
+      "title": "Trump's threat of economic consequences: who will it affect and is it credible?",
+      "sourceUrl": "https://www.thenationalnews.com/business/economy/2026/08/20/trumps-threat-of-economic-consequences-who-will-it-affect-and-is-it-credible/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-20T13:12:28.202Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

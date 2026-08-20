@@ -27890,6 +27890,15 @@
       "processedDate": "2026-08-20T02:44:08.491Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bc5a4648e9bff3422e567874fd4d29f52aa917cf9a411726abda94685f48815a",
+      "title": "UAE weather: Fog reduces visibility; high of 39°C expected in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/august-20-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-20T03:15:56.900Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

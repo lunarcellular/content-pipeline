@@ -28547,6 +28547,24 @@
       "processedDate": "2026-08-21T14:07:14.794Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d349a5d42892584d31b52aa5171e37d2b0f7068395aac1988e93ee6bf4cdc481",
+      "title": "Back to school in Sharjah: More patrols, bus checks and faster emergency response",
+      "sourceUrl": "https://gulfnews.com/uae/education/back-to-school-in-sharjah-more-patrols-bus-checks-and-faster-emergency-response-1.500648115",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T14:45:52.041Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "595bfe794c2e025c513f5f96825102e3e2a38af28fb58f1b046c61efad3c7823",
+      "title": "Several wounded in sword attack at Swedish school, say authorities",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/sword-attack-at-swedish-school-injured",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T14:45:54.115Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

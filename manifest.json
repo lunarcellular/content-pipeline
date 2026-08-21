@@ -28385,6 +28385,24 @@
       "processedDate": "2026-08-21T11:06:23.647Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0925ff17616929de7bda9d68c852b75e8cbb72edf0a924a98d997030b67ee3e4",
+      "title": "Teacher finds gun in 14-year-old student’s bag after deadly Philippine school shootings",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/teacher-finds-gun-in-14-year-old-students-bag-after-deadly-philippine-school-shootings",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T12:14:55.607Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "48b51d0547e075f7da34ba7e5a603ce2154b931547af5852e2419e77742a9ec5",
+      "title": "Sharjah Police steps up readiness for new school year with traffic, safety measures",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-police-new-school-year-traffic-safety-measures",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-21T12:14:57.497Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

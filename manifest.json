@@ -28367,6 +28367,24 @@
       "processedDate": "2026-08-21T10:35:56.446Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e7b24ecaf6729c28eff4b97183493a22ebaac389aed34e9169062b18228fefaa",
+      "title": "du launches back-to-school offers with discounts of up to 50 per cent",
+      "sourceUrl": "https://gulfnews.com/uae/du-launches-back-to-school-offers-with-discounts-of-up-to-50-per-cent-1.500647931",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T11:06:21.126Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d90a6b0fbd581a74a1e6062e5e787077d18fef352f26aa56e0b2c681c7260e3e",
+      "title": "Trip Habibi Tourism LLC launches customised Dubai city tours",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/trip-habibi-tourism-llc-launches-customised-dubai-city-tours",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T11:06:23.647Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

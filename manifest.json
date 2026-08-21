@@ -28151,6 +28151,60 @@
       "processedDate": "2026-08-20T22:10:45.919Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "161bf6d05e1da6836210e3a0b75d6abfda2bc081be788da55c9d3678d4851def",
+      "title": "Ready for school: How UAE families prepare for the new academic year",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/ready-for-school-how-uae-families-prepare-for-the-new-academic-year-1.500647369",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T03:01:10.207Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "73852d9a1f4976040df9f56200f010d843fc78a27b18c7215ebd7163ce81bd4b",
+      "title": "UAE teens in their final school years: 'It's scary' — but dreams of fashion, football and astrophysics shine bright",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-teens-in-their-final-school-years-its-scary-but-dreams-of-fashion-football-and-astrophysics-shine-bright-1.500646694",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T03:01:12.378Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "65184261ff7ba0a6233eb4915452c111aeec3cbed7b2400a0800c4ba6c3d82de",
+      "title": "UAE schools brace for change as under-15 social media rules reshape classrooms",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-social-media-ban-students-children-mental-health-schools",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T03:01:15.275Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bd6e2e03d1dc563f1a13744c5c39b1e569e9906f5f5992fa90139394a68a3750",
+      "title": "UAE GCSE results 2026: Top achievers reveal how they handled exam disruption",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-gcse-results-2026-top-achievers-exam-disruption-manage",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T03:01:17.493Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "65184261ff7ba0a6233eb4915452c111aeec3cbed7b2400a0800c4ba6c3d82de",
+      "title": "UAE schools brace for change as under-15 social media rules reshape classrooms",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-social-media-ban-students-children-mental-health-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-21T03:01:20.860Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bd6e2e03d1dc563f1a13744c5c39b1e569e9906f5f5992fa90139394a68a3750",
+      "title": "UAE GCSE results 2026: Top achievers reveal how they handled exam disruption",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-gcse-results-2026-top-achievers-exam-disruption-manage",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-21T03:01:23.554Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

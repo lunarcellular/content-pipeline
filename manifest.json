@@ -28655,6 +28655,24 @@
       "processedDate": "2026-08-21T16:45:54.524Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f9fc422e96590602b65a26efbda1b4167f144296a748273b4396e3a2247a3fc4",
+      "title": "How a tribal chief's house built 120 years ago became a boutique hotel on Egypt's Red Sea",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/21/el-quseir-egypt-boutique-hotel-red-sea/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-21T18:05:45.793Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2cc6157f0b9275eb5d329bd8c0dd3a1ca8e4e2fe3f6e822652c3dde1bf2500f0",
+      "title": "Social media crowding out Arabic learning in UAE, study warns",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/21/learning-arabic-uae-social-media-english/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-21T18:05:47.920Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

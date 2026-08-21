@@ -28403,6 +28403,24 @@
       "processedDate": "2026-08-21T12:14:57.497Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9f0c423b1c230ba3b3b01e06f2e0af6ee68454c1b280f1f118141266a06b3f18",
+      "title": "UAE ministry announces new review fees for universities, vocational institutions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/ministry-new-review-fees-universities-vocational-institutions",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T13:01:01.582Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9f0c423b1c230ba3b3b01e06f2e0af6ee68454c1b280f1f118141266a06b3f18",
+      "title": "UAE ministry announces new review fees for universities, vocational institutions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/ministry-new-review-fees-universities-vocational-institutions",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-21T13:01:03.613Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -28268,6 +28268,24 @@
       "processedDate": "2026-08-21T08:15:54.425Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "73dc37a7409fdfb0ed5a1291555c048703b3231a56556cb5c5df5457738b02fb",
+      "title": "Ghalibaf says Iran must plan to overcome 'unjust sanctions'",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-iran-israel-lebanon-war-august-21-2026-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-21T08:30:59.685Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b4d2e016f0d052664d416d784a9f559a9b6f50a89fcd7c83b95aa0e3b59460b4",
+      "title": "Ajman Private Education Affairs Office, Etio to enhance education quality - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2c1R3Bmb1RqNlR2cldmdExXU1cwbTFoWmVEZWFhV0pxdXloMVJ1Rm1zR0dROXNCVGJrUUdDUEFNNzQ4dWpiSHBlbnA2cGJ3VEdudHN1NmhZWE84NnNuMmt4dGROYjdLM2NGa19vbjhBRkNfN21zRkJrNUdfQmxpYUh3LU9Lc1Nq?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-08-21T08:31:04.893Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

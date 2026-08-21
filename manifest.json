@@ -28538,6 +28538,15 @@
       "processedDate": "2026-08-21T14:01:38.243Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c343a7427db2b65ffd696c2950ff19617ed92bf06af59c65f3f4fe5a9b622fe8",
+      "title": "Several wounded in sword attack at Swedish school",
+      "sourceUrl": "https://gulfnews.com/world/europe/several-wounded-in-sword-attack-at-swedish-school-1.500648100",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T14:07:14.794Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -28286,6 +28286,33 @@
       "processedDate": "2026-08-21T08:31:04.893Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "4cafdda1fa6d9f0cfa97fa31e4b35019340f917ee5330a9d75fcc1bf1b688f56",
+      "title": "UAE approves new review fees for universities and technical education institutions",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-approves-new-review-fees-for-universities-and-technical-education-institutions-1.500647750",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T08:45:54.984Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dd4323ea68164ee80545a9e681539fa6a3dbff263a6ae907fdf44453e3d0c6c9",
+      "title": "14-year-old brings grandfather’s .357 revolver to school in Cebu",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/14-year-old-brings-grandfathers-357-revolver-to-school-in-cebu-1.500647752",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T08:45:57.301Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "328cec70459bf8b6fcbfe49c4b6b5e2ab7b506935954a53cc53ab2eb69eef289",
+      "title": "UAE sets stricter inspection rules for government schools before new academic year",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-sets-stricter-inspection-rules-for-government-schools-before-new-academic-year-1.500647781",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-21T08:46:29.612Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-21-stricter-inspection-rules-uae-schools.md"
     }
   ]
 }

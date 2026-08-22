@@ -28673,6 +28673,24 @@
       "processedDate": "2026-08-21T18:05:47.920Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b8748956d132f8b6a82447be8a194385345ff1d45dfde19cfe7ae0777e0db966",
+      "title": "Back-to-school UAE guide: How to choose the right laptops, tablets and headphones for your child",
+      "sourceUrl": "https://gulfnews.com/uae/back-to-school-uae-guide-how-to-choose-the-right-laptops-tablets-and-headphones-for-your-child-1.500647686",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-22T02:59:18.971Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1a1f06fed98ac502a96ae3f71ad9a331b59f6c6618ffa61148acf5d382dae0bc",
+      "title": "Philippines school violence: Educators reject Marcos government’s police-heavy response",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/philippines-school-violence-educators-reject-marcos-governments-police-heavy-response",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-22T02:59:20.825Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

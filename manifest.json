@@ -28700,6 +28700,33 @@
       "processedDate": "2026-08-22T04:01:01.622Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b2a0ea427f807633d32b5d1fe819b468d9791dfca8fc5c5064245d928faf7085",
+      "title": "Saudi students could lose school bus service for breaking safety rules",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/saudi-students-could-lose-school-bus-service-for-breaking-safety-rules-1.500648726",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-22T08:16:00.515Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ad3dd5416691a28efc801d323d053b35ed57f00118d24f726f283dd5a6e0a530",
+      "title": "For the first time, Saudi students get digital ID cards with QR codes",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/for-the-first-time-saudi-students-get-digital-id-cards-with-qr-codes-1.500648716",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-22T08:16:03.248Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8180c0898f5ed0e919c8a72b8d010e988575b5d4ad9705c440e960da24d843b6",
+      "title": "Philippines school violence: Educators reject Marcos government’s police-heavy response - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYXRLNzBnTzZsZFJ5VEhfeXhYX2MxcDBYQlRhLXVsalFDMlowc3lVT05iOGZieHllMUN2VnNBSU9VT0FzR3JpeWJncUNKcVpsdlNteDJmQ3dzOXlMNUY4Y0M1VkJKcTZ2RG9FUDFublVGdXNSOTNEXzFfbzVXYkVFNU1XSWhhSkZzYlRyYmI1MXlqZFF3V3dUQlNpUTNLS0NBR3JuUDlsSzNWdHlDQWVKSDVtWU13ZGJ4U2ttVjVIVkJlcTDSAcsBQVVfeXFMTVpXcjZLQXJwV1A2cmd2bkNnWERNaVp3Qk1mWWZ0UEY1Sk9aMGdObGFKZmctanV0MlVGN3NKUzl4QlA1SW11SGJVdk5hMV8tSDB4LWM1RHNCZXVZR0RrN0VGVUYteS1oN0d3ZlRWS3FleWV6WGVzbXBfUk9obnpBbnNvYTFzV3FUZ3VnbGVieVltT3lxSmlnc0lEQ3V0a183VVEyN1ZSdFNpanktNjF3dERscnNUQUZ1Ukphd3lsRFhweFFoSmtZcXdta3M?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-08-22T08:16:05.292Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

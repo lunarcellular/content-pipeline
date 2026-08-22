@@ -28736,6 +28736,24 @@
       "processedDate": "2026-08-22T08:45:49.663Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e83cc7d86fc227cfc80765ae083ad1c8b209dc294e18257b5e2ca5d12c00cf15",
+      "title": "UAE school reopening: Make the first day accident-free and get traffic points removed",
+      "sourceUrl": "https://gulfnews.com/uae/transport/uae-school-reopening-make-the-first-day-accident-free-and-get-traffic-points-removed-1.500648759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-22T09:01:04.481Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "51f1ab4a17a992286581d6253a69f95adf679113c2f1242c2b3324e1b1a52286",
+      "title": "Dubai airport back-to-school rush: 77 baggage screening machines deployed",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-airport-back-to-school-rush-77-baggage-screening-machines",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-22T09:01:06.897Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

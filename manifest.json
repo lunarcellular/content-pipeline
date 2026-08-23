@@ -28817,6 +28817,24 @@
       "processedDate": "2026-08-22T14:15:48.494Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1d3f3215b7b70c0eea05181a7158185e1b2761a2729554ef440f46e0cdf53fac",
+      "title": "UAE back-to-school deals: Up to Dh200,000 in scholarships, 80% off essentials",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-deals-dh200000-prizes-scholarships-80-percent-discount",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-23T02:51:10.973Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1d3f3215b7b70c0eea05181a7158185e1b2761a2729554ef440f46e0cdf53fac",
+      "title": "UAE back-to-school deals: Up to Dh200,000 in scholarships, 80% off essentials",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-deals-dh200000-prizes-scholarships-80-percent-discount",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-23T02:51:12.891Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

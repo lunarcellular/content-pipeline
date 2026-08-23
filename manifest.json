@@ -29087,6 +29087,24 @@
       "processedDate": "2026-08-23T12:45:50.024Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "653f2e0d9e0c63d18c9bf71f4ed868250c2a86d23882aa823e331a0b5d260ecc",
+      "title": "UAE launches hands-on training for women farmers in sustainable agriculture, beekeeping",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-programme-women-farmers-sustainable-farming-beekeeping",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-23T13:39:01.341Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "653f2e0d9e0c63d18c9bf71f4ed868250c2a86d23882aa823e331a0b5d260ecc",
+      "title": "UAE launches hands-on training for women farmers in sustainable agriculture, beekeeping",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-programme-women-farmers-sustainable-farming-beekeeping",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-23T13:39:03.303Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -29033,6 +29033,15 @@
       "processedDate": "2026-08-23T08:46:33.424Z",
       "relevant": true,
       "outputFile": "output/2026-08-23-uae-educators-specialised-training.md"
+    },
+    {
+      "urlHash": "01914349161dcb981240b6da2f6daa90c7a84af845d74a6fd536e5cbc0525de6",
+      "title": "Adnoc Distribution signs South Africa empowerment deal for Shell acquisition",
+      "sourceUrl": "https://www.khaleejtimes.com/business/adnoc-distribution-signs-south-africa-empowerment-deal-for-shell-acquisition",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-23T09:45:55.415Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

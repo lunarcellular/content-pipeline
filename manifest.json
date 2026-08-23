@@ -28925,6 +28925,24 @@
       "processedDate": "2026-08-23T07:31:05.550Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1f81f9bce698c023017397ce5f8257fd5d583325e28e10e9fc61a06c949c4893",
+      "title": "More than 27,000 Dubai private school teachers return to work on Monday",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/more-than-27000-dubai-private-school-teachers-return-to-work-on-monday-1.500649504",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-23T07:45:59.431Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "405f00023d372ad6a45d3ab98c99bc374e152f9bae8ed869ea527bc0cc5eed0a",
+      "title": "UAE sets new rules for students switching between general and advanced school tracks",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-sets-new-rules-for-students-switching-between-general-and-advanced-school-tracks-1.500649511",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-23T07:46:25.717Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-23-uae-student-transfers-school-tracks.md"
     }
   ]
 }

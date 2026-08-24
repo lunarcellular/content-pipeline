@@ -29321,6 +29321,24 @@
       "processedDate": "2026-08-24T11:01:15.198Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6b7e0e20bdc0f1301bbac66c346e78a817b7e8cee4caebf0ce74cb6a20516b76",
+      "title": "Sharjah Ruler approves 4,434 scholarships for Emirati students across 8 universities",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-ruler-4434-scholarships-students-8-universities",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-24T11:30:56.858Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6b7e0e20bdc0f1301bbac66c346e78a817b7e8cee4caebf0ce74cb6a20516b76",
+      "title": "Sharjah Ruler approves 4,434 scholarships for Emirati students across 8 universities",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-ruler-4434-scholarships-students-8-universities",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-24T11:31:00.676Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

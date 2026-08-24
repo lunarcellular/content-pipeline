@@ -29420,6 +29420,15 @@
       "processedDate": "2026-08-24T14:46:00.720Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "778791c58a11123af5d28b025b41f3e3d4d9743e838d51835674ebb7f742ec09",
+      "title": "Dubai expands school transport options, safety measures ahead of 2026-27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/dubai-expand-school-transport-options-safety-measures-2026-27-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-24T15:01:36.954Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-24-dubai-school-transport-safety-measures-2026-27.md"
     }
   ]
 }

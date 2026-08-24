@@ -29240,6 +29240,24 @@
       "processedDate": "2026-08-24T07:31:15.006Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2a291e46d0411e3b72da6c9eb158a65ec2604edaec46f83d41229b6bbdc61f19",
+      "title": "School fees can be paid in three to 10 instalments: Abu Dhabi Department of Education and Knowledge",
+      "sourceUrl": "https://gulfnews.com/uae/education/school-fees-can-be-paid-in-three-to-10-instalments-abu-dhabi-department-of-education-and-knowledge-1.500650287",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-24T07:46:56.910Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-24-abu-dhabi-school-fees-flexible-payment-options.md"
+    },
+    {
+      "urlHash": "06b553c2d5b0ab4a2d90162077c5ccee97d37409f0132b2588c9096071ab0086",
+      "title": "School fees can be paid in three to 10 instalments: Abu Dhabi Department of Education and Knowledge - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSXdGQ2Q1RVd2S0Q2ZGtDNGlFTHlXUS0zNWU0QjMtMXBOOTZISXJtTXZoQk1QYU9Bbi1nWWVsMXcyZGdHcHNFZGE3SU9qUkFCY01PRGF5ZGM1Mzl0RWUtZmRGcW1EeUdMNWhwY1d6WldSd1NEcmlLT0ZjcXlUOUhPaXlxNVJNLVJuWno2dGlDMDBkRmY5OG9Xd3ZhdTZxOU5OUkhueVA1WjcxU1B5R0xXYnp6cURVOUo3RVc5SnJpckxVNnBkLU1LVEtDTjhxQ1VJQ3lSY3pjSU1WcjBDWUHSAfABQVVfeXFMTWZEVk14eHBzbkJDTEtmUXZKT0ZiY2N1YmdGbW9pc3FDMnhVRk1iOEtDaER6UGg1Yk5EWFFYaDZZdFRjZzFwVm1SdDV3LWdVTXdwRWZQQlNlMVRISTkzTW5jWXBJa2VPcVdFdzgyb0hlOTk0YkNrSWt0REdmXzVOY2RuVUJ5UUQ5Z3NmQm5GQ2xqMXZxMEtsMFNFbjJRZmVXczQ4aGRHLXJXMnV4ZUZ3WnFvMGZFU2FDNVJYazVNTk83QTdFTXFQWXdDQzdjczI4WVEteDRFamlBOU0tYlN2Ym5VOGc5S0I1X2RDRExQb25X?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-08-24T07:46:56.910Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-24-abu-dhabi-school-fees-flexible-payment-options.md"
     }
   ]
 }

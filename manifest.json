@@ -29474,6 +29474,15 @@
       "processedDate": "2026-08-24T16:17:01.395Z",
       "relevant": true,
       "outputFile": "output/2026-08-24-dubai-school-transport-safety-measures.md"
+    },
+    {
+      "urlHash": "d6d30876326805e0c7707510bd14873de82bf07020507d8dfb0f5dc9dbfcbbc5",
+      "title": "Hundreds of Dubai pupils given school supplies and tablets under education plan",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/24/hundreds-of-dubai-pupils-given-school-supplies-and-tablets-under-education-plan/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-24T17:15:55.925Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

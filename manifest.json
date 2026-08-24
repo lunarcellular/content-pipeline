@@ -29213,6 +29213,24 @@
       "processedDate": "2026-08-24T05:54:58.762Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dc7deee0766e9e67842f993e80e5e2bcc4d17a53b0a375ba244e2b23a1681878",
+      "title": "India police used excessive force, electric shock devices in student protests: Amnesty",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-police-excessive-force-electric-shock-devices-student-cjp-protests-amnesty",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-24T06:46:01.565Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b1d5680afc4142f4aa2dceb271949709463b6d04cd5c9c606b28c0323f9ef1de",
+      "title": "Sharjah announces temporary closure of Ali bin Abi Talib Street until August 29 ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-temporary-closure-ali-bin-abi-talib-street-august-29",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-24T06:46:03.957Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

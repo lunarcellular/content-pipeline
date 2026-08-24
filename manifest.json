@@ -29375,6 +29375,15 @@
       "processedDate": "2026-08-24T12:16:37.650Z",
       "relevant": true,
       "outputFile": "output/2026-08-24-new-rules-uae-schools-academic-year-2026-27.md"
+    },
+    {
+      "urlHash": "fd1571fe9fbd06d8c7ac4208895aca049ac19591cb69cc196f0ae505f53fd826",
+      "title": "Sharjah Ruler approves 4,434 scholarships for Emiratis, children of Emirati women in Sharjah",
+      "sourceUrl": "https://gulfnews.com/uae/education/sharjah-ruler-approves-4434-scholarships-for-emiratis-children-of-emirati-women-in-sharjah-1.500650585",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-24T12:45:57.423Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

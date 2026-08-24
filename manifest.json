@@ -29357,6 +29357,24 @@
       "processedDate": "2026-08-24T12:01:05.297Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "99c5ab0890653ffb963becb8d13351fd80fcf6a57cbee385d89786e75c47ed93",
+      "title": "UAE unveils new higher education fee framework",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-unveils-new-higher-education-fee-framework-1.500650632",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-24T12:16:07.235Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b36c3a335c321d55e2103642971e7535d1b176ad61fbd18146efd4b53c3a9a67",
+      "title": "Back-to-school for UAE teachers: Day 1 tackles new rules for 2026-27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/back-to-school-uae-teachers-return-new-rules-academic-year-2026-2027-preparation",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-24T12:16:37.650Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-24-new-rules-uae-schools-academic-year-2026-27.md"
     }
   ]
 }

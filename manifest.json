@@ -29177,6 +29177,24 @@
       "processedDate": "2026-08-24T04:30:57.714Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "78f928af25e43ef1d502198f3ccaa310a7ecee5a0c64bb2503d8b31326d12e30",
+      "title": "Former child star Raquel Lee Bolleau alleges sexual assault at 14 by Disney employee, sues studio ",
+      "sourceUrl": "https://gulfnews.com/entertainment/former-child-star-raquel-lee-bolleau-alleges-sexual-assault-at-14-by-disney-employee-sues-studio-1.500650176",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-24T05:30:56.750Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1784031af64a95f2a9e64a3988aea1e616625db5cc5bedb3124660080dd7d0b9",
+      "title": "Offices, schools closed in southern Taiwan due to torrential rain",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/taiwan-heavy-torrential-rains-schools-office-closure",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-24T05:30:58.934Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

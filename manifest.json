@@ -29834,6 +29834,33 @@
       "processedDate": "2026-08-25T13:34:29.283Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9cb6866f6c7e281ee718576fface301668e32d8aaa917e92ee1c38e5f04ba9d2",
+      "title": "RTA adds new roads, parking spaces around 6 Dubai school zones ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-rta-traffic-improvements-six-school-zones-safety-congestion",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-25T14:31:09.309Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "888e28ec825c46b56c2f7e46208259d70750f23d2e4a8566cf0baca80203cf22",
+      "title": "More police patrols and traffic improvements under UAE back-to-school plan",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/25/uae-back-to-school-transport-safety/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-25T14:31:11.606Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4d03313983811ecf1e9e524e29c69227ef4c306c5c8ac47244df9c44fef72c9d",
+      "title": "Dubai to open 26 new private education institutions in 2026-27, with nearly 17,000 seats",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-26-new-private-institutions-2026-27-17000-seats",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-25T14:31:41.649Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-25-dubai-new-private-education-institutions-2026-27.md"
     }
   ]
 }

@@ -29717,6 +29717,33 @@
       "processedDate": "2026-08-25T11:15:54.872Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e44ff18d5984923cbab1a5a8f348784736ebbb700f043df486b91ab5d9e020ec",
+      "title": "UAE families draw the line: Let AI guide children, not do their homework - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGVnYmxxdEZZZ2hsRDZxTmVNRVE5RHRmUzFtR1d2UmNLb3plcEhFYWNINnkxeHVJSk0xai0yeWRWaEFPUjJza1RBMHZ2azExbnFfQmtFcjdQU3BKYktsaWpXNG1PTVNQMXhNT2phSXdxd2o1VWZIYWlMWENDT053a1RqN3ZxMkgzMUVoUmtTSkwwWnhiNXc1WXRkb2dwUFQ0Z1NZdVZYSlE3cjQ3VEQxdDVSSXdUZHFxNkVYd05lRURhSjZfVmfSAdgBQVVfeXFMT0JuUkhYWEVsMTVsTTYyVDlwdV91UjR2TTF6N3lJeW9RX2NBU0JoMnMxR1lndEEwTGlCQXhVMWVfSzdEVFMyOTNWQklIbEhKOWVMUVNvWnRlaVNJSEloVGo0T280TTVFVXZZN291aFVqT1VheXRDVnE2NDBPMERsaHB6VVNWeG5zQllqYS0xWlR6RlRoY0ttODR6VUdYOHhSdWlwaGhLQnBHUkxiQzdYNmRVVkZaNjNKNFVrVkh0NTRrSWJPT0JJTXFCSzlQYjNXOVU1dFppbWha?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-25T11:30:56.708Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ef054a4d617e456c538eb375707bdb301779f0080a251730cd7d3a0b6038a28",
+      "title": "Traffic flow, cybersecurity: Abu Dhabi Police ensure safety as kids go back to school",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-police-student-safety-back-to-school",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-25T11:31:00.203Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ef054a4d617e456c538eb375707bdb301779f0080a251730cd7d3a0b6038a28",
+      "title": "Traffic flow, cybersecurity: Abu Dhabi Police ensure safety as kids go back to school",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-police-student-safety-back-to-school",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-25T11:31:02.190Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

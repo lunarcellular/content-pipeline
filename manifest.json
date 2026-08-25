@@ -29879,6 +29879,15 @@
       "processedDate": "2026-08-25T14:46:52.640Z",
       "relevant": true,
       "outputFile": "output/2026-08-25-dubai-education-expansion-2026-27.md"
+    },
+    {
+      "urlHash": "b17d67eeb139c6fd28dc5a7bad670afb3f47364aebcdbac645b1d74900a735d8",
+      "title": "Singapore offers nearly Dh200,000 per child in bid to lift birth rate",
+      "sourceUrl": "https://gulfnews.com/world/singapore-offers-nearly-dh200000-per-child-in-bid-to-lift-birth-rate-1.500652011",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T15:46:14.326Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

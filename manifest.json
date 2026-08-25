@@ -29501,6 +29501,33 @@
       "processedDate": "2026-08-24T18:31:03.242Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2bfde2e60e8db3e83c6bda1c43a91e7e076da9ae6ae71d4089f33a409f9542d3",
+      "title": "New evidence prompts trial delay for Libyan man charged in 1988 bombing of Pan Am Flight 103",
+      "sourceUrl": "https://gulfnews.com/world/americas/new-evidence-prompts-trial-delay-for-libyan-man-charged-in-1988-bombing-of-pan-am-flight-103-1.500651158",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T03:01:03.917Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bd7c276caa0bf7eb67f6f839cad98604452b059be1c42636e4328ade75bf3f6b",
+      "title": "Dubai FlexiRent: Can every tenant pay rent monthly? Eligibility, benefits explained",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-flexirent-can-every-tenant-pay-rent-monthly-eligibility-benefits",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-25T03:01:06.657Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ff4c10df5c4f02c79ff72446ff6477950738334d68c958a3f00537f75e3f7c64",
+      "title": "Is your child tired after school? Why UAE parents can expect this in first few days",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/back-to-school-uae-children-exhaustion-first-few-days-normal",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-25T03:01:09.596Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

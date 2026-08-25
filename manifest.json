@@ -29807,6 +29807,24 @@
       "processedDate": "2026-08-25T13:01:10.751Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b551c97a426423573f07aadbe3937811113bd91346b8f77eba956758f3bd6c92",
+      "title": "RTA completes traffic upgrades at six school zones across Dubai",
+      "sourceUrl": "https://gulfnews.com/uae/transport/rta-completes-traffic-upgrades-at-six-school-zones-across-dubai-1.500651863",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T13:15:54.216Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e24a4ba617645f2d6c477c8472c1fbd1a0294c8c723bd251e90d4d7e26733fd8",
+      "title": "SCCI & IBPC Sharjah celebrate India’s Independence Day at Sharjah Maritime Museum",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/scci-ibpc-sharjah-celebrate-indias-independence-day-at-sharjah-maritime-museum-1.500651853",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T13:15:56.502Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

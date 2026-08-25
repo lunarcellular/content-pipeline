@@ -29924,6 +29924,15 @@
       "processedDate": "2026-08-25T17:01:46.468Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "68bd33d59b1afb82379ef49e4114181354cf6d02d0d3120dc7c541a6dbdbc91b",
+      "title": "Dubai to open 26 new private education institutions in 2026-27 - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFpzQVF2MVhvajJoVzJlbDNLNVZiSmFDWlpORWdYOFBCVS1nNlk2WjdrM2xwZXhSRWtTNlRlMndZcGQtclRndXYzVVpEWXVmekJ1QmtvbGRsYnctTHFreTluOG1jaEExbnVpZ1VmUEd0RldHNnBWR2xRdTJoYkJJejZwYlR2WE5KV01CSy12Sk9nMzZscVVkd2dIQnFoYU53c3h4MmJPSnM2T1ZfdlHSAcABQVVfeXFMT3BqSTVSWVl5WGFjaEVZMlFqS0U1QmVVRmdqaXF6QmFrQTFaaVoyVjBpNDVINlNrU01nZm02ZkRZWTNXV2pFVVhONHBFRzlRZ2JfSUVZUkdrLVgtNldEbktkTVB3VUVQQ1BKZUoxaUEzRGcyTDRfX00zTHI3LVlQVmtobkNWYU5jMWQwaktoS1RIUU8yYXhrVnVwZzJXMFVBeGpDRnJvc2dsYXg5dDNKbm9VQUZjNHEyMkN4OFV4c3p0?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-08-25T17:16:42.382Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-25-dubai-private-education-expansion-2026.md"
     }
   ]
 }

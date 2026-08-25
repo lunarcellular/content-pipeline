@@ -29906,6 +29906,15 @@
       "processedDate": "2026-08-25T16:09:35.441Z",
       "relevant": true,
       "outputFile": "output/2026-08-25-dubai-private-education-expansion.md"
+    },
+    {
+      "urlHash": "fda20910d44201bcba967f05af8e6454273e0e4ebe1efe9bf6e9a2e8c78a2fba",
+      "title": "ADIB board approves proposed Dh1.75 billion rights issue",
+      "sourceUrl": "https://gulfnews.com/business/banking/adib-board-approves-proposed-dh175-billion-rights-issue-1.500652140",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T16:46:25.405Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

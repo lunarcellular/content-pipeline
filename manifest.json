@@ -29627,6 +29627,33 @@
       "processedDate": "2026-08-25T07:15:51.586Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bd9c1aa50050cabbda9ff6bb112018cc8b0761c235a4a34b590c9d1f1a6682cf",
+      "title": "School is almost back in the UAE: Who’s more worried — your child or you? 7 ways to ease the transition ",
+      "sourceUrl": "https://gulfnews.com/uae/school-is-almost-back-in-the-uae-whos-more-worried-your-child-or-you-7-ways-to-ease-the-transition-1.500651444",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T07:45:52.853Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7772b1e4eb8e4269524193ed0dac0cb753f07d55ad8479ed515ac4feed063b0e",
+      "title": "School starts soon: What vaccines UAE parents should check before children return to class",
+      "sourceUrl": "https://gulfnews.com/uae/school-starts-soon-what-vaccines-uae-parents-should-check-before-children-return-to-class-1.500651454",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-25T07:45:55.152Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "afd0fc4b1bed60baded058743f77c25c5d649164bcd8abde4081b8337c5a0410",
+      "title": "Gaza’s children grew up flying kites. Now Israel says they will be treated as drones",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/08/25/gazas-children-grew-up-flying-kites-now-israel-says-they-will-be-treated-as-drones/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-25T07:45:57.433Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -30320,6 +30320,33 @@
       "processedDate": "2026-08-26T10:45:29.516Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3e1461dce9b2fc8cb0e29f77ecbcb7a1be4dabf856b15488268af2639e075201",
+      "title": "Abu Dhabi International Hunting and Equestrian Exhibition opens Friday",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-international-hunting-and-equestrian-exhibition-opens-friday-1.500652836",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T11:01:15.445Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b17a3d25dbaad58e1d0e27eac125e89a42b3ac869097cce57dd37797e42dc008",
+      "title": "Nepal floods at China border kill 8, cause 'major casualties' in Tibet",
+      "sourceUrl": "https://gulfnews.com/world/asia/nepal-floods-at-china-border-kill-8-cause-major-casualties-in-tibet-1.500652810",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T11:01:17.778Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "01735d8d172214280680a869217ecc76af1ea25b640ce673b31c4a2109ac7273",
+      "title": "UAE schools to limit device use in core subjects under new classroom policy",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-limit-device-use-new-classroom-policy",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T11:01:50.257Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-26-uae-schools-new-device-policy-2026.md"
     }
   ]
 }

@@ -30365,6 +30365,15 @@
       "processedDate": "2026-08-26T11:15:53.796Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "677c87aef077255b655b5794d34e85ced57af7271d6bf2996fa7ce3c48f037ec",
+      "title": "Second suspect arrested in Swedish school attack",
+      "sourceUrl": "https://gulfnews.com/world/europe/second-suspect-arrested-in-swedish-school-attack-1.500652736",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T11:31:00.482Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

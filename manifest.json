@@ -30383,6 +30383,24 @@
       "processedDate": "2026-08-26T11:45:53.606Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5ec73d95342989972faf5b551e0419ea70d22dc147dd83251b8e51dd5932db33",
+      "title": "Fortes Education celebrates a standout year of academic excellence across its schools",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/fortes-education-celebrates-a-standout-year-of-academic-excellence-across-its-schools",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-26T11:50:45.073Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c03c83de114db78792eaa1ec992982fbbaa21af2c13dbaef444cdfc5b0c05c24",
+      "title": "No homework for kindergarten to grade two, while grade six to use paper and pen in public schools",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/26/no-homework-for-kindergarten-to-grade-two-while-grade-six-to-use-paper-and-pen-in-public-schools/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-26T11:51:02.769Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-26-homework-policies-uae-public-schools.md"
     }
   ]
 }

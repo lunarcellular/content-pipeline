@@ -30491,6 +30491,24 @@
       "processedDate": "2026-08-26T13:46:03.366Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b43f7deee4e8e96d34bf485fc99f33b0b75e29e137c97a1a0e4c5f193e768423",
+      "title": "Meta to pay up to $16.68b to settle child harm claims, sets new limits for teenage users",
+      "sourceUrl": "https://gulfnews.com/technology/meta-to-pay-up-to-1668b-to-settle-child-harm-claims-sets-new-limits-for-teenage-users-1.500653151",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T14:01:09.813Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f59906a79f2c707b51b54bbc6db658fed7bd6c5f7f7470392729ed4717ce2d80",
+      "title": "UAE university admissions: How early should students prepare for Ivy League, Oxbridge?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/how-uae-students-prepare-for-ivy-league-oxbridge",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T14:01:12.258Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

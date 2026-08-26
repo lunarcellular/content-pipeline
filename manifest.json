@@ -30176,6 +30176,24 @@
       "processedDate": "2026-08-26T08:10:38.188Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "46ff4831f8b3dfa5cbfcb9c7f52b1c1d5f208a9ca5136764203b513b476c53ec",
+      "title": "UAE to cancel homework for KG to Grade 2 students in public schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-cancel-homework-public-school-students-kindergarten-grade-2",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T08:31:16.625Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "37ce0e5509b736c8efd1f9f79563816f7680c16b00cb08832cedbee7855d1702",
+      "title": "UAE to cancel homework for KG to Grade 2 students in public schools - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmJCOV91VWY4YnlYZmlocW9qRHlXcHJXSVhJaE00ZjVLaXFWUXd6UE9DTTN0b2U5cHFxMG5BYlQ5XzdjelRDYVhULWQtQkUwR0E5SmFXUlh5MUpzTTRjaGJRWS14b2NWQUtrVWh6SmQ4WWVNSzJPeVM5T0tIcjlpOUtnQkFIc1MteWNvRXk4R2V3RVZoN0FSYW5TcXJwTTh1OUxWWTdVVDlLUdIBsgFBVV95cUxQVDhEdWNsV2o3TWY2NGtXS3E2UHlNNWRRT2VwNkloOTFBTU55TjJfTEFIY29UTXp5ZkxNbFB4MFBOZ19razNGQ1Y2NVNLbC1EbU1xc2hxYnZyTDNOU01FZkdScUdsd1R2YWw2MVIzcUZ4ZnAwUTE0MWRlbnRZUG56Ukhjb0VGRWZibVJvcDc3dDMxbVFwazJwWmxhZmh1WDFKclktZmNlWFNzMkZSSzJmblNR?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-26T08:31:33.525Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

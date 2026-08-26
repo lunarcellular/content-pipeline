@@ -30212,6 +30212,33 @@
       "processedDate": "2026-08-26T09:01:06.576Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "320370a1eede7ea347f26f7268d92a532413ed9f62d94eec6b44029834fc6f10",
+      "title": "UAE announces no homework and new exams for some students and new school evaluations for 2026-2027",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-announces-no-homework-and-new-exams-for-some-students-and-new-school-evaluations-for-2026-2027-1.500652759",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T09:16:12.939Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7377eb5b5fc567581c927d779a6b3a5edbbf4768caac1d3cbf756969586dc517",
+      "title": "No homework till grade 2 as UAE unveils new exams and school evaluations for 2026-2027 - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRy1KNmktaGJ4MWUxYVF1MjlyQmlqZ1pQZVh5T05xOEZ3LTRodEt6NUxCUDh4LUJ1SHpkQjUxaHB3Ykx5TE1BaUhWLTd1Vmt0VEZpaHV0QlVLS1BMRWhFUXpZV1pEaTFPbTcyNV9ZSzJ1a0swS0ZSR05kamZPUTM0ZzBoNVNRZVN5MnlidWFrOHBaUUlZdWRrVV9pVWhyUlk3YVlKUkE1YTMwcS1tdl9tT2sxUDNOb01malZ2clpCdFVZSkJEdVdKanJtTHdmUdIB4AFBVV95cUxPYVU4bExGMkNHcGJrZ3RQeGZEMEJHang4R0dYaHJwZHl4VWJDWVh3NFBGTkFzNnEyZmwwNzR3MGlQMGpxM0UySHdfUDJqVFNBamZHMWxWbWhhWXRJN20tTnFFYUFobUxJZzE3dkphZnJxUVdqcS1yd0d2bzdVNTNhMGpGQUxCbTVmR0lQcW5VOVd6a05sYlV5OFd1ZDFaT2dIRmJfYmZNdkEtZjZyLVpxT1pCZUkweVlpZ3FTU2J5OTVnS0pKVXZnVW56U25yVHNKbzFRU3E2UW5XXzNSUDJlLQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-26T09:16:27.468Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "07164f3b1d0d1ff914c938e6633eef1ded8ddfadddc8575cf81e0bb529b98d08",
+      "title": "UAE schools to welcome more than 1 million students this year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-more-than-1-million-students-this-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T09:16:40.823Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

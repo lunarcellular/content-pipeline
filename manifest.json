@@ -30464,6 +30464,15 @@
       "processedDate": "2026-08-26T13:16:04.576Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "78f244fc6528e044dad71b75332014355642af458650cfd38326ae5a8f9acbc0",
+      "title": "GEMS Education welcomes 1,550 new teachers as UAE schools gear up for academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/gems-education-new-teachers-2026-27-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T13:31:03.600Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

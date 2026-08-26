@@ -30401,6 +30401,24 @@
       "processedDate": "2026-08-26T11:51:02.769Z",
       "relevant": true,
       "outputFile": "output/2026-08-26-homework-policies-uae-public-schools.md"
+    },
+    {
+      "urlHash": "b7a62c515ce5751119bfac73444d458040eea138464a354aa00e4e9fa6ec1dbe",
+      "title": "Best rolling and trolley school bags on Amazon.ae 2026: Five wheeled backpacks for easier school runs",
+      "sourceUrl": "https://gulfnews.com/best-buys/best-rolling-and-trolley-school-bags-on-amazonae-2026-five-wheeled-backpacks-for-easier-school-runs-1.500650279",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T12:15:52.683Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a4bfc80eb651698479f4647678711e46c339c278d3b9bd316d71ad75786a38db",
+      "title": "No homework for young pupils: Shake-up to UAE public schools for the year ahead",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/26/uae-schools-no-homework-no-screens-new-rules/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-26T12:16:15.160Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-26-uae-education-homework-screen-policies.md"
     }
   ]
 }

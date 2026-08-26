@@ -30608,6 +30608,33 @@
       "processedDate": "2026-08-26T15:01:19.908Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fb08cca9ee2464c163c1a6bcc2f2c76ab9407bc579f986dd0a496a7dd2a57321",
+      "title": "GEMS Education says teacher attrition in UAE schools hits historic low",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/gems-education-teacher-attrition-uae-schools-hits-historic-low",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-26T16:45:53.910Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb08cca9ee2464c163c1a6bcc2f2c76ab9407bc579f986dd0a496a7dd2a57321",
+      "title": "GEMS Education says teacher attrition in UAE schools hits historic low",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/gems-education-teacher-attrition-uae-schools-hits-historic-low",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T16:45:56.093Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "caad823e24729aea4dd18f009296f92976dca60c02697854b930c1edeb431469",
+      "title": "New UAE teachers eager for start of school year after challenges of Iran war",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/26/new-uae-teachers-eager-for-start-of-school-year-after-challenges-of-iran-war/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-26T16:45:58.724Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

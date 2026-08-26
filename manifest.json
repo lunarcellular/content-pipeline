@@ -30635,6 +30635,24 @@
       "processedDate": "2026-08-26T16:45:58.724Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bc71dc4cd50933a43a5c51fd892703d00ee418305531f79a272a03e7cc34e801",
+      "title": "Dubai Police deploys 253 patrols, 28 drones for new school year - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlFudnNWcVZIa19XbWw4REVmMjhheGJyY2Q4Qll3UDg4YVRTR2p0MFFFUDd1LTRqVHpFekFBWGIwSlJMbWI1cHNuRzZ2X3Zzb3NmNGtFamMwUGdqZHFRUVItb3BjZlhkZFpjQ0lRR05vZEI5M3RoMHQzMUlGRjRJLWlWamlSWUs0UzFtcW1IWXRXOWVFZFQxMHI2R09ZcEFRMUp0NnNMN1pCb1Q5bGfSAcABQVVfeXFMTTV5VEFZWEhha2pQZEpudEFCSWM5NXhWbW9fRjJFNWhZYy1mMTgzVnY5ZmVWVlNFeDZ2YXhGT1l2RWFVOTBlb2RIcFE2WUxFcGlrV2tFd0s2UlRHaDRNQzNsQTdfdnB6UDR4QnZNX3dsRWF3cnF2TGRJTmVWYnZtZmJra2dENWg2QkNsVkVOUlFIOHlTN2JGWWxGRGVDdTNIaV9PNTE1M2t3NjNoc0hnd3l5b1Rjdk1RV2FfcVhpclAy?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-08-26T17:31:04.901Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f00c54ca7f825005fa2f228441e16e32dcf94c5a64d298eddaf5dcfe24f386f7",
+      "title": "Meta agrees to $17bn settlement over claims of child social media addiction",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/08/26/meta-lawsuit-settlement/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-26T17:31:07.315Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

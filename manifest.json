@@ -30347,6 +30347,24 @@
       "processedDate": "2026-08-26T11:01:50.257Z",
       "relevant": true,
       "outputFile": "output/2026-08-26-uae-schools-new-device-policy-2026.md"
+    },
+    {
+      "urlHash": "f5dcee818c8d488edf152fba15343d2c65e08f0ca6fa036efdac865a2df37481",
+      "title": "Netanyahu says no diplomatic deal possible with Iran 'savages'",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-iran-israel-lebanon-war-august-26-2026-live-updates",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-26T11:15:46.021Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ac33b6a085d6f2492e0e8b53373aff0a60b50f55406e02ad4c174c71f5cf3bf1",
+      "title": "UAE schools to limit device use in core subjects under new classroom policy - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFJUanhDWnF6eGpJRC15NFJIMktTVGxsbWxBWGZQSm9GNzBhb0lKRlRNRkw0LVVwdjQ1Tm9hVDVja1FLTjZXVEV5R0ZRWGJKbWVOWjd5LURTelM2WEQ2c19RczF0bjdBRWxNMmt2VXQ0SHBfWFBjTkZudm5IZmdTemh2YW1JQWJXMXfSAZIBQVVfeXFMUGU5TnhFRTlFRW8zVXJCRmRWVlh4QzBWMV94S1hzZXJTTDd1WTNCSTl0Y0R2OTRfTnk1aWRuTGdZT2ZIeTMxU2xhUnBtUzJ1ck9wQ3N5ZGd4aGVFbUlOdURRSjl2WWhzMFVwa3BhSG1nalNGRjUyVkNjblJ0enhZOWg2a2d3U1JXQk1DTGJpajBNX0E?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-26T11:15:53.796Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

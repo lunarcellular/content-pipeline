@@ -30419,6 +30419,24 @@
       "processedDate": "2026-08-26T12:16:15.160Z",
       "relevant": true,
       "outputFile": "output/2026-08-26-uae-education-homework-screen-policies.md"
+    },
+    {
+      "urlHash": "1c9a78211afab288852d3cd99f7d7e3c2cfc668aba87a29dc0ed97343a9aa5e4",
+      "title": "Dubai Police deploys 253 patrols, 28 drones for back-to-school safety plan",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-school-security-back-to-school-safety-plan-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T12:31:24.207Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cc840fa8efb045b2929da7412e2fb7ef82db0dc27823e1c8cdbcf79bec31e9c7",
+      "title": "Abu Dhabi mother fined Dh80,000 for leaving child with nanny despite father's offer",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-mother-fine-dh80000-leaving-child-nanny-father-available",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-26T12:31:26.806Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

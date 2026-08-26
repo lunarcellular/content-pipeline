@@ -30239,6 +30239,15 @@
       "processedDate": "2026-08-26T09:16:40.823Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "4d0295ae055b470f575d70c87ab8cf3ebe1ed22502241f05bd497327dda48c07",
+      "title": "‘Give me my child back’: Parents’ anguish after Islamabad hospital fire",
+      "sourceUrl": "https://gulfnews.com/world/asia/pakistan/give-me-my-child-back-parents-anguish-after-islamabad-hospital-fire-1.500652802",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T09:45:49.341Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

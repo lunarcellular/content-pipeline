@@ -30302,6 +30302,24 @@
       "processedDate": "2026-08-26T10:31:10.986Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "aafc76b6d337cb82ec634c4e01a6cf7d943261b020f716fa0d197509eb72216e",
+      "title": "At least nine dead in flash flood on Nepal-Tibet border as villages destroyed",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/08/26/nepal-tibet-flash-floods/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-26T10:45:27.433Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ce5daa1036514eb48e07a40fa5a2de3a3d6061dfb39f24b5c7639a9dc280f294",
+      "title": "Money & Me: Start-up boss earning Dh200,000 per month advises saving for your ‘worst possible day’",
+      "sourceUrl": "https://www.thenationalnews.com/business/money/2026/08/26/money-me-start-up-boss-earning-dh200000-per-month-advises-saving-for-your-worst-possible-day/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-26T10:45:29.516Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

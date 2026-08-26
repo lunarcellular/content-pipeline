@@ -30149,6 +30149,15 @@
       "processedDate": "2026-08-26T04:31:18.483Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "b36e6b2fa767217246a4beb2944e86085727284b34f79679d3090ab27ca278d2",
+      "title": "Student safety first: Abu Dhabi puts full responsibility on schools",
+      "sourceUrl": "https://gulfnews.com/uae/education/student-safety-first-abu-dhabi-puts-full-responsibility-on-schools-1.500652486",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T05:01:44.234Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-26-abu-dhabi-schools-student-safety-regulations.md"
     }
   ]
 }

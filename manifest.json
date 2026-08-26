@@ -30653,6 +30653,15 @@
       "processedDate": "2026-08-26T17:31:07.315Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "68b9a1f2858eaa52b22ea19f3aa21dd56a53445ed8441e265af8a645a488ea79",
+      "title": "Nepal-Tibet flood toll hits 160, after Nepal police recover 157 bodies",
+      "sourceUrl": "https://gulfnews.com/world/asia/at-least-103-killed-in-nepal-tibet-floods-hundreds-missing-1.500652810",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-26T18:15:55.147Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

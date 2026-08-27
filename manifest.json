@@ -30968,6 +30968,24 @@
       "processedDate": "2026-08-27T10:46:10.725Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d661979cfbcc27122d51e847994d2eb88f87d684226c76e9589d32c81a1a9d27",
+      "title": "UAE approves new penalties framework for higher education institutions",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-approves-new-penalties-framework-for-higher-education-institutions-1.500654163",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T11:31:00.656Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ea2c5e609b3581edf1ccc0b3ed4864e0f0b9d366c6e8ce91d9e9f5de226697bd",
+      "title": "UAE regulates violations, penalties for higher education institutions, training centres",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-regulates-violations-penalties-higher-education-institutions-training-centres",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-27T11:31:02.793Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

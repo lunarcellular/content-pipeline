@@ -31112,6 +31112,15 @@
       "processedDate": "2026-08-27T15:16:31.136Z",
       "relevant": true,
       "outputFile": "output/2026-08-27-uae-schools-policy-changes-2026-27.md"
+    },
+    {
+      "urlHash": "c6ff40d22016949d847bbe7e65e333c7ff7b3542c86eb1c1b7214ac9cd64fff1",
+      "title": "Nepal-Tibet flash floods: WHO, UN ramp up relief operations",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/nepal-tibet-flash-floods-who-un-ramp-up-relief-operations",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-27T15:45:57.148Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -30770,6 +30770,15 @@
       "processedDate": "2026-08-27T03:22:28.699Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "2b61cdc13c9db49d08912550b9de1e6e8982687d1209d0027cd52ff1d7f36b34",
+      "title": "More than 160 dead and hundreds missing after floods on Nepal-Tibet border",
+      "sourceUrl": "https://www.thenationalnews.com/news/asia/2026/08/27/more-than-160-dead-and-hundreds-missing-after-floods-on-nepal-tibet-border/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-27T03:45:55.573Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

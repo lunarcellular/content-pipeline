@@ -31058,6 +31058,15 @@
       "processedDate": "2026-08-27T12:47:09.628Z",
       "relevant": true,
       "outputFile": "output/2026-08-27-uae-ministry-education-policy-changes.md"
+    },
+    {
+      "urlHash": "90c7ed4080ce22c2fbc1ee7eed62010243bb853f8f1b433ce6baf1ea35862009",
+      "title": "Sharjah Civil Defence trains 1,200 school bus staff for safety",
+      "sourceUrl": "https://gulfnews.com/uae/emergencies/sharjah-civil-defence-trains-1200-school-bus-staff-for-safety-1.500654266",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T13:01:07.646Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

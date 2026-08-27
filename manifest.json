@@ -31040,6 +31040,24 @@
       "processedDate": "2026-08-27T12:15:53.671Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d9dce6cf07992ad138d3bfcf40184541bd375c56bcfcfe879c664dee5c486b29",
+      "title": "UAE parents welcome Meta’s $18 billion child-safety deal and midnight social media shutdown: ‘Pressure is off us’",
+      "sourceUrl": "https://gulfnews.com/uae/uae-parents-welcome-metas-18-billion-child-safety-deal-and-midnight-social-media-shutdown-pressure-is-off-us-1.500654188",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T12:46:39.939Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "56886e5897525e72a6c8b2775e8ca56f50476f4770d62c0652e7a7e810e950e1",
+      "title": "No homework, less screen time: Which UAE students will benefit from 2026-27 academic year policy changes",
+      "sourceUrl": "https://gulfnews.com/uae/no-homework-less-screen-time-which-uae-students-will-benefit-from-2026-27-academic-year-policy-changes-1.500654259",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T12:47:09.628Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-27-uae-ministry-education-policy-changes.md"
     }
   ]
 }

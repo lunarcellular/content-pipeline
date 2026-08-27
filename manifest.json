@@ -30815,6 +30815,33 @@
       "processedDate": "2026-08-27T07:01:16.182Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c231190092c82b5a540005a702f5627012aa1f61c8b5a2ad0e07a2d68be1fdfe",
+      "title": "UAE schools reopen Monday: How to reset your child's sleep and wake them for school",
+      "sourceUrl": "https://gulfnews.com/uae/uae-schools-reopen-monday-how-to-reset-your-childs-sleep-and-wake-them-for-school-1.500653824",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T07:31:10.485Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "78a03b2d026cecce5d73239087491832981363cfd6e0c68c8d5f588b4bc659e3",
+      "title": "Zanzibar flavours shape wellness dining at ENVI Paje",
+      "sourceUrl": "https://gulfnews.com/friday/food/zanzibar-flavours-shape-wellness-dining-at-envi-paje-1.500653850",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T07:31:12.525Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb88a79c5249d44eb9dcf3221eccb191d263c83af5e9fbb5e1c9ed9ed81010d9",
+      "title": "Qatar PM to visit Tehran, US signals possible Hezbollah talks and UAE-Lebanon investment ties grow",
+      "sourceUrl": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/08/27/qatar-pm-to-visit-tehran-us-signals-possible-hezbollah-talks-and-uae-lebanon-investment-ties-grow/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-27T07:31:14.697Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

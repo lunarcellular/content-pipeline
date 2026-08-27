@@ -30986,6 +30986,24 @@
       "processedDate": "2026-08-27T11:31:02.793Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a7f8569535e36ccc9a49a377a7bd4f54ae295b4aa830fa6a88d1998795f40c85",
+      "title": "UAE flights to Kathmandu continue to operate despite deadly Nepal-Tibet floods",
+      "sourceUrl": "https://gulfnews.com/business/aviation/uae-flights-to-kathmandu-continue-to-operate-despite-deadly-nepal-tibet-floods-1.500654177",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T11:45:51.603Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3c79888cf0ec86296b0e36667c94d9b54b98690f00d3838574fa9e66f92a302b",
+      "title": "Still missing: Fears over 40 asylum-seeking children who vanished in the UK",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/08/27/still-missing-fears-over-40-asylum-seeking-children-who-vanished-in-the-uk/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-27T11:45:53.432Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

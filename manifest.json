@@ -30851,6 +30851,24 @@
       "processedDate": "2026-08-27T07:45:51.939Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bf024a882dde42df143e5999239e3788e7e21456ae6e8f333ed4640ee43cf206",
+      "title": "Who are the missing people in Nepal-Tibet flash floods?",
+      "sourceUrl": "https://gulfnews.com/world/asia/who-are-the-missing-people-in-nepal-tibet-flash-floods-1.500653942",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-27T08:15:55.073Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ffa29b35282b32024a0bef704b675306f9292e2888da92b8271d4eb9320a6137",
+      "title": "Mourinho hails 'incredible' Mbappe after Madrid thrash Sociedad",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/football/mourinho-hails-incredible-mbappe-after-madrid-thrash-sociedad",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-27T08:15:57.291Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

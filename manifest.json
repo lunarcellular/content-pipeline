@@ -31121,6 +31121,24 @@
       "processedDate": "2026-08-27T15:45:57.148Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4fc48476ca1e8853ae977010efdf1311e4f97f1d3f5bae91c55f2cfabaf94988",
+      "title": "Ajman announces flexible work timings for govt employees who are parents for first school week",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/back-to-school-ajman-government-employee-parents-flexible-school-pickup-drop",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-27T16:01:17.792Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4fc48476ca1e8853ae977010efdf1311e4f97f1d3f5bae91c55f2cfabaf94988",
+      "title": "Ajman announces flexible work timings for govt employees who are parents for first school week",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/back-to-school-ajman-government-employee-parents-flexible-school-pickup-drop",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-27T16:01:19.841Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

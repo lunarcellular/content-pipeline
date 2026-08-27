@@ -31103,6 +31103,15 @@
       "processedDate": "2026-08-27T15:01:16.654Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d29fce862d324422fd5b55a6f83b5599291cedd1e2176776278921134b4f95b7",
+      "title": "No homework, less screen time: Which UAE students will benefit from 2026-27 academic year policy changes - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWTR4dHhwbkpQbEZlNDI3dlJCa0RvTXZNQk85OHlrajhjMzNDLWhOdTFHa1R1VXc2dzE4OWNRWnpNbjlmMnVIQ1FDRTZNTjhlaGhSSzdkNmdUVEsyZGhYM3VyWXRUWDVVMEFOUjg0Q21EbXpkZDdTZVFmaThvVFRUbERZOWgyZHpaRC1PWEVBRXlTSzhEVERhZUJrYTUtbG13eWFBbzZOUlFpcWhDbUFtLWJNal9EQnE0aXVOTHpyeEs3a2I1YkNFVVZxWkxQVWdtYURicnlB0gHmAUFVX3lxTFB4eDdWaDZmSVZScWxUVmE2SnhpS2NvRjAyWDFhdHVOa3R6YmpoM1VjSFplaHhNMXF0ek91dTRTOVFXeDQyVk1wSXBMMWVFenpaYXdKWnktNzFwZHcyVE1Ya0RSQTB6MHg5bzNuenZjd3RZdGdwN0o3VEhueGJRTVBrSi1IQWkweFRZVm5lNXdWR213ZHRFdm8wU1lCSDIyY0dCYWNRM0hrcXo4djVScVNjMTlJZ3l2bExVSjVGdlB5bEd4N2ZPVlo5TVl0dEZCZGJVY0xJRDhTcjBCMEpsc0lFMmJMcFB3?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-27T15:16:31.136Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-27-uae-schools-policy-changes-2026-27.md"
     }
   ]
 }

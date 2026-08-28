@@ -31589,6 +31589,24 @@
       "processedDate": "2026-08-28T07:46:42.594Z",
       "relevant": true,
       "outputFile": "output/2026-08-28-uae-admission-age-rules.md"
+    },
+    {
+      "urlHash": "4d9d0e7cc48f78509bf67546cdb5fc47156d9ddb13498d12c5b093a65db18ba1",
+      "title": "Back-to-school anime watchlist: 11 series to stream in the UAE, from Jujutsu Kaisen to Spy x Family",
+      "sourceUrl": "https://gulfnews.com/entertainment/back-to-school-anime-watchlist-11-series-to-stream-in-the-uae-from-jujutsu-kaisen-to-spy-x-family-1.500655177",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-28T08:01:08.214Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3e7a05267210449f289cd1fc734190e8dca4e62e2f15ab610451967f50a8f59a",
+      "title": "UAE announces flexible work timings for govt employees ahead of first day of school",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-flexible-work-timings-govt-employees-back-to-school-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-28T08:01:10.385Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

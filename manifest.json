@@ -31634,6 +31634,15 @@
       "processedDate": "2026-08-28T08:31:22.836Z",
       "relevant": true,
       "outputFile": "output/2026-08-28-uae-textbook-guide-2026-27.md"
+    },
+    {
+      "urlHash": "a398bcd1cf9afc4f1b0991d54d9938675a93861ff9f2a7c04ca256e0ad55bf0b",
+      "title": "UAE announces flexible working hours for federal employees as schools reopen",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-announces-flexible-working-hours-for-federal-employees-as-schools-reopen-1.500655260",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-28T08:45:54.370Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

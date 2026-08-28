@@ -31571,6 +31571,24 @@
       "processedDate": "2026-08-28T07:31:02.018Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "aae96ddf7403df78b71a6b8e3a24b6ee0e9c42506e9d65111c4c0093e7ae0e5f",
+      "title": "UAE’s new age cut-off could change when your kids start school - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd21JRDYtYnFtRjJKdk9yUmRGNmF6eHItc0hjTFVIVUZCazdORkUxRGZldW1SdFdWN24tdlI0UU5TWFBma1dmWGZYaVlsTjZHQU1RWUc5UTJzTEN2UXVoRVhWU3cxeFFsbndCTTlJR2NybjYwTjdwV0FTd0FXd1M5dl85el9Pbmt1dm5aVnpNMmNXUEk4aDAwYkljVDM1VzdTcW9NZnlINUZTb2_SAbMBQVVfeXFMTXBBVzA5aWFkUHVhdnRHS3BYWEtYWk9PdE1KWUtDWVJFQThvWWMweHRwWG91WGdxZnFqbmhkYUpDdzdIb1EwT1d3S0tUOEh0bWd4ZzFCSm9lSm4wcFg4TUVRYUxQWk43eUVLVGJSSjBzNWx0Vjc2MzRUS1lENkVpamNPWWxHNUNFQlZxcmlIc1lDRVJvWkxJbnE2WWFhbEtGUUVqY2lQSFl5X2dfektQLWJmLVk?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-08-28T07:46:42.594Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-28-uae-admission-age-rules.md"
+    },
+    {
+      "urlHash": "aae96ddf7403df78b71a6b8e3a24b6ee0e9c42506e9d65111c4c0093e7ae0e5f",
+      "title": "UAE’s new age cut-off could change when your kids start school - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd21JRDYtYnFtRjJKdk9yUmRGNmF6eHItc0hjTFVIVUZCazdORkUxRGZldW1SdFdWN24tdlI0UU5TWFBma1dmWGZYaVlsTjZHQU1RWUc5UTJzTEN2UXVoRVhWU3cxeFFsbndCTTlJR2NybjYwTjdwV0FTd0FXd1M5dl85el9Pbmt1dm5aVnpNMmNXUEk4aDAwYkljVDM1VzdTcW9NZnlINUZTb2_SAbMBQVVfeXFMTXBBVzA5aWFkUHVhdnRHS3BYWEtYWk9PdE1KWUtDWVJFQThvWWMweHRwWG91WGdxZnFqbmhkYUpDdzdIb1EwT1d3S0tUOEh0bWd4ZzFCSm9lSm4wcFg4TUVRYUxQWk43eUVLVGJSSjBzNWx0Vjc2MzRUS1lENkVpamNPWWxHNUNFQlZxcmlIc1lDRVJvWkxJbnE2WWFhbEtGUUVqY2lQSFl5X2dfektQLWJmLVk?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-28T07:46:42.594Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-28-uae-admission-age-rules.md"
     }
   ]
 }

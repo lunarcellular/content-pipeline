@@ -31499,6 +31499,15 @@
       "processedDate": "2026-08-28T06:01:44.105Z",
       "relevant": true,
       "outputFile": "output/2026-08-28-uae-school-admission-age-rules.md"
+    },
+    {
+      "urlHash": "cc8cb2516448f85be1f485da68207bd02bcb852de67b08ee22688e51b2380c36",
+      "title": "'Pride of our nation': Sheikh Mohamed hails Emirati women's contributions to UAE",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-president-sheikh-mohamed-emirati-womens-day-message",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-28T06:15:58.572Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

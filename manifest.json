@@ -31778,6 +31778,33 @@
       "processedDate": "2026-08-28T12:31:03.121Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "49263cdc5ab4154b475cf849a397993f86a934693b8a5e97659623d0f190557e",
+      "title": "UAE Education News & School Updates - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Kb1JQOXJEQ00wWlZzNkZMcUhBTmdzdGRrY2RlREk0emtNY3JfMUZaUVdab2ViR2NIRldQSjNMUzJSbmdkT0g5amVB?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-08-28T13:31:10.252Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4846ccb872209141ca8f802d537f220a5aa7063d5ff5a040bf4f5dc5949bf93d",
+      "title": "UAE sets textbook packages for every grade in new school-year guide - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3JHU3liOGN1LThnc0dPN1g2eFNEenpqVF9ObUF5TUhid3VBUWtyZHJ1Ui1HVzBUa0Q2XzU1S0VVN05YYWJSbTJXYUhHbU5mdzVMQVdlNTljaDQteUNrRE1UcUFaTDR4NGs4U3lSeGFWRDJOOWFibThkLXVCNVF3WF93TVZxcnA0bV92Q0h3T0RVSjFkdTRwcGhGVnlHMlNkX2JXT1VhNmpWZWpUdE5ldHBSNVTSAccBQVVfeXFMUEFlTnFJZ2JPdG1YNTN1ZTJTMzdwQUVCNDZ6TGM4VFFaM201SnJuWTJPMnN1QUx0bHFpNnB2UmVWb1MzR0d0c2tUbU9kYXEwMHJ1cWtwUWVYcWZtazYtSUQ5RGdScDY4dlZBemFyTm45dDViQjcxUjlnTXc4TFpaLVJ2VmRnT25kU3IxbFJJRW5xMzJLbUkxNjN6NmpNZ3VhUDZYb2NCeEQ2YlVXVHdvc0NlWmZzaGVqUlVwR2hnMHdVdTd3TF9hdw?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-08-28T13:31:53.226Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5bde82cbc6c86bdb840abbac745261de48c35eaaf24200a993cd9554b62572c2",
+      "title": "UAE sets four-day phased return for students as new school year begins - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjJubE9ySmI4UENnX3RtVE1jNng5TEppdUg2WFpFVTVoeFdNVERxcTEwSVB3LUtIVkp4OV81NVRvaW02cWJCZ2JzRlNtM0EtY0dvekdsNFB0RHdndEY2X2NKdU4yYXdMV29vaEZ5cWdjaV9HZHl1ZzFpd2VNMUhBVGFUTWtIT2l0b2F3Wk9GZHU2SEhHemJDTGlYZHdyRDFOUzRuSW94RmhBT0k1Tk9GWlVxN0tXY0Fy0gHLAUFVX3lxTE13Qm5ab1NUd29WWEM5QjlMZVNLakdDdm9IM0NWc1pUZlpGSHlaQzhTOW04clRCd182UzNJU3ljSHRxRHFaeDZvbFM2NXRTejA3NF9VcHBnMVZxVkVOemRoMEFRdVNYaVJFV2dlWE1hdHg3bnhmd3JlQUNNa3dPai03YXQ4anRZME9TdUE5VGxBY3MzOXR6dnd5b01WMVJwd2F2UTd5eGE3VmY4RW1PeElQQ19fb1VSeG1EN1VCTEhwN2tlUW53TlkzNC1N?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-08-28T13:31:54.165Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

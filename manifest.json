@@ -31481,6 +31481,24 @@
       "processedDate": "2026-08-28T05:45:51.113Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "419e633b0e07afa85606cc9b29e7188da2f565547494c0c19742df62e76615c0",
+      "title": "Back to School: Share your photos with Gulf News",
+      "sourceUrl": "https://gulfnews.com/uae/education/back-to-school-share-your-photos-with-gulf-news-1.500652680",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-28T06:01:08.235Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2433f8851de9fabe70187b8a0e9c82fd486be16d78d7f4c0380bb2abff35f0f0",
+      "title": "UAE’s new age cut-off could change when your kids start school",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-new-age-cut-off-change-when-your-kids-start-school",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-28T06:01:44.105Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-28-uae-school-admission-age-rules.md"
     }
   ]
 }

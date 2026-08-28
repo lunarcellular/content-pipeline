@@ -31742,6 +31742,33 @@
       "processedDate": "2026-08-28T12:01:14.033Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ff6806ee6a940fcd5061e742f1a5a9c493e771c67f4b3ea45a2e78c6a6b3ee7b",
+      "title": "UAE announces flexible working hours for federal employees as schools reopen - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2lRWE9hM3dEOExiNzFKLXU3NGd2Wlp4WWZOZFNuSGhvY19FZ2gtR1pxVGxwdDhTeHkyQUF5NFA2OVZlS1MxQ0dYUHcwOTR0YVEzUktyYTVucVFVYUhiQThzTHc3U2NjOHkwWWtERDBKZzJWRmlEbTBoNktiY1FqQUJtMVNXZTdvZ0ticTQ3T1RIQW5HaDI5TGFwNU15RnR4UDZWZ1FtVlRWa2RjX3VSSmtoS2NmYmFtNVIwel9ldU7SAdMBQVVfeXFMTjZVNFRDY3ZkcEhHc040RmRmR0hyeDZPeHQzem0wNEg2aDdLRTFYaVg0REhBMVZvaWFkT3VRcE1WLTZkNExlblJEaVlUNDM5UDAwUmNvMXZRbUw5VjFlVHNnLVdkTnlTR0hYZFdERExQRHE2MVZFX1AxazBkNFpOWC1uZEJWZEJtUFY2cVd0MnpIc2dEMHd4WFVHSG51TFNlWWI5YTh6RFlYdGdQRHc2S0Y2NXItd0Q5eWd2TVA3YWdQcm4yTWVlRngxNENWRzkzdE5Bcw?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-28T12:15:52.266Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ff6806ee6a940fcd5061e742f1a5a9c493e771c67f4b3ea45a2e78c6a6b3ee7b",
+      "title": "UAE announces flexible working hours for federal employees as schools reopen - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2lRWE9hM3dEOExiNzFKLXU3NGd2Wlp4WWZOZFNuSGhvY19FZ2gtR1pxVGxwdDhTeHkyQUF5NFA2OVZlS1MxQ0dYUHcwOTR0YVEzUktyYTVucVFVYUhiQThzTHc3U2NjOHkwWWtERDBKZzJWRmlEbTBoNktiY1FqQUJtMVNXZTdvZ0ticTQ3T1RIQW5HaDI5TGFwNU15RnR4UDZWZ1FtVlRWa2RjX3VSSmtoS2NmYmFtNVIwel9ldU7SAdMBQVVfeXFMTjZVNFRDY3ZkcEhHc040RmRmR0hyeDZPeHQzem0wNEg2aDdLRTFYaVg0REhBMVZvaWFkT3VRcE1WLTZkNExlblJEaVlUNDM5UDAwUmNvMXZRbUw5VjFlVHNnLVdkTnlTR0hYZFdERExQRHE2MVZFX1AxazBkNFpOWC1uZEJWZEJtUFY2cVd0MnpIc2dEMHd4WFVHSG51TFNlWWI5YTh6RFlYdGdQRHc2S0Y2NXItd0Q5eWd2TVA3YWdQcm4yTWVlRngxNENWRzkzdE5Bcw?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-08-28T12:15:55.412Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2498ce5d63239f27f93e367d979693906c06b5521085edf67a7f5578adf9cef5",
+      "title": "Death toll from devastating Nepal-Tibet floods passes 500",
+      "sourceUrl": "https://www.thenationalnews.com/news/asia/2026/08/28/death-toll-from-devastating-nepal-tibet-floods-passes-500/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-28T12:15:57.636Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

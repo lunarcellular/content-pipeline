@@ -31715,6 +31715,33 @@
       "processedDate": "2026-08-28T11:27:18.330Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "41444080b6a6a4c0c1377c93e16b64897cdbe81b8820bde121fc9f50a6bb3a02",
+      "title": "ADIHEX 2026 opens in Abu Dhabi with record 2,405 exhibitors from 71 countries",
+      "sourceUrl": "https://gulfnews.com/uae/people/adihex-2026-opens-in-abu-dhabi-with-record-2405-exhibitors-from-71-countries-1.500655451",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-28T12:01:09.688Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "15285f19efa386799ee953254d9bee2715cf2714deeb1a6fbdab7101ef2c32f8",
+      "title": "'It took everyone': Brothers tell of devastation after deadly floods on Nepal-Tibet border",
+      "sourceUrl": "https://www.thenationalnews.com/news/asia/2026/08/28/it-took-everyone-brothers-tell-of-devastation-after-deadly-floods-on-nepal-tibet-border/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-28T12:01:11.707Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8dbccabb62dd170c765cac6dbb92c72ff00146154a16b045efcdc2aed17a008c",
+      "title": "Flexible working hours for UAE government workers for return to school",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/28/flexible-working-hours-for-uae-government-workers-for-return-to-school/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-28T12:01:14.033Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -31607,6 +31607,24 @@
       "processedDate": "2026-08-28T08:01:10.385Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3b02f0a7246a086f6fb0b73c47400584dfa53ec1607e919657f7eda8409996d9",
+      "title": "UAE sets Dh500,000 fine for unlicensed higher education institutions",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-sets-dh500000-fine-for-unlicensed-higher-education-institutions-1.500655224",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-28T08:15:57.649Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5d2d55215590aef5293ff2b8afef9d482d85520c0dda6038345d86c06bdcad3a",
+      "title": "UAE sets four-day phased return for students as new school year begins",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-sets-four-day-phased-return-for-students-as-new-school-year-begins-1.500655204",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-28T08:16:28.068Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-28-uae-schools-phased-return-2026.md"
     }
   ]
 }

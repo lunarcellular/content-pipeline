@@ -31805,6 +31805,15 @@
       "processedDate": "2026-08-28T13:31:54.165Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "ba41751ccc12bdaf4708624c5425183a7dc1729e4563601b2fb5a53da175f4c0",
+      "title": "Sheikh Mohammed marks Emirati Women’s Day, pays tribute to his mum's kindness, strength",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sheikh-mohammed-emirati-women-day-tribute-mum-strength",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-28T14:01:54.588Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

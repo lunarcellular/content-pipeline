@@ -31922,6 +31922,15 @@
       "processedDate": "2026-08-29T03:01:12.684Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7f40e224081469e6ed4520f6aa8507812ba61462567a00e293087d7873bfec1a",
+      "title": "UAE weather: Fog reduces visibility; red, yellow alerts issued in some parts",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/august-29-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-29T03:20:40.722Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

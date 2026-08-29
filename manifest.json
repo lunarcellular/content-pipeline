@@ -31976,6 +31976,24 @@
       "processedDate": "2026-08-29T06:46:00.410Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0bdd65f3b85c6cb856ca257f27ee6aefe997b4101a526eee0ea0d9abe56f2bf7",
+      "title": "Dubai parents urged to check discounts in final back-to-school shopping rush",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-parents-urged-to-check-discounts-in-final-back-to-school-shopping-rush-1.500656162",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-29T07:15:51.163Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2869bebfe7913c5b5404838f7d8feea40bdce837a49c8c245f77499e0c4b27c6",
+      "title": "Nepal-Tibet flash floods: 90 Americans, 100 Chinese nationals among 3,000 missing",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/nepal-flash-flood-americans-chinese-indians-missing",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-29T07:15:53.093Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

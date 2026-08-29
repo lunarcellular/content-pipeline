@@ -32030,6 +32030,24 @@
       "processedDate": "2026-08-29T10:01:10.706Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9df8e119179bb0cf110e571d59b0dcab56f14ac4d07f752e6f85fb4bfd25b043",
+      "title": "17,000 children need urgent aid after Nepal floods: UNICEF",
+      "sourceUrl": "https://gulfnews.com/world/asia/17000-children-need-urgent-aid-after-nepal-floods-unicef-1.500656189",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-29T10:16:02.541Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e1bf41d226d0eafe1934b297004937405d04eb4bd9a2d14d108aa2c4785ba3e9",
+      "title": "Gargash calls anti-UAE media campaigns ‘desperate’, says nation’s achievements speak louder than attacks",
+      "sourceUrl": "https://gulfnews.com/uae/gargash-calls-anti-uae-media-campaigns-desperate-says-nations-achievements-speak-louder-than-attacks-1.500656285",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-29T10:16:04.839Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

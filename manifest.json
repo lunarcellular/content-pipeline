@@ -32138,6 +32138,15 @@
       "processedDate": "2026-08-29T14:16:10.676Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1434084ad8ab7f0d1471f7590c27490195229ea9ae1520c70d084f0cfcdaa39a",
+      "title": "Sharjah private schools prepare for new term with 204,000 pupils and six new campuses",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/sharjah-private-schools-prepare-for-new-term-with-204000-pupils-and-six-new-campuses-1.500656513",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-29T14:46:27.576Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-29-sharjah-private-schools-new-term-204000-pupils.md"
     }
   ]
 }

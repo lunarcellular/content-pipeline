@@ -32147,6 +32147,15 @@
       "processedDate": "2026-08-29T14:46:27.576Z",
       "relevant": true,
       "outputFile": "output/2026-08-29-sharjah-private-schools-new-term-204000-pupils.md"
+    },
+    {
+      "urlHash": "e8ee2807a343c04521aa923748cedae18cdc8391b9ee1afe615179cac96193ef",
+      "title": "Dubai Police trains security guards across 35 schools",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/29/uae-schools-dubai-security-guards-training/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-29T15:31:04.441Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

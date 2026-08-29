@@ -32201,6 +32201,24 @@
       "processedDate": "2026-08-29T16:31:01.670Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e360c7d8043ff7f3897e20f5f18fde944fc4864c3238d10840fad1727895b631",
+      "title": "UAE President, Dubai Ruler meet to discuss nation's growth, long-term development plans",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-president-dubai-ruler-meet-al-marmoom-august-29-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-29T17:15:55.636Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e360c7d8043ff7f3897e20f5f18fde944fc4864c3238d10840fad1727895b631",
+      "title": "UAE President, Dubai Ruler meet to discuss nation's growth, long-term development plans",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-president-dubai-ruler-meet-al-marmoom-august-29-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-29T17:15:57.712Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

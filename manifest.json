@@ -32183,6 +32183,15 @@
       "processedDate": "2026-08-29T15:46:02.670Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7fdb07c5d47c9189e432f77c72d44dc3a1917aadb0217a9a849aa941a3d8cb4b",
+      "title": "UAE prepares for back-to-school rush with staff training and phased return of pupils",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/29/uae-back-to-school-rush-traffic-plans-staff-training/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-29T16:16:12.880Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-29-uae-schools-back-to-school-safety-measures.md"
     }
   ]
 }

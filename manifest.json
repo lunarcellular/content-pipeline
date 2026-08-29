@@ -32093,6 +32093,15 @@
       "processedDate": "2026-08-29T11:01:10.770Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7146ab91e0b762b80ed3b048e0d329082479077fb15c16156b2e45e901724d3d",
+      "title": "Abu Dhabi announces free Hafilat card for high-scoring public school students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/abu-dhabi-free-hafilat-card-high-achiever-public-school-students",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-29T11:16:19.872Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

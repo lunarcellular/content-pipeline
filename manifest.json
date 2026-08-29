@@ -31877,6 +31877,51 @@
       "processedDate": "2026-08-28T18:16:00.414Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3ab6f9da976b1daa87d158ffa09f300db882f875adc34d4debb89bd0d02cd797",
+      "title": "From Dh3.75 per trip to Dh10,000 a year: How much UAE parents pay for school transport",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/how-much-parents-pay-for-school-transport-cost-breakdown",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-29T03:01:05.476Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "317bb96a52883feaa0e485024186754974d86dc46b1a2c0c95e021b9d24385cb",
+      "title": "UAE parents urged to verify back to school discounts and online sellers",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/parents-verify-back-school-discounts-online-sellers",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-29T03:01:07.575Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ab6f9da976b1daa87d158ffa09f300db882f875adc34d4debb89bd0d02cd797",
+      "title": "From Dh3.75 per trip to Dh10,000 a year: How much UAE parents pay for school transport",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/how-much-parents-pay-for-school-transport-cost-breakdown",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-29T03:01:09.402Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "317bb96a52883feaa0e485024186754974d86dc46b1a2c0c95e021b9d24385cb",
+      "title": "UAE parents urged to verify back to school discounts and online sellers",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/parents-verify-back-school-discounts-online-sellers",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-29T03:01:11.057Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8f20f97763e7675c1a5d4e1fb5cafa103aed613a95b1b757829bb88727d4aa0f",
+      "title": "Climate change raises risk of 'catastrophic' events as Nepal-Tibet flood death toll mounts",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/08/29/climate-change-raises-risk-of-catastrophic-events-as-nepal-tibet-flood-death-toll-mounts/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-29T03:01:12.684Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

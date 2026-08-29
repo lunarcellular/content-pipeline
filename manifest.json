@@ -32102,6 +32102,15 @@
       "processedDate": "2026-08-29T11:16:19.872Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "6eb29c65af58cea1adc299ee97193caf49900787c0a6f009a41d55e4cefa3db3",
+      "title": "At least 27 killed, 7 injured in Zimbabwe crash involving church minibus",
+      "sourceUrl": "https://www.khaleejtimes.com/world/africa/zimbabwe-crash-church-minibus-death-toll",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-29T12:01:07.412Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

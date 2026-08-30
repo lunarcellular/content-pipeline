@@ -32273,6 +32273,15 @@
       "processedDate": "2026-08-30T03:01:28.323Z",
       "relevant": true,
       "outputFile": "output/2026-08-30-dubai-new-premium-school-opening.md"
+    },
+    {
+      "urlHash": "458ade9896e3151b48cd1dbb1f7bdff4735837631dbd66732968e90c2da7b02a",
+      "title": "Nearly 3,000 missing as Nepal-Tibet flood search continues",
+      "sourceUrl": "https://gulfnews.com/world/asia/nearly-3000-missing-as-nepal-tibet-flood-search-continues-1.500656805",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T04:01:08.651Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

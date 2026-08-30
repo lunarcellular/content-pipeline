@@ -32372,6 +32372,33 @@
       "processedDate": "2026-08-30T09:16:31.953Z",
       "relevant": true,
       "outputFile": "output/2026-08-30-abu-dhabi-school-buses-prepared.md"
+    },
+    {
+      "urlHash": "da075d64800733716ce95a9b96326fac937e9d1c94ee4af1ec1b3e1a19c77105",
+      "title": "UAE Back to School 2026: Record 1.27 million students to return with phased start and new reforms",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-back-to-school-2026-record-127-million-students-to-return-with-phased-start-and-new-reforms-1.500657076",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T09:46:54.589Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-30-uae-students-full-return-classrooms-2026.md"
+    },
+    {
+      "urlHash": "4a63b0a278ca915fcc7d11181ef45cdca838fb0eb7c99b693e630af5803b1a34",
+      "title": "UAE Back to School 2026: Record 1.27 million students to return with phased start and new reforms - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc1FHNVdndmwwbExwUWYzbmd6NklldzFlRDlabTJMTDFBRkdGVVB5STZZdDdzWWRoUXUzSm1ScHNqVlRoNzU0b3YtckhlUVBIalFjVEpxOUcyeXlCVlVTa1BRcjVVVlcwZTh2ZVNRSFdhR3lsOElmaE1BbkVyazExNmRmTXFqbVg3V1lyWHhHM0RzSldRX0pkczBJOHZFNW9BVFZSMVJSanVJR05FTnotUWpZSHdscTlieGNBZEF2MXJMUUFwNlhza0R1NVR0dzRKV2NLbGdnREpoQdIB7AFBVV95cUxPRXA4Y2hzVGZ4STNEaEJSdWxuTU9CU2JCZ19aRE5IQWZrXzdsMUZsLXhZMTNrZVl4V29UMkZsSzhBaFo1OGo1Z3kxZXdBMGxxRkpKNnJ0RnhDT01qcXBGVjgwSVIzTWlyZkxlX0hUY2Y2VUlsOXhKUndRNjY2T252aEN6d21GTkQweF83U2NaSUc5OWxBYlNzWnNNNUFLRHJlbmZWaHVTRlcwRGd4NVc3QVc1OVVNdHE2SC1MWWhnQTVvTVJNb28tX0JxOHh6bjI3bkVnWTNLZHFNV3FHYXdIWXkyUzlRVk5WVGJxcw?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-30T09:46:54.589Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-30-uae-students-full-return-classrooms-2026.md"
+    },
+    {
+      "urlHash": "53922abf384eda8b4cf38c7e30432b4821bbc4c690575f357e5c37ea7f2bda53",
+      "title": "UAE school year starts Monday, how many teaching days and holidays are there?",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-school-year-starts-monday-how-many-teaching-days-and-holidays-are-there-1.500657064",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T09:47:06.802Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-30-uae-school-year-2026-27-dates-assessments.md"
     }
   ]
 }

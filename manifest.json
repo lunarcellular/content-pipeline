@@ -32408,6 +32408,24 @@
       "processedDate": "2026-08-30T10:16:09.859Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c5982763ad6ab9ca5a7261df1dbc2eafec903304b223244fc7fe15da1f5d80d4",
+      "title": "UAE school year starts Monday, how many teaching days and holidays are there? - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUdoZTZrelE0bDJ5aDg5RWNkQ2FjZVMzZEFGNnVJTTdlbFZGTHR4bTZaTEY0TFZMb2otWHBtSFRTUTBsb0FFaXVuVHhZZ1FOSU9OSEM1QnI0dTg1MjVxS2tvUmM1Uzg5SHNIQ3F2N1ZQNkRJa2ZWU3VvQzlzU2xLMXJRbnNDakxTQ3Y3RWFfdDhIR3F6VEx0eU1TUzFUUWdjNjB4Sk0xemNaRlZKVGtseU9ZcjlobFNESFI3eGMwTdIB0gFBVV95cUxPNV9maHpMWDR0NlNPZFFwUU15UTNINkwxVlRPZExpTnVFb1MwRHc5M056dEVWYzlXNkNRLTl2cGRic3pacDZGUWlSVmVfNnhMajFkZTNjemZ2WGlOOEppclBzZVBMUkpCUmZLaEc1bmc5c2RLTlRPa2FpRlptNDZIMzJUcHM1T0d1cTZlY2hkdzlSMUNTNklMXzA2TGw4UDNPei1MRXo3LXJ0U29JQ3QwM3JZYTJjUDlsdi1jYjA1X0hkMm1DUTVTU205c0JLeVVwb0E?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-08-30T11:31:06.563Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ed4eb9e783e2f6384566e826438cee8af37df4a57a7fc8e790660e556a8adcf2",
+      "title": "Back to school in Dubai: Number of teachers rises 17.5% in 3 years",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-teachers-return-back-to-school-number-rises-role-of-educators-khda",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-30T11:31:33.006Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-30-dubai-schools-educator-increase.md"
     }
   ]
 }

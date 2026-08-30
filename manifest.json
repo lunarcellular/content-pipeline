@@ -32435,6 +32435,24 @@
       "processedDate": "2026-08-30T12:15:55.115Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "aa8905a4c30ce39a93287220d1c4988d70da5b95ca8174ee4bbaf882e6158a3e",
+      "title": "Nepal floods: Teacher rang the bell, 1,643 children escaped. Minutes later, school was swept away",
+      "sourceUrl": "https://gulfnews.com/world/asia/nepal-floods-teacher-rang-the-bell-1-643-children-escaped-minutes-later-school-was-swept-away-1.500657237",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T13:31:00.567Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "153e849f684c498ebeef5350f65562a03e7f52cf223f380c7fd9b66544f9ea5a",
+      "title": "Uzbekistan announces 30-day visa-free entry for Indians",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/uzbekistan-30-day-visa-free-entry-indians",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-30T13:31:02.648Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

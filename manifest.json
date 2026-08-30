@@ -32318,6 +32318,24 @@
       "processedDate": "2026-08-30T08:46:20.604Z",
       "relevant": true,
       "outputFile": "output/2026-08-30-abu-dhabi-school-buses-2026.md"
+    },
+    {
+      "urlHash": "27c2935e6760b766531458710569b6ed7691497fa893a14b0cb5a2ed9c424ef5",
+      "title": "Abu Dhabi Police warns: Dh1,000 fine for passing stopped school buses",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-police-warns-dh1000-fine-for-passing-stopped-school-buses-1.500657042",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T09:01:10.288Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "10552b292961f8d02c3976b9e6d0239e767c2c54d800dbc7ea7312f496e27ee3",
+      "title": "Nafis sets two cases for Emirati women in private sector to receive child allowance",
+      "sourceUrl": "https://gulfnews.com/uae/nafis-sets-two-cases-for-emirati-women-in-private-sector-to-receive-child-allowance-1.500657039",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T09:01:13.011Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

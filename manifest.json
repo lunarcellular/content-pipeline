@@ -32309,6 +32309,15 @@
       "processedDate": "2026-08-30T07:30:24.387Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c5302e7cb76f39305fe7c07497fc49b1f05fe790b461415f9143c415fb413fd3",
+      "title": "Abu Dhabi readies 10,000 school buses for more than 279,000 pupils",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-readies-10000-school-buses-for-more-than-279000-pupils-1.500657031",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T08:46:20.604Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-30-abu-dhabi-school-buses-2026.md"
     }
   ]
 }

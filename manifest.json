@@ -32237,6 +32237,42 @@
       "processedDate": "2026-08-30T01:43:32.840Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4862cb409c1c198857ba1b9a7b8a3ec2d0df327a6d70bf2be8acc2896c901b6c",
+      "title": "Back to school UAE: Is your child’s lunchbox safe in the heat? From ice packs to hygiene, what matters most",
+      "sourceUrl": "https://gulfnews.com/uae/education/back-to-school-uae-is-your-childs-lunchbox-safe-in-the-heat-from-ice-packs-to-hygiene-what-matters-most-1.500656794",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-30T03:01:08.897Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "813e2afc9d5d6be06607443be291789664ac60dfe278be1682f91f036304f36e",
+      "title": "Back to school in UAE: Demand for gadgets rises; retailers offer up to 30% discount",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-gadgets-demand-30-percent-discount-flexible-payment-options",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-30T03:01:11.532Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "813e2afc9d5d6be06607443be291789664ac60dfe278be1682f91f036304f36e",
+      "title": "Back to school in UAE: Demand for gadgets rises; retailers offer up to 30% discount",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-gadgets-demand-30-percent-discount-flexible-payment-options",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-30T03:01:13.697Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d01dacc3b0cfde2acc42e9654b3988ebe7c5ef0ccf4910c5ea3886720796750d",
+      "title": "Inside Dubai's Harrow School set for grand opening for new academic year",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/30/inside-dubais-harrow-school-set-for-grand-opening-for-new-academic-year/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-30T03:01:28.323Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-30-dubai-new-premium-school-opening.md"
     }
   ]
 }

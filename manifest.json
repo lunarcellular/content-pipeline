@@ -32903,6 +32903,15 @@
       "processedDate": "2026-08-31T10:32:18.127Z",
       "relevant": true,
       "outputFile": "output/2026-08-31-abu-dhabi-life-skills-programme.md"
+    },
+    {
+      "urlHash": "b460967a6eee693260b40e8ecad6f3bf43396e661dcd4c36417ea60dc7738b74",
+      "title": "UAE schools reopen: Sharjah child safety body urges parents, teachers to work together",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-reopen-sharjah-child-safety-six-priorities",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T10:45:56.570Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

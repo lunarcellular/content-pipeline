@@ -32957,6 +32957,24 @@
       "processedDate": "2026-08-31T12:01:08.645Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5249beb2568b2f4f033f6b5516cb4cbb5d8854518cdc035a7dd97b68f3e2d01c",
+      "title": "GCC Secretary General condemns in strongest terms Iranian aggression against UAE using drone",
+      "sourceUrl": "https://gulfnews.com/uae/gcc-secretary-general-condemns-in-strongest-terms-iranian-aggression-against-uae-using-drone-1.500658161",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T12:15:54.134Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "441e5bf5556bc937dc34b53ecd9b1cdbe4aa718cc4f91c08b43885972ce200d8",
+      "title": "Dubai Police deploy more patrols around schools as new academic year begins",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-more-patrols-school-zones-road-safety-academic-year-2026-2027",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T12:15:56.533Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

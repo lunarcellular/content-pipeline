@@ -32570,6 +32570,69 @@
       "processedDate": "2026-08-30T20:04:32.886Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f28c0d065b64eaa3b9d4d88c48379c77a2c3b057e99c4e7b683c00d88cb3e840",
+      "title": "Security guards prep to welcome students, visitors back to school in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-back-to-school-students-parents-august-31-2026-live-updates",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T03:01:09.850Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ad45a5fe89a2694985fe5dc637f8f9fdbd8deecb9ed99ba7b01ed42208dab75e",
+      "title": "1.27 million UAE students head back to school as families reset routines",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/over-1-million-students-back-to-school-families-reset-routines",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T03:01:14.257Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f6f31d6f69af7a20a3209263238b8bc027879ccd349c60de2e8cce6dfb6d51a8",
+      "title": "A new UAE school year, and a broader vision for education",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/editorial/2026/08/31/uae-school-year-education-reform-social-media-ai/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-31T03:01:17.845Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ca16aff7a9fb1ccd7406dd3425d17e03768ed811b64088898ada7e227a1b8e7",
+      "title": "US claim on Venezuelan oil reserves is a deliberate red cape to a bull",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/08/31/us-claim-on-venezuelan-oil-reserves-is-a-deliberate-red-cape-to-a-bull/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-31T03:01:19.575Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "be92ebf78ec08661ca1f16d05844474991cde0f2ec0085d38728d9b3b206b9ea",
+      "title": "Sultan bin Fahad explores historical links between jazz and Islam in solo exhibition",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/08/31/saudi-artist-sultan-bin-fahad-links-jazz-islam-blue-note-exhibition/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-31T03:01:21.592Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7f58a28974326a09109e1f381fee50e73da7a5a8d45095065485ddf56e5947d5",
+      "title": "UAE schools roll out digital citizenship lessons as mobile phone ban takes effect",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-schools-digital-citizenship-mobile-phone-ban",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T03:02:05.855Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-31-uae-schools-mobile-phone-restrictions.md"
+    },
+    {
+      "urlHash": "e0c2c7761c92171fa84a19f92bc187a4b63ac60acdd2cbcb2711b8309eb216c3",
+      "title": "UAE schools roll out digital citizenship lessons as mobile phone ban takes effect - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzlUdjBaOE1vV0c1VWZERGtneVZvbkFYT05CeDNhektHQ29QU3NJVHhraHpudmp1R0ZXOGZMWko1V2N3aDVGSWwycXlZQ29wT1dyOS1oa0dPelhnVjY3N3VId3p5Zk1XdjVZZ0hiOUQ5Rk5Ha1RXYm5udUh4SHYxMFo0ODJ5MVAtdjVUdWRkM0VSWTVoVVV6OWZldlRRb1YxdXh30gGrAUFVX3lxTE1heTlfbVEwZ0NEeXRmZGRwV3dxTkpsdW5qa25sempnY0JrT2ZOM3lJUEVERkNoM0pvUm9aT0htNldLQlBodENVMWdWY1p6UVFXcWhQR2x6bEJaWmhreWgyMTBGY2xxVG5idndiaVJQWlp4dmNEMVdjMVFfV0Nhc1JpSG1zek13Um11LVZZa3ZHbXIySi01Mjk2dVI1NXRQODA4SENFMFlWTDdJMA?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-08-31T03:02:05.855Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-31-uae-schools-mobile-phone-restrictions.md"
     }
   ]
 }

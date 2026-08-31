@@ -32768,6 +32768,24 @@
       "processedDate": "2026-08-31T08:45:57.339Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ef2c22b2e08251206eb43918b1682b53797a6c245a4bfb88f0aa31dcc55582dc",
+      "title": "How a 17-year-old is reshaping student volunteering for Dubai’s workers",
+      "sourceUrl": "https://gulfnews.com/friday/how-a-17-year-old-is-reshaping-student-volunteering-for-dubais-workers-1.500657883",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T09:01:07.085Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6b8f5f05b113b6ee6037948b76416f327a5c0949d24a5d8a7a81217632fc473b",
+      "title": "Abu Dhabi launches life skills programme for children aged 7 to 18",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-launches-life-skills-programme-for-children-aged-7-to-18-1.500657908",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T09:01:33.556Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-31-abu-dhabi-life-skills-programme.md"
     }
   ]
 }

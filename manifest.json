@@ -32786,6 +32786,15 @@
       "processedDate": "2026-08-31T09:01:33.556Z",
       "relevant": true,
       "outputFile": "output/2026-08-31-abu-dhabi-life-skills-programme.md"
+    },
+    {
+      "urlHash": "29345d4de13376b1471cc49766b4a113efff228bd2351dc158ae735773133cd3",
+      "title": "Parents pay Rs 1,500 for CCTV, discover 3-year-old tied to chair, beaten at playschool",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/parents-pay-rs-1500-for-cctv-discover-3-year-old-tied-to-chair-beaten-at-playschool-1.500657929",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T09:16:11.220Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

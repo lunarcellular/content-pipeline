@@ -32975,6 +32975,42 @@
       "processedDate": "2026-08-31T12:15:56.533Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5697d66664fb354dcf80a978395fafa65b556e6041b9fdf1fa0d101d2a1c7550",
+      "title": "Inside a UAE classroom on the first morning back: How UAE teachers handle school nerves",
+      "sourceUrl": "https://gulfnews.com/uae/education/inside-a-uae-classroom-on-the-first-morning-back-how-uae-teachers-handle-school-nerves-1.500658194",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T12:31:00.569Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ec152a617ae3115cfd0ad434cc207dcb1afca4bac74782ecd02b4370ae956a6",
+      "title": "National Archives and Library marks Emirati Women’s Day with month-long programme",
+      "sourceUrl": "https://gulfnews.com/uae/people/national-archives-and-library-marks-emirati-womens-day-with-month-long-programme-1.500658202",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T12:31:02.737Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fd726bc85b3597bceadd1e5552153a7e5a7773e858bee181bb9e6c1ba9ad49f9",
+      "title": "Dubai Police step up school safety efforts as students return for new academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-school-safety-students-new-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T12:31:05.034Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c0003debeafd76ac61748010dd5c2566f539263d0962ddfa29bf0764f03d5689",
+      "title": "Back to school in UAE: Campuses ease 1.27 million students into academic year 2026-27",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-over-1-million-students-academic-year-2026-27",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-08-31T12:31:06.897Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

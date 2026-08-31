@@ -32651,6 +32651,24 @@
       "processedDate": "2026-08-31T04:01:25.853Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4b7bbfaf9d0f2290f413dbcd7d83cfc5ddadbffda660baf6d9659f26366c7bb2",
+      "title": "President wishes UAE students, teachers and parents a successful new academic year",
+      "sourceUrl": "https://gulfnews.com/uae/government/president-wishes-uae-students-teachers-and-parents-a-successful-new-academic-year-1.500657606",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T04:16:08.418Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a3e6a654766852aea0d56d3c6bd0d7f4ca71a31c025d4359fe6ff0ce0b0a436",
+      "title": "President Sheikh Mohamed sends out message of support on first day of school",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/31/president-sheikh-mohamed-sends-out-message-of-support-as-uae-goes-back-to-school/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-31T04:16:10.511Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -32732,6 +32732,15 @@
       "processedDate": "2026-08-31T07:01:37.320Z",
       "relevant": true,
       "outputFile": "output/2026-08-31-uae-national-charter-school-experience.md"
+    },
+    {
+      "urlHash": "636352ce49c031742cc3c7180edabf958a9e473359cba9f2d15c72fac4bfb7ae",
+      "title": "Five reasons students from across the region choose Canadian University Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/five-reasons-students-from-across-the-region-choose-canadian-university-dubai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-08-31T07:46:47.818Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

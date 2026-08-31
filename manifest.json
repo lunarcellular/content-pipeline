@@ -32633,6 +32633,15 @@
       "processedDate": "2026-08-31T03:02:05.855Z",
       "relevant": true,
       "outputFile": "output/2026-08-31-uae-schools-mobile-phone-restrictions.md"
+    },
+    {
+      "urlHash": "7bcad264ab995795f1a1e89febd1a02f8b6578822eb22cc8b0af231416525284",
+      "title": "UAE back to school 2026: Live updates as record 1.27 million students return to classrooms",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-back-to-school-2026-live-updates-as-record-127-million-students-return-to-classrooms-1.500657561",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T03:15:59.922Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

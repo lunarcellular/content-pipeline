@@ -32912,6 +32912,24 @@
       "processedDate": "2026-08-31T10:45:56.570Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e52b58b78c734084e8ac33c514bb17b98b27dbfefc718e4080ff456b10a5b7eb",
+      "title": "UAE President to school students: You are the future of this nation",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-president-to-school-students-you-are-the-future-of-this-nation-1.500658068",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T11:15:54.745Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5d4b35a8df532db969822b2a40f419483852567aeaaf6dae2a33ce86139654a1",
+      "title": "'Joy, friendship and care': UAE pupils excited for start of new school year",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/31/uae-2026-2027-academic-year-students-excited/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-31T11:15:56.977Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

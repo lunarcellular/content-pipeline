@@ -32705,6 +32705,33 @@
       "processedDate": "2026-08-31T06:01:10.424Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f55764a4b3165d82f147514645c31b7dbdb47d77c12a32c7487e2a19b2c43f33",
+      "title": "Yash's mother hits back at Allu Aravind over 'Who was Yash before KGF' jibe, alleges Toxic smear campaign",
+      "sourceUrl": "https://gulfnews.com/entertainment/yashs-mother-hits-back-at-allu-aravind-over-who-was-yash-before-kgf-jibe-alleges-toxic-smear-campaign-1.500657772",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T07:01:06.381Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b5cb483c119ff417b0c160e58202c308b4fc7141f6ad0804f86af23b9ba2b51",
+      "title": "Back to School: A health check for the new term",
+      "sourceUrl": "https://gulfnews.com/gn-focus/back-to-school-a-health-check-for-the-new-term-2-1.500657748",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T07:01:08.431Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3cdf635d7e7abf257bf2b30bfa14918deba2a17ca6c2de3d6672d7324979c4f9",
+      "title": "UAE National Charter to shape students’ school experience from new academic year",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-national-charter-to-shape-students-school-experience-from-new-academic-year-1.500657747",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T07:01:37.320Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-31-uae-national-charter-school-experience.md"
     }
   ]
 }

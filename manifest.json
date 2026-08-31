@@ -32741,6 +32741,24 @@
       "processedDate": "2026-08-31T07:46:47.818Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d5566ae4db17d091dfdc10dbe884779189775fdfcfe6223e0b2e649b631e5292",
+      "title": "Vaibhav Sooryavanshi breaks 57-year-old record",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshi-breaks-57-year-old-record-1.500657854",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-08-31T08:15:56.130Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "045c48ce61ab05d533ba899131e9421edd96fbab66bd2e5caf04661561c583aa",
+      "title": "Queen Elizabeth’s School in Dubai becomes first UK state school to open in UAE",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/08/31/queen-elizabeths-school-in-dubai-becomes-first-uk-state-school-to-open-in-uae/",
+      "sourceName": "The National",
+      "processedDate": "2026-08-31T08:16:11.182Z",
+      "relevant": true,
+      "outputFile": "output/2026-08-31-british-curriculum-school-opens-dubai.md"
     }
   ]
 }

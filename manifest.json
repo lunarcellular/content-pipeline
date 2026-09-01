@@ -33281,6 +33281,33 @@
       "processedDate": "2026-09-01T05:18:00.011Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d402db116f1a18f3a2b8f33a1ef789d7d52cbb2aae5f8773bc1a5428f3df4424",
+      "title": "Over 1,000 killed in Nepal-Tibet floods as death toll rises after one week",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/nepal-tibet-flood-live-updates-death-toll-rescue-september-1-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T06:01:10.682Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b7e9a902f715a171d1d2fbdff6dcb89140d66dd16aac9f4a4f2c0d7360ed0b5",
+      "title": "GEMS Education sets out new academic year priorities, with Dh2 billion UAE investment and 20,000 new seats planned - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdkhnX3pNSDdGU2M2TlhSdTdCWDNSWVNoY3Yta251Tk9OR1F6Wks1NGt2RFdBSTlBYTFEX1lrRDZpYzhoMkhGXzU4WmNZck4xZzIwWlE4RVkzYmZ5UDQ1NnpWYkRfcFEydVBXakdja0VlQmlVRGc4LWczZzFrUFJrLVVSbG9HQ1M1bTRUb0JKcnpxQmhsdzVaYkpBTGVUTlplcFNxS2w2NlFoVV85R01kZDV4T2FUM3VZbnM3Y1hfZmFLWDRaV0xWVzFfS1BueFR2UEJtSUIxNzFVUnk4c1NJbWkzd9IB8wFBVV95cUxORlFORzN6OFozcy0tUm0zRXlvUV84LWNUNVpyeko3YW1HOTJIV2NYNW5qdmdnMzBKdjkxdlI2MkxiNEItX21LXzhNOWw5bDRSUzZVS3lrUl8tRDBJdG9KTzlvYjlOc0psbUQ2V3ZtSmlQZDN6UFcxaGhTRU15cjA1M1ViQThFR3k0azQ5X2ZyTmVxZUdPXzZHWTZZY25FUnd2cWt3NTJJWWpsZXI5ZWZCZHBpbTREVVBYZXdMMHN2TmR6X19HY192enQtX0x5eFlNVFRlNGNVcTEtY3ZvMlhLRWhBaExUaXpHbjRLU0tjUUg3QXc?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-01T06:01:26.907Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "20ab8cea753712018c1d0c112355fd1c66fc547f47d26a7edb9e1447296ae2e3",
+      "title": "GEMS Education sets out new academic year priorities, with Dh2 billion UAE investment and 20,000 new seats planned",
+      "sourceUrl": "https://gulfnews.com/uae/gems-education-sets-out-new-academic-year-priorities-with-dh2-billion-uae-investment-and-20000-new-seats-planned-1.500658947",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T06:01:39.989Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-uae-education-expansion-investment.md"
     }
   ]
 }

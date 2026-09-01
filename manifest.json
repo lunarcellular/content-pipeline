@@ -33362,6 +33362,15 @@
       "processedDate": "2026-09-01T07:45:55.381Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d4b458e4e72f63c784f9696d738586916bd24eaea839e50763302f1723ee6c34",
+      "title": "Abu Dhabi schools set strict ethics rules for teachers and staff",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/abu-dhabi-schools-set-strict-ethics-rules-for-teachers-and-staff-1.500659076",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T08:01:41.361Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-abu-dhabi-schools-ethical-guidelines.md"
     }
   ]
 }

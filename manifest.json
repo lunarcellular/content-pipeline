@@ -33308,6 +33308,15 @@
       "processedDate": "2026-09-01T06:01:39.989Z",
       "relevant": true,
       "outputFile": "output/2026-09-01-uae-education-expansion-investment.md"
+    },
+    {
+      "urlHash": "61f591b471c6900ebb39512a050410d5281ad563c8a9b67b13071484e4390669",
+      "title": "Olympic tennis champion Zheng Qinwen donates $150,000 to Nepal-Tibet floods",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/zheng-qinwen-donate-nepal-tibet-floods-olympic-tennis-champion",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T06:45:51.315Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

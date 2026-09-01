@@ -33659,6 +33659,24 @@
       "processedDate": "2026-09-01T15:09:10.057Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "110653a2d1d072fb86ce0d3d474b60b2e691477b70deed96a91e0b8cd7591f91",
+      "title": "Dubai schools record zero traffic deaths since 2010, RTA says",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-schools-record-zero-traffic-deaths-since-2010-rta-says-1.500659711",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T15:31:03.736Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dbf0c7eeac41a4b6e3abce7ec76e41ee522cea1a359502999a17dacca59d8f13",
+      "title": "Ghalibaf warns of military response if US siege is intensified: Iranian media",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-live-updates-september-1-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T15:31:05.808Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

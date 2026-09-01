@@ -33380,6 +33380,33 @@
       "processedDate": "2026-09-01T08:31:11.952Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a06c222017ed7d5d96d1bb1ff3ad7b879b2c59a086e7d693db925e3ee846f6d6",
+      "title": "UAE launches road safety campaign for school journeys",
+      "sourceUrl": "https://gulfnews.com/uae/transport/uae-launches-road-safety-campaign-for-school-journeys-1.500659214",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T09:31:02.312Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "63ce5bc4fe7306630e3810ec173b7d492c872f6e82bc9b4efd0aa80af1b4fda3",
+      "title": "Rob Reiner’s son Jake marries amid brother Nick's murder case, 8 months after parents’ tragic deaths",
+      "sourceUrl": "https://gulfnews.com/entertainment/rob-reiners-son-jake-marries-amid-brother-nicks-murder-case-8-months-after-parents-tragic-deaths-1.500659198",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T09:31:04.433Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "34432bcce9bbb13a12ed038e4b025bccd49abd46d4decca74a26ee3295859eb6",
+      "title": "Tibet holds memorial services for mudslide victims: Chinese state media",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/tibet-memorial-services-mudslide-victims-chinese-state-media",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T09:31:06.551Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

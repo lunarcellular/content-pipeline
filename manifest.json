@@ -33731,6 +33731,15 @@
       "processedDate": "2026-09-01T18:45:54.826Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "575478abb437287437363503afa30f0ba332a0dd90143147e7f068aeae10ce50",
+      "title": "Sharjah Ruler orders Sudan Private School to return fees after parent's complaint",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-ruler-sudan-private-school-return-fees",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-01T19:46:23.776Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-sharjah-ruler-refund-sudanese-students.md"
     }
   ]
 }

@@ -33524,6 +33524,24 @@
       "processedDate": "2026-09-01T11:31:09.477Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "a0385baa43eb029b83fa98930b66715fc2ef2f676a1c8f4763cb0de894eb0310",
+      "title": "Dubai RTA launches new school-year drive to keep students safe on the road",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-rta-launches-new-school-year-drive-to-keep-students-safe-on-the-road-1.500659405",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T11:46:16.689Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a33a494f11d317f5c60dcc836a7dca9d42d4ec0427a8011c4b2dcaad07077a3b",
+      "title": "Can you pass Al-Futtaim IKEA’s Swedish Test? Back-to-School gets a playful twist in the UAE - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDFMcGp6N1Z3SFRSQ01NSjZtdzN5U1NHVVl0UGI4c2V4c1RxS0RrSDBUbngzWXdsZkZCc1ltZ2k0RFZ1SG9LRXlwaE14MmtXUHVFS3dLU3NKbmdNRXZWOEV6M2hLYk52MlN2REw3dTdWRGJaVzVsNHRCS0E0T1lmYlcwbUpPRGV5d1VpQ011dHREUkdESnFBRlFhbDBiT1hZRERGcWFLdVNUUUtBdlAtRDQxb210OUhYNEhYOGdlZnE4cHJiakI1bzE3VGfSAdQBQVVfeXFMUE1QSm8xdXNVR2dCTm1RVVd0RXJUVG16cGw4S01tLWJVamJ1VnBEa2tZb29ZVnFNTEQ2enFQeTBIal94dTVLalh4YW9LcWltNlZmUmdNUW9UdkRMeTlqbTdDOEQ3NUx3R0JEazVleUtfb3k5YjJCckdiNTRvSHhPNjZkSGpRemozSXVEY21aVU4zTmxfclJhblVkN0ZvWGcwMDNpQ1BPQjBKYWdicmdpejZSRm1fXzFYMDlReWlRSE5McGgzY3AtdHV4VkhTMVhucDV2bEQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-09-01T11:46:19.795Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

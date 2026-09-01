@@ -33371,6 +33371,15 @@
       "processedDate": "2026-09-01T08:01:41.361Z",
       "relevant": true,
       "outputFile": "output/2026-09-01-abu-dhabi-schools-ethical-guidelines.md"
+    },
+    {
+      "urlHash": "0363a97839a20c65e533bc345850a1e217316de8e55745c82dfbe83fc95ffab8",
+      "title": "UAE schools welcome students back with full readiness for new academic year",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-welcome-students-back-with-full-readiness-for-new-academic-year-1.500659123",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T08:31:11.952Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

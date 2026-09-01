@@ -33551,6 +33551,24 @@
       "processedDate": "2026-09-01T12:01:56.361Z",
       "relevant": true,
       "outputFile": "output/2026-09-01-sharjah-free-schooling-sudanese-students.md"
+    },
+    {
+      "urlHash": "1a2173732d83c94df51247a5bd3813ac2bf45bc81fa148542d7bb849e5489cb1",
+      "title": "Back to school: UAE parents share their children’s first-day photos",
+      "sourceUrl": "https://gulfnews.com/uae/back-to-school-uae-parents-share-their-childrens-first-day-photos-1.500659456",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T12:15:51.515Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "533ebb7e5148a947e6671a59de45299be503693f5f270f5472d70343eb6a752c",
+      "title": "Minerva Virtual Academy to host parent event in Dubai on the future of education",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/minerva-virtual-academy-to-host-parent-event-in-dubai-on-the-future-of-education-1.500659481",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T12:15:53.753Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

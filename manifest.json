@@ -33407,6 +33407,24 @@
       "processedDate": "2026-09-01T09:31:06.551Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "03a6f0a8dddc4165673d4e575044c66d3eea108fe0de68371ad961042494d401",
+      "title": "Abu Dhabi Police welcome pupils back to school with gifts and safety messages",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-police-welcome-pupils-back-to-school-with-gifts-and-safety-messages-1.500659240",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T10:01:13.846Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6439c2fc6bc917a57a1867911a0009ea161a98579d4c8cc44e263878e26b8ba3",
+      "title": "Charles Spencer pays tribute to Princess Diana 29 years after her death",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/charles-spencer-princess-diana-tribute",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T10:01:16.049Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

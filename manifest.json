@@ -33254,6 +33254,15 @@
       "processedDate": "2026-09-01T03:02:42.451Z",
       "relevant": true,
       "outputFile": "output/2026-09-01-new-schools-uae-2026-27-academic-year.md"
+    },
+    {
+      "urlHash": "8e1d23187782c5400a8040e693d0b6ff39567d984f286dcca964c3c88404bcfb",
+      "title": "Natural History Museum Abu Dhabi turns to Lego for new interactive exhibition",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/01/natural-history-museum-abu-dhabi-turns-to-lego-for-new-interactive-exhibition/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-01T03:16:00.316Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

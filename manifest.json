@@ -33164,6 +33164,96 @@
       "processedDate": "2026-09-01T00:34:05.995Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "844a1e4b2c4b68817b7f51e80684e2db574e297bcd9b0ab8b09eee9f9b5176a1",
+      "title": "Teaching children to be human in the age of AI",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/teaching-children-to-be-human-in-the-age-of-ai-1.500655672",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T03:01:11.616Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb9d0d23a180da8bffbbfab9245a86799c22e8cc8044176fdf8e0417c45e5c8e",
+      "title": "Crackdown on illegal sharing: Dubai housing law allows surprise, routine inspections",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/crackdown-illegal-sharing-dubai-housing-law-surprise-routine-inspections",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T03:01:13.347Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb9d0d23a180da8bffbbfab9245a86799c22e8cc8044176fdf8e0417c45e5c8e",
+      "title": "Crackdown on illegal sharing: Dubai housing law allows surprise, routine inspections",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/crackdown-illegal-sharing-dubai-housing-law-surprise-routine-inspections",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-01T03:01:17.079Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b3312d27852858819022ba051adf0dcc62b30d0123fc0eb3ac73ce3d14954903",
+      "title": "Child Safety calls for unified family, school efforts - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWklFUG1QNENwOG1aR2U3ZkxiSzB2T012ZzFaX1lWSTdxUWNoeS0zdWRUa3BXbVd0LXdBUzFWZ1VmLWc1ZXctTXE5RFlXT0NEWm5YbmRHdDRHNEZ2aGJyWm05RHNIUm1NbTRwWWlhNjk0ZGstRF81VnE0MFFtNmo5TWpvZVJoN0RDdEE?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-09-01T03:01:25.033Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bedc9bf1956f863f4c700dcd339a0974ff51831bef98dedf3d46028a375d15a4",
+      "title": "Sharjah Police strengthen security for new academic year - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1BiNDlFcEQ1eGlIX2UyZ1JtaExMWW5nNUZmVFMzS3ZoS1M4alJEWjJLTlhGcTlZTXh4d1NOeEVFWFYybm4wZVJtWUJmU0FSTHNQcjVtOGFROTBERHFoRjlEdlBCTXZxbWdsbjU0bEhvd29kcklvWl9NaHJqQW1KMkFlMHhQVXc?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-09-01T03:01:26.973Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bcad1e06cb811748692b54278b5f1231e6d1d56a973817cfa10d657bb61b639f",
+      "title": "Dubai Police boost road presence to ensure safe start to new school year - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0loWWE5SEF0UmJUSDBxS25hY3Q3Z05uanN4bjZtbkhHdU9MMUVPckRKMzJOb1Jrckd3bGd2RlN0VjlYeTg4cGc0SWluN3pqSGF3Z3J2TDRSSzZUR2UwUFNMRnlPMTdKZkhLaWJ0bDlvcVZRdVdXRmJmVGRzVDZHM3R3S0FIVnhvdE9abUN6cTBLZw?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-09-01T03:01:28.952Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1e2852a85dcff84a58467dc9304d15973c554a2b093babd6749f5b77b7e7a0e3",
+      "title": "Back to school in UAE: New campuses welcome students for 2026-27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-new-campuses-welcome-students-2026-27-academic-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T03:02:42.451Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-new-schools-uae-2026-27-academic-year.md"
+    },
+    {
+      "urlHash": "1e2852a85dcff84a58467dc9304d15973c554a2b093babd6749f5b77b7e7a0e3",
+      "title": "Back to school in UAE: New campuses welcome students for 2026-27 academic year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/back-to-school-new-campuses-welcome-students-2026-27-academic-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-01T03:02:42.451Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-new-schools-uae-2026-27-academic-year.md"
+    },
+    {
+      "urlHash": "659597cb5b8681369e5a29d41814cc61f85744c3674da7544fd19cc832c7f9f6",
+      "title": "Back to school in UAE: New campuses welcome students for 2026-27 academic year - khaleejtimes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVExQkJ6blBTTDcwS1djTGxieHJ3R0NwR0tTU0dsOW5EUU5PTFNvc21idFhGbHgtdjlseUdHTGVJZTFrU1lJWjZ6XzFCY3ZzeXN1azJHdkxINUd6YkFQQWdFbG4xRzBWOGtmZ0pUTjVhSnJGWDlMM1l1SXhDNDlacWpIVnp0TXhQOFhleDVFbGMxSzVfVVM1cUJIQUx0RlFWNk1XU3RSdnRjVTNYV2fSAbYBQVVfeXFMT1FLOXFmT1dPdl8tamVCZkhOSGIxM3dpdzRSMk55REw2T3hQWFJhZmthS3FoZ3FQUnZHZk5WWU1fUll5Q1hrc0RqVWFZMUZVYUFkMGpZM1AxYWttaGxGN1Q3aDJDRVhtR0N0SmJRekJLQV9xUkNMUzJvUThqT1I5X19IdHc0WWpkU1BFZjFTTENYRkJNZFlfVVU2cDRSdnJhcFdxNXplYVlIWEV1Z0FlTE1ZZkhCMnc?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-01T03:02:42.451Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-new-schools-uae-2026-27-academic-year.md"
+    },
+    {
+      "urlHash": "659597cb5b8681369e5a29d41814cc61f85744c3674da7544fd19cc832c7f9f6",
+      "title": "Back to school in UAE: New campuses welcome students for 2026-27 academic year - khaleejtimes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVExQkJ6blBTTDcwS1djTGxieHJ3R0NwR0tTU0dsOW5EUU5PTFNvc21idFhGbHgtdjlseUdHTGVJZTFrU1lJWjZ6XzFCY3ZzeXN1azJHdkxINUd6YkFQQWdFbG4xRzBWOGtmZ0pUTjVhSnJGWDlMM1l1SXhDNDlacWpIVnp0TXhQOFhleDVFbGMxSzVfVVM1cUJIQUx0RlFWNk1XU3RSdnRjVTNYV2fSAbYBQVVfeXFMT1FLOXFmT1dPdl8tamVCZkhOSGIxM3dpdzRSMk55REw2T3hQWFJhZmthS3FoZ3FQUnZHZk5WWU1fUll5Q1hrc0RqVWFZMUZVYUFkMGpZM1AxYWttaGxGN1Q3aDJDRVhtR0N0SmJRekJLQV9xUkNMUzJvUThqT1I5X19IdHc0WWpkU1BFZjFTTENYRkJNZFlfVVU2cDRSdnJhcFdxNXplYVlIWEV1Z0FlTE1ZZkhCMnc?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-09-01T03:02:42.451Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-new-schools-uae-2026-27-academic-year.md"
     }
   ]
 }

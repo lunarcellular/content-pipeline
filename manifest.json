@@ -33605,6 +33605,24 @@
       "processedDate": "2026-09-01T13:31:11.222Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6a0daae376052430119e022c8a950046bdae66a4ad191266e0bd2341300d75be",
+      "title": "Sheikha Latifa bint Mohammed pays tribute to grandma who quietly shaped Dubai’s community",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sheikha-latifa-bint-mohammed-tribute-grandma-sheikha-latifa-bint-hamdan-bin-zayed-al-nahyan",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-01T13:45:58.447Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6a0daae376052430119e022c8a950046bdae66a4ad191266e0bd2341300d75be",
+      "title": "Sheikha Latifa bint Mohammed pays tribute to grandma who quietly shaped Dubai’s community",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sheikha-latifa-bint-mohammed-tribute-grandma-sheikha-latifa-bint-hamdan-bin-zayed-al-nahyan",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-01T13:46:00.810Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

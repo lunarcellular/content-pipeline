@@ -33542,6 +33542,15 @@
       "processedDate": "2026-09-01T11:46:19.795Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "857224adbbb7b2f6ac81597cc9dc8a67976fc45ef9b3420e72d1715cceeee54d",
+      "title": "Sharjah Ruler orders continued free schooling for Sudanese students",
+      "sourceUrl": "https://gulfnews.com/uae/education/sharjah-ruler-orders-continued-free-schooling-for-sudanese-students-1.500659458",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-01T12:01:56.361Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-01-sharjah-free-schooling-sudanese-students.md"
     }
   ]
 }

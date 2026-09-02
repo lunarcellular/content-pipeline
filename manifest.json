@@ -34100,6 +34100,15 @@
       "processedDate": "2026-09-02T16:01:41.313Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-uae-schools-ai-curriculum.md"
+    },
+    {
+      "urlHash": "d5c33add7748840c33c2c08e1bee00fdbb352ee724c939cced518e72f4399c76",
+      "title": "Sheikh Mohammed bin Rashid announces AI curriculum for all schools in UAE",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/02/sheikh-mohammed-bin-rashid-announces-ai-curriculum-for-all-schools-in-uae/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-02T17:31:12.100Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-ai-curriculum-uae-schools.md"
     }
   ]
 }

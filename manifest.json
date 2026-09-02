@@ -33974,6 +33974,15 @@
       "processedDate": "2026-09-02T08:31:13.604Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "073a42aeac44114ac37f22dae0f2d721fe00d14cc43c5bb1a93582290a1d779f",
+      "title": "Dubai tightens students' health and safety: School canteens, containers, pools, bottles and uniforms under scrutiny - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUFpYcDBGSzA0dk9DdVFCTXJvREROX01Lcy1IUkp6TkkwVndZdjdNUmZoYWYtVjk0V0hRNkNMclVsdFo5WVhSOWdJWlJ5elpESDFidXY5NUJ5ekFHRGpSdWxkZWZPUWZsZkM3Z1BHS1VxWjAtNXlFWE1IeWVwWWJCVFg3RUZtcUlwcjRSTzV6dEZTeEJ2dzhtRnpTQm9wYjdOQWkyOGxlZHpKcTJ1al9ZRnFaN3QtZElrb0p3clRTeXhXdTEzMTA5dXItQXRMUzhUVDNsWmR1WGEzN0JVOTM4amozTzF4Q2pVbjFXdlJB0gGAAkFVX3lxTE9vRWI1VTVCMFk2YjN2UXJBekxMZUNoUWlFaWRTMy1NNFJFSUdnM0lKbGRCUFdVYzVmaWx3SGxLZHhRUGdZbVE3ZHhLNXh0ZWhWTjlXYWNlMkxTQktUYk1DYVFjdFFLdnJPZ3NuVlp5ZHZnOGltQjNWazRFRUwwRGJKdWI3NDRPcEx0RTZKX1hsUmFQRy1Xd3ppdmI4MFUySEVnZ3FDeW1GUzdGYjhJS3kwOEJnTVhnSlZXUUdDSHNEQzNoZ3VyRXhMakJNS0pBTjVsRDRfQzJjdWhEUTFMQjlGbXlzOUtjNVhfNmRQSUdpUHdoOE9Wa2hocEFmWU45bVM?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-02T09:01:40.122Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-dubai-schools-health-safety-regulations.md"
     }
   ]
 }

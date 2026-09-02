@@ -33812,6 +33812,24 @@
       "processedDate": "2026-09-02T03:16:32.457Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-uae-schools-health-protocols-academic-year.md"
+    },
+    {
+      "urlHash": "4e739d2784a4637862df59df6eb7e17f4c893d2651ab63b1d6ae131512339a75",
+      "title": "Disney child star Dylan Sprouse compares growing up on set to child labour: ‘Some kids worked in coal mines'",
+      "sourceUrl": "https://gulfnews.com/entertainment/disney-child-star-dylan-sprouse-compares-growing-up-on-set-to-child-labour-some-kids-worked-in-coal-mines-1.500660193",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T04:15:57.129Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9611b8e0084304a32f1b18fae13e3f6c56fd996cc5dcc5b4bd6478e051147026",
+      "title": "Rescue efforts continue as death toll crosses 1,050 in Nepal-Tibet floods ",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/nepal-tibet-flood-live-updates-death-toll-rescue-september-2-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-02T04:15:59.072Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

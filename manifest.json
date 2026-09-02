@@ -34073,6 +34073,24 @@
       "processedDate": "2026-09-02T13:45:59.162Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4dbb7e5bf84d27fe382ee6cda0713141a094fee878d261ac234933a58090fb77",
+      "title": "From classroom to living room: Hisense TVs and projectors bring IMAX enhanced entertainment and eye-care comfort to families - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcVBxRUpFOU5XQ3BpdHBCbll5U0kwUm4yU2t2bk9weWViQ2xNTVlwN1dSS1Y1NnJsdUpDUXhva1lfTFpCN3ZrdUt3ODcyWURJUHRpR1RjLUFpbkw4TFc1UTFjTkZqZGltYVV5RVNNMXh4aGN6X285Y0tBcXFaTkd2TmwzTlhvNDg0VXN3TEpKVThMYnluRmZHbEI1TDlnY0x0ZXB3ZXJCU1FlMnFGaS04a01zOF9IdnEzLVk4Ulh6NEp4MXFZbDl1NDYxSG5KMHZaRGxram9qemtyaWtiOVVFd2hsclRfVTlVVUJDa0cwM2tpSGx6MGlOakRR0gGKAkFVX3lxTE96YS1OR3d6eVpWd1dDbEVJZnZMZnA4WnN3b21tSi1lN250UUhQdzhXdzdvM0NKemh1LWRhSjN5T2VoUzVLdVhlaFRoUm56Y1NRX0N1cFlrRzZscXZFSlRkVm02Qnpac2RDMFRJR1lPT1hmZlFQTkFGRWZoRXhxb0M0MzRxSTdfTWtlNVl6SEYtejdUbkZMbXJVQzdzYWpqQzNSS09USUFmaW9ldGR5ajBrWjNOaHVoaWhGbUFUU3dBODhtZ3JiSnhfVU5iaGdsd0hlTlFTU29lckhWNW8tazJiWnhDSWl4WnpfUzktWDZFUVllemVoMS1wblRBSDRIb19VTFhmcU9qZFpB?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-02T14:31:39.179Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "69d4b3aa18cb98f7da3371292b8988c529531f40eff65a89662f63c2720b37f3",
+      "title": "Ras Al Khaimah opens 3 private schools to meet growing demand for education - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmdYLTllbEJncEFJYXo3dTVSWnY2dkJ2WmczUWFudVlVLVpjdUZVMlF2bFZQelJuR3RObkVNLUtsS2xGT1Z2MlpJVVJRVTdYdnZXZzhTQkJxRWYydmI3N2xlYm9Jb1VrQW9qdzlReVZ4MlN6VXVaWVRDbjBSQ3pxQ1ZNWVJOZ9IBjgFBVV95cUxNMVNScHRZZnIwRHo0ZS04cDc1azlURzRiUTFwMEJ6aUY5Zy1NRmVPYWtjYkdTNHA4bjBJcFlWZ1UzWVM2Q21FUUVNUzlqQ1dqUGlnSXNCcUdQc1pVaThpRjFfRjBBUDdpSFVyMy1LV0E1dG9zd0ZCT1I5eW81Um1zZ0VnS1lpNFlsWVFfR3RR?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-02T14:32:15.213Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-ras-al-khaimah-private-schools-expansion-2026-27.md"
     }
   ]
 }

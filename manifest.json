@@ -33767,6 +33767,33 @@
       "processedDate": "2026-09-02T01:20:05.669Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "82461492c37ac9c2333c9331fef930650a79ada0d994f9703c9b921ac1c2ac98",
+      "title": "UAE school traffic is back: The driving habits making your commute worse, experts warn",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/transport/uae-school-traffic-driving-habits-making-traffic-worse-1.500659806",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T03:01:09.537Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "55e068ca34a0d3110c8b0d828a3756e278a5826abae0338a05bc9423e6e265d0",
+      "title": "UAE parents urged to not send sick children as schools tighten illness protocols",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-parents-urged-not-sick-children-schools-illness-protocols",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-02T03:01:11.254Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3c8132e93c86fde9f3d88b6c9217bc9d6bc48dd8d2b9d1f7cefd64a0771c75c0",
+      "title": "Emirati Women’s Day: Quiet work of mothers raising young people of determination",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/02/emirati-womens-day-quiet-work-of-mothers-raising-young-people-of-determination/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-02T03:01:13.255Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

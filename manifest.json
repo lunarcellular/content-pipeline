@@ -33902,6 +33902,24 @@
       "processedDate": "2026-09-02T05:46:11.815Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ebe04e01d263e26b60dd29bc66359545355c88a1c90218eba04c37b4f705addc",
+      "title": "Back to school: UAE parents share their children’s first-day photos - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1VlWGJjMXVjX3JNNVptcXdnejZPamRfWlJKWGMzbTNnSkljSzFsaG1lLXZhdVBWeHZXdkptWUlwT2xPVHBfdFoxdkcwYUxKX0VpMUhqLTBDTXlVQXJiU1VMTm9KYTIzREI2WHRvR0w5cGFEdHNIV2RadU5pSGh3U09PRnk4VlVFNTBfbGp5ZklwaS1kcHlLQTVTcUR4ekJnQ3Y5btIBtAFBVV95cUxNZUF1bGZCUlBFR2k4UUVHUi1BbUpWcDNvUXNfTVNuWWtuVTdCQ0hDT3BXMkdPQXRpOUFVQUF3VUdzN09lZ1FCMkNzYUNQVGdqY2pEY0RIQm9kSVVUWWFPaEc1VVBGRGxxTkdyTzhQUGU4Q2ZHd3A3eDhqUUtqYkU0RGtLNmN0VnA1ZDZpV0MyWU0yUWVsSEVfYS1qendZNzBpSkdVMVVLNDkwSVhFVHgwak9uWV8?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-02T06:20:45.653Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4ddb35ded59dd941283092ba9aa0beb9452ee1d8f86600d923e24348824178c7",
+      "title": "Sharjah Ruler orders continued free schooling for Sudanese students - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV01KY1RXZzkxcjNVWFZIWVRZc3ZFcUpDZGQwc1AyMFljV1ZGUjJWTF9PVjhVZUFSTl95bjBoeVJ2NU1pbWt5TTJxa3Y0OFdZcVkyelRvMl9SeUhZMW52WWg1T3VEVXpjbnNpQUVONDFkLV9CQkFnOU00QTk2TWNvNWt4WXB2cmptZWlGTUlnMUxsWHBaU2ZGdWxUYWdCSldyVFFmNXpmdGlRaWh6TTNpdnlMSTnSAccBQVVfeXFMTlBFb2lrNHEyVkRPUFFYcHZfMG5zTkpZOGdaZkltTkZuRmQ3U0FTYjJKd2RoY2h1THR6N2FyQ050YkpESmdsd1lXZlpVbnZDZUpNdmJvVXNPUjMtNERVcUFZVHRNVDRFNEtMdC1LQm1ETWRROUEtblJLQndvcXRoN0Ftb01aZmtjTkNfekJGVzZsbEtyWjFHMUdPVURTRHdQT2traXBvWXVJU1BKMG51WFJEc0xPT21BNExVRWZnVnhiSGUxZkR2MA?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-02T06:21:14.020Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-sharjah-free-education-sudanese-students.md"
     }
   ]
 }

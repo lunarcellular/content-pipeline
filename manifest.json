@@ -34010,6 +34010,15 @@
       "processedDate": "2026-09-02T10:01:47.079Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-dubai-schools-health-safety-inspections.md"
+    },
+    {
+      "urlHash": "799f28ec8b99f6c0199904f03e86ff489856ceb65c8c9f3eb4bd9e1e6885ebd2",
+      "title": "Ras Al Khaimah opens 3 private schools to meet growing demand for education",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/ras-al-khaimah-3-new-private-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-02T11:01:40.183Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-ras-al-khaimah-private-school-capacity-2026-27.md"
     }
   ]
 }

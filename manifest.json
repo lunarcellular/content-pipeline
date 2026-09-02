@@ -33992,6 +33992,15 @@
       "processedDate": "2026-09-02T09:16:23.941Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-dubai-schools-health-safety-inspections.md"
+    },
+    {
+      "urlHash": "7c94dfce47f6fa24e2759fcc0d11e1f7bbbb43d5b9c197b28ff4b00b38d0de4f",
+      "title": "Dubai inspects over 500 schools, checks food, AC, water tanks, pools, uniforms",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-municipality-schools-inspections-food-testing-checks",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-02T09:31:37.786Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-dubai-schools-safety-inspections.md"
     }
   ]
 }

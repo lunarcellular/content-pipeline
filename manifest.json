@@ -34109,6 +34109,15 @@
       "processedDate": "2026-09-02T17:31:12.100Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-ai-curriculum-uae-schools.md"
+    },
+    {
+      "urlHash": "5a5b008d36a42724559415ad126e122c8915c854059ee09ed03f0115a54cd68e",
+      "title": "1 adult hurt, no kids harmed after shooting at Virginia elementary school, official says",
+      "sourceUrl": "https://gulfnews.com/world/americas/1-adult-hurt-no-kids-harmed-after-shooting-at-virginia-elementary-school-official-says-1.500661248",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T18:45:53.497Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

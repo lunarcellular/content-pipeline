@@ -33947,6 +33947,15 @@
       "processedDate": "2026-09-02T07:31:15.672Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1194f717989e747080da42a4baa4acf62b335a17e604d926b124150da2375531",
+      "title": "'Give back the money': Sharjah Ruler orders free education for Sudanese pupils after fees wrongly collected",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/02/sharjah-ruler-sudanese-students-school-fee/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-02T08:16:09.224Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-02-sharjah-education-sudanese-students-fee-refund.md"
     }
   ]
 }

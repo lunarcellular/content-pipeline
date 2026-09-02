@@ -33920,6 +33920,33 @@
       "processedDate": "2026-09-02T06:21:14.020Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-sharjah-free-education-sudanese-students.md"
+    },
+    {
+      "urlHash": "c78d8be0d858e7349e6c2dead9164ce073b7cde8b7ae25a23d0a5b409461d1c0",
+      "title": "Dh1.2 million Austrian shotgun steals the show at Abu Dhabi Hunting and Equestrian Exhibition",
+      "sourceUrl": "https://gulfnews.com/uae/dh12-million-austrian-shotgun-steals-the-show-at-abu-dhabi-hunting-and-equestrian-exhibition-1.500660406",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T07:31:10.198Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ed85dda6e639630d865273b84b7e806ac44a9329e5cdb6a925198ab1f0f7c47",
+      "title": "From classroom to living room: Hisense TVs and projectors bring IMAX enhanced entertainment and eye-care comfort to families",
+      "sourceUrl": "https://gulfnews.com/best-buys/from-classroom-to-living-room-hisense-tvs-and-projectors-bring-imax-enhanced-entertainment-and-eye-care-comfort-to-families-1.500652627",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T07:31:13.704Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "687b0b1901a5a0184134e941665de157bcd3d9553aa13700ee4969ff6a2c5a21",
+      "title": "Zendaya turns 30: 'Euphoria' star thanks fans for making her last year of twenties \"beautiful\"",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/zendaya-truns-30-appreciate-for-making-her-twenties-beautiful",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-02T07:31:15.672Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

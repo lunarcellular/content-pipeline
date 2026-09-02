@@ -34037,6 +34037,24 @@
       "processedDate": "2026-09-02T12:15:57.316Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2dd0df9620c52d24554fb4a07acbb5ce716a4d3ebbd1db15ff4464ee528a2160",
+      "title": "Barefoot mother runs 3km in sari to fund daughters’ education, wins  Rs3,000  ",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/barefoot-mother-runs-3km-in-sari-to-fund-daughters-education-wins-rs3000-1.500660832",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T13:01:14.276Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0fe5d3a04e392cb4e0d3c17e13a3d1bca72c2b19b172e4f06ebc71063738cddd",
+      "title": "UAE scholarship programme supports 668 students from 7 countries, with 338 graduates",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-scholarship-programme-students-7-countries",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-02T13:01:16.234Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

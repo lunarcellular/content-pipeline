@@ -34019,6 +34019,24 @@
       "processedDate": "2026-09-02T11:01:40.183Z",
       "relevant": true,
       "outputFile": "output/2026-09-02-ras-al-khaimah-private-school-capacity-2026-27.md"
+    },
+    {
+      "urlHash": "9383ecbc80ccfbf1cc10d2c33c08c67c7621a700b94e7cb9a5addf04697c5d9a",
+      "title": "Migration opens new avenues for education, careers and business",
+      "sourceUrl": "https://gulfnews.com/world/migration-opens-new-avenues-for-education-careers-and-business-1.500660753",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-02T12:15:55.176Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c3b54e75a65034674189be35549f3fd23c5721bd63c1fb7a521751ebd3c93c1c",
+      "title": "'Never too late to learn': Dubai motorists clear four black points on first day of school",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-motorists-clear-black-points-accident-free-day-campaign",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-02T12:15:57.316Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

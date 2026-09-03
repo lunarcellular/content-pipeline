@@ -34352,6 +34352,24 @@
       "processedDate": "2026-09-03T15:02:01.783Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f2418355c3450b5e956c0e7d33d247e176de992000f18763d47619f23cd52bae",
+      "title": "UAE announces free Google Gemini subscription plan for university students - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHBOTDlVS2JJVllrblJ0RTljX0JZdnlXVVJpM2hSWXdqWnZIT3B4ZXJodk4yczJ2ZlZ5cGhXWF9BVWdKRmdQZjNiTVNTZkdmS0pkZ1g1enZ1dmhoX0thZS15d0NiWVhnSnhrZ2x4X0RIOFNseVNMSTZSNmZ0VW5WV09FelBDV09XTEEtT01hSTRuNzNMZ3dDYzdONjBQQ2ZuSFhadVl30gGuAUFVX3lxTE1sZkFrSWhQeEtHdXFjUWhKaEN4NThIbk42MTRhNlktRFFfaU5kTEhXMXdtc1lZZFlsTm9MRlY3ejFHcEdocW5xT2NseFVUbHBwUmNNdjFGLXVwQ0xSUkY0QjI3eTBDN2hhSFpWSlNUMWdyQ1M0VndoMXBLd3hyWlAzRnNveTFlX1lYd2FHQlBNNm5VNjdCd041OGx0VmM2cE10U2swWF93R1Z4Njd0QQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-09-03T15:13:38.315Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b989be48407244f377528afc31cac565fa3934adb8d26e01cd3e7bc8d048f75",
+      "title": "Private Education Committee of Education, Human Development and Community Development Council discusses new academic year developments, priorities - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3dUa0FaLVJDRWl0RFBMR0hhVnF0aFc5Rnk5WVJrNXdfMGYtS202cXJwQ3gwVWVCOVRmMjc5OGFIQ1F0ejRrVF9nM0I4RzdoRkNfSnoxd19DUk1OanhhZWFKeWZLbjZmUFJnOHJURjhFVVNHOUdXXzFrdXZJdm5icTQ3elA4dTEz?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-09-03T15:13:44.032Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

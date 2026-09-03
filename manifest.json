@@ -34316,6 +34316,24 @@
       "processedDate": "2026-09-03T14:01:11.117Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6f793ddeef8e84f51d429ea7d7d5437511b31e40d779da411dac37638181f653",
+      "title": "UAE schools 2026-2027: Here's what's new on campus this year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-schools-2026-2027-whats-new-on-campus-this-year",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-03T14:31:06.776Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6f793ddeef8e84f51d429ea7d7d5437511b31e40d779da411dac37638181f653",
+      "title": "UAE schools 2026-2027: Here's what's new on campus this year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-schools-2026-2027-whats-new-on-campus-this-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-03T14:31:09.169Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

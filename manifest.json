@@ -34199,6 +34199,33 @@
       "processedDate": "2026-09-03T08:45:57.750Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a32d10988c31fc0b32539aa34e8cae4bac55993009c6c41beb80c414ae5d5a37",
+      "title": "Carlos Alcaraz slams ‘impossible’ tennis schedule, to take 1 to 2-month breaks",
+      "sourceUrl": "https://gulfnews.com/sport/tennis/carlos-alcaraz-slams-impossible-tennis-schedule-to-take-1-to-2-month-breaks-1.500661815",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-03T09:15:58.688Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3516a1db2204b98e1ee7b624dd8c620509794dd3b6401aad9a07964af109832d",
+      "title": "Uniform on, free treats: After-school offers running across Dubai, Sharjah and Abu Dhabi",
+      "sourceUrl": "https://gulfnews.com/lifestyle/uniform-on-free-treats-after-school-offers-running-across-dubai-sharjah-and-abu-dhabi-1.500661784",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-03T09:16:00.772Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7a76ab3eb757eb34005a0f6e498b57d7b55fc6068800e5182646ac1ed1307097",
+      "title": "Standard Chartered becomes first G-SIB to launch Bitcoin, Ether spot trading in UAE",
+      "sourceUrl": "https://www.khaleejtimes.com/business/uae-standard-chartered-launch-bitcoin-ether-spot-trading",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-03T09:16:03.000Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

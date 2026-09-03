@@ -34370,6 +34370,24 @@
       "processedDate": "2026-09-03T15:13:44.032Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "1e5f7f5c7fc1c8247e82447f41c04462179055a66d8b2b8e0f75200520861082",
+      "title": "UAE’s AI curriculum rollout: What will students learn and how ready are teachers?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-ai-curriculum-rollout-students-teachers-readiness",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-03T16:16:06.146Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3037f971a7070512fe71cb8d36484475d5feacbd2b38a5c5a38fa8f6f78be70e",
+      "title": "UAE’s AI curriculum rollout: What will students learn and how ready are teachers? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdHFLb2QtcWNybnFKOGJ4TTRBQlZuTnZURUJUVDdBVjluM2JvSVJGQ1A5ZzkxV0FPUUxQUmlmby1BMnZQbTJjbjZmNGM4RGJSY3k2dlRkN18tQVNna3E1Vmd3VWthV0hNQlZ3ZW9CSVpNanU5dmh2T2J0MGRMUUlDT29POFdnVnhLU3FIWmZ1Y9IBlwFBVV95cUxOdm11Q2VtaFo5d1dhWU94SW5qWTZVTUpTWG10bjVDOUJNYzI0ZTJiMjFrUndhLV9qVWhtWkx6dnFTNVdRVng0Q1ZvYnNVLTZRYjhwZVBEN0oyeHFhdUE4dmVTY29XckFEcDA2YjRfRWF5cFNJdkpxa3FObFZfZzRNQVlpaTIyc0FMOGVvQTJxaXFweGFCak5V?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-03T16:16:37.701Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-03-uae-schools-ai-curriculum.md"
     }
   ]
 }

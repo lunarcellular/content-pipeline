@@ -34154,6 +34154,15 @@
       "processedDate": "2026-09-03T04:16:03.266Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "65c1f17c55a61f289e67362d0a3d7adce71f41b7e921e3d601ada001d92a6965",
+      "title": "Iran attacks Kuwait, Israel advances further into Lebanon and UAE announces AI curriculum",
+      "sourceUrl": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/03/iran-attacks-kuwait-israel-advances-further-into-lebanon-and-uae-announces-ai-curriculum/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-03T05:31:06.588Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

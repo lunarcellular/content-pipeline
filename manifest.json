@@ -34253,6 +34253,42 @@
       "processedDate": "2026-09-03T11:01:09.697Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3d7d6956229ba986096bb8a4500fb6eadbb35a4f546537ec6f061bc08b2aa597",
+      "title": "From classroom to space: Space42 opens new programme for Emirati students",
+      "sourceUrl": "https://gulfnews.com/uae/from-classroom-to-space-space42-opens-new-programme-for-emirati-students-1.500662008",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-03T11:15:53.023Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0a1615a97867886d731f12a3a1a16d08b385cd53c723467356620d6d39c2ca74",
+      "title": "Egypt football star Mohamed Salah welcomes first son, third child, named Lail",
+      "sourceUrl": "https://gulfnews.com/sport/egypt-football-star-mohamed-salah-welcomes-first-son-third-child-named-lail-1.500661989",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-03T11:15:55.358Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "34c4021777765e708b13f67d2dee8aec0cf53f2faf909487f0efba75d7be06ce",
+      "title": "'I was working for 18 hours': Preity Zinta weighs in on Bollywood's work-hour debate",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/preity-zinta-bollywoods-work-hour-debate",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-03T11:15:57.543Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ae79fa90e77f731136a63bef9d4723fd538592088c9a8a163cf9ecb4de709e9",
+      "title": "Tadej Pogacar chances of being fit for World Championships described as 'not realistic'",
+      "sourceUrl": "https://www.thenationalnews.com/sport/cycling/2026/09/03/tadej-pogacar-chances-of-being-fit-for-world-championships-described-as-not-realistic/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-03T11:16:00.113Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

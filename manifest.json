@@ -34460,6 +34460,24 @@
       "processedDate": "2026-09-04T04:50:37.804Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f51c68f88bc4ae659d0749654d02900f61eff92a69a4ba7d6a2632dc416b3ced",
+      "title": "Free Gemini access for UAE students: Google AI Plus offered for 12 months",
+      "sourceUrl": "https://gulfnews.com/technology/free-gemini-access-for-uae-students-google-ai-plus-offered-for-12-months-1.500662937",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-04T06:50:54.410Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b9ad90a20cd5cbac39e67d68ec51c0223664d78c9fda2f95ca0b03362f00c759",
+      "title": "Argentina to honour Lionel Messi with 10th-minute tribute across matches",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/football/argentina-honour-messi-10th-minute-tribute-matches",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-04T06:50:56.672Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -34604,6 +34604,24 @@
       "processedDate": "2026-09-04T10:46:41.309Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "83f6277538021c222d619f1bb3dd7427731d18e3137ea01f754dd0487b6708a1",
+      "title": "Does Mamdani's AI moratorium in schools mirror the 'calculator panic' of the 1980s?",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/09/04/ai-school-ban-mamdani-calculator/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-04T11:33:32.432Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "16c342c5655e39ac9b32de69dbe196fe6eb46fdd57170ab9cbedbe8c139e71c8",
+      "title": "Dubai private schools revise October mid-term break dates for 2026-27 - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1JaWVFTRnpqc0ZTcktDc1pCUi1CR1p0NjFvRXh1eC1UQ1RLREFVaDRxeWRVVnJ3TUJNLXU3N2dLWmYzdnYtb1N4TjZfZWNVTjNCZVdRSEhjRWdicTRKVUJSbE85bWEyOEdIOXhfbmpqdWQwd25DZ0Z5VW50STliVjlSTnpMMXUxM29Hdkc1WVRFRlFpeW16cFlIMjhPQdIBsAFBVV95cUxNalA4bmNCRXRKOVFhYXZHQlhFbkdlaGhsLUpfS0pnWnBmUEVhcGJ4enpjNDMwQkU3VTJfVkJscGk3VDdOUFhiT3lkRXR1X0ExUktsOVB4N3dkUWFxNG1XNmNRd252bUU2Z0lzMFltV1BKOHVLWEFIbXBMMlFmc2RKUUdoX0FpMEJEYUk1ZjBJRmp5aTgtWUhZY05HMWVoN0VLZ0RsSTdtRHRheFZSeGVXSQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-04T11:34:04.311Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-04-dubai-schools-october-mid-term-break-2026-27.md"
     }
   ]
 }

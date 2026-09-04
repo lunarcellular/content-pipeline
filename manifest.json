@@ -34676,6 +34676,15 @@
       "processedDate": "2026-09-04T19:01:40.058Z",
       "relevant": true,
       "outputFile": "output/2026-09-04-uae-schools-october-break-dates.md"
+    },
+    {
+      "urlHash": "a57824494cea40496d663b74d9b80c4b64b090d6f191a73bcfa5fdbadac75977",
+      "title": "Mistrial ruling upheld in case of US mother Lindsay Clancy who killed her children",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/mistrial-ruling-lindsay-clancy-children-killing-case",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-04T19:30:55.720Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

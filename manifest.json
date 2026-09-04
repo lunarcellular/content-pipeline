@@ -34505,6 +34505,24 @@
       "processedDate": "2026-09-04T07:21:57.152Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c69ec4165badcae9a673532299a6c046d53dac95f1fdbe9541a7e72b69323900",
+      "title": "UAE expands project-based learning to more than 129,000 pupils - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWE4UVowcDhnamZuN3o0a2JnS1JRR3J3aGdvdnlPbVBVb2lsYlVLVUg4aEtEQjFUOFRFOHgyZTRaMGpMUEJhV3g1SGloV2xVam1UY1c4ZEZxb2dZZ1FVMjk3aFBxQ3JQcWNMVGpjdGxwVHlmWjVpQ09peWp3VzV3bkhxaTZMbGE3ZkZVZUNRWHRoMHh1Y0Z2RUc1M2JHRkNXUk5zbXA5N0I5anp5SHMwNjVlWllRdTdhT3fSAcwBQVVfeXFMUHVBVlpmZWtEN0NaNm1BU19JMTZDaUJjREJWeWRNZmtfamhyMzBYeUJ5bTJicWlNOUxfTmkxZ1ZvV3pOYnZVWEdyeC1VMUw5bGQybHM2RjNnU1kwYmZZeWVVXzZLR0hyMjg0VFkybGFLRGVqMUFuMV9jYUNoYzhUenV2TlB5WXEyOS1DaFQ2aWpuMFpCMl9pU19Nb1Y2WE5TN3Q0YllUMHBReTQ3TF9PVzdROU1RQkRpNEFjWDV4eG1jOGdEYUZfOWJwc1g5?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-04T08:02:28.775Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "db29397d0d751e098e3d4b5341ef3f97475f99eaf1cc8cd02625fb198d15ceb7",
+      "title": "UAE expands project-based learning to more than 129,000 pupils",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-expands-project-based-learning-to-more-than-129000-pupils-1.500663009",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-04T08:02:38.950Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-04-uae-project-based-learning-expansion.md"
     }
   ]
 }

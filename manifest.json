@@ -34658,6 +34658,15 @@
       "processedDate": "2026-09-04T15:15:57.864Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1ffe341d5182db1fbd6e31a698da5255153942d3835e288c35c744ef75635b9f",
+      "title": "Some UAE schools shift October break forward by one week",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-shift-october-break-by-one-week",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-04T16:16:29.565Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-04-uae-schools-october-break-adjustment.md"
     }
   ]
 }

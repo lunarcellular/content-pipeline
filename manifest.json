@@ -34433,6 +34433,24 @@
       "processedDate": "2026-09-04T03:03:35.368Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8eac67024091c135db4ab8f0341da0bd0c4a734fee63fff7b51590f1037dd43e",
+      "title": "EU backs US-led economic campaign to pressure Iran",
+      "sourceUrl": "https://gulfnews.com/world/americas/eu-backs-us-led-economic-campaign-to-pressure-iran-1.500662755",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-04T03:17:29.257Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "98159a3b99da7da7f957f08e949d9194be366619f42bd4d4b3e924335728228d",
+      "title": "UAE: Are employers rethinking workplace perks as workers prioritise wellbeing, flexibility?",
+      "sourceUrl": "https://www.khaleejtimes.com/jobs/uae-jobs-employees-health-insurance-flexible-work-office-perks",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-04T03:17:30.963Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

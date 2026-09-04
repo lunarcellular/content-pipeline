@@ -34424,6 +34424,15 @@
       "processedDate": "2026-09-03T21:24:28.549Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c04e9a962d396384448926797bb5eb9ded9203959e8c2ba0e31ffe068c05dd43",
+      "title": "Rain possible in eastern UAE as temperatures reach 46°C",
+      "sourceUrl": "https://gulfnews.com/uae/weather/rain-possible-in-eastern-uae-as-temperatures-reach-46c-1.500662682",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-04T03:03:35.368Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

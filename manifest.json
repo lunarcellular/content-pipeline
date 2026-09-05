@@ -34820,6 +34820,15 @@
       "processedDate": "2026-09-05T07:31:31.579Z",
       "relevant": true,
       "outputFile": "output/2026-09-05-uae-restricts-digital-learning-tools.md"
+    },
+    {
+      "urlHash": "5fdd2d6fdbd37ef8975ebbc4693d626cbddeb10598e7e36a6592afc39862837c",
+      "title": "Bangladesh measles outbreak nears 1,000 child fatalities",
+      "sourceUrl": "https://gulfnews.com/world/asia/bangladesh-measles-outbreak-nears-1000-child-fatalities-1.500663845",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T08:01:01.883Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

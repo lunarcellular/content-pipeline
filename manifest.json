@@ -34775,6 +34775,15 @@
       "processedDate": "2026-09-05T06:16:32.782Z",
       "relevant": true,
       "outputFile": "output/2026-09-05-uae-indian-schools-early-board-exam-preparation.md"
+    },
+    {
+      "urlHash": "3abbf474b71a830f5e706384f12f0a3f53ef089eb80ee0cd8753763c33549680",
+      "title": "Eight Tamil Nadu engineering students killed in Kerala highway crash",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/eight-tamil-nadu-engineering-students-killed-in-kerala-highway-crash-1.500663932",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T06:30:57.834Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

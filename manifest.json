@@ -34748,6 +34748,15 @@
       "processedDate": "2026-09-05T05:16:31.608Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f6756b793b6f326d1844e8da5e983fb9cc593a85efae58e8cfd1c563955a8a9",
+      "title": "UAE's Indian schools shift from internal assessments to early CBSE 2027 board preparation",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/indian-schools-internal-assessments-early-cbse-preparation",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-05T06:01:30.580Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-05-uae-indian-schools-board-exam-preparation.md"
     }
   ]
 }

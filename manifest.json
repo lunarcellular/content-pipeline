@@ -34838,6 +34838,24 @@
       "processedDate": "2026-09-05T09:20:34.707Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "931794687c5fbb277885fccb248f5ec78abb503a6e7339fc6476b1d31d8fbc72",
+      "title": "Abu Dhabi court orders father to pay Dh197,680 to school over unpaid fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/legal/abu-dhabi-court-father-pay-school-unpaid-fees",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-05T09:30:59.946Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "931794687c5fbb277885fccb248f5ec78abb503a6e7339fc6476b1d31d8fbc72",
+      "title": "Abu Dhabi court orders father to pay Dh197,680 to school over unpaid fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/legal/abu-dhabi-court-father-pay-school-unpaid-fees",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-05T09:31:01.880Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

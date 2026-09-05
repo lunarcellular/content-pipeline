@@ -34802,6 +34802,24 @@
       "processedDate": "2026-09-05T07:01:39.311Z",
       "relevant": true,
       "outputFile": "output/2026-09-05-uae-schools-grade-review-policy.md"
+    },
+    {
+      "urlHash": "bcf97ad9ac5f4df45dfaa3d9914d4045a1cfe37145ebf34349293764edca19e5",
+      "title": "Abu Dhabi Municipality inspects children’s salons over hygiene and safety",
+      "sourceUrl": "https://gulfnews.com/uae/health/abu-dhabi-municipality-inspects-childrens-salons-over-hygiene-and-safety-1.500663983",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T07:31:02.049Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "64cd44e9d9ff8f291dce12e56ec73def491fc3075c0f15968f059fe8043e0ec8",
+      "title": "UAE bans unapproved digital learning tools in government schools",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-bans-unapproved-digital-learning-tools-in-government-schools-1.500663991",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T07:31:31.579Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-05-uae-restricts-digital-learning-tools.md"
     }
   ]
 }

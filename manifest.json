@@ -34892,6 +34892,15 @@
       "processedDate": "2026-09-05T13:03:02.217Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "d6a736125f6ea1432a1aa618c69ef8c2ff481089e36adc219701c45f3ae2ee5e",
+      "title": "IndiGo warns of possible flight delays after heavy rains, waterlogging at Delhi airport",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/indigo-flight-delay-delhi-airport-heavy-rains-waterlogging",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-05T13:31:04.604Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

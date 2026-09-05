@@ -34685,6 +34685,51 @@
       "processedDate": "2026-09-04T19:30:55.720Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0a9db781f5f6bfa0d5f54c25070049c730bbf243ef07d34c4f9e94974c7918c2",
+      "title": "Rain possible in eastern UAE as temperatures climb to 46°C",
+      "sourceUrl": "https://gulfnews.com/uae/weather/rain-possible-in-eastern-uae-as-temperatures-climb-to-46c-1.500663758",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T03:01:05.501Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "23a4d25333cd817ee46c15902f1d1b00fada36d75141a45b051a9ef75bd17e3d",
+      "title": "Ask Gulf News: Can your employer make you leave staff accommodation after terminating your contract?",
+      "sourceUrl": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-can-your-employer-make-you-leave-staff-accommodation-after-terminating-your-contract-1.500663760",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T03:01:07.379Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb246167620aa33a38f9994bcc0a04e9d52760329688972c3da9d7c5d588ddc3",
+      "title": "'40 minutes for 2km': UAE schools are back, and so is heavy traffic",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/school-traffic-rush-peak-hour-morning-runs",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-05T03:01:08.955Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb246167620aa33a38f9994bcc0a04e9d52760329688972c3da9d7c5d588ddc3",
+      "title": "'40 minutes for 2km': UAE schools are back, and so is heavy traffic",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/school-traffic-rush-peak-hour-morning-runs",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-05T03:01:10.555Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6cb73b29405797e927d0957ef7017b0f3a2229ad2a0b2aad8f3f8ae2ed6ef7fa",
+      "title": "'40 minutes for 2km': UAE schools are back, and so is heavy traffic - khaleejtimes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzU1Sl93T1JHNWY3dzBtaUhMaWNHWmt1MWJPdUtHUGtiRjJmbF9tejRPdDlTREwwY0Y5eUlzcTZua21LT0pUUU9uN1dzNXdhVW1zUzdIZFJWakdtX3QzaDRqQjQyYUJ2QzU3Wk5hTWs3X2hGejBRVmExVXA1QUpWeGVicVFZU1c4azczcXJB0gGWAUFVX3lxTE5UeERPTnpwalJtcnE5aTBYeFd2ZHExbjZfNXF0dm1pQ3JnTmloWm01S3FsTmNuMENqeEhoMzAtdVpUSVVsRFdST3YxT2w5am5QTFM4amFBQ1M1T2pPeU56cE94akRfdXFwNFhVd2xFbGlETUNVdkJkMktIaU5VM1doRl9ualE1aVhoYlpIT241WmhCSFhXdw?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-09-05T03:01:12.350Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

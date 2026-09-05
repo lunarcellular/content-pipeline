@@ -34793,6 +34793,15 @@
       "processedDate": "2026-09-05T06:46:03.357Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3374a0be37340b6b0439864e93d6221c01948df9a38124bcfb5eaa2f954e48c5",
+      "title": "UAE student grades to undergo four levels of review under new assessment policy",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-student-grades-to-undergo-four-levels-of-review-under-new-assessment-policy-1.500663966",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-05T07:01:39.311Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-05-uae-schools-grade-review-policy.md"
     }
   ]
 }

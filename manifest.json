@@ -35108,6 +35108,24 @@
       "processedDate": "2026-09-06T18:21:19.677Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e0f678851d7c58cef3dab6aee81a9afde43808452d97434eb386b0582970d8d7",
+      "title": "Iran says will declare 'prohibited zone' near Hormuz Strait in coming days",
+      "sourceUrl": "https://gulfnews.com/world/mena/iran-says-will-declare-prohibited-zone-near-hormuz-strait-in-coming-days-1.500665256",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-06T19:45:55.463Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3cf38ea302a1287c96e85a23d6bcfcec3f1fe72728911ecfe6e7990f49062413",
+      "title": "Iran says will declare 'prohibited zone' near Hormuz strait in coming days",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-september-6-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-06T19:45:57.451Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

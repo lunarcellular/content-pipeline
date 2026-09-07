@@ -35396,6 +35396,15 @@
       "processedDate": "2026-09-07T13:15:57.966Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ab85ee64dca1ce00c9b96c67fabdc9cabfbda9ac816e31e0e3c422c1ad3bdaf9",
+      "title": "Dh500 million investment: Sharjah to open new schools, nurseries across the emirate",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-education-dh500-million-investment-new-schools-nurseries-facilities",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-07T13:31:36.221Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-07-sharjah-investment-new-schools-nurseries.md"
     }
   ]
 }

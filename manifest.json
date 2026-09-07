@@ -35189,6 +35189,24 @@
       "processedDate": "2026-09-07T06:01:39.743Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2da6b59692a5e6833db07e75c4d2ff1d97e444655099280c3dff661c5c76b69d",
+      "title": "Man on trial in Finland accused of abusing 361 children online",
+      "sourceUrl": "https://gulfnews.com/world/court-crime/man-on-trial-in-finland-accused-of-abusing-361-children-online-1.500665483",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-07T06:31:05.774Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "366f1a10d35fb48dcd8e298d9b1d54bdecf1d9b606dcec80eb0e8dbf2a7c07c5",
+      "title": "Fire in Indonesia's Papua kills 11, including 6 children: police",
+      "sourceUrl": "https://gulfnews.com/world/asia/fire-in-indonesias-papua-kills-11-including-6-children-police-1.500665523",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-07T06:31:09.278Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

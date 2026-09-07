@@ -35405,6 +35405,24 @@
       "processedDate": "2026-09-07T13:31:36.221Z",
       "relevant": true,
       "outputFile": "output/2026-09-07-sharjah-investment-new-schools-nurseries.md"
+    },
+    {
+      "urlHash": "f97d428e7b1b8a678b78a3598bf9f869c320695dbc265685254655c77de5f6f0",
+      "title": "Japanese author Kotoe Hashimoto goes viral after giving birth to seventh child ",
+      "sourceUrl": "https://gulfnews.com/world/offbeat/japanese-author-kotoe-hashimoto-goes-viral-after-giving-birth-to-seventh-child-1.500666126",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-07T13:45:52.967Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "11173ac582771838eefd03492e831812b39893f6b7b4c87303ea163d8ff27de8",
+      "title": "Ed Miliband's planned UK sanctions on Israel 'face five tests'",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/09/07/ed-milibands-planned-uk-sanctions-on-israel-face-five-tests/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-07T13:45:55.263Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

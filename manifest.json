@@ -35126,6 +35126,51 @@
       "processedDate": "2026-09-06T19:45:57.451Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f0d14ead179aa7b5829c935c0124bf9092c0905d55c4eb5385930df5270089d",
+      "title": "As UAE weighs ‘no homework’ policy, parents debate what children really need after school",
+      "sourceUrl": "https://gulfnews.com/uae/education/as-uae-weighs-no-homework-policy-parents-debate-what-children-really-need-after-school-1.500665269",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-07T03:01:06.098Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2b92260d7868deab57a452943dd314cfa10046e7086c2b25745bc83ef55d2954",
+      "title": "Six-storey building collapses in Delhi: Students call for help from rubble as rescuers race to find survivors - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYzZLc25rMVlIVFBJYUR3bFRUQzVIQ0h0OVdMdGp1QUhJR25aV0xLRjdaRm1BeFhLM1htY2dmMzJOZk1GdDNzdTJ1VGNHenJXdkphdjhTQkFJR0NDTlgxbl95NmxKQUcxaXRHbjB5cS10dzJOZ3IyVWE2UUlIdU1xbEFfRGxxdTJTeFAxWnZ3T3IyM2FGanVSTkEyQVduc3A3b2NhTmo3WlhHX0RFZTFjSUNvUEJwWnBRdDlUeG1pa0RHZ0w2M3I3TlVHQjdMaGJnMXAzUzJ1VjAtSUtJY09Ba083NHQ0Zkk0MnlRa0RWQdIBhAJBVV95cUxQNG9tR1BrRmNqNllCWjhfV3RfNGxVeFE3VGhMVHBmMFlMYnpGRTR4OEtTcXRrU1pRWS1RU2k1enBwZ3hYNnJOWVJlTFVENFRwWDg3VFZPSzlHY3NUczU0VllTZUhrb0tNV09JUE81SXZ3cFdhUml4UDJmRUJsbWpTNVBXTUh6NlpmWTlMUmkxMUlIZ09JYVlXSXJ6d0FjdTNmdmNKQTFBT0JtTkJiWHhVUnpsV1ZOLWRDa2ZxeVg5VjNrMlZhVkFrWkFpMUpvekRJMVZqcEM0eHExTVlZalJTa1ktLWtCSUtGd0NMWDQtQ3VqVG40MFRhVU9HMWtoSDhVOExubw?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-09-07T03:01:08.156Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6beddc7f797a6df2bdf2f0271b6da665a822e34483b8fafacbc2b2cdc71da234",
+      "title": "9-day school break in UAE as Dubai schools revise October half-term dates ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/when-is-next-school-holiday-october-half-term-break",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-07T03:01:55.964Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6beddc7f797a6df2bdf2f0271b6da665a822e34483b8fafacbc2b2cdc71da234",
+      "title": "9-day school break in UAE as Dubai schools revise October half-term dates ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/when-is-next-school-holiday-october-half-term-break",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-07T03:01:55.964Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b47cce850e46e49aacaa057238c72d41980064fa12b2dff4da3da574956fada",
+      "title": "9-day school break in UAE as Dubai schools revise October half-term dates - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHpyOTBLTXo3VnBwUExXU0tsSENVYmdIQnhhbDNTRXNRSExDWm5ReUZRUS1Ea09RWkNYbTZ2cFBWMXFwckJxT0dmRlBMWFd0S2xWVF82Y21QclVweXBNUXNTRHFOQjNLR2hjNWNmV2liVkpwRlZFaFNVdWRudEhjb2VLWmwwWkhQN0VRNElyeEtnQndYMk92XzlB0gGiAUFVX3lxTFByWDktem9HSm1WSnhqUFg3Rl9GaWNLai0zUGREWVMtRzJEall3YWMtTloyR1pzRzdHbUk1NGNCX0JSbHI4TEwxTnd0Y1d4SlpKcFl0RFRtbU03VERQSG1SZXJnV3R5c3lUb09uNlc4WFZZZ1hBNDVTampUZnR1S3dqUlc4b29LTlIweHNqaVBPOWlsS0tjOFg1dTFMQnlqT2dJZw?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-07T03:01:55.964Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

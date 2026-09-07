@@ -35207,6 +35207,33 @@
       "processedDate": "2026-09-07T06:31:09.278Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9b08290d371ff42bb679524e2a59fca9106cf3cba957f97e27656964d61647a5",
+      "title": "Sheikh Mansour bin Zayed issues Family Charter to protect children after divorce ",
+      "sourceUrl": "https://gulfnews.com/uae/government/sheikh-mansour-bin-zayed-issues-family-charter-to-protect-children-after-divorce-1.500665589",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-07T07:01:03.552Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c509f70bb3f745a8f4ffb1715e375b01898e3d87b865fc2d60fb89a3833a8658",
+      "title": "Abu Dhabi adopts new charter to prioritise children’s wellbeing after separation",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/abu-dhabi-charter-prioritise-children-wellbeing-separation",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-07T07:01:06.011Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3aaf5560b7f3d1dcaa476492fb31a919e3cf6003f58af9376b855448bb064b43",
+      "title": "German ambassador says long-term UAE trade partnership primed for growth ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/07/german-ambassador-says-long-term-uae-trade-partnership-primed-for-growth/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-07T07:01:08.037Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

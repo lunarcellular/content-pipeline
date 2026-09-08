@@ -35576,6 +35576,15 @@
       "processedDate": "2026-09-08T05:15:53.892Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "17abe7a2529a5878a24364f39abf7a4512c0a067457bdf105f502a898861cfa8",
+      "title": "UAE weather update: Dusty skies and reduced visibility blanket Dubai and Abu Dhabi",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-update-dusty-skies-and-reduced-visibility-blanket-dubai-and-abu-dhabi-1.500666803",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T07:15:54.778Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

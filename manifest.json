@@ -35666,6 +35666,15 @@
       "processedDate": "2026-09-08T11:31:27.535Z",
       "relevant": true,
       "outputFile": "output/2026-09-08-uae-pisa-2025-student-improvements.md"
+    },
+    {
+      "urlHash": "3f9507a25cf8c9c3fd4433322278dc3063f14620e73dc60ffe3deacbfc653463",
+      "title": "Dubai private schools break into world’s top 10 in latest global education rankings",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-private-schools-break-into-worlds-top-10-in-latest-global-education-rankings-1.500667156",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T11:45:52.559Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

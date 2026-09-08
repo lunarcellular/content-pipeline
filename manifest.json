@@ -35621,6 +35621,24 @@
       "processedDate": "2026-09-08T08:15:52.231Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2f716efc39e4f371bb19029c0625bd88ca8b45c4e1b8a62c3c1eee3f5c235ab3",
+      "title": "‘Donate Your Device’ provides more than 1,500 refurbished digital devices to students in UAE - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd1pYc1h2Yk92SVEtSUJrSDZ3RUxsRnpHcDNFMmdIXzJra05zaUpPQXVXV0wwUS1IcGpUenpaTHY5Rm81YXoyTUNWTXBPWjkzQmNUNGdkWmktWi1TN21GTllaNm84bnZMVjJjVDJTTXBNM095Zlk4cUl4TVJ4SnZJLVVrMmx4amFzVkhuUzZlLVQ5SFhPT0ZBYWZVbmU3Ulk?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-09-08T08:45:55.623Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "10361792c3fbea0c00e5c9b3a291f329a0fd69a4e889f76edb2bb7fd4e423d8c",
+      "title": "Sharjah expands educational infrastructure with new schools, nurseries, upgraded facilities - وكالة وام",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObkR6REc5amlPNXRJSTNmYkpQMlhkdmdnRWpsS2FhRmtXakcxamJEOXBxY1lrOXRnU2ROUERhSG1tWUh2bnZOTEhtc2hlZ0xZQ2RrSmJockNHZkpQd3I2dFpuRlhMT0RVM0lEVktTXzYwNWhockIzV2NSWU8xeFdCRVdocm5vRnR2LTRldEZR?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-09-08T08:46:01.006Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

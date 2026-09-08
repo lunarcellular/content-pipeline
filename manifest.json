@@ -35639,6 +35639,24 @@
       "processedDate": "2026-09-08T08:46:01.006Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7ffd9c2d4f2e5b698d73be2d979386d7412b95ec65972303c2cc3571eab14dbf",
+      "title": "Dubai RTA offers 50% discount on driver licensing services for people of determination",
+      "sourceUrl": "https://gulfnews.com/uae/transport/dubai-rta-offers-50-discount-on-driver-licensing-services-for-people-of-determination-1.500667044",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T11:01:14.514Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c509085422d6a01fccf8ac3c0aac86b124fde24c431271465ce71af7b95d6157",
+      "title": "UAE students top Arab rankings in PISA 2025 as scores rise in science, maths and reading",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-students-pisa-2025-scores-rise-science-maths-reading",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-08T11:01:45.736Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-08-uae-pisa-2025-rankings.md"
     }
   ]
 }

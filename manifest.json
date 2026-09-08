@@ -35468,6 +35468,69 @@
       "processedDate": "2026-09-08T00:42:48.344Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f559f2643fc65c260ed66e9513c00d158d826708e8ea25767199c946ec992608",
+      "title": "Oman sets EV charging fees from October, tariffs to reach 120 baisa per kWh",
+      "sourceUrl": "https://gulfnews.com/world/gulf/oman/oman-sets-ev-charging-fees-from-october-tariffs-to-reach-120-baisa-per-kwh-1.500666585",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T03:01:12.305Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b62858226abadf92a1283fc2118ed3898913c148a476c5ccdf37e4c4cfd94cea",
+      "title": "Saudi Arabia bans 30 food items from school canteens, including chips and cold tea",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-bans-30-food-items-from-school-canteens-including-chips-and-cold-tea-1.500666583",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T03:01:14.265Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5cf87d84c0de71c03184e5a81d3b3648b51ee28aa9e50f6db6668d08a7f030bf",
+      "title": "Why some Dubai schools are moving October half-term forward",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/08/uae-school-holidays-mid-term/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-08T03:01:25.217Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "59a8ae39898a8bc2cb6a40a8ff2f9f835bd84f55039a2dde055f06206d5d485f",
+      "title": "October mid-term school break moved forward: UAE parents rebook flights and change holiday plans",
+      "sourceUrl": "https://gulfnews.com/uae/education/october-mid-term-school-break-moved-forward-uae-parents-rebook-flights-and-change-holiday-plans-1.500666263",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T03:02:33.627Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-08-october-mid-term-break-dubai-families.md"
+    },
+    {
+      "urlHash": "dab3c1a5571a6f574f40df7561c5161cc9376308be942c190714643c80478a9e",
+      "title": "October mid-term school break moved forward: UAE parents rebook flights and change holiday plans - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWXVWRm9VVk8tUVZnb0Z2ZnRWNHdvdG5hZC0tQjU5THZ2RXJNQmtfYm1MTkZUeWVLb2RRWkZ3SXJUc1J3czNJQ01feW9wNjlXdm9WanNiVGlBM19tOUxRYjRBS2huMi1XX3h3bjIxTFNRd1g3U0tNcFRqTmxCXzdYVjZTZ0lybDRUM04wamhUZjA1MkdwcEgzX25qNko2NnpBM1Q3d3E3RlNjLTdVUC1nVnhqaWlRaURiaHhBNmxYU2hRclJkUHlYLWRQZTBSYVB2YVgtNlhmcHpaUdIB7AFBVV95cUxQYnUzeHhYc3RSVC1pQjhadFdLeXVfSG93QV9qblBTeHZ1MXBUODRPRW1Fd1NELTU5U0p3LVhsSGMya05MZE9ZWlJiVlByQzJVM1pSeXcxUnN0M0JzSFZsbFk0clBlRHlrZFVOM2xkblI1d1RtVGNvSHZEcVJ4MHh3N0JfUW1hT3BoaVFqU0hsWDV6ZUpDMlVDczBNRnNNNnRMTl91eENaS1JSeFh0UnBGLTQ5LVNrampWdk5PUnBsN3VVT1VEUktJQWVjR3FvT2o0RW9mVFBwZzdRS25tRUl3emRyU2xVUE1NS2FqSA?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-09-08T03:02:33.627Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-08-october-mid-term-break-dubai-families.md"
+    },
+    {
+      "urlHash": "5bfa78b37bb852683fff074272825e0d4bff9003262dfc8f6960e18a8358eb80",
+      "title": "Play-based lessons, real-world applications: UAE schools begin rolling out AI curriculum",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-begin-roll-out-ai-curriculum",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-08T03:02:45.221Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-08-uae-schools-ai-curriculum-play-based-learning.md"
+    },
+    {
+      "urlHash": "5bfa78b37bb852683fff074272825e0d4bff9003262dfc8f6960e18a8358eb80",
+      "title": "Play-based lessons, real-world applications: UAE schools begin rolling out AI curriculum",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-begin-roll-out-ai-curriculum",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-08T03:02:45.221Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-08-uae-schools-ai-curriculum-play-based-learning.md"
     }
   ]
 }

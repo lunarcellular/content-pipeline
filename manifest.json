@@ -35567,6 +35567,15 @@
       "processedDate": "2026-09-08T04:01:44.452Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "277f04b3cfe9e1d8517e69ced98edaed98593f3ccf062b45883234b7b731bdb1",
+      "title": "Gulf Medical University commences 2026–27 Academic Year, advancing health education",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/gulf-medical-university-commences-202627-academic-year-advancing-health-education-1.500666702",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T05:15:53.892Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

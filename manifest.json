@@ -35657,6 +35657,15 @@
       "processedDate": "2026-09-08T11:01:45.736Z",
       "relevant": true,
       "outputFile": "output/2026-09-08-uae-pisa-2025-rankings.md"
+    },
+    {
+      "urlHash": "bd1b4474843384d0e3e6bfb41353dd00fb2c243437f5832a4b3f81bfb4bf27e6",
+      "title": "UAE tops Arab world in PISA 2025 as student performance jumps",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-tops-arab-world-in-pisa-2025-as-student-performance-jumps-1.500667091",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-08T11:31:27.535Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-08-uae-pisa-2025-student-improvements.md"
     }
   ]
 }

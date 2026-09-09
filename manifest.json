@@ -35882,6 +35882,33 @@
       "processedDate": "2026-09-09T10:45:55.362Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b601e800cfe5381933c8647940cc72aba8eeaa4907213240ea9a04c90eadfd9d",
+      "title": "UAE unveils new higher education rules and licensing framework",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-unveils-new-higher-education-rules-and-licensing-framework-1.500668409",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T11:01:09.602Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "462a0b1944bc7fc47d9f739cbea6d30eea0d083c6cb8d90ba420d83aa5304759",
+      "title": "15 tips for Dubai parents from KHDA's webinar on positive parenting",
+      "sourceUrl": "https://gulfnews.com/uae/15-tips-for-dubai-parents-from-khdas-webinar-on-positive-parenting-1.500668404",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T11:01:11.711Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b0f66dd6dcd52c171b2ad65860a001b0a02c46ed47dc369aae47d91c81698d0c",
+      "title": "Win Dh5,000 in credit with talabat’s back-to-school campaign, The Good Stuff Giveaway",
+      "sourceUrl": "https://gulfnews.com/uae/win-dh5000-in-credit-with-talabats-back-to-school-campaign-the-good-stuff-giveaway-1.500668228",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T11:01:13.987Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

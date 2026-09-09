@@ -35999,6 +35999,24 @@
       "processedDate": "2026-09-09T19:15:54.447Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9d9941250c11235d3fdde51889700a6136ed80ffe4e96f060f8438e213a4d897",
+      "title": "UAE’s Al Jaber proposes German-Emirati investment council to drive long-term industrial and technology partnership",
+      "sourceUrl": "https://gulfnews.com/uae/uaes-al-jaber-proposes-german-emirati-investment-council-to-drive-long-term-industrial-and-technology-partnership-1.500669069",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T21:52:43.830Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f8c95109901aa565492525c3b9c3a7dd42020f5b8f09d8bbdfc43e24f748e5f4",
+      "title": "Trump says Iran war will end ‘immediately’ after midterm elections",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/09/09/trump-says-iran-war-will-end-immediately-after-midterm-elections/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-09T21:52:45.863Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -35774,6 +35774,24 @@
       "processedDate": "2026-09-09T03:01:55.094Z",
       "relevant": true,
       "outputFile": "output/2026-09-09-uae-schools-scholarships-fees.md"
+    },
+    {
+      "urlHash": "140ba66847d5f775a533e6da537e49ef9d4943649224f87c29bb9fc5f5570a8a",
+      "title": "Krishan Rattan: An investment philosophy built for long-term value",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/krishan-rattan-an-investment-philosophy-built-for-long-term-value-1.500667366",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T03:15:55.100Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f3cf007d1906d48f1afffc8d8819e08d63d66c4fbbb9c619afbc6ff607fd028e",
+      "title": "Masterminds Education brings brain capital approach to early learning in the UAE",
+      "sourceUrl": "https://gulfnews.com/uae/education/masterminds-education-brings-brain-capital-approach-to-early-learning-in-the-uae-2-1.500666923",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T03:15:57.235Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -35756,6 +35756,24 @@
       "processedDate": "2026-09-09T01:26:07.461Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "310d24033be8bc61b393e7520c637ebcb9b0ec367e24fb130cf6d64bece5f494",
+      "title": "UAE schools offer up to 50% off fees in scholarships; top grades not mandatory",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-scholarships-50-off-fees-top-grades-not-mandatory",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-09T03:01:55.094Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-09-uae-schools-scholarships-fees.md"
+    },
+    {
+      "urlHash": "310d24033be8bc61b393e7520c637ebcb9b0ec367e24fb130cf6d64bece5f494",
+      "title": "UAE schools offer up to 50% off fees in scholarships; top grades not mandatory",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-scholarships-50-off-fees-top-grades-not-mandatory",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-09T03:01:55.094Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-09-uae-schools-scholarships-fees.md"
     }
   ]
 }

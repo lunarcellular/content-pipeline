@@ -35810,6 +35810,24 @@
       "processedDate": "2026-09-09T08:01:16.759Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "988e5d93b8b619791a4919fbdb87b627376157cd96f0437e01e098ff1d9312d3",
+      "title": "Dubai Exhibition Centre to increase visitor capacity to 60,000 a day",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-exhibition-centre-to-increase-visitor-capacity-expansion-plan",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-09T08:31:02.437Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "988e5d93b8b619791a4919fbdb87b627376157cd96f0437e01e098ff1d9312d3",
+      "title": "Dubai Exhibition Centre to increase visitor capacity to 60,000 a day",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-exhibition-centre-to-increase-visitor-capacity-expansion-plan",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-09T08:31:04.424Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

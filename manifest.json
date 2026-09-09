@@ -35792,6 +35792,24 @@
       "processedDate": "2026-09-09T03:15:57.235Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "efdc6f48aa3d39f48dd262ade8d298eae45ae004dade3c5c86d04aa2fc02e378",
+      "title": "UAE designates September 9 as annual Emergency Number Day to promote responsible use of 999",
+      "sourceUrl": "https://gulfnews.com/uae/government/uae-designates-september-9-as-annual-emergency-number-day-to-promote-responsible-use-of-999-1.500668197",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T08:01:14.581Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "384b1511a891a4524936a8a2800e9adc4417b322d93f3a09e14c491ab634a1bd",
+      "title": "A new academic achievement for Liwa University",
+      "sourceUrl": "https://gulfnews.com/friday/lifetstyle/a-new-academic-achievement-for-liwa-university-1.500668203",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-09T08:01:16.759Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

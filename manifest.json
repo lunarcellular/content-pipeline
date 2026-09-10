@@ -36080,6 +36080,24 @@
       "processedDate": "2026-09-10T05:31:11.898Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fd001121ddd59230e44c1a429f3ed45a849b8bd13ae58f65de1b250e3098be8c",
+      "title": "Fallen speaker: High-flying Martin Romualdez ordered to Payatas Jail over ₱7.4B plunder scandal",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/fallen-speaker-high-flying-martin-romualdez-ordered-to-payatas-jail-over-74b-plunder-scandal-1.500669357",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-10T05:45:51.379Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d7147be2adba418e76cea8cbaf5c490d56e352f1fa989581759c02118e825eb4",
+      "title": "Trump promises Americans $5,000 if Republicans win Congress",
+      "sourceUrl": "https://gulfnews.com/world/americas/trump-promises-americans-5000-if-republicans-win-congress-1.500667918",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-10T05:45:53.254Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

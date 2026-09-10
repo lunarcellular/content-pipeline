@@ -36161,6 +36161,15 @@
       "processedDate": "2026-09-10T10:30:59.800Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5fe26c30900535c265a99d31b1778f0867b4e8a881edfde1e466bea6c23af62a",
+      "title": "Dubai's KHDA unveils roadmap to prepare students for the jobs of tomorrow",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubais-khda-unveils-roadmap-to-prepare-students-for-the-jobs-of-tomorrow-1.500669865",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-10T12:16:26.821Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-10-dubai-khda-future-ready-framework.md"
     }
   ]
 }

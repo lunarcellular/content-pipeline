@@ -36170,6 +36170,24 @@
       "processedDate": "2026-09-10T12:16:26.821Z",
       "relevant": true,
       "outputFile": "output/2026-09-10-dubai-khda-future-ready-framework.md"
+    },
+    {
+      "urlHash": "97ab43edb5ef5d9d5e6ac35a33d122028a592ef0f235fd35dc85bcba5ff30e1d",
+      "title": "UAE employers urged to treat workforce health as long-term investment, not 'soft HR' issue",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/future-of-the-workforce-summit-uae-employee-health-long-term-investment",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-10T12:31:04.818Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "410cbd34b1859f0d4781d1bb9bc04befd80b6bbe67f455b2c3379edf0460ab97",
+      "title": "Dubai schools adopt new framework for students as jobs in the future 'do not yet exist' ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-new-academic-career-guidance-framework-private-schools-universities",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-10T12:31:06.923Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

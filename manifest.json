@@ -36431,6 +36431,33 @@
       "processedDate": "2026-09-11T13:16:03.510Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5e439455419c89ae591b569c798616e9f5b2d7b57850ac6208f1338bd64d14ea",
+      "title": "US governor signs law to limit children's social media risks",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-governor-signs-law-to-limit-childrens-social-media-risks-1.500670550",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-11T13:45:55.822Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3977b9f7c17cdc710c0473fd2a4cbb59a05c58ac38d6cfac33bd697a23f1abdd",
+      "title": "CERT and TOEFL enter into a strategic agreement to expand access to global education opportunities for students across the UAE",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/cert-and-toefl-enter-into-a-strategic-agreement-to-expand-access-to-global-education-opportunities-for-students-across-the-uae-1.500671303",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-11T13:45:58.285Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cd87b679184308e8cfe9f87cbd15f87c0d6f6ea110c5060326f1c06f83d35e78",
+      "title": "Sheikh Hamdan bin Mohammed visits Aster Pharmacy’s distribution centre in Dubai",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/sheikh-hamdan-bin-mohammed-visits-aster-pharmacys-distribution-centre-in-dubai-1.500671289",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-11T13:46:01.235Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

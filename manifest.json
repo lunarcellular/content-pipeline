@@ -36476,6 +36476,15 @@
       "processedDate": "2026-09-11T15:15:56.604Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8d734fd646ff7201c18e6a8431053012368dc1a3dcfba2247bb1d3c6c34431a0",
+      "title": "UAE students build AI tools to cut hospital wait times, prevent unused operating rooms",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/students-ai-tools-cut-hospital-wait-times-stop-unused-operating-rooms",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-11T16:15:54.995Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

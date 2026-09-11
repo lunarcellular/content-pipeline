@@ -36395,6 +36395,24 @@
       "processedDate": "2026-09-11T10:46:05.980Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "064718c1de49968e2fc329d4483f7590945bf6033cc83a645060a2af08265f60",
+      "title": "At least 26 students killed as fire sweeps two schools in Congo",
+      "sourceUrl": "https://gulfnews.com/world/africa/at-least-26-students-killed-as-fire-sweeps-two-schools-in-congo-1.500671049",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-11T11:15:53.641Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4bd1b923ddc9cfeea72b3c82dd012875bdd32e5ca9c33d0971c7cf14cf36d650",
+      "title": "Trial remains elusive for purported mastermind accused of plotting 9/11 attacks",
+      "sourceUrl": "https://gulfnews.com/world/americas/trial-remains-elusive-for-purported-mastermind-accused-of-plotting-911-attacks-1.500671024",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-11T11:15:55.453Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

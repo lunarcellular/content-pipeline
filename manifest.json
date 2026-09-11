@@ -36359,6 +36359,24 @@
       "processedDate": "2026-09-11T07:45:57.352Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6bbccff772ad512581461f6864a89e39cf610f30f3070b3909da23fffd46ca20",
+      "title": "Watch: 2,977 drones form viral tribute to honour each person killed in 9/11 attack",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/watch-drones-viral-tribute-honour-killed-911-attack",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-11T08:15:57.727Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8a4947614c72cc6e91d8191524ac319096ad0ebed1c57d327bced98b1c885bdc",
+      "title": "UAE' approves new fee exemptions for student inventors, People of Determination — what changes from September 14",
+      "sourceUrl": "https://gulfnews.com/business/uae-approves-new-fee-exemptions-for-student-inventors-people-of-determination-what-changes-from-september-14-1.500670682",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-11T08:16:20.585Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-11-uae-fee-exemptions-student-inventors-people-of-determination.md"
     }
   ]
 }

@@ -36521,6 +36521,42 @@
       "processedDate": "2026-09-11T22:37:20.352Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dbaf3408d2722c9a18e1dc692848c8d665ac5228ed7115f9fe519043bfbacc4a",
+      "title": "It's not just kids: Parents may cry at school drop-off due to 'sense of grief'",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/why-parents-cry-school-drop-off",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-12T03:01:07.078Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cc0976c78957ed5d7bdfa5868d3ff5e3777ffbe2dd1b94dbfdd2248b63c905f6",
+      "title": "Some UAE schools introduce WhatsApp group policies as parents return to class chats",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/school-whatsapp-group-policies-setting-ground-rules",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-12T03:01:09.213Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dbaf3408d2722c9a18e1dc692848c8d665ac5228ed7115f9fe519043bfbacc4a",
+      "title": "It's not just kids: Parents may cry at school drop-off due to 'sense of grief'",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/why-parents-cry-school-drop-off",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-12T03:01:11.137Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cc0976c78957ed5d7bdfa5868d3ff5e3777ffbe2dd1b94dbfdd2248b63c905f6",
+      "title": "Some UAE schools introduce WhatsApp group policies as parents return to class chats",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/school-whatsapp-group-policies-setting-ground-rules",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-12T03:01:13.290Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

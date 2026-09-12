@@ -36566,6 +36566,24 @@
       "processedDate": "2026-09-12T04:45:57.641Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "36b3909369bd8a6ce5352790638c342d05d2d3b8c264f3de1a189a83ad746a72",
+      "title": "Trump says Iran 'probably' responsible for the attack on Saudi Arabia’s East-West pipeline",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/09/12/regional-powers-condemn-treacherous-attack-that-shut-down-saudi-arabias-east-west-oil-pipeline/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-12T10:15:51.373Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9a347e88dbae061271f8a3958c639e7784d5b545e081f2a6cbcb2894b508a354",
+      "title": "Iran war latest: Iran was 'probably responsible' for Saudi attack, says Trump",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/09/12/live-iran-us-war-houthis-yemen-iraq/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-12T10:15:53.440Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

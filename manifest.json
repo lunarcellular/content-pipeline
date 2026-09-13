@@ -36728,6 +36728,24 @@
       "processedDate": "2026-09-13T07:45:57.100Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8507f38f5dac533a054627303b9e0b8ee023132f96daab02f4ceecdde5261bc2",
+      "title": "Every IPL team will regret missing out on Vaibhav Sooryavanshi: Goenka",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/ipl/every-ipl-team-will-regret-missing-out-on-vaibhav-sooryavanshi-goenka-1.500672844",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-13T08:15:58.672Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a978257bafaa48774c73db0dc75eaa021503789463f08b30ad79882137c56a2d",
+      "title": "Sharjah's coastal network of Dibba Al Hisn, Khor Fakkan, Khor Kalba added to UNESCO list",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-coastal-network-dibba-al-hisn-khor-fakkan-khor-kalba-unesco-tentative-list-for-world-heritage",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-13T08:16:00.770Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

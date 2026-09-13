@@ -36674,6 +36674,24 @@
       "processedDate": "2026-09-13T03:01:18.006Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cb596d2ddf293e93eb09cc9d53c9d33a5971b8034958c49c6f22a4452185b4a6",
+      "title": "UAE extends condolences over victims of fire at two schools in DR Congo",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-condolences-victims-fire-two-schools-dr-congo",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-13T04:20:52.934Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb596d2ddf293e93eb09cc9d53c9d33a5971b8034958c49c6f22a4452185b4a6",
+      "title": "UAE extends condolences over victims of fire at two schools in DR Congo",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-condolences-victims-fire-two-schools-dr-congo",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-13T04:20:54.978Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

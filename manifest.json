@@ -36701,6 +36701,24 @@
       "processedDate": "2026-09-13T06:45:57.086Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "713a50293b80906db995a6bf207d7525bccbf03af0f4b595682b5243574b4d52",
+      "title": "Houthis claim responsibility for new attacks on Saudi Arabia in Red Sea offensive",
+      "sourceUrl": "https://www.thenationalnews.com/news/gulf/2026/09/13/houthis-claim-responsibility-for-new-attacks-on-saudi-arabia-in-red-sea-offensive/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-13T07:15:57.303Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3f081bf5dfa7500118db98ccb1a502e472d42e378a52599baf74aa74eb759ef1",
+      "title": "UAE schools bring back textbooks, ban laptops for Grade 6 students\n",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-bring-back-textbooks-ban-laptops-for-grade-6-students-1.500672789",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-13T07:16:20.149Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-13-uae-schools-textbook-reinstatement-digital-device-limit.md"
     }
   ]
 }

@@ -36800,6 +36800,24 @@
       "processedDate": "2026-09-13T14:45:56.678Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dfbb4b6cb0cd56463705aff2b3784f85c263be2f77ab0140d1b66ab7bb56025d",
+      "title": "UAE schools bring back textbooks, ban laptops for Grade 6 students - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWhJTE55WmNRaEVTNkMzMlVBY1d2ZmNZLWl3X1hXbTJETEI0QWtybkxYTFhOTmF0ekxkY3N0R3htVmdhZHN1STNjQTA4aVkwRmJkQVc0cVNDWlo2TFhCVm9MWDQtQy15enZsS1l5NGJodWlCQnNxNGItUjF4ZExyT0xxazNvWjhfMlFpQnFUa0VZa1B1SWdPS1FxdDUxU1ZMak9UWlB3YS1fSm4xb0dRNGdB0gHEAUFVX3lxTFBncHF3d3Z3eDl6ME91UFJ1SVRuclhrYnRNaWFqbDQ2MnBqaldjaXBMWUlMUW1ZWjVmRXJfUWpvSDg2MGI2aEhHZUhWSndDb2tRRy1KRktSaml6TnhZRDlkdlhGMEl0UmdzMzQ2TXdXOWk2Y3FybGdINHc4MjgyUzBmU2s0MWNuU29oSU1hS0xHdVFFeklXTTd3MjMwSmY1bFIwdTNZQVY4RGs5aVJVdkZEV25DU3EwMGdTeXd6RmpTbnhtT0Y?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-13T16:31:05.551Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dfbb4b6cb0cd56463705aff2b3784f85c263be2f77ab0140d1b66ab7bb56025d",
+      "title": "UAE schools bring back textbooks, ban laptops for Grade 6 students - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWhJTE55WmNRaEVTNkMzMlVBY1d2ZmNZLWl3X1hXbTJETEI0QWtybkxYTFhOTmF0ekxkY3N0R3htVmdhZHN1STNjQTA4aVkwRmJkQVc0cVNDWlo2TFhCVm9MWDQtQy15enZsS1l5NGJodWlCQnNxNGItUjF4ZExyT0xxazNvWjhfMlFpQnFUa0VZa1B1SWdPS1FxdDUxU1ZMak9UWlB3YS1fSm4xb0dRNGdB0gHEAUFVX3lxTFBncHF3d3Z3eDl6ME91UFJ1SVRuclhrYnRNaWFqbDQ2MnBqaldjaXBMWUlMUW1ZWjVmRXJfUWpvSDg2MGI2aEhHZUhWSndDb2tRRy1KRktSaml6TnhZRDlkdlhGMEl0UmdzMzQ2TXdXOWk2Y3FybGdINHc4MjgyUzBmU2s0MWNuU29oSU1hS0xHdVFFeklXTTd3MjMwSmY1bFIwdTNZQVY4RGs5aVJVdkZEV25DU3EwMGdTeXd6RmpTbnhtT0Y?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-09-13T16:31:06.291Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

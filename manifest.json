@@ -36818,6 +36818,15 @@
       "processedDate": "2026-09-13T16:31:06.291Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "b3f3f3751b2eac4410ff964ec716d35f5a5eefb98b126d915ca8c4ddf51e0fce",
+      "title": "Dubai visitor numbers begin to recover as tourism boss hails city's determination",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/13/dubai-says-tourism-recovery-has-begun-with-nearly-900000-visitors-in-august/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-13T17:15:52.901Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

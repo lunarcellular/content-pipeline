@@ -36719,6 +36719,15 @@
       "processedDate": "2026-09-13T07:16:20.149Z",
       "relevant": true,
       "outputFile": "output/2026-09-13-uae-schools-textbook-reinstatement-digital-device-limit.md"
+    },
+    {
+      "urlHash": "4c2bb31c077e33a0e20e4199c75b8d47ce2d2493f88516336afc150a81ac5aa2",
+      "title": "Kuwait brings drones under new law, with jail terms and fines up to KD5,000",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwait-brings-drones-under-new-law-with-jail-terms-and-fines-up-to-kd5000-1.500672815",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-13T07:45:57.100Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

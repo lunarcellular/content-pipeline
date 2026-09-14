@@ -36962,6 +36962,24 @@
       "processedDate": "2026-09-14T12:31:15.610Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b66e01c29a8833c6bece5ded48809a4a0a8d2bddabf09fb5acee2ec74a6809be",
+      "title": "From pocket money to pre-orders: the UAE school canteen we remember",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/from-pocket-money-to-pre-orders-the-uae-school-canteen-we-remember-1.500673606",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-14T13:01:09.857Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "61693bf2914bd45426007f0cc35add4a3964b381b6ebcdd8cf125c3e754c5fd2",
+      "title": "UAE steps up scrutiny of academic certificates – with Dh30,000 fine among penalties for fakes",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/14/uae-education-fake-certificates-prosecution/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-14T13:01:15.594Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

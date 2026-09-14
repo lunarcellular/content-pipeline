@@ -36890,6 +36890,24 @@
       "processedDate": "2026-09-14T09:01:14.256Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e2203496d8877c17263054746aad46d9c226eef0141c67374ba9babff305f88c",
+      "title": "Donald Trump's childhood home in Queens sold for nearly $2 million",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/donald-trump-childhood-home-queens-2million",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-14T09:16:03.051Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bc15726eb4a735c45ffff16486604031602fef3402fdf64ecb872d75a45c63ad",
+      "title": "Meghan Markle shares glimpse of family life in UK after return with Prince Harry, children",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/meghan-markle-family-life-uk-return-prince-harry",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-14T09:16:05.381Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

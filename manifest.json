@@ -37223,6 +37223,24 @@
       "processedDate": "2026-09-15T09:15:56.580Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0ce297f57c8db095d69fe283d97e3bffab2e2eae7447b33b54418d718cbe37d8",
+      "title": "Gulf News Edufair Dubai puts future-ready education choices in focus",
+      "sourceUrl": "https://gulfnews.com/uae/education/gulf-news-edufair-dubai-puts-future-ready-education-choices-in-focus-1.500675047",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-15T09:31:00.181Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b2f149d12863032adc5481332457be5dd29fa09c64138997cf67f37379f35357",
+      "title": "Head start for UAE school leavers as platform links pupils with placements",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/15/uae-employers-hiring-fresh-graduates-school-leavers/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-15T09:31:02.608Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

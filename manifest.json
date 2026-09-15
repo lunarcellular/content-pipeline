@@ -37043,6 +37043,42 @@
       "processedDate": "2026-09-15T00:40:49.010Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "08b3dd93b2fc2b8f243a7ca2cc7b1d41f1e080c13daf0fd8da93afaf695fbaad",
+      "title": "DIB launches Millionaire Account; savers stand a chance to win Dh1m and a Tesla Car every month",
+      "sourceUrl": "https://gulfnews.com/business/banking/dib-launches-millionaire-account-savers-stand-a-chance-to-win-dh1m-and-a-tesla-car-every-month-1.500674765",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-15T03:01:07.938Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "342bbfb78ce31912fd8ba86ad27ee8335ad2a3b10b69f0517180ed2b6276ba97",
+      "title": "Kanaf Centre leads UAE, Middle East with child forensic technology",
+      "sourceUrl": "https://gulfnews.com/uae/health/kanaf-centre-leads-uae-middle-east-with-child-forensic-technology-1.500674753",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-15T03:01:11.608Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c792d79f7fd1dc8b9ba6925bf523a2dd383393f7903286b1e5e25945144d6a46",
+      "title": "UAE schools tighten grooming, hoodie and energy drink rules",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-tighten-grooming-hoodie-energy-drink-rules",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-15T03:01:54.942Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-15-uae-schools-grooming-health-guidelines.md"
+    },
+    {
+      "urlHash": "c792d79f7fd1dc8b9ba6925bf523a2dd383393f7903286b1e5e25945144d6a46",
+      "title": "UAE schools tighten grooming, hoodie and energy drink rules",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-tighten-grooming-hoodie-energy-drink-rules",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-15T03:01:54.942Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-15-uae-schools-grooming-health-guidelines.md"
     }
   ]
 }

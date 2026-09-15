@@ -37205,6 +37205,15 @@
       "processedDate": "2026-09-15T08:31:12.440Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "0f92752ec15f7991fde1f4ee48029717ad58cb7f3a62bf1c1e8d9c480d508d87",
+      "title": "UAE adds students, Hajj, Umrah travellers to priority groups for flu vaccination",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-adds-students-hajj-umrah-travellers-to-priority-groups-for-flu-vaccination",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-15T08:45:57.227Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

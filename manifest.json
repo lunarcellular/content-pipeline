@@ -37196,6 +37196,15 @@
       "processedDate": "2026-09-15T08:15:55.338Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "59604faa56dce505d6e78e8c8419642dbd140dce1dc320bc66efdca8a9238888",
+      "title": "UAE flu vaccine now necessary for school students and some travellers",
+      "sourceUrl": "https://gulfnews.com/uae/health/uae-flu-vaccine-now-necessary-for-school-students-and-some-travellers-1.500675082",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-15T08:31:12.440Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

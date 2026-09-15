@@ -37142,6 +37142,33 @@
       "processedDate": "2026-09-15T06:31:42.443Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3f2ba29044014199058106bb946b58c1a2ade008d8ccefa614339a5ac3bacfe2",
+      "title": "DIB launches millionaire account                   ",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-launches-millionaire-account",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-15T06:45:52.211Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "461ca6f67543ee0e5ad1f5903fd0f723474bbd23073fba738acf456c2e581a23",
+      "title": "Talabat rolls out back-to-school activities for UAE families",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/talabat-rolls-out-back-to-school-activities-for-uae-families",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-15T06:45:54.181Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "461ca6f67543ee0e5ad1f5903fd0f723474bbd23073fba738acf456c2e581a23",
+      "title": "Talabat rolls out back-to-school activities for UAE families",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/talabat-rolls-out-back-to-school-activities-for-uae-families",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-15T06:45:56.117Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

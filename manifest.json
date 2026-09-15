@@ -37079,6 +37079,15 @@
       "processedDate": "2026-09-15T03:01:54.942Z",
       "relevant": true,
       "outputFile": "output/2026-09-15-uae-schools-grooming-health-guidelines.md"
+    },
+    {
+      "urlHash": "3df410e4874fc722f7055f24c90adb954ff93d3da2968506412dfd52289257cc",
+      "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+      "sourceUrl": "https://gulfnews.com/world/americas/supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms-1.500674685",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-15T03:31:01.014Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

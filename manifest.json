@@ -37556,6 +37556,24 @@
       "processedDate": "2026-09-16T13:15:55.806Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ede79f06694afe6302c099b44cd0481393899ce1fe2de268fe599b0d5a3c60e7",
+      "title": "UAE records zero traffic deaths on Day 1 of school as 385,700 join accident-free pledge",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/uae-zero-traffic-deaths-day-1-school-accident-free-campagin",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-16T14:01:08.479Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ede79f06694afe6302c099b44cd0481393899ce1fe2de268fe599b0d5a3c60e7",
+      "title": "UAE records zero traffic deaths on Day 1 of school as 385,700 join accident-free pledge",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/uae-zero-traffic-deaths-day-1-school-accident-free-campagin",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-16T14:01:11.431Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

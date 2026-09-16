@@ -37349,6 +37349,15 @@
       "processedDate": "2026-09-16T00:43:14.370Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "c6b526b62d1f06fa0ab7062d2e4d6ce98a59ab5c8f231e76360487bcd1aa1770",
+      "title": "Yemen coastguard flees to Djibouti after Houthi takeover",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/09/16/yemen-coastguard-flees-to-djibouti-after-houthi-takeover/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-16T04:15:59.867Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

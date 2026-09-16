@@ -37457,6 +37457,15 @@
       "processedDate": "2026-09-16T10:45:57.345Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "cc5ca17fe7a1dcc4076d2ac844394f043f53d8f2d7c5590d491eddee98b26f66",
+      "title": "Gaza civil defence says toll from building collapse rises to 20, including 5 children",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/gaza-city-building-collapse-deaths-israeli-strikes",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-16T11:01:09.192Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -37772,6 +37772,24 @@
       "processedDate": "2026-09-17T12:31:03.482Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "43ad8dedd830d8246a01a7f7e840bc52ce2ca985413fc075962f8c04aebd19e7",
+      "title": "UAE tourism sector contributes Dh251.3bn to economy as international visitor spend hits Dh209bn",
+      "sourceUrl": "https://gulfnews.com/business/tourism/uae-tourism-sector-contributes-dh2513bn-to-economy-as-international-visitor-spend-hits-dh209bn-1.500678240",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-17T13:01:09.476Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "56f60e929d9fbc76c61db9dea3bfa0a5372a19b5d38c7cc0dbf052b6c4e6ebfb",
+      "title": "Abu Dhabi's Sheikh Zayed Grand Mosque introduces entry fees for visitors",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sheikh-zayed-grand-mosque-abu-dhabi-entry-fees",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-17T13:01:12.051Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

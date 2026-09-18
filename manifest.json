@@ -38222,6 +38222,15 @@
       "processedDate": "2026-09-18T15:15:53.437Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d8c79511377a1edc0ad4f826888d14d828650aa3310a0befc49a4d0c080dfc09",
+      "title": "ADEK to add 12,000 nursery seats across Abu Dhabi, create jobs for Emirati women - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEdTUnRvN0FJUG5jY1JFaWk3VVVzZkhQQzBtMnNoU2tiY3FORVhHUERWQXVpcVdlMjZRcW03b1JUWlB4bzVLMEJLRlo0Z0pScVVuakZ2bGRUSkQ4aFZMbEpwdERMRUZnZzk0cDJwMzBrLWV6eWNCN2tRZjJCMXpZcEh4UTdpaDhjQ0NGcnlEUW1yc3lWV0l0NlNlWXFLYXFudnUxRGhWQ2RBMzRNMElUamh2Mld3cVJQUTJaUEVCczNUcHNhSkxnem1HZ9IB0wFBVV95cUxOMm9lTWpGMnVBMDZFRnlPOUtmV3poS0pTZjZlNlNqSG5kTUpKLTlacHB5ZnJKSnQ5dEM2VGRDMkZtQjVBTGsxRGFiSnRwYzFJeFgxMy1FS2J1QVJyUkpQWWNwUlU0bDJNMDhtV2YtWkwyc3d2aVVGOHljMHlydl9KNXlZWHB1eC1OVWJMeEROaVVxWl9rZlAyQVV5VWtHZ2YxSU1BUEhwZGFQbzJ6eG9ZQVFPMkM3aVAxNUNrR3NCM09LdDZnSElUMXliRjkwLTdiY3pr?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-18T17:16:24.600Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-18-abu-dhabi-nursery-expansion-12000-seats.md"
     }
   ]
 }

@@ -38186,6 +38186,24 @@
       "processedDate": "2026-09-18T13:16:32.982Z",
       "relevant": true,
       "outputFile": "output/2026-09-18-abu-dhabi-nursery-expansion-12000-seats.md"
+    },
+    {
+      "urlHash": "3686a1f13ff034652c03e6fcc0557427e09d113d8a11cf8e87b6ac99ad06fd3d",
+      "title": "UAE strongly condemns school shooting in Philippines",
+      "sourceUrl": "https://gulfnews.com/uae/government/uae-strongly-condemns-school-shooting-in-philippines-1.500679771",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T14:15:58.819Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e639d40d26b46eb950cff11ed05cbd93f6b192e7472620b80c05f4457b62d36a",
+      "title": "UAE strongly condemns school shooting in Philippines - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1hIUVVyaC1DX2tWQlVqcEk2YXNBblFqMnJNYVE4NW5ydldCbUJob051TFJPNU9pQmxhQVBHaFMwcTFCSmVoSEhqOGtDc2ZjcVZUaFdPMmNEZzA1aGNOalpJMjVqODh0dlpXNHZGeTFzaVlKUWlGcUtCRnFuVk8xaF9hd2R3UzFPeEJ1S29oU1JhWEdKWkxMSzBpVnVfZkVmRFHSAbQBQVVfeXFMUFp5bU02T3NxdVpobGI4TUw2Z2pzb1dIdE43cFF2N05mVlFZVTBocGdNdTI5RUFlT3VFVU9lRHdLWThoS2pubmhhWHlGakZnM1NMbzY1cDE5VmRLa3BtMnFEUVJYNGJfR0JNamFQdWpLUi16ZXlBVExuZ2VwWGUxT2llZHFIUG5nTGtaWTdBTUlaRFF5cmNFQzU4X2VvcnUzVlVBU2szUUxDOFdBTHBmUXFWa2F6?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-18T14:16:01.273Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

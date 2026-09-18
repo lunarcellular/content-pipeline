@@ -38114,6 +38114,33 @@
       "processedDate": "2026-09-18T10:31:07.668Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8138a969566531bea0e4467ff8e1acce9447d4c3bab8969568b6dd342ee7c8d8",
+      "title": "Early voting begins in US midterm elections",
+      "sourceUrl": "https://gulfnews.com/world/americas/early-voting-begins-in-us-midterm-elections-1.500679476",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T11:15:52.809Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b231498a98495037413333428b4e31d7d6c3e1eb97c6c9471be8f2306b5c573",
+      "title": "A book and years of memories: Gargash pays tribute to Mohammed bin Rashid",
+      "sourceUrl": "https://gulfnews.com/uae/a-book-and-years-of-memories-gargash-pays-tribute-to-mohammed-bin-rashid-1.500679442",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T11:15:54.748Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a512f4238d1636bec42c72a396b8c4ef5572eeb2b92c6cf4331fbb0674d83cea",
+      "title": "WTA 2026: Bloomfields Holiday Homes recognised as leading short-term rental management company",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/wta-2026-bloomfields-holiday-homes-recognised-as-leading-short-term-rental-management-company-1.500679462",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T11:15:56.690Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -37970,6 +37970,33 @@
       "processedDate": "2026-09-18T05:16:02.240Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "232df3f29d26ffc80ecebe382906b784be1fd0228ac41b2cf0fd5fe5f2097be5",
+      "title": "UN-backed experts cite possible US war crimes in Iran strikes",
+      "sourceUrl": "https://gulfnews.com/world/mena/un-backed-experts-cite-possible-us-war-crimes-in-iran-strikes-1.500679158",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T06:46:01.760Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c0152ad1525083c3539c00b8f8f502a64c10c398974a923ae0cc72c7fb66dba1",
+      "title": "Abu Dhabi expands AI education across 170 private schools",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-expands-ai-education-across-170-private-schools-1.500679154",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T06:46:44.180Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-18-abu-dhabi-ai-education-initiative.md"
+    },
+    {
+      "urlHash": "92ebec91fc27811f18a9f8a732647220085202abc68c8617e342b94c4582656d",
+      "title": "Abu Dhabi expands AI education across 170 private schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFRXU0I0ZVJIRzRqX3VFMlJ1NnQ5alZOMFZPVXY5WlMwdlgtWkJSdDktOGVNQVA1QWFVUjlMTnV5QkZrczhDM0twdDFzUjhkM3JlTTBKeDBxNUhmc2FjekRNQko3OVJLZGVkYlBzVHpUaUR3Vk1ERWdqM2VFZU5NdzZxWWpzWjFoLWFCVXhUQzc2ZkdnbGtuMUswUWRYM3N5XzNDVGV3SdIBugFBVV95cUxPWUZtN0Joa3BiZmU0bGc0OHZDbmt2T0VRRkZWY1FSOGtUeWlaaldUQ0k5a1FtdzJ2UmJXNm5fZFZDV0gwVHl1WmdFVTI0VWx0ck5wMDd6ZXVoalRTR0c5MEVSY2RqUV9heXZ2cndfVHd3bUJtRWYtdmpjdFBKN21xXzlYWFdweUdZZ3gzb2RLbTJWcjQ3R0pzZnBNSHktd0VwZmJuVDcxVk1qZTY5NDl3VDZLTjB3WkxfTlE?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-09-18T06:46:44.180Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-18-abu-dhabi-ai-education-initiative.md"
     }
   ]
 }

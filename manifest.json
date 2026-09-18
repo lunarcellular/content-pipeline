@@ -38231,6 +38231,24 @@
       "processedDate": "2026-09-18T17:16:24.600Z",
       "relevant": true,
       "outputFile": "output/2026-09-18-abu-dhabi-nursery-expansion-12000-seats.md"
+    },
+    {
+      "urlHash": "cd696cbe491974d46a4192f2be2f77f4b5a05535962f335146fa758f30719d78",
+      "title": "India updates passport validity rules for children under 15",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/indian-passport-rules-updated-kids-under-15-fees",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-18T18:15:53.820Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "57319b9efeeafbee71d110d53a387cdd44038472f86e60b232a6d7c6bb2e56fc",
+      "title": "Anker Soundcore Liberty 5 Pro Max review: These AI-powered earbuds are listening",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/09/18/anker-soundcore-liberty-5-pro-max-review-ai-recorder/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-18T18:15:56.525Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

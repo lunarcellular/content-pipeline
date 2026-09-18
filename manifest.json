@@ -37943,6 +37943,15 @@
       "processedDate": "2026-09-18T03:02:17.596Z",
       "relevant": true,
       "outputFile": "output/2026-09-18-dubai-schools-health-safety-guidelines.md"
+    },
+    {
+      "urlHash": "2c9a66caa93c6db7767ba00bbb29986381ee1014c25fd2bb373ce76b7a6b6002",
+      "title": "US-Iran conflict: Oil prices ease as Trump signals possible path to talks",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-iran-conflict-oil-prices-ease-as-trump-signals-possible-path-to-talks-1.500678971",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T03:15:52.326Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

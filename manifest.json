@@ -38150,6 +38150,24 @@
       "processedDate": "2026-09-18T11:31:03.497Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3923e598caf7ad206722c771fe3a4c5f971db8062b989cf72b2e73db897dba46",
+      "title": "Worker assaults three-year-old, then tells court childcare was not her job",
+      "sourceUrl": "https://gulfnews.com/uae/crime/worker-assaults-three-year-old-then-tells-court-childcare-was-not-her-job-1.500679489",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T11:45:55.641Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5af3a6ca937fd16a407505be35b7385cb8cf4c49585020dd4efe33e82b613705",
+      "title": "400 CCTV cameras help Kerala Police catch schoolgirl stalker",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/400-cctv-cameras-help-kerala-police-catch-schoolgirl-stalker-1.500679499",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-18T11:45:57.635Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

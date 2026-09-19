@@ -38384,6 +38384,15 @@
       "processedDate": "2026-09-19T08:46:13.694Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8cc6d3de4d5ef4064c71499cfc4baaba03e06fb8f32195b423a0904631960c8d",
+      "title": "UAE launches Cybrani initiative to help students develop cyber security skills",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/19/uae-launches-cybrani-initiative-to-help-students-develop-cyber-security-skills/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-19T10:31:10.823Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

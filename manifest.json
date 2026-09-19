@@ -38393,6 +38393,15 @@
       "processedDate": "2026-09-19T10:31:10.823Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "eaecd4148d3a37e36ef438328f60387ed2f8b5c16a9fc7dd83c27e8dbaaad001",
+      "title": "Sheikh Hamdan announces second Rashid Village in Zanzibar",
+      "sourceUrl": "https://gulfnews.com/uae/sheikh-hamdan-announces-second-rashid-village-in-zanzibar-1.500680581",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-19T12:01:01.007Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

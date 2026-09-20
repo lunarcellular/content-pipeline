@@ -38537,6 +38537,24 @@
       "processedDate": "2026-09-20T08:15:54.374Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dcf189e36fea252102873164211c8ded950749984c56316ce9093a611798f733",
+      "title": "Dubai-backed kindness campaign brings water, education and healthcare to Ghana village",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-campaign-water-education-healthcare-ghana-village",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-20T08:46:00.199Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dcf189e36fea252102873164211c8ded950749984c56316ce9093a611798f733",
+      "title": "Dubai-backed kindness campaign brings water, education and healthcare to Ghana village",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-campaign-water-education-healthcare-ghana-village",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-20T08:46:02.365Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

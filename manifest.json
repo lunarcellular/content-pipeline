@@ -38519,6 +38519,24 @@
       "processedDate": "2026-09-20T07:45:56.554Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f6163b1b7b055be100dc8481af5eff8fdc2e7c92bdd706477867710fde244b61",
+      "title": "PNP backs school safety task force with DepED, DILG after South Cotabato school shooting",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/pnp-backs-school-safety-task-force-with-deped-dilg-after-south-cotabato-school-shooting-1.500681181",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-20T08:15:52.233Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d1e5e63f36fe463413c7062b3376d3575ad5eea215e946e44fae31e61bf99b46",
+      "title": "IIT-Bombay student dies by suicide after ChatGPT cheating incident; protests erupt",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/iit-bombay-student-suicide-cheating-incident-protests",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-20T08:15:54.374Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -38411,6 +38411,60 @@
       "processedDate": "2026-09-19T17:01:00.413Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9548021bc2d6be8421935f8185390a1223cd13d8abf6df2aaa52d1098d2e25a7",
+      "title": "Iran sends US 7 conditions for talks, awaits Trump response",
+      "sourceUrl": "https://gulfnews.com/world/mena/iran-sends-us-7-conditions-for-talks-awaits-trump-response-1.500680991",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-20T03:01:08.150Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c0863082525d8c77072025bfad28b1a970b8d4727b17151d0074d12d2eded923",
+      "title": "At 90, he feels like college student again: Dubai club helps seniors find new circle",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-smartlife-club-community-for-senior-expats",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-20T03:01:10.667Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c0863082525d8c77072025bfad28b1a970b8d4727b17151d0074d12d2eded923",
+      "title": "At 90, he feels like college student again: Dubai club helps seniors find new circle",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-smartlife-club-community-for-senior-expats",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-20T03:01:14.857Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "40ac5518f80ad3190989996719fd45ffae80270f582d7da09760a004f0817e36",
+      "title": "New guide explains age cut-off, grade eligibility for Dubai school admissions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/new-khda-guide-age-cut-off-grade-eligibility-for-dubai-school-admissions",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-20T03:02:19.541Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-20-dubai-school-admissions-age-cut-off.md"
+    },
+    {
+      "urlHash": "40ac5518f80ad3190989996719fd45ffae80270f582d7da09760a004f0817e36",
+      "title": "New guide explains age cut-off, grade eligibility for Dubai school admissions",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/new-khda-guide-age-cut-off-grade-eligibility-for-dubai-school-admissions",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-20T03:02:19.542Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-20-dubai-school-admissions-age-cut-off.md"
+    },
+    {
+      "urlHash": "b9c585c170ece79803fcf2c1e36553cbf51af718ca117287d8ae1b2161b1f912",
+      "title": "New guide explains age cut-off, grade eligibility for Dubai school admissions - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjRWU2VXaE1BRlFEYlNOcDJ0NzhmbkU2RmcwalRQZk04c0VEdmlHX005RHp0NWczZ0Y4TWNjamdlek5udEdFa0JqY2xXUThicmZCX3RjalRPelZIR3YwdGRGay1rSlp6Yi12SHA0MXYtNnlBbGUzS3lqZ1ltNWdacHZjSWtLa2xBaXFxZVJ6Wm8yRGswVTQzeHIwREVIY0l4ZzJObXBqX2XSAbABQVVfeXFMTnF5djYyaDN1MVRwOGJrV2V4MkpVNEJxaHozNVhXVkJidzhFeXdybzlEWkFvR251TjNjZDFWbkNYUno4UUVlZVZiQjhOc2diY293UU5OVl9PTXRRdGZlUUlJNm5VVVd2ZDhFeXkwZlJkSUlHRW1qdUhtVGxqRkpCdFJkV3BZcEdFY0FTSFFlckFGU2ctdExKbkZwUUNCVlNkeC1TdnhEb2ZHdzhMUnFfWlc?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-09-20T03:02:19.542Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-20-dubai-school-admissions-age-cut-off.md"
     }
   ]
 }

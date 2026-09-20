@@ -38492,6 +38492,24 @@
       "processedDate": "2026-09-20T05:45:55.535Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "097d79c8d4ddb81cf1b2dc9504131dc51fd768a5f02e827e86dfdf26ce735e70",
+      "title": "The school bag evolution: what UAE students carry now",
+      "sourceUrl": "https://gulfnews.com/lifestyle/the-school-bag-evolution-what-uae-students-carry-now-1.500678167",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-20T06:01:07.046Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5a95b6bd6d9aba055cfb5afef5cfd254be0d07aa99624246379631ed819b7d37",
+      "title": "UAE launches school support campaign for Gaza pupils as new term begins",
+      "sourceUrl": "https://gulfnews.com/world/mena/uae-launches-school-support-campaign-for-gaza-pupils-as-new-term-begins-1.500681112",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-20T06:01:09.070Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

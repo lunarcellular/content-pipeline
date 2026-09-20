@@ -38465,6 +38465,15 @@
       "processedDate": "2026-09-20T03:02:19.542Z",
       "relevant": true,
       "outputFile": "output/2026-09-20-dubai-school-admissions-age-cut-off.md"
+    },
+    {
+      "urlHash": "6992e83572a44086bfe687c8e647eb8f5612c23a6b4c02b6d96db6060daa46bf",
+      "title": "Philippine tribe in limbo over US-led tech hub",
+      "sourceUrl": "https://gulfnews.com/world/asia/philippines/philippine-tribe-in-limbo-over-us-led-tech-hub-1.500681039",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-20T04:45:52.714Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

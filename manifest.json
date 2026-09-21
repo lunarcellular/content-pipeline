@@ -38870,6 +38870,24 @@
       "processedDate": "2026-09-21T13:01:10.065Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5c391b286b4ae7efdff2ab9b47c2a24e0980b3a8aa90a845fe8db6dd40a3fc41",
+      "title": "CBSE issues Class 12 re-exam guidelines for UAE, other Middle East students",
+      "sourceUrl": "https://gulfnews.com/uae/cbse-issues-class-12-re-exam-guidelines-for-uae-other-middle-east-students-1.500682777",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-21T15:46:00.317Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "af5679d7e83ef85f68f581699dfbbfb9fec02f5ee883384631f906abd77dd5c2",
+      "title": "Google to report child abuse content directly to Indian authorities",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/google-child-abuse-content-report-directly-to-indian-authorities",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-21T15:46:02.700Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

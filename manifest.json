@@ -38753,6 +38753,24 @@
       "processedDate": "2026-09-21T06:46:02.726Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4ea0cb36041c712bce8fb5fd28fe5108657abd7be9590203721bbe09338d69db",
+      "title": "Dior opens Dubai distribution hub to speed up Middle East deliveries",
+      "sourceUrl": "https://gulfnews.com/business/retail/dior-opens-dubai-distribution-hub-to-speed-up-middle-east-deliveries-1.500682079",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-21T07:46:00.177Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d472893a81d8d31122c8e2e7b0b86c5519a3f4d11f020c418ebf9cb40ee0698c",
+      "title": "Abu Dhabi to roll out new Arabic reading training for private school kindergarten teachers",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/abu-dhabi-arabic-reading-training-private-school-kindergarten-teachers",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-21T07:46:30.909Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-21-abu-dhabi-arabic-reading-training-kindergarten.md"
     }
   ]
 }

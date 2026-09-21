@@ -38771,6 +38771,15 @@
       "processedDate": "2026-09-21T07:46:30.909Z",
       "relevant": true,
       "outputFile": "output/2026-09-21-abu-dhabi-arabic-reading-training-kindergarten.md"
+    },
+    {
+      "urlHash": "f5e7111cdf8c58b0e1f0f638d7e94cb61f6bbb425023e074eb212b634661ca1c",
+      "title": "UAE schools tighten hair rules: 5 alternative haircuts boys can try instead",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/uae-schools-boy-hair-rules-5-alternative-haircuts",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-21T08:31:15.195Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

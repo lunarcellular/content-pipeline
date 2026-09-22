@@ -39149,6 +39149,24 @@
       "processedDate": "2026-09-22T17:01:20.616Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cf92cc155afc0751cf0fc88662a7a7268a63ea7b647696b1312ca04d319e7815",
+      "title": "Sharjah Police earns ISO 26000 social responsibility standard",
+      "sourceUrl": "https://gulfnews.com/uae/sharjah/sharjah-police-earns-iso-26000-social-responsibility-standard-1.500684298",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-22T20:29:58.645Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8552e59b5b687a4f457fd002aa4fa288029cc2fb0cec21f27fa369c0be20e8c2",
+      "title": "Sri Lanka hands 220-year jail terms to 15 convicted of Easter bombings",
+      "sourceUrl": "https://gulfnews.com/world/asia/sri-lanka-hands-220-year-jail-terms-to-15-convicted-of-easter-bombings-1.500683065",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-22T20:30:00.953Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -39023,6 +39023,15 @@
       "processedDate": "2026-09-22T11:31:15.538Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bdffe4386563b2c299adf520481522c0d6493b7985696756dfd7f2027f33b569",
+      "title": "British Columbia sues OpenAI over Canada school shooting",
+      "sourceUrl": "https://gulfnews.com/world/americas/british-columbia-sues-openai-over-canada-school-shooting-1.500683711",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-22T11:45:58.750Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

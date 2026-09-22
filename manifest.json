@@ -39050,6 +39050,24 @@
       "processedDate": "2026-09-22T12:01:14.045Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "80172e123031648fff8c55257c9a0ff2266101340a8f25c9a2da6bde0645810d",
+      "title": "UAE’s GEMS Education to roll out AI avatars of teachers across its schools",
+      "sourceUrl": "https://gulfnews.com/uae/uaes-gems-education-to-roll-out-ai-avatars-of-teachers-across-its-schools-1.500683733",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-22T12:15:56.992Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "53fe1d3d116391ca672225ccafc607bf11fba3ef19f75af40e57d53fac2890c2",
+      "title": "Alibaba deepens AI push with new chip, bigger model; shares jump 5%",
+      "sourceUrl": "https://www.khaleejtimes.com/business/alibaba-deepens-ai-push-with-new-chip-bigger-model-shares-jump-5",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-22T12:16:01.291Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

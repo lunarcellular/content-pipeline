@@ -38987,6 +38987,15 @@
       "processedDate": "2026-09-22T09:01:03.708Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ebc23deb87832e4a3fbe2b27f5aa425377b348e91d66455df968855924d0afc7",
+      "title": "Pope Leo urges responsible AI development to promote peace",
+      "sourceUrl": "https://gulfnews.com/world/pope-leo-urges-responsible-ai-development-to-promote-peace-1.500683484",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-22T09:31:04.887Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

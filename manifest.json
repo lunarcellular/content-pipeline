@@ -39095,6 +39095,24 @@
       "processedDate": "2026-09-22T13:15:58.275Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e6b0678e5e2fdacf353cee26a320efc8e96af85b0ead03c4fa2d9e55da307238",
+      "title": "South Lebanon faces possible security gap as Unifil withdrawal nears with no successor agreed ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/09/22/south-lebanon-faces-possible-security-gap-as-unifil-withdrawal-nears-with-no-successor-agreed/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-22T14:15:55.251Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f885e840f9183cc8c717b9a1ac6f0ad9206e3fd5f1f07352e64b0cb0238359c8",
+      "title": "Lebanon’s Joseph Aoun is learning the limits of US influence over Israel",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/comment/2026/09/22/lebanon-us-hezbollah-israel-joseph-aoun-donald-trump/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-22T14:15:57.368Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

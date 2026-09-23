@@ -39212,6 +39212,51 @@
       "processedDate": "2026-09-23T01:33:05.736Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "76c9d5bcabdc0818fc3ef2c8967a145659bcd30355dff0ed3407cf61e205a312",
+      "title": "Ras Al Khaimah Police steps up child protection with new programme",
+      "sourceUrl": "https://gulfnews.com/uae/ras-al-khaimah-police-steps-up-child-protection-with-new-programme-1.500684317",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-23T03:01:02.050Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "95e90d162fd64e2990febb780f18a4bdf3062833f2638201e4e21ac4180d0529",
+      "title": "How UAE families of determination navigate everyday life",
+      "sourceUrl": "https://gulfnews.com/uae/people/how-uae-families-of-determination-navigate-everyday-life-1.500684475",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-23T03:01:04.779Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "286045c6e8286fef7c28d0f1b83f4ad192c40caecbf49642b32ca9a45392971a",
+      "title": "Sharjah charity gives 34 children life-saving heart surgery in Egypt",
+      "sourceUrl": "https://gulfnews.com/uae/sharjah-charity-gives-34-children-life-saving-heart-surgery-in-egypt-1.500684331",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-23T03:01:06.959Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b63cdf76d47a525b35ab5a215d639441f8bdf1ff929de45377119f2a3a3410a",
+      "title": "Dubai driving licence renewal: When to renew, requirements, fees and how to do it",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/transport/dubai-driving-licence-renewal-process-fees-requirements-1.500683930",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-23T03:01:09.636Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bc0de9a1d84bb015129a1989b55b967a32a6c3768607a889be76eb3134db3b3a",
+      "title": "Long-term study links Type 2 diabetes with cancer ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/23/long-term-study-links-type-2-diabetes-with-cancer/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-23T03:01:11.499Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

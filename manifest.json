@@ -39383,6 +39383,24 @@
       "processedDate": "2026-09-23T14:01:13.695Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c7461fc29adbc457516372e8a4d69e3ff5ec0cde0c984d80a6c38632ca432a01",
+      "title": "ADIB Cup, Dubai Basketball, Asian Games: UAE sports fix",
+      "sourceUrl": "https://gulfnews.com/sport/adib-cup-dubai-basketball-asian-games-uae-sports-fix-1.500685351",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-23T14:45:44.659Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "86b2db6c6f93ff58e274ae0d15ac231114c0315dbfa37ccf3ffa9507f0450d89",
+      "title": "New UK law gives partners and parents two weeks bereavement leave after pregnancy loss",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/new-uk-law-gives-partners-and-parents-two-weeks-bereavement-leave-after-pregnancy-loss",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-23T14:45:47.422Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

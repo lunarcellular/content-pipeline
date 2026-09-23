@@ -39293,6 +39293,33 @@
       "processedDate": "2026-09-23T07:01:17.748Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ff0d5bf291340eea1df40905ed15350fc5777550d613fe7ca83a19da5da868dd",
+      "title": "From Abu Dhabi classrooms to Puerto Rico’s stage: 10 things to know about Miss Universe India Kaziah Liz Mejo",
+      "sourceUrl": "https://gulfnews.com/entertainment/from-abu-dhabi-classrooms-to-puerto-ricos-stage-10-things-to-know-about-miss-universe-india-kaziah-liz-mejo-1.500684754",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-23T08:16:41.727Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "13247aa37c2b711b7ff1045547a4106db1d79ee8ae9c011a23f7e0f553c2afa7",
+      "title": "Presley Gerber’s ex-girlfriend shares emotional tribute after his death at 27",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/presley-gerbers-ex-girlfriend-shares-emotional-tribute-after-his-death-at-27",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-23T08:16:43.536Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "14d832fe7e8a731137743930de89faa4b956333171fce3068ecef1aa6a359b40",
+      "title": "UAE schools explore whether rewards can get children to read more books",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-explore-rewards-children-read-more-books",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-23T08:16:45.915Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

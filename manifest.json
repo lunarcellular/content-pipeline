@@ -39410,6 +39410,24 @@
       "processedDate": "2026-09-23T23:12:36.567Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "76b31d0fe6705c320f1afd7371e61fb5c34602003c841e9d16a461d8afdd2ba2",
+      "title": "'AI isn't always right': UAE students urged not to let technology do their homework",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/ai-isnt-always-right-uae-students-urged-not-to-let-technology-do-their-homework",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-24T03:01:09.802Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "76b31d0fe6705c320f1afd7371e61fb5c34602003c841e9d16a461d8afdd2ba2",
+      "title": "'AI isn't always right': UAE students urged not to let technology do their homework",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/ai-isnt-always-right-uae-students-urged-not-to-let-technology-do-their-homework",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-24T03:01:12.228Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

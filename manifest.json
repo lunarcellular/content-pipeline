@@ -39572,6 +39572,33 @@
       "processedDate": "2026-09-24T13:46:05.039Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eb7e6f77a694bf696398a362a4176c4bbfab30331e85c4b9c8ef921a4b1d319e",
+      "title": "UAE art guide: Ten exhibitions to see, from Unseen Script at Rizq to Taking Form at The Third Line",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/09/24/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-24T14:31:21.270Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "01db7b877c8fd605498e4664646de5d750e21c668afdf9ea71d36793e6a78d97",
+      "title": "What Dubai parents need to know about school attendance rules - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEpTRjEzOG5GUEdrUVhUYjZkRWxvS2RsMi1FX1RVdFlfazc4SDdGUms1Z1g4R1NCYjVQaTlRUU1kQ0w4SnViamFKZmhuWllWbFhqUHBuaVNkaF9YXzVnZ1F2bkFHbXlUZ1htSFZWNk5RdEJ1cXc4bnI1QXhrSGNNOGxDOVJhb2VnQlpCU3B1UGtxMmNSM045c2EtT0fSAaQBQVVfeXFMTzlyWTVRLTFjdmdrWlpRb08tUEgwUzJjZ2dEemZqeHRZTUI5TXI4d1gySUhGejM4MXlWVE5SejA0RlNRMk93bk9EUE0tMUVKUU96UmRsNTlMN0xlYk5LZ0NWa3Y0UmIzQnZKX0Rvb1NtRVp0SUF1RkExRks0alpsTTFRdFZpbWVZcmdfZUxpcXA1RWR2Rl9WSGtYWWlJNThLZmVsLWU?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-24T14:32:08.006Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-24-school-attendance-rules-dubai.md"
+    },
+    {
+      "urlHash": "01db7b877c8fd605498e4664646de5d750e21c668afdf9ea71d36793e6a78d97",
+      "title": "What Dubai parents need to know about school attendance rules - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEpTRjEzOG5GUEdrUVhUYjZkRWxvS2RsMi1FX1RVdFlfazc4SDdGUms1Z1g4R1NCYjVQaTlRUU1kQ0w4SnViamFKZmhuWllWbFhqUHBuaVNkaF9YXzVnZ1F2bkFHbXlUZ1htSFZWNk5RdEJ1cXc4bnI1QXhrSGNNOGxDOVJhb2VnQlpCU3B1UGtxMmNSM045c2EtT0fSAaQBQVVfeXFMTzlyWTVRLTFjdmdrWlpRb08tUEgwUzJjZ2dEemZqeHRZTUI5TXI4d1gySUhGejM4MXlWVE5SejA0RlNRMk93bk9EUE0tMUVKUU96UmRsNTlMN0xlYk5LZ0NWa3Y0UmIzQnZKX0Rvb1NtRVp0SUF1RkExRks0alpsTTFRdFZpbWVZcmdfZUxpcXA1RWR2Rl9WSGtYWWlJNThLZmVsLWU?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-09-24T14:32:08.006Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-24-school-attendance-rules-dubai.md"
     }
   ]
 }

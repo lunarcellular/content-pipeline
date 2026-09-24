@@ -39428,6 +39428,15 @@
       "processedDate": "2026-09-24T03:01:12.228Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "50a85f60bde731093178b423ba6cb44d1b4c75d29d6069357590c5fc492c3630",
+      "title": "UAE weather: Red, yellow alerts issued for fog as visibility drops",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/uae-weather-september-24-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-24T03:15:44.826Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

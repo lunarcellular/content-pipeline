@@ -39599,6 +39599,15 @@
       "processedDate": "2026-09-24T14:32:08.006Z",
       "relevant": true,
       "outputFile": "output/2026-09-24-school-attendance-rules-dubai.md"
+    },
+    {
+      "urlHash": "9f0214263dcf38a8114e70a8642edc0c767ed17620756d4e88f6da1c89b150f8",
+      "title": "Zayed Education Foundation selects first 50 scholars for flagship leadership programme",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/24/zayed-education-foundation-selects-first-50-scholars-for-flagship-leadership-programme/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-24T15:45:44.824Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

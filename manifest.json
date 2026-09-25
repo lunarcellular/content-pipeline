@@ -39761,6 +39761,15 @@
       "processedDate": "2026-09-25T11:01:00.707Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a7c3ac1c13a7c5c538e057b8e62edf7e97501ae22701201b8dfc9f7eb3303cfc",
+      "title": "Live updates: Iraqi and Lebanese PMs set to speak in New York",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/09/25/live-un-general-assembly-2026-ali-al-zaidi-nawaf-salam/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-25T11:30:59.848Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

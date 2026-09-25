@@ -39698,6 +39698,33 @@
       "processedDate": "2026-09-25T07:15:43.980Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2b125c91fb0359a26e26a30a493df2739f3e686fa4a2d0c378aa0056471f357e",
+      "title": "Dr Ajayya Kumar entrusted with expanded responsibilities in \nUnited Nations engagement and West Asia",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/dr-ajayya-kumar-entrusted-with-expanded-responsibilities-in-united-nations-engagement-and-west-asia",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-25T08:15:44.212Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c521c30f89b12b5e8ea10463f94f551cba5f8cc779da3162730808c542d00ce4",
+      "title": "RAK dedicates 4 taxis to People of Determination, senior citizens",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/rak-4-taxis-people-of-determination-senior-citizens",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-25T08:15:46.349Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c521c30f89b12b5e8ea10463f94f551cba5f8cc779da3162730808c542d00ce4",
+      "title": "RAK dedicates 4 taxis to People of Determination, senior citizens",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/rak-4-taxis-people-of-determination-senior-citizens",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-25T08:15:47.906Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

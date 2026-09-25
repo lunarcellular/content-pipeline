@@ -39743,6 +39743,24 @@
       "processedDate": "2026-09-25T09:31:06.976Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "39e7489f39c7a5fa6b99c902e7630fe623afd59b7bdc408ec37f5baf42161357",
+      "title": "India food body proposes law change to ensure only milk products are termed 'paneer'",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-proposes-law-change-only-milk-products-paneer",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-25T11:00:58.477Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "739189379979320881d462725eebf3c5cd221363210aa3cfcb139484d11ff8b9",
+      "title": "Live updates: Iraqi and Lebanese PMs set to speak in New York",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/09/25/live-un-general-assembly-2026-abbas-netanyahu/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-25T11:01:00.707Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -39905,6 +39905,15 @@
       "processedDate": "2026-09-26T09:30:48.041Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "448ce8a3d00ba62da072b94715d6444bc20fdf6339a89014d48d3ad9a3a08f46",
+      "title": "Losses at Libya's NOC hit $95m as Zawiya refinery shuts down",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/09/26/losses-at-libyas-noc-hit-95m-as-zawiya-refinery-shuts-down/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-26T12:15:42.720Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

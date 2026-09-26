@@ -39851,6 +39851,24 @@
       "processedDate": "2026-09-25T16:00:56.718Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eb05d4fe8ddc70891a0d0825960542a89a9f862bb06cea08e85b56f5a796770e",
+      "title": "How teachers in UAE schools can respond faster to students' asthma with action plan",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-asthma-action-plan-teachers-response-doctors",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-26T03:00:52.647Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "eb05d4fe8ddc70891a0d0825960542a89a9f862bb06cea08e85b56f5a796770e",
+      "title": "How teachers in UAE schools can respond faster to students' asthma with action plan",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-schools-asthma-action-plan-teachers-response-doctors",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-26T03:00:54.502Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

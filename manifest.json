@@ -39932,6 +39932,24 @@
       "processedDate": "2026-09-26T17:45:48.021Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "218f7ae9bba52c025911a36195d064bdca81360d99d7f49677fc800fe2431ed4",
+      "title": "Child walking differently? UAE doctors explain when parents should seek help",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/child-walking-differently-uae-doctors-parents-seek-help",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-27T03:00:52.501Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "218f7ae9bba52c025911a36195d064bdca81360d99d7f49677fc800fe2431ed4",
+      "title": "Child walking differently? UAE doctors explain when parents should seek help",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/child-walking-differently-uae-doctors-parents-seek-help",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-27T03:00:54.672Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

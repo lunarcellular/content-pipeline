@@ -40022,6 +40022,15 @@
       "processedDate": "2026-09-27T12:00:55.629Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "277e0253e4508465e4c7ccae34828f7847404c198cfb034895fa88af829c3356",
+      "title": "Jeddah airport opens new terminal with annual capacity of up to 15 million",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/new-terminal-4-jeddah-king-abdulaziz-international-airport-gradual-operations-start",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-27T14:00:57.058Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

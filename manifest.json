@@ -40175,6 +40175,24 @@
       "processedDate": "2026-09-28T11:45:43.535Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b5d6a9d5015c6e66569f52935181415d56667320a92adf5604833ffc3b38c94f",
+      "title": "Twin boys, 8, injured after falling from second floor window at Egyptian school",
+      "sourceUrl": "https://gulfnews.com/world/mena/twin-boys-8-injured-after-falling-from-second-floor-window-at-egyptian-school-1.500690651",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-28T12:00:58.808Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "977131af4aa59a48f8e37ade15ea9f36166d785624e6896ec383cba422c4f45e",
+      "title": "Higher College of Technology honours 130 winning students of ‘HCT Skills 2026’",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/higher-college-of-technology-honours-130-winning-students-of-hct-skills-2026-1.500690698",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-28T12:01:00.859Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -40211,6 +40211,24 @@
       "processedDate": "2026-09-28T13:01:05.427Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "65878ccaeba22fb10b990ac6c07a78233e89b83a2e459c17a55698672fbc3847",
+      "title": "Scholarships, simulators and satellites: students set the pace at Ru'ya 2026",
+      "sourceUrl": "https://gulfnews.com/business/scholarships-simulators-and-satellites-students-set-the-pace-at-ruya-2026-1.500690877",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-28T13:45:49.235Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5db01923f718ce770a284f6cec5cd054f4760316f05a9031259dfe60e4cc7531",
+      "title": "Blind student, 13-year-old horse rider among 68 winners of RAK education awards",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/ras-al-khaimah-education-awards-2026-winners",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-28T13:45:51.617Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

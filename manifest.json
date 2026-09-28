@@ -40085,6 +40085,24 @@
       "processedDate": "2026-09-28T03:01:42.065Z",
       "relevant": true,
       "outputFile": "output/2026-09-28-khda-inspection-changes-dubai-private-schools-2026-27.md"
+    },
+    {
+      "urlHash": "a603a0994d36b205a43321029f319815c8c081f18c1f1b13761a7f816afa4647",
+      "title": "Who will play Britney Spears? Sydney Sweeney leads casting buzz, Millie Bobby Brown in the mix",
+      "sourceUrl": "https://gulfnews.com/entertainment/who-will-play-britney-spears-sydney-sweeney-leads-casting-buzz-millie-bobby-brown-in-the-mix-1.500690144",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-28T04:30:57.293Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "58a982b5cec990504414cfc4e8c94afebc6b9c1c6576065533262065c2863a6d",
+      "title": "From fibre to orbit: Starlink expands the UAE’s connectivity frontier",
+      "sourceUrl": "https://www.khaleejtimes.com/business-technology-review/from-fibre-to-orbit-starlink-expands-the-uaes-connectivity-frontier",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-28T04:30:58.975Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

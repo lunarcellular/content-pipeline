@@ -40040,6 +40040,51 @@
       "processedDate": "2026-09-27T19:45:42.058Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dda7fa8c56a7e26fb1f5c2e11999cd48cd5fb5f119dbca24c0dec1e63f86fa44",
+      "title": "UAE weather forecast: Rain possible in eastern area as temperatures climb to 46°C",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-forecast-rain-possible-in-eastern-area-as-temperatures-climb-to-46c-1.500690092",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-28T03:00:55.940Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "702ba109269605eaab66ff3356265bb6bed436f01ca05de74408a4eae8426bd3",
+      "title": "Trump warns of possible new Iran strikes; Araghchi vows ‘doomsday war’ — but remains open to diplomacy",
+      "sourceUrl": "https://gulfnews.com/world/mena/trump-warns-of-possible-new-iran-strikes-araghchi-vows-doomsday-war-but-remains-open-to-diplomacy-1.500690032",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-28T03:00:58.162Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ab095372b2f4bfab94038e86328f148bdba0deb5af6fef4e5e9f4d7109bc2983",
+      "title": "KHDA inspection changes for Dubai private schools: What to expect in 2026-27 - khaleejtimes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXpOYnFfckkzMmxXV1VmZm05RWJMR05ERGFiXzRIM3VkTmtSb3VqY0g3S0wtLWxJYUt4cHFRYVo2WjhiM1ZQSUc1c19KeDJFX040a29BU3hGUlNYeUlaT2pmRndKdExYcmVacTVRT1NocXF2Vm84ZWZ6M3cyWWhlRE9ucWRNX0l4c0YyMkd3VWFmQl9RazgtRk51WE9NYmxmSWZLTElpTnN5d9IBsgFBVV95cUxQaDE2SHU0M2dUMGFlZmVsTnQzUUlJMERRdUl2VHV0QUxwZVNScmEtNEk1emZtZnRzaW83bmRoM2gyTG45VWdpMk5ZTER1akFTR092dmtUZFNkMW1aYlVtc05Ia0sxMkkxWmViTDZSVDc1MGNSMTVSQmFJRzRWT0FObWlOZmtBNS04aUtSR2JRaWNMcUF6aVo2djRldWZTbXk0NW9ycmZCUVBPV3dPS3dxeWhR?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-09-28T03:01:31.610Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0caa3456d94f2a9f4200fa73e6e9dd914938f04088ac66aa72229e95656e2f40",
+      "title": "KHDA inspection changes for Dubai private schools: What to expect in 2026-27",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/khda-inspections-return-dubai-private-schools-changes-explained",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-28T03:01:42.065Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-28-khda-inspection-changes-dubai-private-schools-2026-27.md"
+    },
+    {
+      "urlHash": "0caa3456d94f2a9f4200fa73e6e9dd914938f04088ac66aa72229e95656e2f40",
+      "title": "KHDA inspection changes for Dubai private schools: What to expect in 2026-27",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/khda-inspections-return-dubai-private-schools-changes-explained",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-28T03:01:42.065Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-28-khda-inspection-changes-dubai-private-schools-2026-27.md"
     }
   ]
 }

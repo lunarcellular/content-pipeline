@@ -40355,6 +40355,24 @@
       "processedDate": "2026-09-29T08:15:42.359Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f93430d854d25973644f5a5a5506b599b5cd9696862fb924ee97e28fdb2ac45",
+      "title": "Starship successfully deploys 26 Starlink V3 satellites, set to pave way for possible human missions to Mars",
+      "sourceUrl": "https://gulfnews.com/world/americas/starship-successfully-deploys-26-starlink-v3-satellites-set-to-pave-way-for-possible-human-missions-to-mars-1.500690967",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-29T08:31:08.520Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "887f2a69a2cad680e3a205cdc6e65a988369a897619828dc23258be21da3ed7d",
+      "title": "Abu Dhabi University students to work on real AI, arts and culture projects",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-university-students-to-work-on-real-ai-arts-and-culture-projects-1.500691807",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-29T08:31:11.108Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

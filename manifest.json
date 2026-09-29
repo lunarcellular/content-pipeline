@@ -40391,6 +40391,24 @@
       "processedDate": "2026-09-29T09:30:45.913Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e5f57898291c5ebceddacff969f30f81e936a16bd83e14d579febd1bbaa5c5eb",
+      "title": "Al-Futtaim programme gives Emirati students from Grade 9 an early start on private-sector careers",
+      "sourceUrl": "https://gulfnews.com/uae/al-futtaim-programme-gives-emirati-students-from-grade-9-an-early-start-on-private-sector-careers-1.500691923",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-29T10:01:00.417Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8779b83604036e54652fdc17fac6ff67f94c53ce3c3068ee31fb281d18e2aad1",
+      "title": "Middle East firm allowed to seize Libya's oil company assets over $1bn debt",
+      "sourceUrl": "https://www.thenationalnews.com/news/europe/2026/09/29/middle-east-firm-allowed-to-seize-libyas-oil-company-assets-over-1bn-debt/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-29T10:01:02.694Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

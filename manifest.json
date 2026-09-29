@@ -40256,6 +40256,33 @@
       "processedDate": "2026-09-28T17:45:44.630Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "49630c3abbe791bd8107d24e87a10df48c65f082d1dcbd9c9c709b94d1409e4a",
+      "title": "UAE schools set pre-board timelines; students await CBSE tentative board exam schedule",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-cbse-pre-board-timelines-wait-tentative-board-exam-schedule",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-29T02:46:34.703Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f7a60a32682c8a0f0be07e3840a2ff689c283f9305f9895659d9ad1a2e044e0d",
+      "title": "Child marriage in Gaza rises 123% as war pushes families into desperate choices",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/child-marriage-in-gaza-rises-123-as-war-pushes-families-into-desperate-choices",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-29T02:46:37.192Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "49630c3abbe791bd8107d24e87a10df48c65f082d1dcbd9c9c709b94d1409e4a",
+      "title": "UAE schools set pre-board timelines; students await CBSE tentative board exam schedule",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-cbse-pre-board-timelines-wait-tentative-board-exam-schedule",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-29T02:47:17.255Z",
+      "relevant": true,
+      "outputFile": "output/2026-09-29-uae-schools-cbse-pre-board-exams.md"
     }
   ]
 }

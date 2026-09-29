@@ -40418,6 +40418,24 @@
       "processedDate": "2026-09-29T10:15:46.165Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3090e7069d8880cbd3c18dc629660798fac8083c4f0e96d11d93772c7879d654",
+      "title": "'Your country has grown': Dubai Ruler pens letter to late Sheikh Zayed, describes legacy",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sheikh-mohammed-the-letters-sheikh-zayed-legacy",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-29T10:30:53.097Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ee6557009d5f0bb09aa14afe0c662b62c12719b3a69a02d2ba524fca5b5d2655",
+      "title": "Planning to study abroad? UAE students get new university, counselling, visa support",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-platform-skiply-international-university-counselling-visa-support",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-29T10:30:55.267Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -40481,6 +40481,15 @@
       "processedDate": "2026-09-29T12:00:59.241Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2a9d651cb3969f1f60232e39c94d40cfbe18ebc7d065ad74eead568f45689471",
+      "title": "UAE university enrolment hits decade high as AI changes skills needed for jobs",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-university-enrolment-hits-decade-high-as-ai-changes-skills-needed-for-jobs-1.500692129",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-29T12:15:44.169Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

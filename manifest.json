@@ -40328,6 +40328,24 @@
       "processedDate": "2026-09-29T06:15:43.220Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "54ccbfe2ad73fe729879030471939598c17f2c53246627939b4151c3625feb4f",
+      "title": "Can AI help UAE children learn two languages? Researcher explains what parents should know",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/ai-bilingual-children-language-learning-uae-he-sun",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-29T08:01:01.126Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7e987e23c709c7122a035d40ddd7ef8bdd3b7d0caffd6f81a8332fad0fbf8784",
+      "title": "Dubai school librarian wins UAE award by helping each child find the right book",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/dubai-school-librarian-award-des-islava-kouzeva",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-29T08:01:03.439Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

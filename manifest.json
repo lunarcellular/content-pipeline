@@ -40301,6 +40301,15 @@
       "processedDate": "2026-09-29T03:46:24.582Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "65fcb034e1d2e6c0b25f3b817c1785faa32fb29004c51ad7ffd5d096085ac2f0",
+      "title": "KT UniExpo Dubai 2026: UAE students meet 35+ global universities, explore AI degrees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/kt-uniexpo-dubai-2026-students-universities-ai-degrees",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-09-29T05:45:43.298Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

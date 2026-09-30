@@ -40580,6 +40580,24 @@
       "processedDate": "2026-09-30T09:15:44.734Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b6182c5cee8aba5970270218f2b8a8778f8a6eb671cf749c2d1e33765851a3fc",
+      "title": "Businesses are transforming, is career education keeping up?",
+      "sourceUrl": "https://gulfnews.com/gn-focus/businesses-are-transforming-is-career-education-keeping-up-1.500693535",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-30T11:45:46.329Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "45c45b54600100a59e6c35b45b81b289a68f826b3dc21b336695895b021a1f2b",
+      "title": "Shadab Khan and Sahibzada Farhan emerge as Pakistan T20 captaincy contenders",
+      "sourceUrl": "https://gulfnews.com/sport/shadab-khan-and-sahibzada-farhan-emerge-as-pakistan-t20-captaincy-contenders-1.500693517",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-30T11:45:48.620Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -40553,6 +40553,24 @@
       "processedDate": "2026-09-30T03:01:04.656Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b07bb3132a3a0982db1e879076b8cbe9ae22718c78c9493b56842e83601ad552",
+      "title": "'A a great loss': In Nepal's flood zone, teachers mourn students who never returned",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/nepal-flood-zone-teachers-mourn-students-never-returned",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-30T05:00:58.996Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "662de8efa8b2f99b72ced49bea18fcb40cec1b5b6e5173b9386cbc2457cd51b4",
+      "title": "US mother who killed her 3 children seeks acquittal after mistrial",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-mother-lindsay-clancy-kill-children-seeks-acquittal-mistrial",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-09-30T05:01:01.005Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

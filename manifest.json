@@ -40526,6 +40526,33 @@
       "processedDate": "2026-09-30T00:14:29.698Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d0ab22241e1a72103a966d3a0d839d8b3fb951856db577489742d5f8661df3f9",
+      "title": "9 lives? Most relentless celebrity death hoaxes, ranked —  from Jackie Chan, Britney Spears, Oprah Winfrey, Cher and Adam Sandler",
+      "sourceUrl": "https://gulfnews.com/entertainment/9-lives-most-relentless-celebrity-death-hoaxes-ranked-from-jackie-chan-britney-spears-oprah-winfrey-cher-and-adam-sandler-1.500691504",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-30T03:01:00.625Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "08a6d6aeebec076514891ab8e3b9b8148ca5e07cf89dff93c47827776f70dec8",
+      "title": "Teaching the future: Why teachers matter more than ever",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/teaching-the-future-why-teachers-matter-more-than-ever-1.500691888",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-30T03:01:02.617Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "07a25295682f20625019313ee91d4afc726302d5655a9902a27569dbc44204fa",
+      "title": "'Why are they killing our children?' asks family of Indian sailor killed in Hormuz",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/09/30/indian-sailor-killed-cape-dao-family-question-iran-us/",
+      "sourceName": "The National",
+      "processedDate": "2026-09-30T03:01:04.656Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

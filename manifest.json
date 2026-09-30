@@ -40643,6 +40643,15 @@
       "processedDate": "2026-09-30T16:45:44.966Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8c775d07904a173afe8830d241c48ac15f4a002d5a6ae62b3a28f3992976dcde",
+      "title": "Abu Dhabi Police warn motorists as fog reduces visibility",
+      "sourceUrl": "https://gulfnews.com/uae/weather/abu-dhabi-police-warn-motorists-as-fog-reduces-visibility-1.500694098",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-30T19:15:46.375Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

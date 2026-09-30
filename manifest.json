@@ -40571,6 +40571,15 @@
       "processedDate": "2026-09-30T05:01:01.005Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "43eb92b0f78fe547e9937e3f056671fa751c78380f8261ea891fa77a9c2206ec",
+      "title": "Abu Dhabi launches Digital Economy Survey to measure AI and technology’s contribution to the economy",
+      "sourceUrl": "https://gulfnews.com/business/economy/abu-dhabi-launches-digital-economy-survey-to-measure-ai-and-technologys-contribution-to-the-economy-1.500693288",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-09-30T09:15:44.734Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -40886,6 +40886,15 @@
       "processedDate": "2026-10-01T12:01:03.616Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ba4a456b375a2d86a608040330f8794ae8333bb422119a4bd196063a9aee7974",
+      "title": "Gunmen kill seven civilians and wound at least four in Syria minibus attack",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/01/gunmen-kill-seven-civilians-and-wound-at-least-four-in-syria-bus-attack/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-01T12:15:48.725Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

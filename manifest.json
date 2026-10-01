@@ -40787,6 +40787,15 @@
       "processedDate": "2026-10-01T09:30:49.136Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8a8c0f63870a1fcd17400821bab1b6c4d28b5ea141822897d0a55b8f0d92f74c",
+      "title": "KHDA: Dubai schools to add 18,000 affordable seats as student numbers climb to 406,563",
+      "sourceUrl": "https://gulfnews.com/uae/education/khda-dubai-schools-to-add-18000-affordable-seats-as-student-numbers-climb-to-406563-1.500694714",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T09:46:16.001Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-affordable-seats-expansion.md"
     }
   ]
 }

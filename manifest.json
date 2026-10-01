@@ -40895,6 +40895,33 @@
       "processedDate": "2026-10-01T12:15:48.725Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ae3f3052a4c236bc7ddadcf69ac6aacf8407e5a61d29c9a14e897b884fca1c10",
+      "title": "Participation continues to grow as MIDEA Dubai Schools Games enters its 7th season",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/participation-continues-to-grow-as-midea-dubai-schools-games-enters-its-7th-season",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-01T12:31:04.125Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d5715b11d210b537fca246eeba12a84f02db2fbd28f5265024247a5f28e99adf",
+      "title": "KHDA to allow Dubai schools to change timings to ease traffic, under conditions",
+      "sourceUrl": "https://gulfnews.com/uae/education/khda-to-allow-dubai-schools-to-change-timings-to-ease-traffic-under-conditions-1.500694966",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T12:31:58.020Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-khda-flexible-school-timings-dubai.md"
+    },
+    {
+      "urlHash": "87db88385e2145a76f5fe9774a3a49fe3024853cf3459a8b648cde3ed623a348",
+      "title": "KHDA to allow Dubai schools to change timings to ease traffic, under conditions - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNk03a0k2MGRzemhEVXZSZGt3dnBjdXFPZ21mdGk0SDAxd1NzRXNVQk5ORzZFbHpmMkZQMERiREVSaDZjcEt0RHdQZnVwQ2hYXzBzWG1fbnluMHhoZV9rakowanJqXzF3cUoyRkdwZUsxcXd4aEJDdHY5ZTZVeDhtRVZLY2RTMW81RnZsbUl2ZEV5VzYwMnBGOVdUVElLcUpJMzltRFZWODFTWFdfY1dacFVrU3k2TmpUXzFFcHpFcm56UmfSAdYBQVVfeXFMUGtnbjBhZE82YVJIRGgtSWZvNUI2ZVBZSTRXakF3bllLZjc2aHU3UHRNLUdUYnFqLTd0eDMwbWJ4aktaa0c3V3kwWVZoTGFSdnJEcWNYRk84NWdkSzRxRFZ4NkhMaVE2emp6NmE0X2xXZGFDZThGbEJVZnRtZGktVFF3ck9ERWNnMnJOTl9IZjVzUUN2YXhhTFg0QlFuTjhOeWhSSW80WmthcTlOUlpZeWlhTzBZVnZHb0E1UmotSG44RVJ2b1NXdlR0OUFlSkNLRU1sNzdXQQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-01T12:31:58.020Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-khda-flexible-school-timings-dubai.md"
     }
   ]
 }

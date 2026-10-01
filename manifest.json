@@ -40931,6 +40931,42 @@
       "processedDate": "2026-10-01T12:46:29.547Z",
       "relevant": true,
       "outputFile": "output/2026-10-01-dubai-schools-affordable-seats-expansion.md"
+    },
+    {
+      "urlHash": "461ebb93828fa35af6969fde38d4b3fe782e7b7d29e6de8c850267101f0b8435",
+      "title": "Ankabut, PowerSchool partner to advance K-12 digital education across UAE",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/ankabut-powerschool-partner-to-advance-k-12-digital-education-across-uae-1.500694870",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T13:30:50.122Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "63f9c20d3bce59f30124020bc0014347db6770ae6766c3add087581bd7cd91c9",
+      "title": "Why desktop robots are learning to show personality",
+      "sourceUrl": "https://gulfnews.com/best-buys/BestBuys-lifestyle/why-desktop-robots-are-learning-to-show-personality-1.500694602",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T13:30:52.177Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "38d0919e25943020e2b531883d59bb0b3bb7773858005b92b33912e4cbdebc46",
+      "title": "KHDA: Dubai schools to add 18,000 affordable seats as student numbers climb to 406,563 - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmJLV3MwcGhHdlIwN3ZvakRLWTJRU0RtTm1KMGk2NTRUTzRSQnluRl9XT3RNWHRyWXZQbzZoT1U2Z053V1QwbjRpZnJ4MHg4R2xpUEdHMjFlNXp5azdHY3dGVTk0Y2RuOFozZ1Z4aDNzQUpCTU9IX0oyYmNwdGFfa0VZc0QtZmJrRmNWZ3VaclltcTJrQWt4S0pyWFJrd2prQWJrU0xvZGJDWW55MEF1SGpmTWNWWlNUNXFQcXdBM1BNWFphSGtnTGxn0gHcAUFVX3lxTE85LXFRclpGcTFTWWtOVlhMQWN6WENfalFvc1hYam1XMjh0T3lJQTB1UktnSUU4S0JORjJpZTVESTVEYnQyOG4yQ0p0aGFIRkQ0azhWYmFBU1VCSkFzVC1VQ04wQzFrcE1Ka2dfYnZHSXVHbDRlS3NDV0E0ODZ1dWtoZ1FhNENkNW5zWnFFZklRTzF0Rm9IY1Vsb3NDOEN6V0trMWltUGpCMEtValhIVzNyR0ZiN05DNDNXNkhMeE9DLUxRNWx4N0p4dUFWazFFd3l1YWhZRjh6MHE1b0o?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-01T13:31:37.888Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-affordable-seats-enrolment.md"
+    },
+    {
+      "urlHash": "a67d7a229519b7ca568e96e743825020202525d3facf1234de86f1eeaab32f11",
+      "title": "Dubai schools to receive new rules on AI use for children next year",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/01/dubai-schools-to-receive-new-rules-on-ai-use-for-children-next-year/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-01T13:31:54.497Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-ai-guidelines-2024.md"
     }
   ]
 }

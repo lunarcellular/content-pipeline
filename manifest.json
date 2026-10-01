@@ -41012,6 +41012,15 @@
       "processedDate": "2026-10-01T16:01:25.819Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "ab32d6a4186acb910789358ff7bd91da06de8b04732c7b5488bd7037dd24ed73",
+      "title": "At 15, India’s Vaibhav Sooryavanshi is youngest among TIME’s 100 rising stars",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/at-15-indias-vaibhav-sooryavanshi-is-youngest-among-times-100-rising-stars-1.500695289",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T16:30:53.302Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

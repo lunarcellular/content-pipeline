@@ -40976,6 +40976,24 @@
       "processedDate": "2026-10-01T13:45:52.994Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "b4c9c7c0a06184a24457cda5eb702b8eccb43585668cad93a53c74a7595a2105",
+      "title": "Dubai expected to add nearly 18,000 affordable seats in schools over next 2 years",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-private-schools-nearly-18000-seats-next-two-academic-years-khda",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-01T14:16:45.087Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-affordable-seats-expansion.md"
+    },
+    {
+      "urlHash": "b4c9c7c0a06184a24457cda5eb702b8eccb43585668cad93a53c74a7595a2105",
+      "title": "Dubai expected to add nearly 18,000 affordable seats in schools over next 2 years",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-private-schools-nearly-18000-seats-next-two-academic-years-khda",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-01T14:16:45.087Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-affordable-seats-expansion.md"
     }
   ]
 }

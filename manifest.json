@@ -41003,6 +41003,15 @@
       "processedDate": "2026-10-01T15:01:12.339Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "f00ec2a749c186abfd190e3c7c2c0c96840b22d785df531eadac2d3171be4810",
+      "title": "Dubai schools allowed to change start and finish times to ease traffic congestion",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/01/dubai-schools-allowed-to-change-start-and-finish-times-to-ease-traffic-congestion/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-01T16:01:25.819Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

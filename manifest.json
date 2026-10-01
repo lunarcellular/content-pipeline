@@ -40742,6 +40742,24 @@
       "processedDate": "2026-10-01T07:45:45.712Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d63fbe0903be18e5126137c805a2ca2468754a88146a0836397780b634ec67a4",
+      "title": "Dubai KHDA to issue clear rules on AI, mobile phone use for students ",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-khda-to-issue-clear-rules-on-ai-mobile-phone-use-for-students-1.500694604",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T08:16:10.319Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dc9489a8b92ae2eb8ed4dba77edc59da66b6eec8e950a31912ba1b6156b130b6",
+      "title": "KHDA to set clear direction on AI, technology use in Dubai schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/khda-set-clear-direction-ai-technology-use-dubai-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-01T08:16:32.870Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-khda-ai-technology-policy-dubai-schools.md"
     }
   ]
 }

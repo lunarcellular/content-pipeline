@@ -40796,6 +40796,15 @@
       "processedDate": "2026-10-01T09:46:16.001Z",
       "relevant": true,
       "outputFile": "output/2026-10-01-dubai-schools-affordable-seats-expansion.md"
+    },
+    {
+      "urlHash": "2fa364394ecd697d118dda16347164b933a81a331ad6eae5aace7092ef7add1f",
+      "title": "'Resistance has won this round:' Kataib Hezbollah denies disarmament deal after US troops leave Iraq",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/01/resistance-has-won-this-round-kataib-hezbollah-denies-disarmament-deal-after-us-troops-leave-iraq/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-01T10:01:03.964Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

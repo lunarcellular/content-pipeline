@@ -41057,6 +41057,33 @@
       "processedDate": "2026-10-01T19:45:42.831Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c68c91d9c02e05a12eb0353aefd3e08dcc69789df4dfd9f7c7334161ba7fe849",
+      "title": "UAE Friday sermon highlights teachers’ role in shaping society",
+      "sourceUrl": "https://gulfnews.com/uae/people/uae-friday-sermon-highlights-teachers-role-in-shaping-society-1.500695448",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T23:49:06.841Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "59feea3072d83dae156a124424db00323bedd050914cee4a28cb6c81fcaf1d6f",
+      "title": "Dubai expected to add nearly 18,000 affordable seats in schools over next 2 years - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGFlb011bHdENmJnQzd5aHlzLUpWZjJiMzNFdVNWb1Z6VnY4LVduRHBrcXlsU2s0NEZqVklLREFDQVphWW1USjFCSGc2Smc0T2VrNG9WdFRmYU56R3JLNVdwWks0aDBndmNNdmgyMEhHd2wyWDZLRHpMRUg5LTBqeDUxdnFwcEx4Ui1MNWE2UlpqM0VpMUxrb3AtYk9OY0lrN2ExbmdETWh2Q2NaNUEtZUxR0gG6AUFVX3lxTE5tRklrX2d5RWNZTDhFSWhtR1VNRFQ4M3FkVFZfaVJ3UURyRFRuNVdGclEzMFdhX1VXdUNNa09ZaUp0OVFnRVptV0l2RFBuRmJJM3hXaWpxNTZ1bGZJTjBxRWxxQW83RjEyYVBDVXRheEFWUU03VlRtN1pTYkY0dzl6alRLVENVcHJoTl91TkxDTS03WHZYSTlCaTBSdGp5YXhURlJzRlJJYWNyZ0o3bE9EZENWWkN2QmZ1QQ?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-01T23:50:07.446Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-affordable-seats.md"
+    },
+    {
+      "urlHash": "59feea3072d83dae156a124424db00323bedd050914cee4a28cb6c81fcaf1d6f",
+      "title": "Dubai expected to add nearly 18,000 affordable seats in schools over next 2 years - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGFlb011bHdENmJnQzd5aHlzLUpWZjJiMzNFdVNWb1Z6VnY4LVduRHBrcXlsU2s0NEZqVklLREFDQVphWW1USjFCSGc2Smc0T2VrNG9WdFRmYU56R3JLNVdwWks0aDBndmNNdmgyMEhHd2wyWDZLRHpMRUg5LTBqeDUxdnFwcEx4Ui1MNWE2UlpqM0VpMUxrb3AtYk9OY0lrN2ExbmdETWh2Q2NaNUEtZUxR0gG6AUFVX3lxTE5tRklrX2d5RWNZTDhFSWhtR1VNRFQ4M3FkVFZfaVJ3UURyRFRuNVdGclEzMFdhX1VXdUNNa09ZaUp0OVFnRVptV0l2RFBuRmJJM3hXaWpxNTZ1bGZJTjBxRWxxQW83RjEyYVBDVXRheEFWUU03VlRtN1pTYkY0dzl6alRLVENVcHJoTl91TkxDTS03WHZYSTlCaTBSdGp5YXhURlJzRlJJYWNyZ0o3bE9EZENWWkN2QmZ1QQ?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-10-01T23:50:07.446Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-schools-affordable-seats.md"
     }
   ]
 }

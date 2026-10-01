@@ -40841,6 +40841,33 @@
       "processedDate": "2026-10-01T11:16:32.209Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "6efba438435951d4a46253833ffa6c2605e315ccf4d8966fd87eb1ecfaf3c422",
+      "title": "Florence Pugh speaks out on Cornell rape lawsuit, says Instagram censored her: 'This affects all women' ",
+      "sourceUrl": "https://gulfnews.com/entertainment/florence-pugh-speaks-out-on-cornell-rape-lawsuit-says-instagram-censored-her-this-affects-all-women-1.500694862",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-01T11:30:47.872Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b48e346826a546d6492bd391ae577ebc67b571e640319c75a5e8c6c80c8d9844",
+      "title": "KHDA inspections return: What it means for Dubai school fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-khda-school-inspections-return-fees-increase-rating",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-01T11:31:37.867Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-school-fees-inspection-results.md"
+    },
+    {
+      "urlHash": "b48e346826a546d6492bd391ae577ebc67b571e640319c75a5e8c6c80c8d9844",
+      "title": "KHDA inspections return: What it means for Dubai school fees",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-khda-school-inspections-return-fees-increase-rating",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-01T11:31:37.867Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-01-dubai-school-fees-inspection-results.md"
     }
   ]
 }

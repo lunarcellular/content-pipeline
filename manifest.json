@@ -41156,6 +41156,33 @@
       "processedDate": "2026-10-02T06:30:51.471Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8f25b21abc5c886b530f35f7f2186e3b438325cdb9a350a222dd404c78cb8fe7",
+      "title": "PM Modi speaks to flydubai pilot Smit Machchhar after cockpit attack",
+      "sourceUrl": "https://gulfnews.com/business/aviation/pm-modi-speaks-to-flydubai-pilot-smit-machchhar-after-cockpit-attack-1.500695791",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T06:45:45.320Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e7e6ce4adb820e31d2afbde998a34d5dbdefd7e55b6946c5b7feec8823d35127",
+      "title": "Gulf News Edufair is back, bringing global education opportunities to Dubai",
+      "sourceUrl": "https://gulfnews.com/uae/education/gulf-news-edufair-is-back-bringing-global-education-opportunities-to-dubai-1.500695745",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T06:45:47.285Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6f502e928e1f5d6bd416f01da7590175c352e7d9510b15ac05395c047d105479",
+      "title": "TPRA Media launches Credibility Engineering suite to protect UAE public-sector narratives across global AI engines",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/tpra-media-launches-credibility-engineering-suite-to-protect-uae-public-sector-narratives-across-global-ai-engines-1.500695766",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T06:45:49.328Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

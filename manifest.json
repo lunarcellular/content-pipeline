@@ -41273,6 +41273,42 @@
       "processedDate": "2026-10-02T11:08:29.385Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8f1945153bd9a96566c9ae017f448b1c3bdcf4d927dc1719a6432d4f82858505",
+      "title": "Abu Dhabi Police issues six guidelines to protect children from drug risks",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi-police-issues-six-guidelines-to-protect-children-from-drug-risks-1.500696160",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T11:45:46.373Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "685ebb2ae1a0400b5de91c98d8211f0bdaf7fc7318d842cd7570a16990ab9b40",
+      "title": "Gulf News Edufair opens, students from top Dubai schools visit to explore their next steps",
+      "sourceUrl": "https://gulfnews.com/uae/education/gulf-news-edufair-opens-students-from-top-dubai-schools-visit-to-explore-their-next-step-1.500696069",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T11:45:48.452Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a6b59a7a00b8bd149800696dbff657b13df543c9164329426645dc9a4dfa1c77",
+      "title": "Why do some UAE schools get an October half-term while CBSE schools don’t? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWppZ0Rrb3dReGxvcVFLRENDZm54YnRsUlRRX09ZU3hKWE5VazFVZWM2dHM4NzFqNUE2R2dkRExnTTR6Vk1weTlFWHR0NzdIRlk3WE9kS2tKdzBycG1KTTdaWXpacFVRQTZiclVYY2RxYk5OTF9jUDhtUU5xeGYtaEd1bjhHMmxIeUthaF9Sbm9Gb2UyLWM0c3B4Vy1YcExrNVHSAaoBQVVfeXFMTWdpazlnc21pTVN6cnFYRkpPZktna2ZLNEhkcS1ybXNQOXZyaW5oUm1GZmpObHNMaDVPdlk2cXlxTkZzNXF2VjVwTnNLMnZxeDZ6cEcwSktPTWRXaGxUcGZyNmNkNEh0bFI4b1MwLWtibk94UDhfR3B5M2Vra211V21LektkWGdxUzV6c3F2WkJHT3lIWXN1NFp0SUcwRi1MY1NnREFSckZGTXc?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-02T11:45:51.004Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a6b59a7a00b8bd149800696dbff657b13df543c9164329426645dc9a4dfa1c77",
+      "title": "Why do some UAE schools get an October half-term while CBSE schools don’t? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWppZ0Rrb3dReGxvcVFLRENDZm54YnRsUlRRX09ZU3hKWE5VazFVZWM2dHM4NzFqNUE2R2dkRExnTTR6Vk1weTlFWHR0NzdIRlk3WE9kS2tKdzBycG1KTTdaWXpacFVRQTZiclVYY2RxYk5OTF9jUDhtUU5xeGYtaEd1bjhHMmxIeUthaF9Sbm9Gb2UyLWM0c3B4Vy1YcExrNVHSAaoBQVVfeXFMTWdpazlnc21pTVN6cnFYRkpPZktna2ZLNEhkcS1ybXNQOXZyaW5oUm1GZmpObHNMaDVPdlk2cXlxTkZzNXF2VjVwTnNLMnZxeDZ6cEcwSktPTWRXaGxUcGZyNmNkNEh0bFI4b1MwLWtibk94UDhfR3B5M2Vra211V21LektkWGdxUzV6c3F2WkJHT3lIWXN1NFp0SUcwRi1MY1NnREFSckZGTXc?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-10-02T11:45:53.518Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -41111,6 +41111,24 @@
       "processedDate": "2026-10-02T03:00:58.188Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "52412f079da576829ce63aac51dbe4d63c27e5f7b76ffa7a1b73a3720c151753",
+      "title": "One dead in knife attack at Mexican school",
+      "sourceUrl": "https://gulfnews.com/world/americas/one-dead-in-knife-attack-at-mexican-school-1.500695465",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T03:15:42.750Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4ceed37971508ec2cfdf10dcfac889e3e312894c23b14ae060f9c06aab13953e",
+      "title": "Flydubai incident shows why aviation should never stop learning",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/editorial/2026/10/02/flydubai-fz1073-saudi-arabia-israel-aviation-incident/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-02T03:15:44.620Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

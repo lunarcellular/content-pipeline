@@ -41084,6 +41084,33 @@
       "processedDate": "2026-10-01T23:50:07.446Z",
       "relevant": true,
       "outputFile": "output/2026-10-01-dubai-schools-affordable-seats.md"
+    },
+    {
+      "urlHash": "23d96f42c01bf4d98fd50d9ea1ba646dbe7217d6d93e95fb4c8872c972d0bc44",
+      "title": "Dubai Police clearance certificate: How to apply, fees and documents required",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/safety-security/dubai-police-clearance-certificate-how-to-apply-fees-documents-1.500695102",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T03:00:54.019Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d02cc9a84b557a1de5c645674ac0b7d1c0a71c944360731bf032c5c6400ba02b",
+      "title": "Indian expat education leader who founded 9 schools in UAE, Kuwait, Bahrain dies",
+      "sourceUrl": "https://gulfnews.com/uae/indian-expat-education-leader-who-founded-9-schools-in-uae-kuwait-bahrain-dies-1.500695511",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T03:00:56.047Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bd3183d76eff5c1b94f272bddf23f46ce51aed9b22a66eeb34fe8e94a8ba9754",
+      "title": "UAE Friday sermon to praise educators before World Teachers' Day",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/02/uae-friday-sermon-to-praise-educators-before-world-teachers-day/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-02T03:00:58.188Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -41318,6 +41318,15 @@
       "processedDate": "2026-10-02T12:30:51.683Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c069b60ab0590b306edc84f40e310b4d0e4a8a9b1e340356a16ab67decba4ed6",
+      "title": "Five teachers and driver killed in crash on Saudi Arabia’s Taif-Riyadh highway",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/five-teachers-and-driver-killed-in-crash-on-saudi-arabias-taif-riyadh-highway-1.500696255",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-02T13:15:43.692Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

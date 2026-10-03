@@ -41390,6 +41390,24 @@
       "processedDate": "2026-10-03T04:45:46.835Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ebd29058c0e198e2278003abc42aa52aabba64684e5ac0db2882977d4b9a2d31",
+      "title": "How UAE students can make their university application stand out",
+      "sourceUrl": "https://gulfnews.com/uae/education/how-uae-students-can-make-their-university-application-stand-out-1.500696719",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-03T05:15:44.107Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8c19486fc214218472ef50823c0979f71b60679d8a6c5f1d3ee286172749ae4f",
+      "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-03T05:15:47.006Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

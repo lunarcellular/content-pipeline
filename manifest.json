@@ -41561,6 +41561,24 @@
       "processedDate": "2026-10-04T10:15:48.101Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7b1740e9ff484e03f3ba8029e587d5098fb02b8e70ea607b14898527dc39dfb7",
+      "title": "UAE minister thanks teachers ahead of World Teachers’ Day as AI places new responsibilities on educators",
+      "sourceUrl": "https://gulfnews.com/uae/uae-minister-thanks-teachers-ahead-of-world-teachers-day-as-ai-places-new-responsibilities-on-educators-1.500697868",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-04T11:01:01.015Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5373054cdf12655e909d40f3d93e4a8067280f79f315a2fe9c9251cc78e5838e",
+      "title": "Watch: Viral video shows Egyptian man catching child who fell from second floor",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/egypt-man-save-child-fall-viral-video",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-04T11:01:03.698Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

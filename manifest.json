@@ -41624,6 +41624,24 @@
       "processedDate": "2026-10-04T13:01:33.316Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e5a66d5c89c9c0d39447ddcfaa58d47480fd39e5fbd0f44a2bcbb39f937c6145",
+      "title": "Zayed National Museum celebrates teachers' role in shaping UAE's heritage education",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/zayed-national-museum-celebrates-teachers-role-in-shaping-uaes-heritage-education-1.500698000",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-04T13:30:57.600Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f5c4e9b398559f40626504b9e3acb168182283cd0ffbe8b46a72ece624c456b1",
+      "title": "How AI is changing what UAE students must learn",
+      "sourceUrl": "https://gulfnews.com/uae/education/how-ai-is-changing-what-uae-students-must-learn-1.500697864",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-04T13:30:59.801Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

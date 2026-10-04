@@ -41480,6 +41480,24 @@
       "processedDate": "2026-10-03T18:42:50.050Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5509d04d42926d69a2a1dbd7a4573b3d98b9d7794d6625f4b0f9a7ccb00557ae",
+      "title": "UAE weather forecast: Humid nights, fog and possible rain in coming days",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-forecast-humid-nights-fog-and-possible-rain-in-coming-days-1.500697449",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-04T03:00:56.826Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5cd00b49c6fd9786051da523486a7328a5bea3f163cbbe78fddcbbf35d4ded89",
+      "title": "Vaibhav Sooryavanshi becomes India’s youngest Asian Games gold medallist",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshi-becomes-indias-youngest-asian-games-gold-medallist-1.500697424",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-04T03:00:58.956Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

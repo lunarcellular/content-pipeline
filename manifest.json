@@ -41939,6 +41939,24 @@
       "processedDate": "2026-10-05T16:01:02.418Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8aa32ad7f31a3e533392c26dd9c37f026254879106aad51fbbfaa18bcf94e6ab",
+      "title": "Dubai awards Golden Visas to outstanding educators in celebration of World Teachers’ Day",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-awards-golden-visas-to-outstanding-educators-in-celebration-of-world-teachers-day-1.500699366",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-05T16:30:53.194Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c4156383a8254741a6e8219f11ba37b1bb07ba5528242eb0fed471fb4066669a",
+      "title": "Fujairah: Child, helper rescued from  indoor well ",
+      "sourceUrl": "https://gulfnews.com/uae/fujairah/fujairah-well-rescue-sparks-urgent-civil-defence-safety-warning-1.500699356",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-05T16:30:55.288Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

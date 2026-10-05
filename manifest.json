@@ -41804,6 +41804,24 @@
       "processedDate": "2026-10-05T07:30:50.199Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "272c36bd49863af4d55e61b903c0a10bbb4003bad72b951a0c01ed959fc890c6",
+      "title": "UAE schools ban parents from taking photos and sharing them on WhatsApp, social media",
+      "sourceUrl": "https://gulfnews.com/uae/uae-schools-ban-parents-from-taking-photos-and-sharing-them-on-whatsapp-social-media-1.500698608",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-05T08:01:01.404Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6bf09f7f96857f953be00260ba7214f500cb5a4a005902bf84821c96ce965abc",
+      "title": "BTS’ RM shares personal art collection in major new SFMOMA exhibition",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/bts-rm-personal-art-collection-sfmoma-exhibition",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-05T08:01:03.849Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

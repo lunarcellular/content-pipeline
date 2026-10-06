@@ -42038,6 +42038,51 @@
       "processedDate": "2026-10-06T00:22:02.237Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9b08190a6f5332bf2bc92369c2b9bfda115658e9a2b591aaa7214c30fce997ec",
+      "title": "UAE weather forecast: Rain possible in eastern and southern areas as temperatures hit 44°C",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-forecast-rain-possible-in-eastern-and-southern-areas-as-temperatures-hit-44c-1.500699696",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T03:00:57.627Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "23ad14915db54b97597eb6ee5632ec7537223ca479d83cc05e54d473287004ca",
+      "title": "UAE school photos: Parents could face up to Dh500,000 fine for privacy breach",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-school-photos-without-consent-privacy-rules-1.500699338",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T03:00:59.626Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cabc0c1e28a03a4c1f56a92b1921f991e3aa4dd96f513062dcdf450b8046b3d1",
+      "title": "California scientist wins a Nobel Prize, then makes school lunches for his kids",
+      "sourceUrl": "https://gulfnews.com/world/california-scientist-wins-a-nobel-prize-then-makes-school-lunches-for-his-kids-1.500699577",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T03:01:01.579Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d67c1cbc8af89d62c1d5fd76cd5b8f8339f5de63c5418f416d803a2c5a00e3ac",
+      "title": "Minor legal offences can derail UAE students' US visa applications, experts warn",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-students-us-university-admission-visa-application-legal-offences",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-06T03:01:04.186Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d67c1cbc8af89d62c1d5fd76cd5b8f8339f5de63c5418f416d803a2c5a00e3ac",
+      "title": "Minor legal offences can derail UAE students' US visa applications, experts warn",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-students-us-university-admission-visa-application-legal-offences",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-06T03:01:06.508Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -42200,6 +42200,24 @@
       "processedDate": "2026-10-06T07:45:45.168Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "60c5c7bacb1c01255e7306591cdc5ba6125932b882ff203404cc502f602d13db",
+      "title": "MIDEA Dubai Schools Games kicks off 7th Season with record participation",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/midea-dubai-schools-games-kicks-off-7th-season-with-record-participation-1.500700033",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T08:15:45.334Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d50f9e0b50f54c5d5fb9ce46e67ffd45abeaf6ab6009395406bb197bd0afe5fd",
+      "title": "UAE weather: Speed limit caps lifted in Abu Dhabi after morning fog reduced visibility",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/06/uae-weather-fog-abu-dhabi/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-06T08:15:47.918Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

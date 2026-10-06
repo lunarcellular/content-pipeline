@@ -42227,6 +42227,24 @@
       "processedDate": "2026-10-06T08:30:52.304Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "afd15e54047304abb4a64b9c65dbb1a733a082f72b8c878d4c4ef7d5d233a750",
+      "title": "Sheikh Mohammed pays moving tribute to father Sheikh Rashid on death anniversary",
+      "sourceUrl": "https://gulfnews.com/uae/government/sheikh-mohammed-pays-moving-tribute-to-father-sheikh-rashid-on-death-anniversary-1.500700064",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T09:15:43.787Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "090f47c7843eaccbd83d35e94c0e9990cfc88d7b9f7b1e93a174013a4e7b2489",
+      "title": "'World’s finest actor': Anupam Kher cherishes lunch with 'dearest friend' Robert De Niro",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/anupam-kher-cherishes-lunch-with-robert-de-niro",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-06T09:15:45.594Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

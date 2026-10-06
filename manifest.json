@@ -42353,6 +42353,24 @@
       "processedDate": "2026-10-06T14:01:09.384Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "21b7f9a05e6548c849d7f62a021909e8797b270b40d1b3d12c8aa69381ca3759",
+      "title": "Dubai student launches water treatment plant saving thousands in India",
+      "sourceUrl": "https://gulfnews.com/uae/dubai/dubai-student-launches-water-treatment-plant-saving-thousands-in-india-1.500700548",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T14:45:48.595Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5a1b2c2079cc66e053195e22bb6361890ea95d3290172773240db729a9e792a3",
+      "title": "Human interaction will remain vital to learning despite rapid rise of AI, says Education Minister",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/06/human-interaction-will-remain-vital-to-learning-despite-rapid-rise-of-ai-says-education-minister/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-06T14:45:50.848Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

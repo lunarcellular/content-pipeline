@@ -42299,6 +42299,24 @@
       "processedDate": "2026-10-06T12:30:52.990Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7f50a0934f982616534667e504030f99e4253c227f36e8abf2100e3eac8c3f8d",
+      "title": "Kuwait suspends school administration after students suffer suffocation",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwait-suspends-school-administration-after-students-suffer-suffocation-1.500700371",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T12:45:47.327Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "68ab4113dc9b0edf4e6629d84021a2c3aed5c1bb4914d735f079ae373866360e",
+      "title": "100 UAE students recognised for mathematics achievements at Cuemath Parent Summit in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/100-uae-students-recognised-for-mathematics-achievements-at-cuemath-parent-summit-in-dubai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-06T12:45:49.416Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

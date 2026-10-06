@@ -42128,6 +42128,24 @@
       "processedDate": "2026-10-06T05:30:57.007Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d7269fbe5b3b7caec1fb91c1c331f643aabdfb263103b18c1adb5443c9fa533e",
+      "title": "Edufair Dubai’s 11th edition puts students at the heart of education choices",
+      "sourceUrl": "https://gulfnews.com/uae/education/edufair-dubais-11th-edition-puts-students-at-the-heart-of-education-choices-1.500699881",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T06:30:53.117Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "69c6e4ed9320f7f5c377812d2b45777fc55ede6c74a6107c2e49fb7bc190412e",
+      "title": "Wikipedia operator says OpenAI rogue agents made 'potentially malicious' edits",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/wikipedia-operator-openai-rogue-agents-unauthorised-edits",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-06T06:30:55.266Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

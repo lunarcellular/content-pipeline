@@ -42335,6 +42335,24 @@
       "processedDate": "2026-10-06T13:45:44.914Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "321ce00ebcc62d9310150f4fd00c20b5ae74855ce6898d2deed0a45603ef39c9",
+      "title": "Dubai golden visa honours teachers shaping future generations",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-golden-visa-honours-teachers-shaping-future-generations-1.500700424",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T14:01:07.288Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "85b792eba88faea3e783f861504ddbf4a2749ef5e479ccef3133f83419c38d19",
+      "title": "Teacher kills daughter, 17, with cricket bat after TV row",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/teacher-kills-daughter-17-with-cricket-bat-after-tv-row-1.500700532",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-06T14:01:09.384Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

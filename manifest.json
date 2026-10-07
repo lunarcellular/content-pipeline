@@ -42452,6 +42452,15 @@
       "processedDate": "2026-10-07T02:38:25.750Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "da85b6b3a964ba5f737a84d6718efbc74acdaa581aa4fdd8d0dc9cba46701360",
+      "title": "UAE weather forecast: Rain possible as temperatures rise, fog expected through weekend",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-forecast-rain-possible-as-temperatures-rise-fog-expected-through-weekend-1.500701109",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T03:15:46.616Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

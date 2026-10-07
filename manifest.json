@@ -42551,6 +42551,24 @@
       "processedDate": "2026-10-07T08:01:09.199Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f4235fab61acc77aa5b23547bfee8f779ee4b4450422276fcc5c70d97ad5da6d",
+      "title": "Sharjah court rejects father’s appeal against child travel order",
+      "sourceUrl": "https://gulfnews.com/uae/sharjah-court-rejects-fathers-appeal-against-child-travel-order-1.500701132",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T08:30:59.005Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dfa9935ea8ad15f7219df340b2c43f42db5e7d373c98da3a771fed0ef4e9594c",
+      "title": "Saudi Arabia reports 30% rise in ICU admissions linked to seasonal respiratory infections",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-reports-30-rise-in-icu-admissions-linked-to-seasonal-respiratory-infections-1.500701121",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T08:31:01.021Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -42488,6 +42488,24 @@
       "processedDate": "2026-10-07T05:01:04.278Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "69ab6752db59dd4809ea089465ca4a97fd7672157806ea93713cbba9c8a41d03",
+      "title": "Trump to speak to Putin on plague fears; US, UN urge transparency from Moscow",
+      "sourceUrl": "https://www.khaleejtimes.com/world/trump-putin-reported-plague-siberia-russia-who-un",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-07T06:01:36.556Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "009afd01d9b6d410ae9be0f88ac0bc030a561dd8e1bdf2ed6765745061f5c371",
+      "title": "Countdown to new-look Abu Dhabi T10 begins with strong Pakistan and Caribbean representation",
+      "sourceUrl": "https://www.thenationalnews.com/sport/cricket/2026/10/07/countdown-to-new-look-abu-dhabi-t10-begins-with-strong-pakistan-and-caribbean-representation/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-07T06:01:38.909Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

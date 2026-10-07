@@ -42830,6 +42830,15 @@
       "processedDate": "2026-10-07T16:00:59.121Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7026af63798d6b5aab4a767822fb0eb0de2799ececa2c38c584496b3affc7094",
+      "title": "Trump administration proposes a $70,000 fee for international students to work in the US",
+      "sourceUrl": "https://gulfnews.com/world/americas/trump-administration-proposes-a-70000-fee-for-international-students-to-work-in-the-us-1.500702102",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T17:15:44.516Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

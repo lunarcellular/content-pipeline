@@ -42767,6 +42767,24 @@
       "processedDate": "2026-10-07T13:01:01.958Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "631e9caf0556878404b9f3614d36e94599df4463ae4bbeff7fb3d07030905ff2",
+      "title": "Indian expat student in UAE, 11, scores 1410 in SAT, wins rare honour from Johns Hopkins' CTY - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX19UZGJMZWpSUmNlSWRUZU44bnhXejVZRlp3ZHBLRzNiMHg3eEp4S0VNamFkZVZiYldnTkluOXctX2xmZTlPVDctVU5zczU3N0FmUmtDMFllUTExOUp1ckF3MHZ0cTdXOVVFMTVfSkFadXgxdDNPZUczZTlva3lVZVBqTmdYNHdZNnNpWW8zNk0yR29pY2hYYlM1OS1aNDg4QVdUZHBZU3BvUTRjdmhKbUp1TERFczFIbUVLdzBjaXpjTHEt0gHUAUFVX3lxTE5PTmY0amYyUFFLQ0I0Zmphd2NfUjBDZ2dtU0QzY0swOENvU2dkVkdmQTctVVRSQ2MwUXBSN1ZCTzNiT3lkM0VUZ3luSldWMEZFbnZyYXZvV3p5eEpKT19CQUt1RTZwd0xBajhLVU1ENlpHZ2VZbFBBOHNzVGI2Ymt0ZlpDYy05alVsbmVjR2ZoQVN1Q1gyaVlwYmdrODdGalVtUzEtd1JxdWoyd2FXVDB1SWd1TFFWcF9oY3VFdERqUzhxQW1kV3ZreVE0eUpWWHgtbGJM?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-10-07T13:15:52.944Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ca6dfdce9effd9055efca6a9ce4473daa57a63c4e07c926a429b094e05f6eba2",
+      "title": "KHDA introduces students, parents, educators councils - www.wam.ae",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjZfYzlaVVI0M05wVUJEZmEzNG5JWjAtTU5RU2dwbWhmYlpQNm0tem9Fd0xnRmJkVHgyaVpnVjNPWS1zV2FBcExmelp2aHhEMmtOZWRpdG51N190NVNidnZCenZFQVJhc0RfcEFHX29tbjd4aU12WmVLWFR3XzNNSVNvWExMaWc?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-10-07T13:16:13.011Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

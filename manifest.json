@@ -42659,6 +42659,33 @@
       "processedDate": "2026-10-07T10:45:49.310Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "658bc95fbc837f53fdddf46c9826b81977b719bcdd20967dbdda3cfc2859893e",
+      "title": "Abu Dhabi Dates Exhibition opens with 95 pavilions from 12 countries",
+      "sourceUrl": "https://gulfnews.com/uae/government/abu-dhabi-dates-exhibition-opens-with-95-pavilions-from-12-countries-1.500701719",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T11:15:45.034Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "629682feb56a16bd43e97a40fef6cd90393c314d67405f88ca50f587f932b4f3",
+      "title": "Indian expat student in UAE, 11, scores 1410 in SAT, wins rare honour from Johns Hopkins' CTY",
+      "sourceUrl": "https://gulfnews.com/uae/indian-expat-student-in-uae-11-scores-1410-in-sat-wins-rare-honour-from-johns-hopkins-cty-1.500701681",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T11:15:47.089Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "52b373f793a0fffae35fd804189adc627fe3cb7f2e8e00de0a5ae46d37a9bcdb",
+      "title": "Soundarya Rajinikanth says parents were her ‘rock’ during divorce: ‘Couldn’t have done it without them’",
+      "sourceUrl": "https://gulfnews.com/entertainment/soundarya-rajinikanth-says-parents-were-her-rock-during-divorce-couldnt-have-done-it-without-them-1.500701694",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T11:15:48.854Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

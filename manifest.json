@@ -42569,6 +42569,24 @@
       "processedDate": "2026-10-07T08:31:01.021Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1ca1c74db2b0ba9a8e651aa65f73d8f72304cf544aebdd0beb5b9ae594abefb6",
+      "title": "France suspends stun grenade use at student protests ahead of PM speech",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-07T08:45:45.340Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e4fe721f874308432c6e14b967ae9bb8aeb5d34d94b269709bc0636d799b52b0",
+      "title": "Dubai forms first parents and educators councils, renews students council for 2026-27",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-khdaparents-and-educators-councils-renews-students-council-2026-27",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-07T08:46:13.411Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-07-dubai-parents-educators-councils.md"
     }
   ]
 }

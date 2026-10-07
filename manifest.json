@@ -42416,6 +42416,42 @@
       "processedDate": "2026-10-06T23:18:25.089Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fe53af126e7a00706d1cc5cd801861d6d8052b2e2d58047fdb1815560011b5c6",
+      "title": "US death row inmate Christa Pike 'awake and speaking' after failed execution: lawyers",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-death-row-inmate-christa-pike-awake-and-speaking-after-failed-execution-lawyers-1.500701075",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T02:38:18.374Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a5c189c5e1c6bd8d87090c5bc743e1dcf52b3b3202b069d54fae2496671c2086",
+      "title": "When rewards become more important than learning",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/when-rewards-become-more-important-than-learning-1.500700356",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T02:38:20.453Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9e50825aa3fdf96096f9a00e62e1612a4496f15bc8a922508bbe2d206dd51176",
+      "title": "Trump says he has call scheduled with Putin to discuss possible case of pneumonic plague in Russia",
+      "sourceUrl": "https://gulfnews.com/world/europe/trump-says-he-has-call-scheduled-with-putin-to-discuss-possible-case-of-pneumonic-plague-in-russia-1.500701015",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T02:38:22.645Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6c7b965b244f7d4af08b627e6467e5cec05ac5c0d28b6154ec3752200c45cd2c",
+      "title": "Explained: Plague fears in Siberia, what happened and should the public be worried?",
+      "sourceUrl": "https://www.khaleejtimes.com/world/explained-plague-fears-in-siberia-what-happened-and-should-the-public-be-worried",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-07T02:38:25.750Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

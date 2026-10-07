@@ -42605,6 +42605,15 @@
       "processedDate": "2026-10-07T09:01:10.480Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "824c1edd11a82f368945ca80ed75f7d3d68c6ae30af79ea0c07d8f079c0ee65f",
+      "title": "Dubai KHDA launches new councils to empower parents, educators, and students in private schools",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-khda-launches-new-councils-to-empower-parents-educators-and-students-in-private-schools-1.500701492",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T09:16:24.813Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-07-khda-councils-empower-parents-educators.md"
     }
   ]
 }

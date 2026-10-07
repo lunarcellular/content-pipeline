@@ -42506,6 +42506,33 @@
       "processedDate": "2026-10-07T06:01:38.909Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "87f00caab87b6b3727d3eb823aefa95289d687ddf974895026431c2527ae0bfc",
+      "title": "Abhishek Bachchan on what SRK did for his career: 'Literally took personal responsibility'",
+      "sourceUrl": "https://gulfnews.com/entertainment/abhishek-bachchan-on-what-srk-did-for-his-career-literally-took-personal-responsibility-1.500701366",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T07:30:53.100Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ea61c2e0f66c539f1ddaa2584bb916ff6e59a90a70e05fad2e6d2a7bec7211fd",
+      "title": "ADIB approves rights issue to raise Dh1.75 billion in gross proceeds",
+      "sourceUrl": "https://www.khaleejtimes.com/business/adib-approves-rights-issue-resolution-share-capital",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-07T07:30:54.975Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9eefc00b1572fd20463ea9a7a9a72564294f8be96d354aef34027dddc5c5af26",
+      "title": "Long queues, pile of papers: TAMM chief recalls childhood memories of life before AI",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/tamm-chief-ai-everything-abu-dhabi-conference",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-07T07:30:57.540Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -42722,6 +42722,33 @@
       "processedDate": "2026-10-07T12:30:58.599Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cb736f4d294f0c58ea537cfa24f81bc4a45d225ecb08b3c78636c07a3b7beb09",
+      "title": "Seven wounded in Poland school stabbing attack: police",
+      "sourceUrl": "https://gulfnews.com/world/seven-wounded-in-poland-school-stabbing-attack-police-1.500701685",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T12:45:44.726Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e4d617eacd60616587fa5b654753814a8e45763fd97e78110bb24aeb4292fe68",
+      "title": "Abu Dhabi parking guide: MAWAQiF fees, timings, permits and how to pay",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/transport/abu-dhabi-parking-guide-mawaqif-fees-timings-permits-and-how-to-pay-1.500701843",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T12:45:46.766Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d44343f769828df1193d1c79488a22df4d34854ea1b947ddf1617dd396ce0b6f",
+      "title": "How Unique World Education helped Nived Anoop Nair achieve his IIT dream",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/how-unique-world-education-helped-nived-anoop-nair-achieve-his-iit-dream-1.500701840",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T12:45:48.641Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

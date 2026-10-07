@@ -42632,6 +42632,24 @@
       "processedDate": "2026-10-07T10:00:58.420Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f22bfacd88558e62c1f08f41dac5b34818c9aa6097367caa1254d70de77963f9",
+      "title": "New Abu Dhabi AI models speak Emirati, transcribe six languages and read Arabic",
+      "sourceUrl": "https://gulfnews.com/uae/new-abu-dhabi-ai-models-speak-emirati-transcribe-six-languages-and-read-arabic-1.500701521",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T10:15:45.330Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "39b99f30ba6845ea91c15f11e26006d0860f109def5e837892c8512733ef9d43",
+      "title": "Thai woman travels to Kanpur to find husband, discovers his wife and 3 children; alleges Rs6m fraud",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/thai-woman-travels-to-kanpur-seeking-indian-husband-discovers-wife-and-3-children-alleges-rs6m-fraud-1.500701584",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-07T10:15:47.452Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

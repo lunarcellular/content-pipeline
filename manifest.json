@@ -42695,6 +42695,24 @@
       "processedDate": "2026-10-07T11:45:48.250Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "771b289e7af75b8a8c8db4b7c96eea52881acd66050d48bc430808fb18e6172d",
+      "title": "Hybrid learning gains ground as Dubai expands flexible education options",
+      "sourceUrl": "https://www.khaleejtimes.com/business/hybrid-learning-gains-ground-as-dubai-expands-flexible-education-options",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-07T12:15:48.240Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a05119f6fdcf6cf02af6466332f2ce64fdd27d017c5be1dd7d24233cb870f98a",
+      "title": "Libya replaces parliamentary speaker Aguila Saleh after 12 years",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/07/libya-replaces-parliamentary-speaker-aguila-saleh-after-12-years/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-07T12:15:51.331Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -43145,6 +43145,24 @@
       "processedDate": "2026-10-08T10:00:54.656Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dc2e4ef50a9f638d4684a17681b9489c5eaaffe1e0eb606b0c9982372dc6cd3d",
+      "title": "'Human mentors', no timetable: Dubai school to test AI-powered personalised learning",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/human-mentors-no-timetable-dubai-school-to-test-ai-powered-personalised-learning",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-08T11:00:53.890Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8094d04c92b5dae86c7c6271684a6c0452f81bcbefdb0ec458fbaeaf73f5abbd",
+      "title": "Dubai school plans scholarship in memory of teacher after 33 years of service",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/08/dubai-teacher-dies-33-years-gems-school/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-08T11:00:55.989Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

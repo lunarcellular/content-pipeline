@@ -43019,6 +43019,42 @@
       "processedDate": "2026-10-08T06:45:55.262Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bce8ec7f87845de86d7171e4d9851f95897060a2a2b9d2d81238b35a27d311b0",
+      "title": "A Dh100 bribe, a murdered child and Dubai’s first firing-squad execution",
+      "sourceUrl": "https://gulfnews.com/uae/crime/a-dh100-bribe-a-murdered-child-and-dubais-first-firing-squad-execution-1.500702770",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T07:01:32.272Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6dd691f3ce1925fdd6d1437f70884b71af43d2e5f4c21243c041acef54d11748",
+      "title": "Indian expat teacher in Dubai dies, GEMS Education announces memorial scholarship - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1VhYUpEVWh6c0QwY1dyeUFGcUs2UGVzTGgzTks4SUJGU2JhU0VtbzB4aExzUFlFZFlockd5RHVFQzBtd3pNdXlpdkpOMEpvRDRyT1dJOEZqdzlmM1ZPeGhvWnNmOTc2SHg1NmJ2VmNVZHlJdU1jT21YbHRYcEhCVG5tb1VsU1RNY3E1YmxSQ1lHcld4X0xPNGhxcHNCVExCYkZlN1Z1UGRFd1R4cHVyNjVxWnJTb05J0gHIAUFVX3lxTE1sbUVMRFdRLU5LQ3VQdHBHdmtvZWEtSUpBdElfTzZlREZwM1dya0pVeERIY1JMUHVjWGRQbWNpSnp3RmpXbFRFcnNvNzFxNFhRUXpvMTFRZ2pSQjhzVHJZOUJ5enpPUDMydXBUM0h3bXRQSjVLcUxCRHllTWlFRkVBT29xUzhCYUhTamdEam1McVhPejJ3QkVNeXFNdi1XMlo0SEJSUzVPNXpKSGxHT0RDTVpUb09tZlVib1hVMWJ4MGM0Q1pqei1M?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-08T07:01:34.559Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f9848db6f2356d879cd40af37c51efabac356de08d337b3de5d5be1cb5aa009b",
+      "title": "Indian PM Modi mourns Nana Patekar's death, pays tribute to veteran actor",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/narendra-modi-mourns-nana-patekar-death-tribute",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-08T07:01:36.404Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9b15f436c5b2e520baabe4032446ad904b329a135f9af2a7ca970c7658e82d0b",
+      "title": "Virat Kohli calls Nana Patekar 'true legend of Indian cinema', mourns his demise ",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/virat-kohli-mourns-nana-patekar-death",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-08T07:01:38.448Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

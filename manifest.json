@@ -43118,6 +43118,24 @@
       "processedDate": "2026-10-08T09:01:10.007Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6ff57a958fc8b926b338bcc8f57bef3e981c78cf0c08118518e9fd3dcce24224",
+      "title": "Woman in STEM: Engineering student represents Dubai university in ASHRAE Conference ",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/woman-in-stem-engineeringstudentrepresentsdubai-universityin-ashrae-conference-1.500702978",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T09:45:40.844Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ab056690663b354b0215b4b7513299e648c34f876f95676d52b2c6d42f8848d7",
+      "title": "October half-term: UAE staycation bookings rise 31% as families seek shorter breaks",
+      "sourceUrl": "https://www.khaleejtimes.com/travel/uae-school-half-term-holiday-staycation-bookings-rise",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-08T09:45:42.876Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

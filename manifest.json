@@ -42839,6 +42839,24 @@
       "processedDate": "2026-10-07T17:15:44.516Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f6b2cae3c3e0d301dc20f7a4e045284b5c0fe8450f6a5307796d2b68c8e658b2",
+      "title": "UAE report examines how to power AI in a water-scarce world",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/10/07/ai-water-scarcity-uae-report/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-08T00:31:34.547Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c064e23f3594bfe78e438ff1b85dae0b13516470b2c7149e2b34821e5a3e0081",
+      "title": "Will Trump's data centre reckoning boost Democrats in the midterms?",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/10/07/data-centers-trump-democrats-pearson/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-08T00:31:37.340Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

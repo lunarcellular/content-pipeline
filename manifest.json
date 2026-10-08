@@ -42929,6 +42929,24 @@
       "processedDate": "2026-10-08T04:15:43.896Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cfe3b62bad3891656ff2b9dfac6bd01191603b3d0178b9234d1b5325f6fd81f0",
+      "title": "Christa Pike survived 2 doses of an execution drug. How is that possible?",
+      "sourceUrl": "https://gulfnews.com/world/americas/christa-pike-survived-2-doses-of-an-execution-drug-how-is-that-possible-1.500702161",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T04:30:55.609Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a79154d5a113a584a44cdaf10bc38105f94b02b78c0ec4519af882336b98bd20",
+      "title": "UAE report examines how to power AI in a water-scarce world",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/08/ai-water-scarcity-uae-report/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-08T04:30:57.461Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

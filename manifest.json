@@ -43109,6 +43109,15 @@
       "processedDate": "2026-10-08T07:46:41.369Z",
       "relevant": true,
       "outputFile": "output/2026-10-08-dubai-parents-educators-student-councils.md"
+    },
+    {
+      "urlHash": "a7789a3d7912aafefeeae334340242e05f02358b1ad2129180f8ca4d9dc0585e",
+      "title": "US proposes $70,000 fee for foreign students to work",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-proposes-70000-fee-for-foreign-students-to-work-1.500702937",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T09:01:10.007Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

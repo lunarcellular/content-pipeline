@@ -42857,6 +42857,60 @@
       "processedDate": "2026-10-08T00:31:37.340Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3c2aa206de83e8ab27fe9ec5ca852b664286e9317407ac6ab78534bf192b525e",
+      "title": "US puts military in ready mode for possible new strikes on Iran: Report",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-puts-military-in-ready-mode-for-possible-new-strikes-on-iran-report-1.500702478",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T03:00:58.867Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "adb71549d8058ffe176ffe9608a794973e6dcfc98dd6a0ecb9d1842554829b59",
+      "title": "Some Dubai schools ‘open’ to changing timings to ease traffic, shorten commutes",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-open-to-changing-timings-ease-traffic",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-08T03:01:01.163Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "febc9ece3779277497e3f5caef6d8197c304cfb3fbdeb4ba2ca5a5ea2f7d49c4",
+      "title": "France school protests triggered by teacher shortages, school conditions, police clashes",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/france-school-protests-triggered-by-teacher-shortages-school-conditions-police-clashes",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-08T03:01:03.110Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9acb8132b6b878e2f98d1d8b36be104540c643dc3ce58dc5fdc15dd45c3579f0",
+      "title": "UAE doctors warn of ‘adult’ health problems in children with obesity",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/uae-doctors-warn-obesity-children-health-problems",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-08T03:01:05.149Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9acb8132b6b878e2f98d1d8b36be104540c643dc3ce58dc5fdc15dd45c3579f0",
+      "title": "UAE doctors warn of ‘adult’ health problems in children with obesity",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/uae-doctors-warn-obesity-children-health-problems",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-08T03:01:07.072Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "adb71549d8058ffe176ffe9608a794973e6dcfc98dd6a0ecb9d1842554829b59",
+      "title": "Some Dubai schools ‘open’ to changing timings to ease traffic, shorten commutes",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-open-to-changing-timings-ease-traffic",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-08T03:01:08.793Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

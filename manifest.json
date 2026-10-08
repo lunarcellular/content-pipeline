@@ -43163,6 +43163,24 @@
       "processedDate": "2026-10-08T11:00:55.989Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c5f5ef897caa6bb61893de2b22c9489e71594c34c888a234f682011eb1c6c93b",
+      "title": "Egyptian law graduate arrested over fatal stabbing of parents",
+      "sourceUrl": "https://gulfnews.com/world/mena/egyptian-law-graduate-arrested-over-fatal-stabbing-of-parents-1.500703198",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T11:45:38.472Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8d8072f1babea3a9a1f267e4add9c5a6a559e69ebe4005b14807188dfc175eb8",
+      "title": "Vaibhav Sooryavanshi left out of Bihar's Ranji Trophy squad",
+      "sourceUrl": "https://gulfnews.com/sport/vaibhav-sooryavanshi-left-out-of-bihars-ranji-trophy-squad-1.500703177",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-08T11:45:40.564Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

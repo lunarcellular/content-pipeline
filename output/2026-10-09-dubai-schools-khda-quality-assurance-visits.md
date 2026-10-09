@@ -1,51 +1,47 @@
 ---
-title: "Dubai Schools to Undergo New KHDA Quality Assurance Visits"
-metaDescription: "Dubai schools will experience new KHDA quality assurance visits with just 24 hours’ notice, using AI for tailored assessments."
+title: "Dubai Schools to Experience New KHDA Quality Assurance Visits"
+metaDescription: "Dubai schools will receive 24 hours’ notice for new KHDA quality assurance visits, focusing on AI-driven assessments and student experiences."
 slug: "dubai-schools-khda-quality-assurance-visits"
-focusKeyword: "Dubai school quality assurance"
-secondaryKeywords: ["KHDA assessments", "private school evaluations", "education quality in Dubai"]
+focusKeyword: "Dubai schools quality assurance"
+secondaryKeywords: ["KHDA assessments", "private school evaluations", "education quality Dubai"]
 h1: "Dubai Schools to Experience New KHDA Quality Assurance Visits"
 readingTime: "5 min read"
-sourceUrls: ["https://gulfnews.com/uae/education/dubai-private-schools-to-get-just-24-hours-notice-for-khda-quality-visits-1.500704697"]
+sourceUrls: ["https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3RxQWZJZXN4WjhscHBEaXdyQzRaWjQzSlhBRXJLQ1drVTNiT3dmdjlmdmlpT1o2QW5SUFhoNnpwWWxjLXBZN1hLbXJ6UEcyQ1AyTmJCRW1zTW05d01GV0l5NHNqQ2tDRUlBeUhzWmtoQXFhQzBzVU9yQ2tuNTRXdzZWTE5lU3FyZ3FsQ0Q5bW1wTEZxd0JBWUdENVp0blFMSHY3N20zSUk0bngzVEJTNHFRUzN6bE9LbV9oQdIBzwFBVV95cUxNSVBXSmR3eGVFQS1jTmFqbVV2WURPaTJFNHhfN2FwX2ZRTjVPUWxUaDR4UEFMVS1EZ3FJOEEzOUZYeHM4cXBWU0hDRU80VkY1RE53LWlobElBV0lhNHgybW1BU0V6eWV4dlhqNzI1VlBxcEhzd3BiMzJaaVJrd3JFMkdFU041N0x1WmNpSWlFSXAyb1JhaTNpU2NPQVNUTDZYeGR0NXFnY2ZLTTNveU1LR2RHcFBSMHpzOUdUbHNROE5Dd2xCWFRJa0MySzVxUDQ?oc=5"]
 generatedDate: "2026-10-09"
 category: "education"
 schema: "NewsArticle"
-imageUrl: "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MjQwNzV8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzkxNTUwODk2fDA&ixlib=rb-4.1.0&q=85"
+imageUrl: "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MjQwNzV8MHwxfHNlYXJjaHwxfHxjaGlsZHJlbiUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzkxNTUxNzczfDA&ixlib=rb-4.1.0&q=85"
 imageAlt: "students in classroom with teacher presenting"
 imageCredit: "Quilia"
 imageCreditUrl: "https://unsplash.com/@heyquilia"
 ---
 
-## Introduction to KHDA's New Quality Assurance Approach
+## New Quality Assurance Framework for Dubai Schools
 
-[Dubai](https://www.schoolsery.com/schools?location=Dubai)'s private [schools](https://www.schoolsery.com/schools) are set to undergo a new round of quality assurance visits starting from the first term of the 2026-27 academic year. The Knowledge and Human Development Authority (KHDA) is implementing a more flexible and data-driven approach to assess education quality, which will now involve providing schools with no more than 24 hours’ notice prior to a visit.
+[Dubai](https://www.schoolsery.com/schools?location=Dubai)'s private [schools](https://www.schoolsery.com/schools) will soon face a revised quality assurance framework under the Knowledge and Human Development Authority (KHDA), beginning in the first term of the 2026-27 academic year. This new system introduces a data-driven approach that leverages artificial intelligence (AI) to customise assessments based on each school's performance and individual needs. 
 
-## Details of the New Assessment Framework
+Schools will now receive a maximum of 24 hours’ notice before a quality assurance visit, marking a significant shift from previous practices. The aim is to provide a clearer understanding of students' everyday experiences in the classroom, while also helping schools identify specific areas that require improvement.
 
-The revised assessment strategy employs artificial intelligence (AI) tools to tailor evaluations based on each school's performance data, developmental stage, and specific needs. This change aims to create a clearer understanding of students' daily experiences and assist schools in identifying areas needing improvement.
+## Types of Assessments
 
-KHDA has outlined two distinct types of quality assurance visits for eligible private schools in Dubai: comprehensive assessments and shorter, targeted follow-up visits. For schools in their initial one or two years of operation, specialised visits will focus on the quality of teaching, student experiences, and necessary support for improvement. Schools entering their third year will receive a comprehensive quality assurance visit that evaluates overall performance, teaching standards, and learning outcomes, culminating in a detailed report and overall rating.
+KHDA has established two types of quality assurance visits: comprehensive assessments and shorter follow-up visits. New schools in their first or second year will receive specialised evaluations focused on teaching quality, student experiences, and the support necessary for improvement. 
 
-Other eligible schools may receive either a comprehensive visit or a shorter follow-up assessment, depending on their performance data and developmental requirements. The shorter assessments will spotlight specific areas identified through school data, providing feedback on strengths and areas for improvement, although they will not result in an overall school rating.
+Schools entering their third year will undergo a thorough quality assurance visit that encompasses overall performance, teaching standards, and learning outcomes. This assessment will conclude with a detailed report and an overall school rating. Other eligible schools may receive either a comprehensive assessment or a shorter follow-up visit, depending on their performance data.
 
-## Focus Areas for Assessors
+The shorter visits will target specific areas identified through school data, offering feedback on strengths and areas for enhancement, although they will not result in a new overall school rating.
 
-This year’s quality assurance visits will place an increased emphasis on several key areas:
+## Focus Areas for Evaluation
 
-1. **Early Childhood Education**: Evaluators will assess the quality of education and care provided to young children, ensuring expectations for this critical developmental stage are clear.
-   
-2. **Education for Emirati Students**: The focus will be on academic progress and access to learning opportunities for Emirati pupils, aligning with Dubai's Education 33 Strategy aimed at enhancing educational outcomes.
+The quality assurance visits will emphasise several important aspects of education. There will be a strong focus on early childhood education, the quality of education for Emirati students, inclusive education for students of determination, and the teaching and learning of Arabic.
 
-3. **Inclusive Education**: Assessments will examine provisions for students of determination, including specialised services for those with complex needs, in line with Dubai's policies to empower all learners.
+Evaluators will review the quality of educational care provided to young children and clarify the expectations for this crucial developmental stage. For Emirati students, the assessments will delve into the quality of education, academic progress, and access to learning opportunities, aligning with Dubai's Education 33 Strategy aimed at enhancing educational outcomes.
 
-4. **Arabic Language Teaching**: The quality of Arabic language instruction will also be evaluated, particularly in terms of its effectiveness in enhancing students’ reading, writing, comprehension, and communication skills.
+Additionally, the evaluations will assess the quality of provisions for students of determination, ensuring that specialised educational services are available for those with complex needs. Evaluators will also examine Arabic language instruction and its effectiveness in developing students' reading, writing, comprehension, and communication skills.
 
 ## Implications for Parents
 
-The introduction of this new quality assurance framework reflects a significant shift in how educational quality is monitored in Dubai. For parents choosing schools, this means that institutions will be evaluated more frequently and with a focus on real-time data regarding student experiences and outcomes. The emphasis on personalised assessments tailored to school needs may lead to more effective improvement strategies within schools.
+This new quality assurance framework reflects a commitment to enhancing educational standards within Dubai's private schools. With 81 percent of students currently receiving a quality rating of Good or better, this initiative aims to further improve educational outcomes and ensure transparency for parents regarding the quality of education their children receive.
 
-Furthermore, the KHDA's commitment to ensuring a high-quality education for every student can instil greater confidence among parents regarding the schools they select for their children. With the current inspection cycle indicating that 81 percent of students in Dubai’s private schools receive a Good or better quality of education, this new approach is expected to enhance this positive trend.
+As schools are now required to adapt to this more flexible and responsive assessment model, parents can expect ongoing updates regarding their children's educational experiences. This initiative not only supports schools in their improvement journeys but also empowers parents to make informed decisions based on tangible data.
 
-## Conclusion
-
-As Dubai schools prepare for the upcoming changes to the KHDA quality assurance visits, the focus on tailored assessments and the use of advanced technology like AI represents a forward-thinking approach to educational evaluation. This strategy not only aims to improve the overall quality of education in Dubai but also pledges to support schools in their journey towards excellence, ultimately benefiting students and parents alike.
+The revised approach aims to ensure that every student has access to a high-quality education, reinforcing the belief that educational quality is a shared responsibility among schools, parents, and the wider community. With this shift, parents in Dubai can look forward to a more detailed understanding of the educational landscape and the assurance that their children's learning needs are being met effectively.

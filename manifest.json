@@ -43388,6 +43388,15 @@
       "processedDate": "2026-10-09T06:00:48.561Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "241d360dbf4bd877f6b1e0b2fc2484463353c23320c8d26133fca82726167e15",
+      "title": "Dubai private-school enrolment crosses 406,000: Will more affordable places open?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/dubai-private-school-enrolment-over-406000-families-affordable-choices",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-09T06:16:10.346Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-09-dubai-school-enrolment-demand-affordable-education.md"
     }
   ]
 }

@@ -43640,6 +43640,24 @@
       "processedDate": "2026-10-09T15:30:52.457Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ba281aad4d1efa41f5cffc156ef66a95ea532807cbcdd4a6f7a2f5aee6b04d35",
+      "title": "UAE takes legal action over social media bullying of child of determination",
+      "sourceUrl": "https://gulfnews.com/uae/uae-takes-legal-action-over-social-media-bullying-of-child-of-determination-1.500704952",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T15:45:42.628Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "341c8e073725fee6e0bf0b812ac800d7d2574defc463613db3550b9221d26afe",
+      "title": "UAE takes legal action over video showing bullying of child of determination",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-legal-action-video-bullying-of-child-of-determination",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-09T15:45:44.899Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

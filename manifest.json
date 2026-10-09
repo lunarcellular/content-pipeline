@@ -43397,6 +43397,24 @@
       "processedDate": "2026-10-09T06:16:10.346Z",
       "relevant": true,
       "outputFile": "output/2026-10-09-dubai-school-enrolment-demand-affordable-education.md"
+    },
+    {
+      "urlHash": "305410d6ec75f12f6ad4cdf5c9c530e7590f70d1bfeae1e44aaa0851edb87f19",
+      "title": "Ahmed Al Maghribi celebrates the grand launch of Oud and Roses Auric",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/ahmed-al-maghribi-celebrates-the-grand-launch-of-oud-and-roses-auric",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-09T06:30:46.461Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d4dee6dc01b846a47a2cc2447fc67b483fccd5c8ddcc272105e1b1c7b44256d4",
+      "title": "Malaysia closes schools in capital, parts of country due to haze",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/malaysia-closes-schools-in-capital-parts-of-country-haze",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-09T06:30:48.790Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

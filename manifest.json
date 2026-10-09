@@ -43586,6 +43586,24 @@
       "processedDate": "2026-10-09T13:16:15.473Z",
       "relevant": true,
       "outputFile": "output/2026-10-09-dubai-schools-khda-quality-assurance-visits.md"
+    },
+    {
+      "urlHash": "6274699b1d36d3fd543e8ac5a03c2183c86e210ea3a3d566820b4503cc8c6e16",
+      "title": "French lender Natixis CIB expects double-digit growth in Middle East and Asia despite war uncertainty",
+      "sourceUrl": "https://www.thenationalnews.com/business/banking/2026/10/09/french-lender-natixis-cib-expects-double-digit-growth-in-middle-east-and-asia-despite-war-uncertainty/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-09T13:30:55.524Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "41a942e39ff3cf246236cc093a5f529dbac9549ed8f80e9f9bd77f661e386ec2",
+      "title": "Dubai private schools to get just 24 hours’ notice for KHDA quality visits",
+      "sourceUrl": "https://gulfnews.com/uae/education/what-dubai-schools-should-prepare-for-khdas-24-hour-notice-inspections-1.500704697",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T13:31:34.718Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-09-dubai-schools-khda-inspections-24-hour-notice.md"
     }
   ]
 }

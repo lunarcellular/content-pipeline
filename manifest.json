@@ -43469,6 +43469,24 @@
       "processedDate": "2026-10-09T09:30:46.841Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eec5dfc23ffa72d1990705f724e9a15bccffec648a0268e082a95ec95e60f881",
+      "title": "Lionel Messi bids farewell to Argentina as Cristiano Ronaldo pays tribute",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/lionel-messi-argentina-farewell-cristiano-ronaldo-tribute",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-09T10:30:52.148Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7d4e4b17f047197ba0f826c79cd5bf7d85bbe6f10fc657bde80159d64340dd04",
+      "title": "KHDA outlines 4 key focus areas for Dubai school inspections this year",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-khda-outlines-4-key-focus-areas-school-inspections-this-year",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-09T10:31:32.481Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-09-khda-dubai-school-inspections-focus-areas.md"
     }
   ]
 }

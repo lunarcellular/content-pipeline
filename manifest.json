@@ -43568,6 +43568,15 @@
       "processedDate": "2026-10-09T12:30:51.376Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5543d6d53748f597596a8cf1124819f0188c89f555928f877411f399ce47f86f",
+      "title": "Dubai private schools to get just 24 hours’ notice for KHDA quality visits",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-private-schools-to-get-just-24-hours-notice-for-khda-quality-visits-1.500704697",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T13:01:40.317Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-09-dubai-schools-khda-quality-assurance-visits.md"
     }
   ]
 }

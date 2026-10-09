@@ -43613,6 +43613,24 @@
       "processedDate": "2026-10-09T14:15:42.071Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "63d4d2afa642acc94fa947811530f5e1178000824fb17e350d2bd16cee07dbe8",
+      "title": "Sharjah Space and Astronomy Hub forecasts Jumada Al Awwal crescent visibility",
+      "sourceUrl": "https://gulfnews.com/uae/government/sharjah-space-and-astronomy-hub-forecasts-jumada-al-awwal-crescent-visibility-1.500704696",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T14:30:48.714Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9a764f32ab0912e6594605fe15a975206f0b2700445bb52844609e0dc0a2b6e4",
+      "title": "New York mayor calls for end to ICE operations after man shot in car with child present",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/new-york-mayor-end-to-ice-man-shot-in-car-with-child-present",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-09T14:30:50.997Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

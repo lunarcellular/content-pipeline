@@ -43604,6 +43604,15 @@
       "processedDate": "2026-10-09T13:31:34.718Z",
       "relevant": true,
       "outputFile": "output/2026-10-09-dubai-schools-khda-inspections-24-hour-notice.md"
+    },
+    {
+      "urlHash": "f8990cf066513eb76b56da1282d41e34369ee4b973cfd241221a137dda6945ee",
+      "title": "Sharjah Space and Astronomy Hub forecasts Jumada Al Awwal crescent visibility",
+      "sourceUrl": "https://gulfnews.com/uae/government/c2nmxp2-sharjah-space-and-astronomy-hub-release-1.500704696",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T14:15:42.071Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

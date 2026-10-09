@@ -43298,6 +43298,42 @@
       "processedDate": "2026-10-09T01:06:10.220Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "eb7365a32323916ad1a3ae9524b108bf44e66fc85e4bc624defa5a3dec2c28b9",
+      "title": "One father's call prompts Sharjah Ruler to arrange free student transport",
+      "sourceUrl": "https://gulfnews.com/uae/education/one-fathers-call-prompts-sharjah-ruler-to-arrange-free-student-transport-1.500703991",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T03:00:52.318Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "557542a30fff873ce4358cbf8cf6434c1bbcb381ee7af3c0c4f7071b1e91534c",
+      "title": "Dubai school mourns beloved teacher as colleagues share heartfelt tributes",
+      "sourceUrl": "https://gulfnews.com/uae/dubai-school-mourns-beloved-teacher-as-colleagues-share-heartfelt-tributes-1.500703761",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-09T03:00:54.606Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "662fc470c30ada0ccc17005ebd76894efd8a1ce757002ed8ff851c694a5d7f0c",
+      "title": "From shootings to knife attacks: Why school safety is under scrutiny in Turkey",
+      "sourceUrl": "https://www.khaleejtimes.com/world/from-shootings-to-knife-attacks-why-school-safety-is-under-scrutiny-in-turkey",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-09T03:00:56.440Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4b9ebdb4b5a861eaac308cdba27c3d32d6d3c451b81fb885c71c27c6bc5c82ff",
+      "title": "School buses to global stages: 30-year story of the Abu Dhabi Music and Arts Foundation",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/music-stage/2026/10/09/school-buses-to-global-stages-30-year-story-of-the-abu-dhabi-music-and-arts-foundation/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-09T03:00:58.443Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -43685,6 +43685,24 @@
       "processedDate": "2026-10-09T17:15:42.204Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ece0ca94deda8c31588e1c5471099227513ae147ed65a94115f1ba791c79fa62",
+      "title": "Pictures of the week: From French student protests to the reopening of Dubai Miracle Garden",
+      "sourceUrl": "https://www.thenationalnews.com/news/2026/10/09/pictures-of-the-week-from-french-student-protests-to-the-reopening-of-dubai-miracle-garden/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-09T18:15:40.513Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "43fb044ca335a19d92b84157231e85be66587e3ce721a25992ef8db9d442e34b",
+      "title": "Why banning children from social media may not be enough to keep them safe online",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/09/social-media-ban-children-education/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-09T18:15:42.536Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

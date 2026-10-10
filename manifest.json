@@ -43775,6 +43775,24 @@
       "processedDate": "2026-10-10T07:15:37.890Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "03a0e40ee45993b0efd4c64e306808103ac9deb9dc79d69bace3b46124990515",
+      "title": "AI cannot replace teachers or students' thinking, UAE education official says",
+      "sourceUrl": "https://gulfnews.com/uae/education/ai-cannot-replace-teachers-or-students-thinking-uae-education-official-says-1.500705469",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-10T07:45:37.568Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "85776ca18ac38d32948e4c7dd7a3001b578bcab5aa978f7137216ba42731cbf0",
+      "title": "UAE and Saudi Arabia take legal action over online bullying of child with disabilities",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/10/uae-and-saudi-arabia-take-legal-action-over-online-bullying-of-child-with-disabilities/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-10T07:45:39.524Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

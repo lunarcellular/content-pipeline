@@ -43766,6 +43766,15 @@
       "processedDate": "2026-10-10T04:15:41.913Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0bd39ddfe702d28d66abe5115b125f8cd4cd11e9dc9371d060e03d2370b83fa2",
+      "title": "UAE braces for four days of fog, with visibility expected to fall below 1km",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-braces-for-four-days-of-fog-with-visibility-expected-to-fall-below-1km-1.500705441",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-10T07:15:37.890Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -43739,6 +43739,24 @@
       "processedDate": "2026-10-10T03:00:54.500Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "88571b2fff51d71dd47aabf1e37f3b8c763b9f9452fd20e77333be696ce9dd02",
+      "title": "UAE weather: Red, yellow alerts issued for fog, drop in visibility ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/october-10-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-10T03:30:45.402Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "88571b2fff51d71dd47aabf1e37f3b8c763b9f9452fd20e77333be696ce9dd02",
+      "title": "UAE weather: Red, yellow alerts issued for fog, drop in visibility ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/october-10-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-10T03:30:47.393Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -43946,6 +43946,33 @@
       "processedDate": "2026-10-11T06:30:49.296Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "42731675f8d82cd40f1a101f73be8eafeb88ffdcfb83992c42d58180857d5878",
+      "title": "UAE waives patent registration fees for students, People of Determination",
+      "sourceUrl": "https://gulfnews.com/business/tourism/uae-waives-patent-registration-fees-for-students-people-of-determination-1.500706343",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-11T09:00:45.285Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e4f734ffe17b2bfb743999bfa48debd20e582f066bda60136a1e7e370958fb28",
+      "title": "Free patent and design registration for UAE student inventors, people of determination",
+      "sourceUrl": "https://www.khaleejtimes.com/business/free-patent-and-design-registration-for-uae-student-inventors-people-of-determination",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-11T09:00:47.288Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3ffef5fb65abbc5a3c27d3061562bf5ea42a8e674483ca436c83a61fe41c512e",
+      "title": "Sharjah Police warns of safety risks in schools, urges students to follow rules",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/sharjah-police-warns-of-safety-risks-in-schools-urges-students-to-follow-rules",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-11T09:00:49.312Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

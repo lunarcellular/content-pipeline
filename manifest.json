@@ -43874,6 +43874,15 @@
       "processedDate": "2026-10-11T03:01:00.627Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d7983c0e0a28abde4b2951b074ad592ee3f9d779d9de939af160483bb65f65d8",
+      "title": "UAE weather: Chances of fog formation; horizontal visibility to drop in some areas",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/october-11-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-11T03:15:39.895Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

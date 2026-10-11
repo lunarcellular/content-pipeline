@@ -43973,6 +43973,24 @@
       "processedDate": "2026-10-11T09:00:49.312Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a2c4952441da2b9e4e149488225fd6bcdf8216341b0915947b47bf56c725d20a",
+      "title": "Riyadh airport attack: Saudi schools switch to remote learning - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYnFTd3NkV0ZjbERPSThJLU5rMTY3ZkdZbC1xcXl2UFBac2EweFlZWFpMdndlSm5GSVpnNTRUUVJEUFp5eV9MaDJtRHJudTBOaFZOZEdBNzJxdVdBYjJQcFRsUlI0S0NWb2xtS092R01JS25xSlJtRlJRNHJJUjFKc1BXeDJiYnZKc0pWZWxmeWctUVJiMS1LZ2xnXzhweTNtTWlLSnZhbjlPQ0NOOWE2SdIBxgFBVV95cUxQQ2ZuWWtkTXNROTVOQXFETV81M05SZzloa2NvZ3RQS0drT08tT1BST1h0Q0QtdFVrY3JjbTlSa0x2eHJ5UjM0Q2duMjk5SVZqaUhLOWJ5ZHhkc19NUkIwVnlodXpIY3JoQ2luRjVXWTRKQ3l1b1p4dDJmTG4xOGFxUkpFT0wxQ3p4MFYzTlZidUNEYVdNVXFlMTBwRTlMZUtRQ09OTnJ6TjEySFZxeTA1MDVUZlpMUFI0YzJNSW1jYnhGV2VZc2c?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-11T09:45:40.789Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb66622b2a1ee692977b74bad1445d50073fb207782a8d8cd371a5c065ca0fc4",
+      "title": "Sudan's Al Burhan accused of political scheming as war puts children at risk",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/11/sudans-al-burhan-accused-of-political-scheming-as-war-puts-children-at-risk/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-11T09:45:42.860Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

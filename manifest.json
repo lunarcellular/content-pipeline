@@ -44234,6 +44234,24 @@
       "processedDate": "2026-10-12T17:30:45.868Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ee26132098edc6b40419bdd389cc7fa95c9b7e937088908fb1f1029ab564d5ba",
+      "title": "Kuwait investigates alleged child abuse at nursery after video goes viral",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/kuwait-suspected-child-abuse-nursery-video-viral",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-12T17:45:41.046Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "245e1b255969f6ade3b58b07573b265b3dae6a55149792f60f2460f0d1d34022",
+      "title": "Dubai number plates emerge as collectible assets in digital shift",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dubai-number-plates-emerge-as-collectible-assets-in-digital-shift",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-12T17:45:42.810Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

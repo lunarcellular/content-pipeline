@@ -44261,6 +44261,24 @@
       "processedDate": "2026-10-12T18:00:47.331Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ae672666df46d0e3a19955044aea73d3b2e5312abda20a0c2b44ffd29ee2e39a",
+      "title": "Jordanian father of two killed in Houthi airport attack, leaving children in grandfather's care",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/jordanian-father-of-two-killed-in-houthi-airport-attack-leaving-children-in-grandfathers-care-1.500708091",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-12T19:00:47.144Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b6dc9aed8eb402e6396c2981d8425f6532abf74e59ec537db2f38af1bbce8157",
+      "title": "Teenager shoots headmaster, teacher at French school",
+      "sourceUrl": "https://gulfnews.com/world/europe/teenager-shoots-headmaster-teacher-at-french-school-1.500707830",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-12T19:00:49.137Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

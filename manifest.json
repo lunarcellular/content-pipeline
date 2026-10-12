@@ -44045,6 +44045,24 @@
       "processedDate": "2026-10-11T17:15:40.498Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "833fed026f29b33c512e0b561b71d6c2b30683c98b87904d69399f1cfe7d380c",
+      "title": "Some UAE schools close for 9-day half-term break; families plan staycations, trips abroad",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-close-9-days-half-term-break-oct-12-to-oct-16-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-12T03:00:51.006Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "833fed026f29b33c512e0b561b71d6c2b30683c98b87904d69399f1cfe7d380c",
+      "title": "Some UAE schools close for 9-day half-term break; families plan staycations, trips abroad",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/schools-close-9-days-half-term-break-oct-12-to-oct-16-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-12T03:00:53.224Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

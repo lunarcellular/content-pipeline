@@ -44387,6 +44387,24 @@
       "processedDate": "2026-10-13T06:00:50.563Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c2fda1ffc2e27bacc85d858b9b8de51e157a9dc72222127327aa63b6c1354339",
+      "title": "Abu Dhabi teacher jailed for 2 years for assaulting 4 students",
+      "sourceUrl": "https://gulfnews.com/uae/crime/abu-dhabi-teacher-jailed-for-2-years-for-assaulting-4-students-1.500708446",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T06:30:50.384Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2a984f75be8697e1b764f902eccff644c2e2f61e2031e873c85e5daa753ded40",
+      "title": "Abu Dhabi teacher jailed for 2 years for physically assaulting 4 students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/legal/abu-dhabi-teacher-jailed-two-years-physically-assault",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-13T06:30:52.072Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

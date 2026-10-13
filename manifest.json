@@ -44369,6 +44369,24 @@
       "processedDate": "2026-10-13T05:15:38.890Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3b9092d7dda9e5d8021701b53708ebfa6eb81bc2c6eccea5e678a3e9dcecd4c7",
+      "title": "ADIB to raise Dh1.75 billion through rights issue: Key dates for shareholders",
+      "sourceUrl": "https://gulfnews.com/business/banking/adib-to-raise-dh175-billion-through-rights-issue-key-dates-for-shareholders-1.500708399",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T06:00:48.426Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c2b19af42c980b9397257b4e9a44cd52acd62303c210974c63a0f5de06feb15e",
+      "title": "North Korea's Kim showcases missile capable of reaching US, South America",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/north-korea-kim-showcases-missile-us-mainland",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-13T06:00:50.563Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

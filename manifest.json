@@ -44567,6 +44567,24 @@
       "processedDate": "2026-10-13T11:45:40.771Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0b6c7ca0e9d363649e9c05e07d150b2c05e33a3c2e7d2a64e49cc69d98886139",
+      "title": "UAE university enrolment rises 13% as AI changes skills needed for future jobs",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-university-enrolment-rises-13-as-ai-changes-skills-needed-for-future-jobs-1.500708863",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T12:00:52.419Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "af7c23e581f9dbcba2ff11143c2e8af22e8023e0d630e84ab81de560da87278c",
+      "title": "India debut and Rs 84 million IPL deal: Auqib Nabi celebrates with a new car",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/india-debut-and-rs-84-million-ipl-deal-auqib-nabi-celebrates-with-a-new-car-1.500708834",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T12:00:54.751Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

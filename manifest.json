@@ -44486,6 +44486,24 @@
       "processedDate": "2026-10-13T09:45:45.579Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d4af1a64e1c745c053180a99e2e77f60a7f54a7863b675491df5cc8e8a38be39",
+      "title": "Abu Dhabi school achieves historic LEED platinum certification, setting sustainability benchmark",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-school-achieves-historic-leed-platinum-certification-setting-sustainability-benchmark-1.500708740",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T10:30:44.816Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "99dc9013df937c9b5741a9d13acf23c06ce17c95f2a44b3ad3c038ff35727499",
+      "title": "CBSE announces dates for Class 12 special exams in UAE, 6 other countries",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/cbse-announces-class-12-special-exams-dates-7-countries",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-13T10:30:46.524Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

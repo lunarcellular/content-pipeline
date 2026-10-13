@@ -44504,6 +44504,15 @@
       "processedDate": "2026-10-13T10:30:46.524Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c9bad048c9b13109ebc709236bf03a30912c09efc67395ff1a8e2ff2d2c5f3e0",
+      "title": "Will your Dubai school hike fees next year? How KHDA's 24-hour inspections and ratings come into play",
+      "sourceUrl": "https://gulfnews.com/uae/will-your-dubai-school-hike-fees-next-year-how-khdas-24-hour-inspections-and-ratings-come-into-play-1.500708744",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T10:44:13.001Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-13-khda-inspections-dubai-school-fees-2026-27.md"
     }
   ]
 }

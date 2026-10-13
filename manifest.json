@@ -44423,6 +44423,33 @@
       "processedDate": "2026-10-13T07:00:47.481Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "446e7f22e897f35e84d98b62ce38cd251cbcc94e541cf7a2ea1b5c265d709fd4",
+      "title": "Abu Dhabi Criminal Court sentences teacher to two years in prison over assault on four students ",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/13/abu-dhabi-criminal-court-sentences-teacher-to-two-years-in-prison-over-assault-on-four-students/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-13T07:15:40.734Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "511accffe112c70266820f93e171329060a404bf526da8d0dd55a094f2c77532",
+      "title": "France’s angry youth are demanding a future – not just better schools",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/comment/2026/10/13/france-student-protests-emmanuel-macron-marine-le-pen/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-13T07:15:42.514Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7feeaed4e31cf433f985db1d0cbbb93d4c843f57fb2caa21a2b8cc10115caf17",
+      "title": "UAE leads GCC in early childhood education, with 82% pre-primary enrolment",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-early-childhood-education-82-preprimary-enrolment",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-13T07:16:19.457Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-13-uae-early-childhood-education-participation.md"
     }
   ]
 }

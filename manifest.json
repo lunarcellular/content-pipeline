@@ -44540,6 +44540,15 @@
       "processedDate": "2026-10-13T11:01:48.276Z",
       "relevant": true,
       "outputFile": "output/2026-10-13-khda-inspection-model-dubai-school-fees.md"
+    },
+    {
+      "urlHash": "2be7e63bf1601d02e2b4528de1be5655d5515c144d2b92cd7dca609e549a65de",
+      "title": "Abu Dhabi Aviation Group to enroll 35 new Emirati students annually in Aircraft Engineering Programme",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-aviation-group-to-enroll-35-new-emirati-students-annually-in-aircraft-engineering-programme-1.500708783",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-13T11:15:48.475Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

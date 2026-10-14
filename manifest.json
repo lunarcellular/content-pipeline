@@ -44792,6 +44792,24 @@
       "processedDate": "2026-10-14T08:15:46.707Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e40a927e4107f7e49240090a5cbaecd2e1bb7c084553dc923c8cd365e3ff0759",
+      "title": "Homework, fake images: Dubai launches platform to help parents with children's AI use",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/homework-fake-images-dubai-launches-platform-to-help-parents-with-childrens-ai-use",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-14T08:30:44.731Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cd707ba4cc02124127ebdfcb826b247c1797899dc3cff9db4cbe176f876fd9c8",
+      "title": "UAE orders recall of face mask batch over possible contamination",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/14/uae-orders-recall-of-face-mask-batch-over-possible-contamination/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-14T08:30:46.786Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

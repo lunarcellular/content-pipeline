@@ -44774,6 +44774,24 @@
       "processedDate": "2026-10-14T07:45:43.754Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "09a5910c5793d88ea01ed04ebadfc9ea5e92ce03c0fcc1eff2ba8079aee24e0d",
+      "title": "How Gulf News Edufair Abu Dhabi connects academic choices with career opportunities",
+      "sourceUrl": "https://gulfnews.com/uae/education/how-gulf-news-edufair-abu-dhabi-connects-academic-choices-with-career-opportunities-1.500708492",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T08:15:44.590Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7150ba2bae9b59349370e7dc3b166c3e0714e6cf216f498c9f2edca9b60eae00",
+      "title": "'Breaking Bad' star Bob Odenkirk pays tribute to RJ Mitte after death at 34",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/bob-odenkirk-pays-tribute-rj-mitte-death-breaking-bad",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-14T08:15:46.707Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

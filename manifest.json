@@ -44972,6 +44972,24 @@
       "processedDate": "2026-10-14T20:59:04.009Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9d37e3bd7c8f569d962afe137912ba239558d949c46f5dd4c51ae6199cd50fe8",
+      "title": "3 Indian students killed in Germany fire; resident arrested on homicide charges",
+      "sourceUrl": "https://gulfnews.com/world/europe/3-indian-students-killed-in-germany-fire-resident-arrested-on-homicide-charges-1.500711049",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T23:52:16.301Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "46d391de533bf6a6a1f6739c237fba12e98eb1d6183ec49622cce88930c8004f",
+      "title": "Elon Musk shifts responsibility to Trump over satellite restrictions affecting Ukraine",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/10/14/musk-starlink-ukraine-starshield/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-14T23:52:18.192Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

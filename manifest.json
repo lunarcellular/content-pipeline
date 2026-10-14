@@ -44810,6 +44810,24 @@
       "processedDate": "2026-10-14T08:30:46.786Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8210e13fbceef2aaad7e9522ddb5a7ab24dcc9a107cb302c18218dbc6e005385",
+      "title": "Worried about how your child uses AI? Dubai launches new platform for parents",
+      "sourceUrl": "https://gulfnews.com/uae/worried-about-how-your-child-uses-ai-dubai-launches-new-platform-for-parents-1.500710079",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T08:45:39.284Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b360ac41b1fb9045a9349f95e660d3c87c455022fa394d3e49c161263256d1fe",
+      "title": "Sharjah Private Education Authority launches ethical framework for AI use in schools - www.wam.ae",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHJvaFpNM0k1Q19rMTVaSEhLeVlOSlIxVzdJZUhkZjlYakRrRDFKc0lyMW4wdXJCYjFCb1JsX3czYmUtRWV6UTdyV2tPa05VSkhlSTBJdVR5NUFpbzk3ekJDeTVJZWFVZVROd3d3QVM3UkpDYWdOVGRBOTctODl5Y183V2VPemNKYVE?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-10-14T08:45:51.891Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

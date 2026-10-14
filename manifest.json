@@ -44918,6 +44918,15 @@
       "processedDate": "2026-10-14T11:45:40.215Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e82233bb38ffd8450cac31c9ad4d781f8cc0f3434cd116be2c98dd8734889d77",
+      "title": "Sharjah launches ethical framework for AI use in schools",
+      "sourceUrl": "https://gulfnews.com/uae/education/sharjah-launches-ethical-framework-for-ai-use-in-schools-1.500710527",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T14:02:05.693Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-14-sharjah-schools-ethical-ai-framework.md"
     }
   ]
 }

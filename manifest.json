@@ -44855,6 +44855,24 @@
       "processedDate": "2026-10-14T10:00:52.982Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7b078c9294fc64954ac03f2a81164d55f6d09bd69a407d61f3dffa44d5f31fb0",
+      "title": "Six killed, including three children, as residential building collapses in Cairo",
+      "sourceUrl": "https://gulfnews.com/world/mena/six-killed-including-three-children-as-residential-building-collapses-in-cairo-1.500710036",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T10:15:42.900Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c4ee1a117494e879d2e51bb388609b22f87c690dfa681ec892cf06038c6957a6",
+      "title": "Abu Dhabi sees 377% surge in breast cancer screenings as fear and accessibility drive change",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-sees-377-surge-in-breast-cancer-screenings-as-fear-and-accessibility-drive-change-1.500710191",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T10:15:44.728Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -44873,6 +44873,33 @@
       "processedDate": "2026-10-14T10:15:44.728Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9025945b3c3457d4386335da08885fa7471b30e2ff65b4acbd48ff71aa9b3136",
+      "title": "UAE parents put children's confidence first: Survey",
+      "sourceUrl": "https://gulfnews.com/uae/dubai/uae-parents-put-childrens-confidence-first-survey-1.500710279",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T10:45:47.822Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1565f0f1ae1bfd38551a282c452c057de47bc9f2754980ffdebb2f92f76b4825",
+      "title": "India festival boat capsize kills 13 children",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/india-festival-boat-capsize-kills-13-children-2-1.500710260",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T10:45:49.920Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "99cdc2514e39f07bfd51a432ac693b2d185086131d4be0007a14ab769c0c98f1",
+      "title": "Dubai school inspections return: How principals are preparing for 24-hour notice",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-school-inspections-2026-khda-24-hour-notice-1.500710212",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T10:46:35.937Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-14-dubai-school-inspections-resume-2026.md"
     }
   ]
 }

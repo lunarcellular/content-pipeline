@@ -44765,6 +44765,15 @@
       "processedDate": "2026-10-14T06:30:48.912Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "682bc3f1bbb3f1e8c0f445874c725c78aaedf1979931534da7936a46c3ae7696",
+      "title": "Deadly floods swamp Libya’s Tripoli, killing three as schools and offices shut",
+      "sourceUrl": "https://gulfnews.com/world/mena/deadly-floods-swamp-libyas-tripoli-killing-three-as-schools-and-offices-shut-1.500709943",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-14T07:45:43.754Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

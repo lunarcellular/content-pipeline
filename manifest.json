@@ -45062,6 +45062,42 @@
       "processedDate": "2026-10-15T04:07:09.049Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e492894d9d58196a552426f425612e2a0bfd6b449221f6c75f68b5874af380e1",
+      "title": "UAE parents put children's confidence first: Survey - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUV4NFpKV2NJazNBcmlPWDFsLTl1Q3N4dVl1a1hXX2wtWTRpSVZZV3JWR0thVU96Sjl0RFp2cFlfOTM3aEt2eUhMRU9KYzRlcmNwQ1A2THhaRF9jXzhiZUNBbzdSUXpHOXNpTWRnYmdFcXZCdlQ0Nm5mWDE4WDJNdXJteFhTbHh1V0M3Ri0xRGFERF9iSHBz?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-10-15T05:15:38.633Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "869676d55165223e1010ecc25578b6aa55d2718aeaee360e866e63fe5d83f862",
+      "title": "Deadly floods swamp Libya’s Tripoli, killing three as schools and offices shut - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRFhZV1NZSkRrdnh5dHZQcTlmbGdBRjBlQkx6Q2NMa1F1RTNGbGxtME4zZkF2WURXY1psY3l3VmlsMDA5ajhVa251VjY4bGI2aVFDMnFydVBZT0hVVDZ1UXgxY2xSbXUzbUpoMHBCc1ZTSGVaOTF3ZzhoQ2NOeS1YQlAtRjg1N3NaQkhJZWtwYjJETnh4aUNheUtRUEp2cWl5TWJRbkpfSnZtYXVxX1FBTDZpaElxR3VaVkJ1ddIBzwFBVV95cUxQVDJnZmR6Zml1ZzM4eURnZkU4U21HaHRvYWZJczRYYTlzV3ZyZThJMjhyckp4OWxpcjhPQ0Z0cXBGMHpBa3VtYlhhWk92T21BdGhaNlJHMWhhUnpzVUN4QzdxRHFqUDE1T01JRkd3X1gxLVRzNVN3Y0w1WGE4ekw0UG9YejdkWkIwNzNHV2Z3WjBoa2s4MGxkN05CZGJWdVNJejhXTWtJTFUzZjBlOEtqTG91ZG5FaTkyUXVFdFBNYU1zRjJXVUVCM3BUN3B2VVE?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-10-15T05:15:40.647Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0b9b3a092c36bf70cd77042a1f9fcb1556da4ba987dce5f65aff145251da0197",
+      "title": "Worried about how your child uses AI? Dubai launches new platform for parents - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjFYWGN0TmF4OVYyZUdkTVJYcWdNV0txWl82WnQzUmFvZFJjMXhERWFNMWdlTWRBNFFDRDJJR29fTnR2eHYyLUVENlRlMml5Vzh6UEdER0I1SVctZmdXNjdNWnN6NlZqRW93SGpZbk12R0dSY080NFRIT1BkSHFfM0Q2OVlDVHlaVU1SYWhWQkF6NnEzQVF2c2NjNVJ4b3VZdkJaVFZnaHRkNkhoVEJLbWVNcw?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-10-15T05:15:42.663Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4c952ae636b49831611b4e8a74fff25b4ebfa43b6fe44375e1e748d8aaac962e",
+      "title": "Sharjah launches ethical framework for AI use in schools - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUxCRVppR1kxVlBMbGY2Y3RiakVWRUFNVUh0NGJQcW9kSS14eDN4dC1JNUhtUTVSTzUwMWtnVUNtV3N3NEFVbmtfanJlVGVLdi0xZFBESG5sb0RoMURveDNmVmROSVVKdEVnN194YkJaUkI0Y1V4UmdHUGJWYkFud3NkUWNTaGhyQVJsU095M05GWEl3bGNFMGYyT3JGZlFpaG10SlFR?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-10-15T05:16:40.055Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-15-sharjah-ethical-ai-framework-schools.md"
     }
   ]
 }

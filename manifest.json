@@ -45251,6 +45251,24 @@
       "processedDate": "2026-10-15T12:30:52.118Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "747874d095e31c01336fbad6c3e12cccb96a615fb7b47412e902d8fb74620824",
+      "title": "How to tell if your children are using AI to do their homework",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/students-using-ai-for-homework-what-parents-need-to-check",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-15T13:30:46.884Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "747874d095e31c01336fbad6c3e12cccb96a615fb7b47412e902d8fb74620824",
+      "title": "How to tell if your children are using AI to do their homework",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/students-using-ai-for-homework-what-parents-need-to-check",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-15T13:30:48.879Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

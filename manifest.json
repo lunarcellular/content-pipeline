@@ -45161,6 +45161,33 @@
       "processedDate": "2026-10-15T07:45:52.804Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "17556bd9a103d72505095edf85d8fc05d7db47eb5fdcb2f1d485176e362936fe",
+      "title": "Haze turns Indonesia skies orange, shuts schools in East Timor",
+      "sourceUrl": "https://gulfnews.com/world/asia/haze-turns-indonesia-skies-orange-shuts-schools-in-east-timor-2-1.500711469",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-15T08:30:51.937Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6fffcef558d618d9bae35aff4214d4b06eec01baf257b4dd4f8afa1423202fb9",
+      "title": "28 children, teacher killed in Pakistan school roof collapse",
+      "sourceUrl": "https://gulfnews.com/world/asia/pakistan/28-children-teacher-killed-in-pakistan-school-roof-collapse-1.500711319",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-15T08:30:53.804Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9ba10c2fe7095009870798a065cc99a81c44f45b386788943121ba336edab260",
+      "title": "\"In terms of readiness, we've never been more ready\", says CEO of Ethara on F1 2026\n",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/in-terms-of-readiness-weve-never-been-more-ready-says-ceo-of-ethara-on-f1-2026-1.500711305",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-15T08:30:56.516Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

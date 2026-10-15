@@ -45098,6 +45098,24 @@
       "processedDate": "2026-10-15T05:16:40.055Z",
       "relevant": true,
       "outputFile": "output/2026-10-15-sharjah-ethical-ai-framework-schools.md"
+    },
+    {
+      "urlHash": "9df3f6aee2d4f280f56d3d24c4adc87f2c216d531a857e0d094e72f43eaf5d60",
+      "title": "Three Indian students killed in Germany fire; investigations underway",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/germany-fire-three-indian-students-killed",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-15T06:15:42.047Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bee5626783b7ea3fe8cadbd3dfcc8bf04bb3ff3f63f9ef49838da24de0c9ec01",
+      "title": "'Maybe no school tomorrow': Dubai families flock to Global Village opening night - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczFtS2hDalljRUR4LVBMRU1ISXFmT21rdklKNjNIbExMdHJjQllaUmtYU29yOTgwZExwVkZKRXlybEw0TVBoQ3hqOWNSbkNDUzN5RWQ2MkUxV1lCQ3M3VGhUNDJzTDJJV21TdU82cmkwcGpPSTZSeVRhdEc3MjlvQkxsWGpNSms3UWJBYW41dHZBeTRxTURSUtIBoAFBVV95cUxNUG5QQTV6bjMyQ0ZPNDJaWmZTelY2ZUlkSVJST1d2cnZmdFBmU0hDT05ldDJDNl9wNVMtX0JyV0dmMjVOVDlPdGxMTVJMQkd4X0VpRy1YMWRpc09DM3VyTE05V29WQ01kOWZxN05EWTRqY1RxY1BoUFU3Y25qRjAzZENmbFI4NHlNVkl4ZnpPaXEweEk5d2RmRVdNZC1mWm56?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-15T06:15:44.420Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

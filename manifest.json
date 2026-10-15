@@ -45125,6 +45125,24 @@
       "processedDate": "2026-10-15T06:45:41.110Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5afc56b0b691e0d8e369967742b55e2831091055060516c90966bb7051fc6875",
+      "title": "Hilary Swank, 52, expecting third child with husband Philip Schneider",
+      "sourceUrl": "https://gulfnews.com/entertainment/hilary-swank-52-expecting-third-child-with-husband-philip-schneider-1.500711342",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-15T07:00:48.753Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "79c3ec7e058cad5707ef72f368b1dcb71865d11f1dbc8c00338df5d6005eb8a8",
+      "title": "Seventeen students, one teacher killed in school roof collapse in Pakistan",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/school-roof-collapse-pakistan-peshawar-death-toll",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-15T07:00:50.706Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

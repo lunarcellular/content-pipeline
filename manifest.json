@@ -45224,6 +45224,24 @@
       "processedDate": "2026-10-15T10:00:47.983Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "230c05cb4b07c011784edf64e49e088f9581167372fd869a7f6c36c51bb100a5",
+      "title": "'We've been told a lie': Simon Squibb on why UAE's '100 Dreams' initiative could change lives",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/simon-squibb-uae-100-dreams-initiative-passion-business",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-15T11:00:48.831Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6526d28ef9432eb044c3a5ecf07f90912134f45266448bd62a9b327c4a37df5c",
+      "title": "'We've been told a lie': Simon Squibb on why UAE's '100 Dreams' initiative could change lives",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/simon-squibb-uae-100-dreams-initiative-passion-business",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-15T11:00:51.027Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -44990,6 +44990,42 @@
       "processedDate": "2026-10-14T23:52:18.192Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d5157b93c13f9d1b057ebf9f298d33829a07cbd4dc6f89095e7d7d81ef8ee86b",
+      "title": "Dubai court upholds jail term, deportation in child assault case",
+      "sourceUrl": "https://gulfnews.com/uae/crime/dubai-court-upholds-jail-term-deportation-in-child-assault-case-1.500710953",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-15T03:00:49.866Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c611882af2adad1726cb86e85d41caac6481c8ebde51a6f2fc7828d9fa761f06",
+      "title": "Romania probes possible drone attack on tanker",
+      "sourceUrl": "https://gulfnews.com/world/europe/romania-probes-possible-drone-attack-on-tanker-1.500711048",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-15T03:00:51.996Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f86f3a8a655ca24842b3842b130ee2d24758208c6f4dc51032ec54c243ea4eef",
+      "title": "UAE schools: What parents need to know about assessments after half-term break",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-parents-assessments-after-half-term-break-managing-student-anxiety",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-15T03:00:54.012Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f86f3a8a655ca24842b3842b130ee2d24758208c6f4dc51032ec54c243ea4eef",
+      "title": "UAE schools: What parents need to know about assessments after half-term break",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-parents-assessments-after-half-term-break-managing-student-anxiety",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-15T03:00:56.037Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -45539,6 +45539,15 @@
       "processedDate": "2026-10-16T15:45:40.235Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "95dc4ba0ce6b1ac87f2eaf5668988d94bcfe0711fdd5ea92bc92cd0d81371835",
+      "title": "UAE earthquake: 1.6-magnitude tremor recorded off Dibba in Fujairah",
+      "sourceUrl": "https://gulfnews.com/uae/uae-earthquake-16-magnitude-tremor-recorded-off-dibba-al-fujairah-1.500713651",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-16T19:15:39.222Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

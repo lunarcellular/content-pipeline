@@ -45521,6 +45521,15 @@
       "processedDate": "2026-10-16T14:30:53.645Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5df977e10149c6c389ec42d25b7b2e38102a5efa259104ba933ff5b5272df6e5",
+      "title": "UAE rain alert: Abu Dhabi Police warn motorists over wet roads and poor visibility",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-rain-alert-abu-dhabi-police-warn-motorists-over-wet-roads-and-poor-visibility-1.500713449",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-16T15:30:46.740Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

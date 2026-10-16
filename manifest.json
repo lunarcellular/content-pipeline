@@ -45323,6 +45323,33 @@
       "processedDate": "2026-10-15T21:39:33.483Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "221618bfb650f89fa3f161e7cf912163a7e108f7729222ba0b2c173215ce4b77",
+      "title": "UAE weather: Dense fog on Friday morning, possible rain ahead",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-dense-fog-on-friday-morning-possible-rain-ahead-1.500712374",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-16T03:01:00.941Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "40339a373ba613755208bd4074cdc75d2e5e7c68b7298718b424c0cb9dba9b89",
+      "title": "Three children and one teacher killed in Oregon school shooting: police",
+      "sourceUrl": "https://gulfnews.com/world/americas/three-children-and-one-teacher-killed-in-oregon-school-shooting-police-1.500712511",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-16T03:01:03.194Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "797a9293c1c7869bc6b2cfe899ec175ea1a9cff25cd6b92d5a114973dcb15d72",
+      "title": "Man jailed in Sharjah for Dh1.5-million college admission scam",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/crime/sharjah-man-jailed-dh15-million-college-admission-scam-court-case",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-16T03:01:05.098Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

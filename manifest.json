@@ -45611,6 +45611,42 @@
       "processedDate": "2026-10-17T05:45:35.948Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0af76245cb5b0590c230b9ea97b2bc92d0b2390bd27c6800845098cc3fd35e7c",
+      "title": "UAE flights may face delays due to poor visibility, GCAA warns",
+      "sourceUrl": "https://gulfnews.com/business/aviation/uae-flights-may-face-delays-due-to-poor-visibility-gcaa-warns-1.500713927",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-17T07:00:50.110Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bc011c8bfba58557f5c4d042abd749b940cb2a90190e35c5ef1b0fc9cdfcce18",
+      "title": "UAE says flights may be impacted by weather fluctuations, low visibility",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-says-flights-may-be-impacted-by-weather-fluctuations-low-visibility",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-17T07:00:52.025Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bc011c8bfba58557f5c4d042abd749b940cb2a90190e35c5ef1b0fc9cdfcce18",
+      "title": "UAE says flights may be impacted by weather fluctuations, low visibility",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-says-flights-may-be-impacted-by-weather-fluctuations-low-visibility",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-17T07:00:54.304Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8562ec141aa0f59b6a2d928c40b3410ada45bc91738f96c7aba19258691569eb",
+      "title": "Dubai student builds AI learning platform for 5,000 children in India’s schools",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-student-builds-ai-learning-platform-for-5000-children-in-indias-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-17T07:00:56.643Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -45656,6 +45656,24 @@
       "processedDate": "2026-10-17T08:00:53.332Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1d50d1b5f35502274d5054f5ed8e8a1d12f253cedc642a6aabf0b8fcb444221c",
+      "title": "Edufair opens in Abu Dhabi, mapping the road from classroom to career ",
+      "sourceUrl": "https://gulfnews.com/uae/education/edufair-opens-in-abu-dhabi-mapping-the-road-from-classroom-to-career-1.500713995",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-17T09:00:50.845Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c3a5b4c11d4c082cd20c08cb4d131f5f0213dc50a5ec5642a4fcb0622c9a384e",
+      "title": "Oregon school shooting: Father, teacher stop teen attacker who killed 4",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/oregon-school-shooting-father-teacher-stop-teen-attacker",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-17T09:00:52.877Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

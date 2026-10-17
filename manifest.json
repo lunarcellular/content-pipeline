@@ -45557,6 +45557,24 @@
       "processedDate": "2026-10-16T20:55:58.653Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e530b3f7be05ad48f113622f358b33a1d8eff71e8eab5c913282610a80cce057",
+      "title": "UAE weather: Five days of possible rain, fog and dusty winds ahead",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-five-days-of-possible-rain-fog-and-dusty-winds-ahead-1.500713781",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-17T03:00:51.732Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7c12161f4646b4ee7581ca8c90429c41a6b2e8ea45cab487ca8ad1030f65b7fd",
+      "title": "'Noticeable' rise in UAE children suffering issues linked to excessive screen time",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/17/noticeable-rise-in-uae-children-suffering-issues-linked-to-excessive-screen-time/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-17T03:00:53.992Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

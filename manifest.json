@@ -45737,6 +45737,15 @@
       "processedDate": "2026-10-17T11:30:45.332Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "909d56d6de2d9bf9c45061945e9cf60bd4b9d70b4753877e53a565285fbd846a",
+      "title": "Bangladesh beach resort fire kills 10, including children",
+      "sourceUrl": "https://gulfnews.com/world/asia/bangladesh-beach-resort-fire-kills-10-including-children-1.500714160",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-17T11:45:43.703Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

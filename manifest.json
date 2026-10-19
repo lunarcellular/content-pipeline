@@ -46079,6 +46079,24 @@
       "processedDate": "2026-10-19T08:45:40.395Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "115eb0ef88849123c7c4e29622d6d5b8013a6caa42b2b7dbb1ffca8867f6c337",
+      "title": "Egyptian schoolgirl dies after fall from fourth floor, family demands answers",
+      "sourceUrl": "https://gulfnews.com/world/mena/egyptian-schoolgirl-dies-after-fall-from-fourth-floor-family-demands-answers-1.500715754",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-19T09:15:47.016Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e445d3b399a5620f6019db81a6f772e6f69ba63903f1e73c56fd503c737ee917",
+      "title": "Iranian 'terror mastermind' feared to be plotting attacks from behind bars ",
+      "sourceUrl": "https://www.thenationalnews.com/news/europe/2026/10/19/iranian-terror-mastermind-feared-to-be-plotting-attacks-from-behind-bars/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-19T09:15:49.347Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

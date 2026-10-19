@@ -46052,6 +46052,24 @@
       "processedDate": "2026-10-19T08:15:44.184Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1fe5400fd590e3bd97b6b2c2f980feccdffb654fe1277e7ad540ec612c36ec3a",
+      "title": "Ibexa brings agentic marketing to the Middle East  ",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/ibexa-brings-agentic-marketing-to-the-middle-east",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-19T08:30:45.203Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e81dade007c74af14455c051d3289b33d46742856d1963660fa98cb469035447",
+      "title": "Gaza teen amputees speak of Israeli strikes taking limbs and dreams away",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/gaza-teen-amputees-recount-israeli-strikes-lost-limbs-dreams",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-19T08:30:46.905Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

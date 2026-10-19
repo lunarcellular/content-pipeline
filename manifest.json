@@ -45935,6 +45935,42 @@
       "processedDate": "2026-10-19T00:32:11.399Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "de969c77db6d5ce5d9bc1c4291fa4cf92d2f0ac1b7ed2e6d56b62f3565df87ca",
+      "title": "Emirati university student, 20, killed in Al Dhaid Road crash",
+      "sourceUrl": "https://gulfnews.com/uae/ras-al-khaimah/emirati-university-student-20-killed-in-al-dhaid-road-crash-1.500715420",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-19T03:00:52.446Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e8977da53086c12d8286e672dbdf8366a776c640fd66f3f347bf0d51b084047b",
+      "title": "Teaching our children to care for the elderly",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/teaching-our-children-to-care-for-the-elderly-1.500714504",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-19T03:00:54.609Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c050b39bafd4afe5b9e7ca2b79128afc2496400de3f6d0a0785b937755496a65",
+      "title": "Saudi Arabia plans 10 days of online schooling: Which regions are included? - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmVJWHQzRmlVRWU0Q1k5SW5xYUgyWk5ZTXNXTGRyVWcxcGt0MVdHYUJjWUVUbklJVEhGbmNfa0Fhd2xTV0dDTFl4Zml1MkdSR2k1YXRmQzJMcjFKZGVMWEFPTERGLVlUS2NIQmtvNk5Hd2pncWNpWVhRV0ZXNkVZajJySzhzelhwNWZkLVB1QTNrNlpueTYzaTdJLWJVMmRWZGJnWndXZEJ1cU5KUzl0YXlIcDBEZHFq?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-19T03:00:56.887Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3cd43556ccbabaa4ce43862a83f68f6b19891969f111623e1e5f0e3021340557",
+      "title": "Hijab-wearing girls being denied entry to schools in Azerbaijan amid new uniform rules",
+      "sourceUrl": "https://www.khaleejtimes.com/world/explainer-why-hijab-wearing-girls-are-being-denied-entry-to-schools-in-azerbaijan",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-19T03:00:58.777Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

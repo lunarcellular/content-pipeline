@@ -46394,6 +46394,24 @@
       "processedDate": "2026-10-20T13:00:52.592Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "52350ce27103b21f3478c1175b6a94e6ceceac1523d35e22eefacdd38fbfa604",
+      "title": "Dubai explores new tools to make emirate more accessible for people of determination",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-sign-language-accessibility-innovations-people-of-determination",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-20T13:30:46.359Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d2bc2b83733ae57847ed4a12cf94363412d778e8e961a1c9a1915ec2fbe2ab1b",
+      "title": "How Dubai is giving visitors a chance to experience life of people of determination",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-health-authority-autism-sign-language-braille-accessibility-awareness",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-20T13:30:48.816Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

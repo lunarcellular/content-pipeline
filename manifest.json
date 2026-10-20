@@ -46448,6 +46448,24 @@
       "processedDate": "2026-10-20T15:45:39.524Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1642fdea827c2e6445828e9f718b3ad19a556add07ccbf39c9fc88065edd813a",
+      "title": "UAE has 49,000 People of Determination as new national strategy takes shape",
+      "sourceUrl": "https://gulfnews.com/uae/uae-has-49000-people-of-determination-as-new-national-strategy-takes-shape-1.500717374",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-20T22:42:04.427Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "01332761d67e7015a67c081a11b880b8e565bae724ce3ef99ef3ef53b72837fe",
+      "title": "UAE is powering along with US technology co-operation, Yousef Al Otaiba says",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/10/20/uae-us-investment-partnership-ai/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-20T22:42:06.466Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

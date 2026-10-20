@@ -46214,6 +46214,24 @@
       "processedDate": "2026-10-20T03:15:39.819Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a5acc6d9f626974337a2bf558084227c7a2a1350598312d41b83855ed90df17e",
+      "title": "Trump open to 'trilateral talks' with Putin and Xi on Ukraine war, with or without Zelensky",
+      "sourceUrl": "https://gulfnews.com/world/europe/trump-open-to-trilateral-talks-with-putin-and-xi-on-ukraine-war-with-or-without-zelensky-1.500716573",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-20T03:30:46.513Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1b68f218c8162603e7ee68346a42b35078199bfc17a0266600f25eb619415850",
+      "title": "Universities in UAE set sights high as student enrolment surges",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/20/universities-in-uae-set-sights-high-as-student-enrolment-surges/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-20T03:30:48.917Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

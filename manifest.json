@@ -46187,6 +46187,24 @@
       "processedDate": "2026-10-20T00:43:42.880Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "df605fc759b3551129624169316c00c53a07e998b61d2c81c32314b36173a33a",
+      "title": "UAE school photo ban: Parents and educators back children’s privacy safeguards",
+      "sourceUrl": "https://gulfnews.com/uae/uae-school-photo-ban-parents-and-educators-back-childrens-privacy-safeguards-1.500709700",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-20T03:00:49.080Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c37ed5bbd0999fbfe79a69bd731c90823295572f449130da60afc2e344d495bb",
+      "title": "Doctors and teachers to benefit from AI but safeguards needed to protect sensitive information",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/20/doctors-and-teachers-to-benefit-from-ai-but-safeguards-needed-to-protect-sensitive-information/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-20T03:00:51.159Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

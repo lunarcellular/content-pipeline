@@ -46241,6 +46241,24 @@
       "processedDate": "2026-10-20T04:00:47.946Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bc01fdb5779208b83063aba4321f65e1a62883f38af6c6c106915f860497c766",
+      "title": "UAE bans use of popular antibiotic for pets and farm animals from November 1",
+      "sourceUrl": "https://gulfnews.com/uae/uae-bans-use-of-popular-antibiotic-for-pets-and-farm-animals-from-november-1-1.500716833",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-20T07:01:37.426Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8fb859c45431a6c8a64b346abcbca20383598bff6e4db13aa65da6211942f820",
+      "title": "From Michigan to Texas: Key races to watch in US midterm elections 2026",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-midterm-elections-2026-key-races-to-watch-republicans-democrats-trump",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-20T07:01:39.356Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

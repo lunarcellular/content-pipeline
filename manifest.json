@@ -46484,6 +46484,51 @@
       "processedDate": "2026-10-21T01:01:37.585Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ed6612820ba27397d4e5c9719ea6796736cd1bb4a61afdf0e1903de3c5c435dc",
+      "title": "Boy killed, another missing as flash floods sweep away three children in Mecca",
+      "sourceUrl": "https://gulfnews.com/world/gulf/saudi/boy-killed-another-missing-as-flash-floods-sweep-away-three-children-in-mecca-1.500717825",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-21T03:00:53.792Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2dc0aa493789e39437f8d891b0d9a2413f9b90bc7aa0e2b26f2cdee1b74f6790",
+      "title": "Sanju Samson's love for Rajinikanth: From childhood dream to Padayappa celebration and Jailer 2 theatre booking",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/sanju-samsons-love-for-rajinikanth-from-childhood-dream-to-padayappa-celebration-and-jailer-2-theatre-booking-1.500717287",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-21T03:00:56.847Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "62d618554a6d90502754979a3b2a9d26e511ecdcb1b3de92ef20afd396a8db37",
+      "title": "UAE bans veterinary antibiotic: What does it mean for medicines in your luggage?",
+      "sourceUrl": "https://gulfnews.com/business/vet-antibiotic-ban-which-medicines-can-you-carry-to-the-uae-1.500717243",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-21T03:00:58.949Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2e82babd312de67ef28bf116f8aff41295d64959454cab2d96a20b4cd8e7ba91",
+      "title": "Sharjah schools introduce new AI rules: What changes for homework and exams?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-schools-introduce-new-ai-rules-what-changes-for-homework-and-exams",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-21T03:01:52.289Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-21-sharjah-schools-ai-guidelines.md"
+    },
+    {
+      "urlHash": "2e82babd312de67ef28bf116f8aff41295d64959454cab2d96a20b4cd8e7ba91",
+      "title": "Sharjah schools introduce new AI rules: What changes for homework and exams?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/sharjah-schools-introduce-new-ai-rules-what-changes-for-homework-and-exams",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-21T03:01:52.289Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-21-sharjah-schools-ai-guidelines.md"
     }
   ]
 }

@@ -46556,6 +46556,24 @@
       "processedDate": "2026-10-21T03:46:16.777Z",
       "relevant": true,
       "outputFile": "output/2026-10-21-ai-guidelines-schools-sharjah.md"
+    },
+    {
+      "urlHash": "5d35ca9913d17869ccc5711036a360f1fa107fd77aa344be0b3fe0b035b3e5ce",
+      "title": "Trust Institute, OKX join forces to expand free financial trading education in the UAE",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/trust-institute-okx-join-forces-to-expand-free-financial-trading-education-in-the-uae-1.500716925",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-21T04:15:39.181Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9ec6ae8cf71ce934ee935f93a0baf3a10fe93883852bdfbfd888943ab39edd16",
+      "title": "DIB posts 7% YoY growth to record Dh18.6 billion gross revenue",
+      "sourceUrl": "https://gulfnews.com/business/banking/dib-posts-7-yoy-growth-to-record-dh186-billion-gross-revenue-1.500717646",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-21T04:15:41.431Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

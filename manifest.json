@@ -46538,6 +46538,24 @@
       "processedDate": "2026-10-21T03:30:47.543Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "50878ddb26735ce90f24daea9db61ab73233ac9c4a56ef87935b3ca3bfd8a50d",
+      "title": "UAE foils around 750,000 cyberattacks targeting sectors including energy, education",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/thwarts-750000-cyberattack-attempts",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-21T03:45:41.159Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "651e9f32e2e5d69481b41d379b85193c060cab5871545fdc38c2c95b90316c2e",
+      "title": "Sharjah schools introduce new AI rules: What changes for homework and exams? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM1k0dDk1MjB1MHBPaVJVSWxrcC0ybFpwem9zV245V3pTQ3ljNzhFRkRsSG9oYzl3NmVPSjhHYTlocVhZWUhCbm5LM2t0QWZJbkNxZHNTODN2el9sYmpQUTgwek5JaGVjakVjUm53WUY4NVd2SmJ4blJaVnFxNmxWQ0V6M3VuY0JKRUFqVi1VTlZBcXhxQ0kxRFptSWFaMFp4NHZMbGxfdFFMVmPSAbMBQVVfeXFMTmktd29VUXp2Mk94ckw3X2pVNXlvTXF4NHVlRjFnbDRPRHhJb09VQVY1V1pfS1FVVU12RWZaUF9mdDV4OFViaHQzRUd1bkJBdWZXbWtTQ1ZmeFFWMmtPa0FWTVVydERuLUdRYk9rVHFEOGpvRWtramhCaTlnUTJSNnRweERVNnVBX3hKRmwxaHQ4Q3c1aDRWUVlqUEUza2FoM0JjSWpUSzk1UVhRd0VYZmM1YkU?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-10-21T03:46:16.777Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-21-ai-guidelines-schools-sharjah.md"
     }
   ]
 }

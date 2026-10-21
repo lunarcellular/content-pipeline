@@ -46529,6 +46529,15 @@
       "processedDate": "2026-10-21T03:01:52.289Z",
       "relevant": true,
       "outputFile": "output/2026-10-21-sharjah-schools-ai-guidelines.md"
+    },
+    {
+      "urlHash": "6bc4efde206d00312ad3ff692f1f7e47d90eaf1dc78155f844f6e4e4fd7a9a27",
+      "title": "Middle East War: Iran rejects US terms as tanker explodes near Hormuz",
+      "sourceUrl": "https://gulfnews.com/world/mena/middle-east-war-iran-rejects-us-terms-as-tanker-explodes-near-hormuz-1.500717832",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-21T03:30:47.543Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

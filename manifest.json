@@ -46772,6 +46772,24 @@
       "processedDate": "2026-10-22T01:55:42.915Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "de3d9403e07dba15047201511b9376a9095234c443f3db62766aca7c87de9322",
+      "title": "‘Will not take down Indian Flag’: Priyanka Gandhi’s son alleges protest photos removed from exhibition\n",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/will-not-take-down-indian-flag-priyanka-gandhis-son-alleges-protest-photos-removed-from-exhibition-1.500719191",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-22T03:15:39.375Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "39561b3e86ebb2b61c3395a86ed502d6380f642c20eb2035a81c3a2c982bcc97",
+      "title": "UAE's Lana Nusseibeh announces candidacy for UN Secretary-General",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/lana-nusseibeh-candidacy-un-secretary-general",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-22T03:15:41.600Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

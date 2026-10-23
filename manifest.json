@@ -47231,6 +47231,15 @@
       "processedDate": "2026-10-23T09:15:40.487Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "711688a187b0dc7bb37e1400f08d16d126116e337355e59c83a4ea07e19c5fa6",
+      "title": "Abu Dhabi private schools to hire 2,000 Emirati teachers in next five years under education push",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/23/abu-dhabi-private-schools-to-hire-2000-emirati-teachers-in-next-five-years-under-education-push/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-23T09:31:09.576Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-23-abu-dhabi-schools-emirati-teachers.md"
     }
   ]
 }

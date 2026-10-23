@@ -47195,6 +47195,33 @@
       "processedDate": "2026-10-23T07:45:39.906Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "910c6b732ef2daacc48fab930794e9d7c3da59019c362f1d492f60f3fdcc5c3f",
+      "title": "Over Dh15,000 for global tours: Are school trips worth it for UAE students? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0lhMnU4ZEdTa0toQnpxNjBmWGlpOHFpMkJIVkVic1FzWnR0SWpBc0g5dHBtOTBhZjNtT3YzY29iUFRWY1ZrU1k0a1FoODQ5OXdjMjZScl8zVEYwczV2UENMM2g0b1R5NXVrSEtjbXQ0b3FnRXJIQTF6Y1VBbjVJT1NpM3pRVHBsaWExeXJ3TjdEVzI2NU0tOGFR0gGiAUFVX3lxTE5vUE9YbUlzRzdpMHRqRnFXX29PV002Tkl4M2ExSzRrWS1oMk5qc21yVzBvX2dyd0lydVFTdWxoWmVxcTJKYlFqWWJLWmFGaGxfSTRLQ18xX05YNjd1TzVUVFZxQmQ0SEVDX3BIbDcwTU5OLWVJeVJFZ0JSQXYwd3VWaVQ3aU9lNE1kVkI2SkZ3SDdNalM5VTFTeEFKVXNyaWw2dw?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-23T08:15:42.011Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "910c6b732ef2daacc48fab930794e9d7c3da59019c362f1d492f60f3fdcc5c3f",
+      "title": "Over Dh15,000 for global tours: Are school trips worth it for UAE students? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0lhMnU4ZEdTa0toQnpxNjBmWGlpOHFpMkJIVkVic1FzWnR0SWpBc0g5dHBtOTBhZjNtT3YzY29iUFRWY1ZrU1k0a1FoODQ5OXdjMjZScl8zVEYwczV2UENMM2g0b1R5NXVrSEtjbXQ0b3FnRXJIQTF6Y1VBbjVJT1NpM3pRVHBsaWExeXJ3TjdEVzI2NU0tOGFR0gGiAUFVX3lxTE5vUE9YbUlzRzdpMHRqRnFXX29PV002Tkl4M2ExSzRrWS1oMk5qc21yVzBvX2dyd0lydVFTdWxoWmVxcTJKYlFqWWJLWmFGaGxfSTRLQ18xX05YNjd1TzVUVFZxQmQ0SEVDX3BIbDcwTU5OLWVJeVJFZ0JSQXYwd3VWaVQ3aU9lNE1kVkI2SkZ3SDdNalM5VTFTeEFKVXNyaWw2dw?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-10-23T08:15:44.330Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "03c497ce504afef10ebc0875cf8baa8ff839bd7d272924e68d6aefd030556209",
+      "title": "Abu Dhabi targets 2,000 Emirati teachers in private schools within five years",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/2000-emirati-teachers-abu-dhabi-private-schools-5-years",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-23T08:16:28.828Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-23-abu-dhabi-emiratisation-policy-teachers.md"
     }
   ]
 }

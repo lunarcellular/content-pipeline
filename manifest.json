@@ -47312,6 +47312,15 @@
       "processedDate": "2026-10-23T12:30:43.896Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b8ba2984c5c0c0c350a4674864aee6b28cd48bca569cc3c849aca5e7578ded49",
+      "title": "‘Fake’ pollsters hit US midterms",
+      "sourceUrl": "https://gulfnews.com/world/americas/fake-pollsters-hit-us-midterms-2-1.500721304",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T13:30:48.459Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

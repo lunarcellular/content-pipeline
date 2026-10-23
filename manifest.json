@@ -47240,6 +47240,15 @@
       "processedDate": "2026-10-23T09:31:09.576Z",
       "relevant": true,
       "outputFile": "output/2026-10-23-abu-dhabi-schools-emirati-teachers.md"
+    },
+    {
+      "urlHash": "81cd2786619b04acb8e573477153625b5267282de4078100514107929ab96bfd",
+      "title": "Meghan Markle 'deeply distressed' over child-abuse accusations against father",
+      "sourceUrl": "https://gulfnews.com/world/europe/meghan-markle-deeply-distressed-over-child-abuseaccusations-against-father-1.500720999",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T10:45:43.376Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -47357,6 +47357,24 @@
       "processedDate": "2026-10-23T17:00:54.378Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f25f3cd26d0435b9935b2ac6728bd3a63a7566df34f78ab217a7a3604d66df12",
+      "title": "UAE weather tomorrow: Temperatures to dip to 20ºC; rain possible in some areas",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/uae-weather-october-24-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-23T17:45:38.347Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f25f3cd26d0435b9935b2ac6728bd3a63a7566df34f78ab217a7a3604d66df12",
+      "title": "UAE weather tomorrow: Temperatures to dip to 20ºC; rain possible in some areas",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/uae-weather-october-24-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-23T17:45:40.373Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

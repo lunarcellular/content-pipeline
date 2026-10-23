@@ -47285,6 +47285,15 @@
       "processedDate": "2026-10-23T11:16:20.944Z",
       "relevant": true,
       "outputFile": "output/2026-10-23-abu-dhabi-emirati-teachers-recruitment.md"
+    },
+    {
+      "urlHash": "5748989dc456f32f5ede7279908e14e70002e5e5a12cd2c956d39c556584db6e",
+      "title": "Iran 'deliberately undermining Iraq’s security', says Al Zaidi adviser",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-deliberately-undermining-iraqs-security-says-al-zaidi-adviser/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-23T11:45:45.745Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

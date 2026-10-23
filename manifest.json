@@ -47258,6 +47258,33 @@
       "processedDate": "2026-10-23T11:00:56.893Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2b89d9b0b8490f72d67b0b919af09a7c939f47d0a9695289ea4ef358ede50613",
+      "title": "Soundcore Liberty 4 NC: Why are these noise-cancelling earbuds getting so much attention?",
+      "sourceUrl": "https://gulfnews.com/best-buys/BestBuys-lifestyle/soundcore-liberty-4-nc-why-are-these-noise-cancelling-earbuds-getting-so-much-attention-1.500720695",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T11:15:37.456Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9b231f7158801077bbd5a2a46a58e88f42944593076d4aea2c303c7f023e0aea",
+      "title": "After 25 transfers in 21 years, why Tukaram Mundhe say his children should not join IAS",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/after-25-transfers-in-21-years-why-tukaram-mundhe-say-his-children-should-not-join-ias-1.500721074",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T11:15:39.458Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1fe803defa942fd13f5bd9740a35c29eec5937d094037a40fb053dc7e23df0c8",
+      "title": "Abu Dhabi private schools to recruit over 2,000 Emirati teachers under new ADEK policy - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmJPYnNRRkZLdjRwZmdrcTVIS0lpbnpPRno1a2UtMUg3Z2tzRDNrRUNCcDNmdXl4OWpGTkNSby1Mak5fcGFpWE5oa2xIZDZfUnRiMG5fU183dlVLVllTbkQ2TDhFXzR2LXhYLXhHaEU2ZE4zUFY2RkZnbFhieXVYdjQzWVZENVhxTmFwUVNqa1ljOTBiMzJLNUFSNllxZ0NlWjZINkgtcnhFMTh6MjRfT3NEODhER01VNWt4VVNuc0ZpV0I0QkZhZ0NDdGTSAd8BQVVfeXFMUFh3YWppc3RURHlqb1N5U2VKb3o4MHQxQmdsSC13Y085amI3cDNINldIanZBNGpCa2dFYkt6T0kwWV9hWWZKYXpDNy1lTDhQdlp5Q2p1RlBTQzR3cmNBb1E2ZlJ6eGVNXy11NldzdF8yYkdCMXVIWEQtcGhVVzEyYWFzX1A2ZFVLUlRKclZJbGdPc2taU3YyT2ZLeEhRRHpXVmNTNmgxYTQ1VzlzQV9VcXByaEotbTdfc2t4ZzJ4ZDA2MzQ0dTkySVl0QlY4MjFnZXZDbk5zbElSWklnZEgxZw?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-23T11:16:20.944Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-23-abu-dhabi-emirati-teachers-recruitment.md"
     }
   ]
 }

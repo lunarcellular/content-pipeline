@@ -47096,6 +47096,24 @@
       "processedDate": "2026-10-23T03:00:55.781Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "dceb8f2dd0af7ab7bf2aedd1f9566ca2ee45d93097bcd85c097f3b94bc6df8c5",
+      "title": "Saudi-led coalition denies Houthi claims of threats to target tribal, civilian gatherings",
+      "sourceUrl": "https://www.khaleejtimes.com/world/gulf/us-israel-iran-lebanon-war-live-updates-october-23-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-23T04:00:49.082Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "08db55d330172ac2c122915b1f9e82a64bcf2e61234519979a18c620631b3adb",
+      "title": "Magnitude 7 earthquake strikes Tibet region - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXdsMmRaUkZlNnU4QmMtYnhUX0Z2NDlmMklXaEt6U3NWZGNXSXVsSTNLcVRYd2hveFB1OVhBVTNKc3AzU0NOOURlYXhJX1JQdEFkSXRMVVN4ZUxqQWJoRTg1LTlWc1dwX1FQbG9GTnp3M0ZlU0pNRmF4S2lYaUNza0JyVUx5NVFHY0HSAZIBQVVfeXFMTVUycXQ0bU12LXFuUlJnNVBCR2huOVNCWUluc2EzeWp5b2h4YVJoN0NwM3AzWGNYcHlqd1pIUloxak1JWURVTHhwdFRCci1VSEU1LXBNdkJEenRqNExkVEZNMTQ1Qmc5T2F4ZHRNNHVJeTJoemIzdDlRcF9HWEhvVjFTakhEMVBGR2pCajRaa1JCVEE?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-23T04:00:51.261Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

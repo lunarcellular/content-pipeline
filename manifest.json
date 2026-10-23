@@ -47402,6 +47402,15 @@
       "processedDate": "2026-10-23T18:15:40.387Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "48fda90c3723f41061decb59b68a5cb1ce6fad759b757b8eabe3d371adfaaad9",
+      "title": "Abu Dhabi targets 2,000 Emirati teachers in private schools within five years - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVAzRzE0a3Vla29MNVFndmo4NlNzVEduTWZEX2FRWlhvaFBkOWp5SmhoMVRFWlJ1a19oY0FJcXVKaG9UR0RyNTFJU2E3VnhxbXRJa1dwU2NkTm9QRU50eEFtUG1kZFJjaEdtaWZSTkJBbnZLYjU3bjc1UTBVYkU4VlFxLWJ3dVV4dVJ6Tm5RWm41dDJxWmFrNHhyWGJTeGPSAacBQVVfeXFMT0IwUG9lNXF5WW92RmJDOXI3Q2dRTG12ZTVGaWg4X1U2N29jd0diaFIwaXlrREx1ZFNSQzZhSTdrUHN3MWtpNXdoV0FianhzVWx0Q3F3S1ZDd3JuaklqNnludE9vZUZudVlqRTdwYkxUQWRzTFY3QzVqSFBmVTZiV0NPUjJucXFaWllwTHMzamtEYmRJeTBPc3pRY2tpZzRIVElvZ0g3d2s?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-23T22:02:04.480Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-23-abu-dhabi-emirati-teachers-private-schools.md"
     }
   ]
 }

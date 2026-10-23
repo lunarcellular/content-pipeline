@@ -47069,6 +47069,33 @@
       "processedDate": "2026-10-23T00:11:40.296Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e3f2c602329dc2891f745a4a67c5c4c16f68339f7b52600298f9ca5073752ba7",
+      "title": "UAE weather: 5 days of possible rain, winds up to 50km/h from Friday",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-5-days-of-possible-rain-winds-up-to-50kmh-from-friday-1.500720374",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T03:00:51.539Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e29d83b6bced4053f8e883f6ff82d9f4001541209cff8c40262af3c9b65e4cc0",
+      "title": "Dubai vehicle impoundment rules: Violations, release fees and penalties explained",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/transport/dubai-vehicle-impoundment-rules-traffic-violations-fines-release-fees-1.500719963",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T03:00:53.544Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "addd16f994a21a239eb75f87e4314454263030dfd2fff579d6cf174fb6fe6a66",
+      "title": "At least 16 dead in Magnitude 7 quake in Tibet: China state media",
+      "sourceUrl": "https://gulfnews.com/world/asia/at-least-16-dead-in-magnitude-7-quake-in-tibet-china-state-media-1.500720509",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T03:00:55.781Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -47177,6 +47177,24 @@
       "processedDate": "2026-10-23T07:31:18.599Z",
       "relevant": true,
       "outputFile": "output/2026-10-23-abu-dhabi-schools-emirati-teachers-recruitment.md"
+    },
+    {
+      "urlHash": "fe2a0531452e82a7ab9750ad70c4cb6a44660edb6cee91394d7da004061ffe7f",
+      "title": "Over Dh15,000 for global tours: Are school trips worth it for UAE students?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/pros-and-cons-of-overseas-education-tours",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-23T07:45:38.150Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fe2a0531452e82a7ab9750ad70c4cb6a44660edb6cee91394d7da004061ffe7f",
+      "title": "Over Dh15,000 for global tours: Are school trips worth it for UAE students?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/pros-and-cons-of-overseas-education-tours",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-23T07:45:39.906Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

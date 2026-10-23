@@ -47159,6 +47159,24 @@
       "processedDate": "2026-10-23T06:45:38.500Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f6c55c77c83b93305a85947efefaff1ca288aa20602bfc5c65d87531aa569d65",
+      "title": "Saint-Gobain contributes to sustainable excellence at Dewa headquarters",
+      "sourceUrl": "https://www.khaleejtimes.com/supplements/saint-gobain-contributes-to-sustainable-excellence-at-dewa-headquarters",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-23T07:30:50.702Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dca81c508a32959eb19dbf0420448200adcac7454dd82e0fa6dee1cd03a66dba",
+      "title": "Abu Dhabi private schools to recruit over 2,000 Emirati teachers under new ADEK policy",
+      "sourceUrl": "https://gulfnews.com/uae/education/abu-dhabi-private-schools-to-recruit-over-2000-emirati-teachers-under-new-adek-policy-1.500720742",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-23T07:31:18.599Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-23-abu-dhabi-schools-emirati-teachers-recruitment.md"
     }
   ]
 }

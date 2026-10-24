@@ -47483,6 +47483,33 @@
       "processedDate": "2026-10-24T03:01:07.693Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ee504531ea05e62df7a478b8db65cc96f82194d8b87a11319ef68be0b53ca8b9",
+      "title": "After 12-year wait for twins, UAE mother dies during childbirth",
+      "sourceUrl": "https://gulfnews.com/uae/people/after-12-year-wait-for-twins-uae-mother-dies-during-childbirth-1.500721842",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T04:31:00.459Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c62911b525abeaca5af768608512b41a5fffe5251e94ac4d2ea09e1a5db7dc8a",
+      "title": "UAE weather tomorrow: Temperatures to dip to 20ºC; rain possible in some areas - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wbkJpNS1ESmYtVVZkWUR5OUJDV1FNWVU3UDhZNzNLRVJ0OHZjaUY5eG9SdWFhV09pR0lzeDZvRjMyd2lvVGhvRXVQbUJNRWp3Ym5jMkRnRUxhV3pwQkVESzdvb09PbGhjdnBkMUlaS2hzZ3BISi1N0gF_QVVfeXFMTmh4REJFclN5MGFBTjVpcm5XNURWT0NHUjZxUk44XzBuSm1WYnJyNE53UFNnOEpfN0VUcVUwWjdJaWxyZzRZMk1MTUFETHNCOVV4Zi1MZGZZa3Fod0I1ZVpBOWxteUhKLXhsUUpTRGRvSFJqR1pfZ1ZQTGFrbGF3SQ?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-24T04:31:02.160Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a5f6b347550e0984cf51b79503b28a3585fc01b87df397d4974e6f629566011a",
+      "title": "UAE court's Dh300,000 fine 'designed to be avoided'; secure child's return from abroad - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlJkLXV6ZFlhaDlmanY1X3BZS0ZYUFh2R2dpV2REOURxcDJ0X05odjN5amVGajN6RGV4YkZjVWZFSFItcXBGblI1MmRYeW1MTVg5UGVPMHdDX0JwUkcweWxBbWcyRHh2SFFVS2JHVFhaZTUxOThhUGlTOGJ6ZVN0M0tQdWpnc1FvVl95MmZGZDI1MjDSAZsBQVVfeXFMT1dEbWxNdzhNV3FIT1RYWWtFX1FvM05fVUpxVTNmSS1JZEJCaER6VmtXTEJhS0NlVDVRZlQycDVDa25wYUtZNmVlYm9sTWxaSkU2cTJRTjYxTjZBU2FXWTBjVGhCRFdZenc0eVg0Q1haaVNWbnpSRE00VWhHSmpkZmEyX0dzTkxXdHNHTVV0RlVwQnJ0a2puNzlvZ2M?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-10-24T04:31:04.240Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

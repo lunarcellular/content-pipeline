@@ -47555,6 +47555,24 @@
       "processedDate": "2026-10-24T11:45:50.621Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6a050a13de2878f6785da8b218a1db1bb1ae0da7febf916d944d2bef7e6324d9",
+      "title": "Kuwait arrests three for hiding e-cigarettes in food deliveries to schoolchildren",
+      "sourceUrl": "https://gulfnews.com/world/gulf/kuwait/kuwait-arrests-three-for-hiding-e-cigarettes-in-food-deliveries-to-schoolchildren-1.500722186",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T12:01:05.833Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6cfa1d053e9ca652be8ef4af09008ebe2628c63df00a5656aa3fc8d0d482e71d",
+      "title": "UAE steps up efforts to protect children from online threats",
+      "sourceUrl": "https://gulfnews.com/uae/government/uae-steps-up-efforts-to-protect-children-from-online-threats-1.500722198",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T12:01:08.224Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

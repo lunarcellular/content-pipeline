@@ -47582,6 +47582,24 @@
       "processedDate": "2026-10-24T12:15:38.697Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5d69f3c23404364175d9227062e518442a15b4f3834f08e70e395086f7a4e1c2",
+      "title": "GCC unanimously backs UAE's Lana Nusseibeh for UN secretary-general",
+      "sourceUrl": "https://gulfnews.com/world/gulf/gcc-unanimously-backs-uaes-lana-nusseibeh-for-un-secretary-general-1.500722243",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T13:00:53.253Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "15d36a0820217c4097dca27e37e51765d2c9d3df85ad9e33309ec65e5eb63502",
+      "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-24T13:00:55.536Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

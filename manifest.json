@@ -47411,6 +47411,78 @@
       "processedDate": "2026-10-23T22:02:04.480Z",
       "relevant": true,
       "outputFile": "output/2026-10-23-abu-dhabi-emirati-teachers-private-schools.md"
+    },
+    {
+      "urlHash": "1166114f460918c6a42ebc436a2e003496c150af7dc4a3bef3fc7851cff4b949",
+      "title": "ADHD through the years: How symptoms change from childhood to adulthood",
+      "sourceUrl": "https://gulfnews.com/uae/health/adhd-through-the-years-how-symptoms-change-from-childhood-to-adulthood-1.500721691",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T03:00:54.055Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e2c3ad0804ef5c626663029ba39f7b0e06291de663e7cf4a4501e33722053b0b",
+      "title": "UAE forecasts five days of possible rain, fog and strong winds",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-forecasts-five-days-of-possible-rain-fog-and-strong-winds-1.500721801",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T03:00:56.062Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cd6fda57c39b20a428f61f87e35c2fd17ef5e54a28be78a7c1296aa3aabe3a9b",
+      "title": "Let children discover what they can do",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/let-children-discover-what-they-can-do-1.500721398",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-24T03:00:58.253Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9bde87c8a5699c071de6dc56073a85d4b67c22b6e7c25aa5ca3537d6151a05d6",
+      "title": "UAE court's Dh300,000 fine 'designed to be avoided'; secure child's return from abroad",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-court-dh300000-fine-secure-childs-return-from-abroad",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-24T03:01:00.082Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "05ea75abf987040b9d4259fb6dd846f56d4727d8bb9db817bb31c3f4e1dc474a",
+      "title": "Explained: From US midterms to UN leadership race, how Washington’s power shapes both",
+      "sourceUrl": "https://www.khaleejtimes.com/world/explained-from-us-midterms-to-un-leadership-race-how-washingtons-power-shapes-both",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-24T03:01:01.833Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9bde87c8a5699c071de6dc56073a85d4b67c22b6e7c25aa5ca3537d6151a05d6",
+      "title": "UAE court's Dh300,000 fine 'designed to be avoided'; secure child's return from abroad",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/uae-court-dh300000-fine-secure-childs-return-from-abroad",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-24T03:01:03.725Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "05ea75abf987040b9d4259fb6dd846f56d4727d8bb9db817bb31c3f4e1dc474a",
+      "title": "Explained: From US midterms to UN leadership race, how Washington’s power shapes both",
+      "sourceUrl": "https://www.khaleejtimes.com/world/explained-from-us-midterms-to-un-leadership-race-how-washingtons-power-shapes-both",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-24T03:01:05.726Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4949ac702f373f1f71cc17eb8444f5f6f8b8a389141a84bf39a53d16f4653407",
+      "title": "Inside Harrow Abu Dhabi school ahead of next year's opening",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/24/inside-harrow-abu-dhabi-school-ahead-of-next-years-opening/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-24T03:01:07.693Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

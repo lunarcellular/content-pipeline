@@ -47753,6 +47753,24 @@
       "processedDate": "2026-10-25T13:00:51.683Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "768b31e5f74f607c72b067c636d74f485b1f9a92cb7f3dd6c46c9ec5a498c22a",
+      "title": "Pakistan to give 500,000 Chromebooks to students in two years: Who will qualify?",
+      "sourceUrl": "https://gulfnews.com/world/asia/pakistan/pakistan-to-give-500-000-chromebooks-to-students-in-two-years-who-will-qualify-1.500723106",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-25T13:30:49.008Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b0d79121b40cadbeb0acc026d69303a894e67b8f04c6d086d09a3e1e713400fb",
+      "title": "Fed expected to hold rates steady days ahead of US midterms",
+      "sourceUrl": "https://www.khaleejtimes.com/business/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-25T13:30:51.518Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

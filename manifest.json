@@ -47672,6 +47672,24 @@
       "processedDate": "2026-10-25T06:30:45.252Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e243a9d847efc5529fcf6c61b5931f63c8e6e99b16c71523b182c73f4864bfb9",
+      "title": "At least 12 injured in a shooting near Florida university campus",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/several-injured-shooting-florida-university-campus",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-25T07:00:55.192Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8de0f0b3ff4e8b3a852fd4b800e6816fcdfac4450c384808459cc8cb3ce42704",
+      "title": "'Chaos, cruelty, corruption': Obama blasts Trump ahead of US midterm elections",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-midterm-elections-barack-obama-slams-trump-administration",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-25T07:00:57.418Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

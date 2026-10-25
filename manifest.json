@@ -47663,6 +47663,15 @@
       "processedDate": "2026-10-25T06:00:56.912Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2b0baeef67cf6d32aa7a51eb9e578a466f2c0c9e431e76a4d01d84e3d19dd210",
+      "title": "Saudi Arabia's King Khalid airport says international flights to operate from Terminal 2",
+      "sourceUrl": "https://www.khaleejtimes.com/business/aviation/saudi-arabia-king-khalid-airport-international-flights-terminal-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-25T06:30:45.252Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

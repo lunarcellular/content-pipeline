@@ -47852,6 +47852,24 @@
       "processedDate": "2026-10-26T03:30:49.642Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "39e57c3036d2118a5e5b032d50ab49ce93e4a036777aaea25316bbf9f05fe85e",
+      "title": "Brazil President Lula da Silva wins fourth term in dramatic comeback",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/brazil-president-lula-da-silva-wins-fourth-term",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-26T03:45:42.872Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ed3e253f37b3176252c19fa9d01d85537036d1378d5e20177c69ab3f768d7027",
+      "title": "Lula da Silva wins historic fourth term in Brazil election",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/26/lula-da-silva-wins-historic-fourth-term-in-brazil-election/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-26T03:45:45.109Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

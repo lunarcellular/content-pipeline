@@ -47987,6 +47987,33 @@
       "processedDate": "2026-10-26T12:00:53.931Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6f65e8f4fb5fb6ebd67b19ee2134ab8d26d1250b4520a318a5c99269917d89b2",
+      "title": "From tragedy to victory: How students changed Serbia's political landscape",
+      "sourceUrl": "https://www.khaleejtimes.com/world/from-tragedy-to-victory-how-students-changed-serbias-political-landscape",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-26T12:31:00.890Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b8c2d868607bcb95f0eece9f260a9ef562f07f95b8bb1eb3a54261360a889614",
+      "title": "Dubai to redistribute surplus food from weddings and events to reduce waste",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/26/dubai-weddings-initiative-reduce-food-waste/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-26T12:31:03.370Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6d845f916946a16c1d6c4b795870a24bc7d4e81adfe9607b81b930719fa3cb4a",
+      "title": "Abu Dhabi announces new youth orchestra with free music education",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/music-stage/2026/10/26/abu-dhabi-announces-new-youth-orchestra-with-free-music-education/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-26T12:31:05.562Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

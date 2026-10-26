@@ -47825,6 +47825,24 @@
       "processedDate": "2026-10-26T00:39:03.395Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "76bb341ad8b20284619127f74044a71b5789ab4cf576818f83c15e8b873ff218",
+      "title": "Trump urges Libya to curb illegal migration, backs unity and elections",
+      "sourceUrl": "https://gulfnews.com/world/africa/trump-urges-libya-to-curb-illegal-migration-backs-unity-and-elections-1.500723471",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-26T03:00:53.404Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e94654d6964b41916c5de054b43a121700c958262541ea3541396f4607e86d98",
+      "title": "Brazilian media projects Lula to win presidential runoff against Flávio Bolsonaro",
+      "sourceUrl": "https://gulfnews.com/world/americas/brazilian-media-projects-lula-to-win-presidential-runoff-against-fl%C3%A1vio-bolsonaro-1.500723463",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-26T03:00:55.969Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

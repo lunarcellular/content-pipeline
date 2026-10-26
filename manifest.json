@@ -47807,6 +47807,24 @@
       "processedDate": "2026-10-25T18:45:39.462Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c1b04071b5791d8c0c6f7438e8fa79b7ad2c037b59b8ad4efec91349239b753a",
+      "title": "'People are in deep, deep anger': France's PM, key ministers to meet student leaders Monday",
+      "sourceUrl": "https://gulfnews.com/world/europe/people-are-in-deep-deep-anger-frances-pm-key-ministers-to-meet-student-leaders-monday-1.500723401",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-26T00:39:01.613Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "87eb9bd4c1720b37dd5e51f77b5f20712a04617bff0a577eb0bbf8b03aa06ce7",
+      "title": "Aleksandar Vucic: Serbia's veteran ruler felled by student-led movement",
+      "sourceUrl": "https://gulfnews.com/world/europe/aleksandar-vucic-serbias-veteran-ruler-felled-by-student-led-movement-1.500722788",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-26T00:39:03.395Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

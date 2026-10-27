@@ -48401,6 +48401,15 @@
       "processedDate": "2026-10-27T15:15:42.187Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8d58fca2afcda9a2a5b53883ff46318de372562d1de3cf9757d72c9f8ecfe3f3",
+      "title": "Trump says he will ban term artificial intelligence",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/trump-ban-term-artificial-intelligence-inaccurate",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-27T17:45:53.423Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

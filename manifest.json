@@ -48329,6 +48329,24 @@
       "processedDate": "2026-10-27T11:01:00.211Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "817c5b8fabc0c48584cf83081d90fa97c21ac9724ab5f85e66f82692df1ae050",
+      "title": "Abu Dhabi hosts free art workshops to celebrate National Day and empower People of Determination",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-hosts-free-art-workshops-to-celebrate-national-day-and-empower-people-of-determination-1.500725352",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-27T11:45:41.898Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "65345c901e314396e833b7664098042c4e5ac285b57bfe37668143185e2baa1b",
+      "title": "Abhishek Sharma and Vaibhav Sooryavanshi lead record T20 chase as India win NZ series",
+      "sourceUrl": "https://www.thenationalnews.com/sport/cricket/2026/10/27/abhishek-sharma-and-vaibhav-sooryavanshi-lead-record-t20-chase-as-india-win-nz-series/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-27T11:45:44.870Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -48437,6 +48437,42 @@
       "processedDate": "2026-10-27T22:31:17.510Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "190e50962df81af2f4cc0b05dc8e0c9039e8854ce9835ec94d9cdb12cf382e99",
+      "title": "US midterms: 470 seats, $12 billion and one absent president",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterms-470-seats-12-billion-and-one-absent-president-2-1.500725280",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-28T01:46:08.497Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9fa666af00c2e8a705eb3fba07f2d2b71d48177d31d8457ec008c680b54f7cce",
+      "title": "US midterms explained: What’s at stake for Trump?",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterms-explained-whats-at-stake-for-trump-1.500725253",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-28T01:46:10.363Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d3f1f74b81a2dab2d7848676ed5e95046c9f1daa99849fb992085c3ebf34fd88",
+      "title": "UAE's Lana Nusseibeh says she would take political risks to secure peace",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/10/27/uae-un-secretary-general-race-lana-nusseibeh/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-28T01:46:12.083Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "398ff24585db91b72c25fb2405b765b6455a277a5abf88f49ab3a2aa61e3ff4b",
+      "title": "Trump to ban the term AI 'in all relevant documents'",
+      "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/10/27/trump-ai-si-bans/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-28T01:46:14.287Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -48527,6 +48527,42 @@
       "processedDate": "2026-10-28T03:01:01.000Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cd0831bdfd4fed84cde8dc57d396c234f7a8e144ec7ac568c0e3ed51a7726557",
+      "title": "Sharjah Ruler approves integrated care city for elderly, children and women",
+      "sourceUrl": "https://gulfnews.com/uae/government/sharjah-ruler-approves-integrated-care-city-for-elderly-children-and-women-1.500726314",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-28T03:15:45.161Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9d6cd286d3d34228f71b05b53abe5d4872bc9d547127c152c86bce698115a707",
+      "title": "UAE weather: Five days of possible rain, strong winds and blowing dust",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-five-days-of-possible-rain-strong-winds-and-blowing-dust-1.500726309",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-28T03:15:47.484Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0f682635ea02781d6b2e552c8b2f317b4ff5ae9497fffc5afe0dd9409bfd84c8",
+      "title": "UAE weather: Five days of possible rain, strong winds and blowing dust - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODdmdEdaaV8xbjlxQXdZcGRxaUpFVXJhS290MG92bEJMSHRPUkJXTm5XaVBiU09XT1Vub3d5bGp2Y3U3aU9iMlJBSE5DZHk4Zm5fQ0VWQXlycTBaeGhyQUYzR2VnaEt6RWJOT08zUU5VYUIyM3pJQ1lJblBpRXhMUm94d0pGMmdaaFFjVTNvN2x3cGVIQm5MbmZuT0dQV1J5eC0tSmNQUXVBMkgtaUx6TzZNc9IBxgFBVV95cUxPcUlCZGVuX1QwbDl2R1I1a1EtNTBVdEh5RGRXOHJTRVFYWklraUs2WHJ1YzYzdldNcXlYbzlsRVlKUGZsTXlEbVpYbko5bjBFamdyeWZmMFpZX3REVkRMU2VXeXd1N3RJSDFiNDdWOExnejJ1VEJ0QTF1NEhRTDRRUDl5NFVsLVdHRmVHR2Zrci1BM1RxX05NVlBtZURudm9oRWN5dTZTbHZ0WHpWS0NmREh2TEVEaF9JemhUdS1vc3QzazlvN2c?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-28T03:15:49.404Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e1bd56fd47f766ad1acf6009a84012deb434f7e779dbb0562724ba44f4275cd0",
+      "title": "Iran war puts Republican foreign policy hawks under pressure before midterms",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/10/28/midterms-iran-trump-republicans/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-28T03:15:51.576Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

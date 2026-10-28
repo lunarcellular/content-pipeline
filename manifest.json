@@ -48734,6 +48734,15 @@
       "processedDate": "2026-10-28T16:45:42.681Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5cb662ea9d74d053ada3b807d5fe3af76285925dc5fbd0292fde6e3bfe2ddc1b",
+      "title": "US Federal Reserve leaves interest rates unchanged ahead of key midterm elections",
+      "sourceUrl": "https://gulfnews.com/business/banking/us-federal-reserve-leaves-interest-rates-unchanged-ahead-of-key-midterm-elections-1.500727496",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-28T18:30:49.375Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

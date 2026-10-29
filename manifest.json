@@ -48914,6 +48914,24 @@
       "processedDate": "2026-10-29T12:45:41.305Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0b609d49a6f4f8336500d9b915fea3797beddb3d5587cf0a1dd98c43e56f79c0",
+      "title": "Sharjah's child safety body warns of AI-generated fake sexual images targeting children",
+      "sourceUrl": "https://gulfnews.com/uae/government/sharjahs-child-safety-body-warns-of-ai-generated-fake-sexual-images-targeting-children-1.500728506",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-29T13:15:44.863Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b2f8608cbdd3f787d7bf95825d4e18db3870bfbf68c757ce91be614436bcb2b1",
+      "title": "British teacher in Dubai ICU after losing baby at 30 weeks as bills near Dh500,000",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/british-teacher-dubai-icu-losing-baby-mounting-medical-bills",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-29T13:15:48.046Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

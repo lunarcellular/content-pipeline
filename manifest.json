@@ -48779,6 +48779,24 @@
       "processedDate": "2026-10-29T05:59:57.282Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0a94033622d605415d70f838016c7ee80cbac4b74a7c6f865b4349e7c24cac27",
+      "title": "New York passes law restricting minors' use of AI chatbots",
+      "sourceUrl": "https://www.khaleejtimes.com/business/tech/new-york-passes-law-restricting-minors-use-ai-chatbots",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-29T06:45:41.252Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ce0f77832344bb43189ce4efa965e96bb0d59782e6b8075cf89fd2d29d455095",
+      "title": "Trump and Obama trade barbs in closing week of US midterm election",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/trump-and-obama-trade-barbs-in-closing-week-of-us-midterm-election",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-29T06:45:43.447Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

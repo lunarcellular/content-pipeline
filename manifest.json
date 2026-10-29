@@ -48806,6 +48806,24 @@
       "processedDate": "2026-10-29T07:00:54.817Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9432b07463279ea91eb9246a19e2e2c650ac3dc0c04a3c28568bcb454f362f17",
+      "title": "Michael Jackson tribute This Is Michael returns to Abu Dhabi on January 30",
+      "sourceUrl": "https://gulfnews.com/entertainment/michael-jackson-tribute-this-is-michael-returns-to-abu-dhabi-on-january-30-1.500728004",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-29T08:00:52.296Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "27d144f4d98ea1e5ca6840d838fe5834fb4a8a7915cf8ae55b1b81b64f100a5c",
+      "title": "Hayden Panettiere’s death ruled accidental, US police close investigation ",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/hayden-panettiere-death-ruled-accidental",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-10-29T08:00:54.698Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

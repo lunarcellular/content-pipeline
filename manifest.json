@@ -49202,6 +49202,24 @@
       "processedDate": "2026-10-30T07:30:47.778Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9dd38780c63c313779c07e61df6448a42524258724463067bd9be869c88572ea",
+      "title": "What happens in the US midterm elections and why are they important?",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/10/30/what-are-us-midterms-why-important/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-30T08:15:37.547Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "573d88d647dae5a56ba798a29e0d845490b798cdb74cf84ae1a2a1cca77c3347",
+      "title": "UAE parents urged to step up online safety over AI-generated images used to bully and blackmail children",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-parents-urged-to-step-up-online-safety-over-ai-generated-images-used-to-bully-and-blackmail-children/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-30T08:15:39.653Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

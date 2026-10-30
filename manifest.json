@@ -49346,6 +49346,24 @@
       "processedDate": "2026-10-30T12:15:46.685Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b3efbbcac972ed6435c48cb12d49cd940479d37dd35666412e66339bc2030f3f",
+      "title": "Missing two school days a month could leave pupils almost a year behind, Abu Dhabi warns",
+      "sourceUrl": "https://gulfnews.com/uae/education/missing-two-school-days-a-month-could-leave-pupils-almost-a-year-behind-abu-dhabi-warns-1.500729725",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T12:30:48.240Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b08e9647d32f8b5fc881378aa206eb6b05bc64533bdec45f54941cc26d96f571",
+      "title": "Who will take care of kids? Many UAE families yet to decide childcare after death: Data",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/legal/families-make-will-childcare-after-parents-death",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-10-30T12:30:50.389Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

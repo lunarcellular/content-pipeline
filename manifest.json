@@ -49427,6 +49427,24 @@
       "processedDate": "2026-10-30T17:45:44.127Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cafdf9314c0e56dff791fa249ef86b1a0d20726fb808c9d673f7df5d583e506c",
+      "title": "US renews Saudi Arabia warning over possible airport attacks and flight disruptions",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-renews-saudi-arabia-warning-over-possible-airport-attacks-and-flight-disruptions-1.500730240",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T19:15:44.262Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8003be80e31bb414f03e72d8324c6e239fd160fc5cd97f66ed9062fcfcb84f0f",
+      "title": "'My body hurts': US death row inmate Christa Pike speaks of agony after surviving lethal injection",
+      "sourceUrl": "https://gulfnews.com/world/americas/my-body-hurts-us-death-row-inmate-christa-pike-speaks-of-agony-after-surviving-lethal-injection-1.500730069",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T19:15:46.668Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

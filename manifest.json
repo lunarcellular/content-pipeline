@@ -49247,6 +49247,24 @@
       "processedDate": "2026-10-30T08:45:41.676Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "681935d2eca672f384208dd7f0ff6287194587274d7e0e341ce7fb95c56413fc",
+      "title": "King Charles dances to the Bahamas’ vibrant Junkanoo street parade",
+      "sourceUrl": "https://gulfnews.com/world/king-charles-dances-to-the-bahamas-vibrant-junkanoo-street-parade-1.500729460",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T09:30:52.069Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cf6c62400393e652d94145e294db2461bf8ab62071e27e8a6d022732624258f1",
+      "title": "Four children among five killed as flash floods hit Syria",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/10/30/four-children-among-five-killed-as-flash-floods-hit-syria/",
+      "sourceName": "The National",
+      "processedDate": "2026-10-30T09:30:54.815Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

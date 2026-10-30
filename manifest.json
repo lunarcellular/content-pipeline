@@ -49283,6 +49283,42 @@
       "processedDate": "2026-10-30T10:00:56.207Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "001201ac60ce8895bc938686f4a35cef2dc522b439f13100995dafe01c3ce6fe",
+      "title": "Cleric issues fatwa over Sara Ali Khan's Kedarnath temple visit",
+      "sourceUrl": "https://gulfnews.com/entertainment/bollywood/cleric-issues-fatwa-over-sara-ali-khans-kedarnath-temple-visit-1.500729296",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T11:30:49.905Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "732245c9c16af3d322e1e945550f748ec1b9fe6a8e0e5025a6f94f2825c72d5e",
+      "title": "‘All I want is to be with my children’: Kenyan mother finds hope after son’s accident with Big Ticket win",
+      "sourceUrl": "https://gulfnews.com/uae/all-i-want-is-to-be-with-my-children-kenyan-mother-finds-hope-after-sons-accident-with-big-ticket-win-1.500729653",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T11:30:52.425Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2110844f09b8d4528e85a912c8b08805819ed3588e6a3c3ab91a8ed930029624",
+      "title": "‘All I want is to be with my children’: Kenyan mother finds hope after son’s accident with Big Ticket win - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0x1YkFTbjdNSnlvbmYxRU9GR3MxNEhrcEhzOHkybUcwQ3YzWXNLNF8ySlRhZVByT1FTSVBrbW1nVEpqS21abFhrNVZPNUlES2ZJNUdDaEs3ZEV1amYwTEM1d2J4a0ItdVZ5Vzh2VzhDOFZQMGFNQ1A0UzI1MmtVY0FWUTBzdWp0aWE4a09fOVlrT2x6YlhPYTVLZm5Rekp3OE82YWp3TXJ3cnJTSWM4NHpJT1lKT3dUQ1hucWFxNUJjd25PbWJMOUtMM2dkOGgwRW1wUdIB5AFBVV95cUxQSlZ6dXQ2WkJHaTMyOWxLZUJXZk52U3JLdUw3cEEzak5KN2w4Z3kzeHktbmlGdnI0OExTZ1VudUZZWDdrRkNBbzl4c1Jvc1VZc2xkeV85SnlOWnpWM0JIeUZ4N0ZFVjdyb0lKSno2Qk1SaGJOSWlyVDBSWUNlOFh0Y1hUSHhTMTE1a0pQQVpjVmc3VjBrMDdURW5rNUtpX3ZOMjZOYkVPMExHSE1zU0pWQ3g0RU41VjYwSnZiTUhRenJPalF4QUpXNEpkcHBZWGY0ZUpOSHVyWk4ybXNVSEgtM2NyQ0E?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-10-30T11:30:54.282Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f61aa13c00313b568866bd9355ae5e80dbb5e7089432a30919910653fc077119",
+      "title": "All Ajman school buses fitted with automatic fire suppression systems",
+      "sourceUrl": "https://gulfnews.com/uae/education/all-ajman-school-buses-fitted-with-automatic-fire-suppression-systems-1.500729632",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-10-30T11:31:17.758Z",
+      "relevant": true,
+      "outputFile": "output/2026-10-30-ajman-school-bus-safety.md"
     }
   ]
 }

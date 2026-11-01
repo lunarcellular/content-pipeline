@@ -49634,6 +49634,24 @@
       "processedDate": "2026-11-01T07:15:41.203Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c1a4026b09a4343fbbd2a4282ab25d448e144e8660183a3f0b0051c2dbe4fc07",
+      "title": "UAE premarital genetic screening: 71 per cent of incompatible couples choose marriage",
+      "sourceUrl": "https://gulfnews.com/uae/health/uae-premarital-genetic-screening-71-per-cent-of-incompatible-couples-choose-marriage-1.500731467",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-01T07:45:45.329Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a8990c4a8d6935c790789d463bde8ab411d314ad2bf129f9327c85e8315e9574",
+      "title": "Dubai bans Arabic teachers from teaching Islamic Education without separate KHDA approval",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-bans-arabic-teachers-from-teaching-islamic-education-without-separate-khda-approval-1.500731480",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-01T07:46:21.202Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-01-dubai-islamic-education-teacher-approval.md"
     }
   ]
 }

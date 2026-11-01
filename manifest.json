@@ -49679,6 +49679,24 @@
       "processedDate": "2026-11-01T08:01:07.090Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "954d930714eb6b938303c36b1d774cc5e9d5b73ea79fe51de160fd47913f222f",
+      "title": "Democrats push anti-corruption message in midterm homestretch",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/democrats-push-anti-corruption-message-in-midterm-homestretch-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-01T08:45:37.453Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "afa55bebeabe8e425ae7293a6dec1f627e32bd2a685dd1ae148d382fdfc7cf1a",
+      "title": "Democrats push anti-corruption message in midterm homestretch - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3I1endaWnUyQVF1aWZobkpnVGd4UWZlY1B2cFVtY212S3hBMFZhMmVTY1Y4RGxzMmdUWXg3UEJqd0trYl9yQXdjRUR4SnpWZE50bWF1VFU0UExzMGZYdGs2UnJLck1UMXJuRFJwa3lNemotT3BCOWhOSFA0aU56RDFCUXVoUE1KYTNFUVNHWXVrbmpjdUVxUjNFTUc2TFN0bmV6aGw1SkFWSDDSAbMBQVVfeXFMTnVBc2dzbGJRMlNjMlpLTmxVTzZRazZ4T0dWOG93eWNFZElXU2xiRmNPa3JEOVduUlJSNmdRVUVKamJhUVZkQXQ2ZE9yM3AyNGloN05TNmp2UzZCWm1KX1RSdWZXQ0IwUXFNUFlvNzQ0eGpWalFDdE1ZVFlCRzZROHFlWENZa190Qkp1UTlMOVFiYWlsX1JLQ1FVdi1TNUdKUFR2M0RkbVp5azR6cVREckt6Q2c?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-01T08:45:39.524Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

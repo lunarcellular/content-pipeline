@@ -49598,6 +49598,24 @@
       "processedDate": "2026-10-31T17:13:12.080Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "975ed75d8194cafacf8881a4b7ae71679c48f35a7a966dfd9e6eedf5b0ca947e",
+      "title": "UAE's new 2027 traffic rules: When overtaking is allowed and prohibited",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/transport/uae-new-traffic-rules-overtaking-allowed-prohibited-1.500731264",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-01T03:15:50.634Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "63f347455c027140d0dddcfe66f78229eb1bf3c597d9061e11dd63702165cdfa",
+      "title": "Texas at centre of Republican midterms push against 'Islamist influence' and Sharia",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/01/texas-sharia-midterms-muslims/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-01T03:15:52.567Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

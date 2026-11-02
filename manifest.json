@@ -49895,6 +49895,24 @@
       "processedDate": "2026-11-02T12:15:44.249Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "84b99cf8575fff18b67430d6d6ff760f2f5f1f74a8e44d1ec3ccd5bb34a5a23f",
+      "title": "US midterms 2026: Key voting times, results and what's at stake",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterms-2026-key-voting-times-results-and-whats-at-stake-1.500732810",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-02T13:15:44.412Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d423a72384409f70b23b9921f54b7439b729b53534a03cecc8ae47989dc03e73",
+      "title": "US midterms 2026: Six reasons Democrats may fall short of a landslide",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-midterms-2026-democratic-majority-explainer",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-02T13:15:46.345Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

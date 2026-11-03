@@ -50156,6 +50156,24 @@
       "processedDate": "2026-11-03T10:45:46.706Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d20f7eedee7abf77a987a3c6a3c04fe264dd7dfc3b37e001efaa41abaeefdef9",
+      "title": "Melodica Music and Dance Academy gives over 200 students a platform to shine on stage in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/melodica-music-and-dance-academy-gives-over-200-students-a-platform-to-shine-on-stage-in-dubai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-03T11:00:55.544Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e1dafa37235605b1e9ed84e42b94036d025dea6087f443d2996197965939c325",
+      "title": "From Iran war to Israel aid: How US midterm election results could impact Gulf",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-foreign-policy-iran-war-israel-aid-midterm-elections",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-03T11:00:57.803Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -50237,6 +50237,33 @@
       "processedDate": "2026-11-03T11:58:15.860Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ca3e6a1bb5fe62deb603b0af480305da9acf75eb82ca30aa32687e3bcb7b723e",
+      "title": "US midterms: Polls open as Trump election challenges face setbacks",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterms-polls-open-as-trump-election-challenges-face-setbacks-1.500734291",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-03T12:30:53.025Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "05e88664836b355f1bd9ab8c55297207f8e3d8b0344703814f60c781b7d4c71d",
+      "title": "Sachin Tendulkar rules out giving Vaibhav Sooryavanshi a major role",
+      "sourceUrl": "https://gulfnews.com/sport/sachin-tendulkar-rules-out-giving-vaibhav-sooryavanshi-a-major-role-1.500734305",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-03T12:30:55.121Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "514675aa7c27a6556cc0d2176c1a1d66c0095846b1b087986ff6a62949f5b1f9",
+      "title": "Working with Hans Zimmer on 'Ramayana' is special, says AR Rahman",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/working-with-hans-zimmer-on-ramayana-is-special-says-ar-rahman",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-03T12:30:56.888Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

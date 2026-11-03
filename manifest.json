@@ -50039,6 +50039,15 @@
       "processedDate": "2026-11-03T03:01:52.489Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "ad6509653429caf6243828f4c02fa7b6cb93f30635c751252470c4a673b7d0f9",
+      "title": "UAE weather: Red alert issued for fog as visibility drops",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/november-3-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-03T03:15:41.213Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

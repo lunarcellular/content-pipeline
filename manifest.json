@@ -50048,6 +50048,24 @@
       "processedDate": "2026-11-03T03:15:41.213Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6a95b41f3470e023298bcf5062ac36740fe7fbaef9f103c031c2bc9b111cdab5",
+      "title": "Nicolas Cage says he’s ‘a little bit homeless’ after sinkhole damages Malibu home",
+      "sourceUrl": "https://gulfnews.com/entertainment/nicolas-cage-says-hes-a-little-bit-homeless-after-sinkhole-damages-malibu-home-1.500733564",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-03T04:00:52.021Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "80f4d5afee35304b210c8ffe500b81c25ca88bf990c643a569914eaa9a313b14",
+      "title": "US midterm elections: Trump faces test as Democrats target Congress",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterm-elections-trump-faces-test-as-democrats-target-congress-1.500733561",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-03T04:00:54.158Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

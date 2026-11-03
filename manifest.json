@@ -50192,6 +50192,33 @@
       "processedDate": "2026-11-03T11:15:46.220Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "68b74d4c74207c03ae17a8a47667098ee09935689104c799ab819f4fb09887ca",
+      "title": "Simon Henderson explores excellence and innovation at GEMS Education in Dubai",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/simon-henderson-explores-excellence-and-innovation-at-gems-education-in-dubai-1.500734181",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-03T11:30:49.188Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "989d22ade98fe30be15d4e19981ded307cd0cd7c6d91a0329e7e8e416eab8a99",
+      "title": "Simon Henderson explores excellence and innovation at GEMS Education in Dubai - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONTY1bnA0MlNHMWJuVHQ4bnJnemUzOXBpVUpmWkd1Ny1mYkFpeVVpbklYajAzamloVHJfaVlDdV9sUkQwNkRlVi02ZGhaV0F1eFpIV2llbHRraElXSncyU1Axekh3bkplTkdJOUVtNVFVYWRZeC1JUkNPOWg2eDlfM2tBYXU2WWJUZW84NTVyeDRFUWNwUW5pZ3djYlhoenNHRDZ4Y1MtTnhuX0FxMDloNTg4NTJKbENocG5hRGF1clNlU1pCRWFiamxudVDSAd8BQVVfeXFMTnhVZHBEbW9yUTduV2lBNm5sOEtDS2JLRW1qZFhqa0o0TkFxQTV4Q0hHNUdVLTV4NFQ1ZmdzcS1zWHYwTWF3ZHQzWnBMRzNtVUJhUWJTdXk2MHJ1Z0JuN0MwX2puY1dMUUx2OTlRUGtfeWRkOHExSjdTOEkxeDJ1OXp0MlFxdFZnYUVkbUZOMmRsLVA3MzVHSFBjc0VSZUQ0QzE3aXhuQnIwS2FmMHd6cjBXdHJteVVrMEVZNHl4TFVrSHdRZTRzR1ZEODZuejc5OUtodkJRRkV0S3o4eHZLWQ?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-03T11:30:51.321Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "028c7b8e1625bf2dcbd004b06d39842dfaad6786d475c22bbdf7d34138d6741f",
+      "title": "Jack Lowden may not be the next James Bond, but finds speculation flattering",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/jack-lowden-james-bond-casting-rumours",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-03T11:30:53.545Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

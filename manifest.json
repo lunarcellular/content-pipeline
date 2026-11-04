@@ -50732,6 +50732,24 @@
       "processedDate": "2026-11-04T12:30:43.513Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "85d0ad99523088cd9de4e0c95cc65b51b111795f8762941cc740218d157a4379",
+      "title": "Sheikh Mohammed visits Gulfood Manufacturing as 2,500 exhibitors gather in Dubai",
+      "sourceUrl": "https://gulfnews.com/uae/government/sheikh-mohammed-visits-gulfood-manufacturing-as-2500-exhibitors-gather-in-dubai-1.500735805",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T12:45:42.582Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cf511c323685acd424009f60eca612378ba3db06afcb1e40e646aac13ac87812",
+      "title": "UN candidate Lana Nusseibeh says Sudan's RSF must answer for 'atrocities' ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/11/04/un-candidate-lana-nusseibeh-says-sudans-rsf-must-answer-for-atrocities/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T12:45:45.558Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -50930,6 +50930,24 @@
       "processedDate": "2026-11-04T18:00:48.829Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "331b34d266b75e7f92db9cfb66223c8a1098e391857d43ade1d4f3cceb0201c5",
+      "title": "US midterms: JD Vance says Republicans lost due to Iran war",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/04/as-it-happened-us-midterms-election-results/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T18:15:37.273Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b2b5d0cfc5ce8164c7072ff3bd9e8888ddc9713b693b652089da02d13bf5d030",
+      "title": "Democrats ride ‘blue tsunami’ to midterm victories as Trump faces backlash",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/04/democrats-sweep-in-night-of-firsts-but-lame-duck-trump-could-prove-roadblock/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T18:15:39.419Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

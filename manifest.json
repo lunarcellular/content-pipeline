@@ -50471,6 +50471,24 @@
       "processedDate": "2026-11-04T03:30:42.774Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b35fc207bae02f776552ff870ce27dfb754ae9552f12d5292170b3f81e7f0a93",
+      "title": "Midterm elections results: Democrats win House in growing wave against Trump",
+      "sourceUrl": "https://gulfnews.com/world/americas/midterm-elections-results-democrats-win-house-in-growing-wave-against-trump-1.500735119",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:45:46.612Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a9c570f0e2ad1cbf3de4092da4f72348e4aed3b0f6f0fd2066bbc56a2b4bf22f",
+      "title": "UAE weather: Red alert issued for fog as visibility reduces; mercury to hit 35ºC in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/weather/november-4-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-04T03:45:48.832Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

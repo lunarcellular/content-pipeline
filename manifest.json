@@ -50768,6 +50768,24 @@
       "processedDate": "2026-11-04T13:01:15.434Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c640fcc78069b844882a6cc6852b68d3aab96b21e898df66254db05504b3d036",
+      "title": "Dubai tourism loyalty programme: Fees and eligibility revealed for visitors",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/04/dubai-tourism-loyalty-programme-fees-and-eligibility-revealed-for-visitors/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T13:15:45.376Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cb280ba3387991ac5698a24fd19f77f5809d494bd12674422745fb9ad34a92fb",
+      "title": "US midterm results must not become a setback for Middle East stability",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/editorial/2026/11/04/us-midterm-elections-middle-east-iran-gulf/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T13:15:47.562Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

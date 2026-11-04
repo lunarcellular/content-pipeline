@@ -50750,6 +50750,24 @@
       "processedDate": "2026-11-04T12:45:45.558Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5c29f0d8d1eb577e6fbbe6c7d9ea3d99093a2976089221ffb1f7aca6d7fd55bc",
+      "title": "Philippine police find child abuse imagery on devices tied to Thomas Markle",
+      "sourceUrl": "https://gulfnews.com/entertainment/philippine-police-find-child-abuse-imagery-on-devices-tied-to-thomas-markle-1.500735833",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T13:01:13.307Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c8320b1ecb3c71cd11a7bdbb213629f309b30c868ccd1d61196beead32d29845",
+      "title": "US midterms 2026: Democrats take the House and the Senate, what comes next?",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/04/watch-live-us-elections-2026-democrats-win-middle-east-iran-war/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T13:01:15.434Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

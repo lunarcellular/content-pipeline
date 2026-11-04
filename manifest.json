@@ -50372,6 +50372,69 @@
       "processedDate": "2026-11-03T18:45:56.245Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7702ff479be05f8713fa3bb50bb0fbe6a31b4f84225a1e48f4c0646a391fff02",
+      "title": "Sachin Tendulkar reveals the Hollywood film that brought back childhood memories ",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/sachin-tendulkar-reveals-the-hollywood-film-that-brought-back-childhood-memories-1.500735009",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:00:52.076Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ec4f6964f92e06c143bdffe714ad8e10cdf27cd4aaa7226fe13aff92eb6e1ed8",
+      "title": "Japan's Nikkei drops nearly 3% ahead of US midterm election results",
+      "sourceUrl": "https://gulfnews.com/business/markets/japans-nikkei-drops-nearly-3-ahead-of-us-midterm-election-results-1.500735065",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:00:54.275Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8f3bfbb84baa17562e50da11fa602f1cd225e2d520ce5a7f25c596484f662ff0",
+      "title": "Dubai teen creates bilingual reading app to help children develop a love for books",
+      "sourceUrl": "https://gulfnews.com/uae/people/dubai-teen-creates-bilingual-reading-app-to-help-children-develop-a-love-for-books-1.500734216",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:00:56.355Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "15cf8c08332e04a0ca44ff5d5375515b9f20020eab61a9a144dff7485aece35d",
+      "title": "US midterms: Ossoff wins Georgia as control of Congress remains unsettled",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterms-ossoff-wins-georgia-as-control-of-congress-remains-unsettled-1.500735048",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:00:58.406Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b71f142d6b36ed12aa7022caea0b2565cd5a581752664cf86384976250644383",
+      "title": "Beyond happiness: What our children really need",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/beyond-happiness-what-our-children-really-need-1.500734098",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:01:00.526Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "2659c06c4bed5993df2cbd3a75d4cfbb2eb6ebc7695d021648498edfdbf646b2",
+      "title": "Bullying affects 1 in 3 students globally: What UAE parents should know",
+      "sourceUrl": "https://gulfnews.com/uae/bullying-affects-1-in-3-students-globally-what-uae-parents-should-know-1.500734882",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T03:01:02.416Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "963c96fccca8d7df0d2ffc7357bdb4d590b4aadcc2e196a46a2b469b3b7fb2b6",
+      "title": "US midterms latest: Early results indicate Democrats on track for major gains",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/04/live-us-midterms-election-results/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T03:01:04.216Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

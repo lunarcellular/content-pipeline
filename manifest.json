@@ -50534,6 +50534,24 @@
       "processedDate": "2026-11-04T05:15:42.860Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0857932e777ba62e12cf0c17be1bf3c6728a2f53f1f380b6499452ea0e10a583",
+      "title": "Trump says he will accept US midterm results, vows to work with Democrats",
+      "sourceUrl": "https://gulfnews.com/world/americas/trump-says-he-will-accept-us-midterm-results-vows-to-work-with-democrats-1.500735203",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T05:30:50.950Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a8cdac174a872d61f72f13dd182a0bd5223de77c63f049c64d83cac633001ded",
+      "title": "Trump acknowledges Iran war played role in US midterms defeat",
+      "sourceUrl": "https://gulfnews.com/world/americas/trump-acknowledges-iran-war-played-role-in-us-midterms-defeat-1.500735207",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T05:30:53.058Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

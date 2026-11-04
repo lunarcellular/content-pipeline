@@ -50606,6 +50606,51 @@
       "processedDate": "2026-11-04T08:15:40.214Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "329520a7fc155879ba366a0bc0a2d1e089c8406c997269ee949a53ac4b0ffe38",
+      "title": "Hollywood cheers Midterms ‘Blue Tsunami’ as Mandy Moore, Jimmy Kimmel lead celebrations",
+      "sourceUrl": "https://gulfnews.com/entertainment/hollywood-cheers-midterms-blue-tsunami-as-mandy-moore-jimmy-kimmel-lead-celebrations-1.500735403",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T08:30:48.671Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9f94dadf3212482db9fd9d9fe752b4cfd825dd8a2fe2444bee1426d8ff3b1d6c",
+      "title": "US midterm election defeat: Is Trump now a lameduck president?",
+      "sourceUrl": "https://gulfnews.com/opinion/us-midterm-election-defeat-is-trump-now-a-lameduck-president-1.500735381",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T08:30:50.878Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b7433f94ea75f16d0ad77f6a821146f6a4b292bb46abe0d28b525df96981caa0",
+      "title": "More than 700 events planned for UAE's first national Early Childhood Week",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/first-national-early-childhood-week-events-planned",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-04T08:30:53.278Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a5f08f4ff401de9a77e2e7cd44ef061e90d63289e5ea0027bbf168833f27f586",
+      "title": "War weighed on US midterms, but Iran's economy is paying heavier price",
+      "sourceUrl": "https://www.thenationalnews.com/news/gulf/2026/11/04/war-weighed-on-us-midterms-but-irans-economy-is-paying-heavier-price/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T08:30:55.428Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ad336a5a7c4d5d9604589488496f1437443bf57bbf59ae11db0c9758674aa555",
+      "title": "Why Donald Trump’s midterm disaster is bad news for Dana White’s attempt to take over boxing",
+      "sourceUrl": "https://www.thenationalnews.com/sport/combat-sports/2026/11/04/why-donald-trumps-midterm-disaster-is-bad-news-for-dana-whites-attempt-to-take-over-boxing/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-04T08:30:57.184Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

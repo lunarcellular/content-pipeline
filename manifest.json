@@ -50489,6 +50489,24 @@
       "processedDate": "2026-11-04T03:45:48.832Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2a84c09e7952a40a1e723aad327cbd959af517b2c86138dbbebc6b3ac5db46f9",
+      "title": "Tehran, Washington still far apart on deal; US midterm votes being counted",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-4-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-04T04:00:46.482Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4d66dd9532336ebcb1e285972836599c2836ba09edee6f457e9b8f3ffd902fcf",
+      "title": "US midterms: Democrats projected to win House of Representatives, poised to take Senate",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-midterms-results-democrats-republicans-trump-house-of-representatives",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-04T04:00:48.895Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

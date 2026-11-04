@@ -50516,6 +50516,15 @@
       "processedDate": "2026-11-04T04:15:43.409Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f62cdb5531889fcf17ac01cc881f68a8830e5e79deaf2d7f3fe6aa66271a37a",
+      "title": "Midterm elections results: Democrats flip US Senate, win full control of Congress",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-midterms-democrats-win-both-the-house-and-senate-seizing-control-from-republicans-say-networks-1.500735048",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-04T05:00:52.878Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -50966,6 +50966,24 @@
       "processedDate": "2026-11-04T19:00:52.312Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f98b5c8906b6625b61744bfcab48526fb4602e6298fe1ab7159766dec0feed5f",
+      "title": "Republican US House speaker to step down after midterm rout",
+      "sourceUrl": "https://gulfnews.com/world/americas/republican-us-house-speaker-to-step-down-after-midterm-rout-1.500736217",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-05T03:00:50.202Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4d34f7fef03b095abc2c97f30a002a85b15af14fefd242dfe2f26b91b5572e61",
+      "title": "Explainer: Will US midterm election results bring global oil prices below $100?",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/explainer-will-us-midterm-election-results-bring-global-oil-prices-below-100",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-05T03:00:52.042Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

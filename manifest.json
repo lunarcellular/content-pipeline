@@ -51317,6 +51317,24 @@
       "processedDate": "2026-11-05T18:30:46.663Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "07d2735435612935a1669d5443c7fa862d5ff11e20013e98205517cb329d5035",
+      "title": "Elon Musk spends $445 million on US midterms as Republicans suffer major defeats",
+      "sourceUrl": "https://gulfnews.com/world/americas/elon-musk-spends-445-million-on-us-midterms-as-republicans-suffer-major-defeats-1.500737712",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-05T19:15:41.055Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "07a5609f22ac16a83e4df3689bc8f328a199b362197fe4baeabdca538409cc7d",
+      "title": "Will Trump launch fresh strikes on Iran after US poll defeat?",
+      "sourceUrl": "https://gulfnews.com/world/americas/will-trump-launch-fresh-strikes-on-iran-after-us-poll-defeat-1.500736621",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-05T19:15:43.038Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

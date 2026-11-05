@@ -51245,6 +51245,24 @@
       "processedDate": "2026-11-05T14:15:48.797Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a70b84d651c953f99d4231ceb6786afdaea8f61288e7e73cfb67da62455231b0",
+      "title": "Former UAE student receives The Diana Award for expanding access to books and education in Africa",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/former-uae-student-receives-the-diana-award-for-expanding-access-to-books-and-education-in-africa",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-05T14:30:56.820Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "31804a52742ed1e94bb9ec71a71d6290dee3c0adcf15aa0da126741d468368f4",
+      "title": "GRB Dairy Foods appoints M.H. Enterprises as UAE distributor",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/grb-dairy-foods-appoints-mh-enterprises-as-uae-distributor",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-05T14:30:58.898Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

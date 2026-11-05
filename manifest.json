@@ -51029,6 +51029,24 @@
       "processedDate": "2026-11-05T04:00:52.339Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "90bb036a9be37a42bad469921aab4852fb308d9f38f6f4744447030e658ef1ea",
+      "title": "As UAE trade expands, NBF offers 50% off selected trade finance fees",
+      "sourceUrl": "https://gulfnews.com/business/as-uae-trade-expands-nbf-offers-50-off-selected-trade-finance-fees-1.500729425",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-05T04:15:36.453Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9277b6089e2060b7d05a34fb807d55796cd3b3a9ae74c708913dfdca60cd0ae1",
+      "title": "L’Oréal and Aster Pharmacy partner to make sustainable beauty more accessible",
+      "sourceUrl": "https://gulfnews.com/business/lor%C3%A9al-and-aster-pharmacy-partner-to-make-sustainable-beauty-more-accessible-1.500735330",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-05T04:15:38.425Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

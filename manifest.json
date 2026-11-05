@@ -51308,6 +51308,15 @@
       "processedDate": "2026-11-05T18:00:53.234Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0b2a8db6aa91257ba81727a19a9631eb6a214e25db92a01036491289b8dedab4",
+      "title": "Nasdaq plunges 5% as investors dump AI stocks after midterms",
+      "sourceUrl": "https://www.thenationalnews.com/business/markets/2026/11/05/ai-fears-overtake-democratic-sweep-as-nasdaq-enters-correction-territory/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-05T18:30:46.663Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

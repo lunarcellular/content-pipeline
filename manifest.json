@@ -50984,6 +50984,15 @@
       "processedDate": "2026-11-05T03:00:52.042Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "df5d0182a27172655d6f73dcb4d37f9cb03cff46eb597730816818b0dc777bd4",
+      "title": "Wall Street roars: Dow rockets 1,500 points as Democrats sweep Congress",
+      "sourceUrl": "https://gulfnews.com/business/markets/wall-street-roars-dow-rockets-1500-points-as-democrats-sweep-congress-1.500736418",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-05T03:30:43.042Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

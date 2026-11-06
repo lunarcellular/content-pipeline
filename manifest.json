@@ -51560,6 +51560,15 @@
       "processedDate": "2026-11-06T09:16:15.904Z",
       "relevant": true,
       "outputFile": "output/2026-11-06-dubai-crackdown-illegal-nurseries.md"
+    },
+    {
+      "urlHash": "dd9538084ad1c11237d65b4d64b1908551df7e9c830a5d4be3ad18db1f27e6f7",
+      "title": "UAE launches dental health screening for KG1 students in public schools",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/dental-health-screening-kindergarten-students-uae-public-schools",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-06T09:31:20.750Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-06-uae-dental-health-screening-kg1-students.md"
     }
   ]
 }

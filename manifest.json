@@ -51335,6 +51335,60 @@
       "processedDate": "2026-11-05T19:15:43.038Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e50ed90a5136ead0545bd6267c6037b85273d4e9a90116645c82cbbad83bc08d",
+      "title": "Midterms shake Washington, Hormuz attacks rattle Gulf: What next for Trump?",
+      "sourceUrl": "https://gulfnews.com/world/mena/midterms-shake-washington-hormuz-attacks-rattle-gulf-what-next-for-trump-1.500737394",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T02:45:36.919Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1fd45c1fdd3ee93b9a91eab557fe6e1dd55ec94a14576ad754b11ce8ed251051",
+      "title": "Google turns off AI for schoolchildren by default",
+      "sourceUrl": "https://gulfnews.com/technology/google-turns-off-ai-for-schoolchildren-by-default-1.500736398",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T02:45:39.040Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a0b792e689e7b1f11a69be618590e05416776a3f4fae0d790c4830966d01129d",
+      "title": "Boyzone singer Ronan Keating on raising his children in Dubai: 'This is our home and kids can be kids here'",
+      "sourceUrl": "https://gulfnews.com/entertainment/boyzone-singer-ronan-keating-on-raising-his-children-in-dubai-this-is-our-home-and-kids-can-be-kids-here-1.500737240",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T02:45:41.441Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a9b479b84c7048e88975948a2dcd570f577421e20738287c05b2a82891166ee9",
+      "title": "Google turns off AI for schoolchildren by default - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTVuNWpNVU9OUG53N2pGRFdMdXpQZmlsUkZrb1REcTdCTUJ2WV9lWFRCVXRNMkxvVmEwNFRobXdSUkZ3bFQxdW5CLV9Obm9Zb0FtMFdFaUdXY1hhZVo3M2ttLXBsZHdTcUs5dFlPbzhaSXNVWGh2cmRnNElHSEhMOTdmRmFTMmUxMnZ3cDZvVzN4dFZOTUpWNNIBqAFBVV95cUxNSHNKUk9iSnR4MGFnV1gxQzFzLVNUZloxektVNElqWmZpMGU1RlVzSzNJWno5dkZxdGVEbFZEVUc3ZUdwOEZ0dGRKYzJjc0JpeWhhS3NCRkpPWXlpR05fTlk1UHdLOGQtMlZlMHVtYVJ5RF9wTGFPczFoRmNMZFI1VTV4VWJKenFDRzVOb2FIVmlOeFNZVDduTTNtbkxRX1ZDV1ZwQUs5ZVI?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-06T02:45:43.348Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a9b479b84c7048e88975948a2dcd570f577421e20738287c05b2a82891166ee9",
+      "title": "Google turns off AI for schoolchildren by default - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTVuNWpNVU9OUG53N2pGRFdMdXpQZmlsUkZrb1REcTdCTUJ2WV9lWFRCVXRNMkxvVmEwNFRobXdSUkZ3bFQxdW5CLV9Obm9Zb0FtMFdFaUdXY1hhZVo3M2ttLXBsZHdTcUs5dFlPbzhaSXNVWGh2cmRnNElHSEhMOTdmRmFTMmUxMnZ3cDZvVzN4dFZOTUpWNNIBqAFBVV95cUxNSHNKUk9iSnR4MGFnV1gxQzFzLVNUZloxektVNElqWmZpMGU1RlVzSzNJWno5dkZxdGVEbFZEVUc3ZUdwOEZ0dGRKYzJjc0JpeWhhS3NCRkpPWXlpR05fTlk1UHdLOGQtMlZlMHVtYVJ5RF9wTGFPczFoRmNMZFI1VTV4VWJKenFDRzVOb2FIVmlOeFNZVDduTTNtbkxRX1ZDV1ZwQUs5ZVI?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-06T02:45:45.465Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bdbfdadb1eb56490ed471c24db8d24b136484dd221d88327fc7dc07b3e341125",
+      "title": "Who’s in and who’s out of US foreign policy circles after Republicans lose the midterms",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/05/us-reshuffle-foreign-policy-midterms/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-06T02:45:47.670Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

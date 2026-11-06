@@ -51650,6 +51650,24 @@
       "processedDate": "2026-11-06T10:45:40.528Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "58fb9c750d17dcd212b3446fc0fb95168edc64e01e6262ee60a0860076514ebb",
+      "title": "Bus carrying kids to school crashes in France, leaving 2 dead and 16 injured",
+      "sourceUrl": "https://gulfnews.com/world/europe/bus-carrying-kids-to-school-crashes-in-france-leaving-2-dead-and-16-injured-1.500738413",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T11:00:49.789Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1ad34759cc3d9bcdd9464d2b7f72fddf5fbfd4924aa73e40bb1abc28708b7902",
+      "title": "How Abu Dhabi's outdoor Children's Biennale brings art to life through play ",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/06/how-abu-dhabis-outdoor-childrens-biennale-brings-art-to-life-through-play/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-06T11:00:52.534Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

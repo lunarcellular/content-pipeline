@@ -51542,6 +51542,24 @@
       "processedDate": "2026-11-06T08:30:40.061Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "477984905a879a038ec4fa2c2d2fed1489b1a6d7dc377d824b5ff63a4fcf47bb",
+      "title": "Dubai Run 2026 guide: Date, registration details, bib collection and more",
+      "sourceUrl": "https://www.thenationalnews.com/lifestyle/wellbeing/2026/11/06/dubai-run-registration-details/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-06T09:15:42.335Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "06dae75c9d30c4284d193244d181848b1fee94b728785fce5d54a1d2d1a1f93c",
+      "title": "Dubai Police arrest 34 over 33 illegal nurseries putting children at risk\n\n",
+      "sourceUrl": "https://gulfnews.com/uae/dubai/dubai-police-arrest-34-over-33-illegal-nurseries-putting-children-at-risk-1.500738277",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T09:16:15.904Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-06-dubai-crackdown-illegal-nurseries.md"
     }
   ]
 }

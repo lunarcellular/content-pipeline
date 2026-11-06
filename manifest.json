@@ -51569,6 +51569,15 @@
       "processedDate": "2026-11-06T09:31:20.750Z",
       "relevant": true,
       "outputFile": "output/2026-11-06-uae-dental-health-screening-kg1-students.md"
+    },
+    {
+      "urlHash": "9809c8e3b3e90f6719d66a57052d4f748718570c7af5d65e3a97d1afc1f12519",
+      "title": "Reason to smile: UAE to provide free dental screenings for kindergarten children in public schools",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/06/reason-to-smile-uae-to-provide-free-dental-screenings-for-kindergarten-children-in-public-schools/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-06T10:00:47.078Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

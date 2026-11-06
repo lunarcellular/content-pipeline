@@ -51749,6 +51749,24 @@
       "processedDate": "2026-11-06T13:30:59.360Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "90d2c8cf4d4af76c8130e58186d6529b70d0a2989b855e7441ae68ee8f9967c1",
+      "title": "EU probes possible rail funding fraud after Spain train crash kills 69",
+      "sourceUrl": "https://gulfnews.com/world/europe/eu-probes-possible-rail-funding-fraud-after-spain-train-crash-kills-69-1.500738628",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T13:45:37.330Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0c05949be606b0952efa3b96a6e0dd2e02b33926fea16a211e1e5b806c6c1d37",
+      "title": "Inside the Children’s Biennale at Abu Dhabi's Umm Al Emarat Park",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/inside-the-childrens-biennale-at-abu-dhabis-umm-al-emarat-park-1.500738625",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-06T13:45:40.994Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -51731,6 +51731,24 @@
       "processedDate": "2026-11-06T13:15:43.227Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "8d9c114df9b778d32baad603cde684182a1cc1405147b69657b542cb7cb2e77a",
+      "title": "Inside the Children’s Biennale at Abu Dhabi's Umm Al Emarat Park - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXVlRGEtOFBWTlRhWDdMX3I1S0YwSDNqdk96UTVSMlJDZmp4ZDFTR0wwZkdRUm5Wa09KQmxzR1FUY3BUZnotXzZ3bDNZOUpGV0pacDd6bnBMSE9NSjJfMWYwRTM3ZXpMd2Y4SE9QTzF0WkdIeXBRaGZnQmxrcWoxM283MVB2bkN2WFR4VXEwQVBVU1dVOWV0LWZhLXBtMVdtUFV2cjM2N1UtdGxoWXfSAcABQVVfeXFMTVJyV1pSeVRrTUlSZzVYeUt4REQ4UEh1bl9SSS1LVHVqWmZSS0VxZUNZclJmb2dEdUpQTnEwWmg5ZGFtVEt1RmlZWllrdDBrWlBDRXp4SlRMblZ1WWVGWHRrX2pFcWRQTWRnRmt1UUNpRUU3ZEtwVHp4S0RKN3Fac1lpVGdkTEpPbXVpbERYX2FyZ19zdjhXWTR3di04YzNzQ1BoZHJhbk5VM284LXl1V0dMeTNQT0FxemJGUFFsVVVE?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-06T13:30:45.273Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1ed3dada5d042553982a577fc32fd8c4eaa2474300a603e84015ee719e20ef43",
+      "title": "MoHAP, Ministry of Education launch oral health screening project for KG1 enrollment - www.wam.ae",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUh4T3cwRC02d2VIOW41cGg2NlNrdy0tZFpKRlBNcjhYcXdoNjZLNFFXMVFsN25oX21DWjJLTFYwZnhSYUh1c29OOHNBUkg1b0hXV3JoSTVoWW50OGtxRUlWWno1cTQ2RXNJLWk1Z0RIRUxBOWMzU3EtOGFkeXZPY1FPLUktMVFO?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-11-06T13:30:59.360Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

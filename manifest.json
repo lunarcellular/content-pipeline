@@ -51803,6 +51803,33 @@
       "processedDate": "2026-11-06T15:00:52.415Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1e891edb7091eb94c830c0e83ee8308d6c844a2671cad012069fe22fcc076be0",
+      "title": "CBSE announces 2027 Class 10, 12 board exam dates - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDEwb1o3TnRhZFMtc2x2NkY0N1M3bHZfVTU4TnBFVG9LU0dlc0ppUnF6YkNKcWFDX092RlRSbWo5bnd5djVuMzdOdFM2S0lFNHRYU09aRVdVUFN5T2lNeGdPSTRWYmt0MTIwUmItaGFfam1ucWE1RER1bWZaWEFMeG1fVEVRQ3ZtdXYydExoSVdtd0FjUGgtTzZIb9IBrgFBVV95cUxObXItUHpxUFVKaW01MFhlbmNVN1h1Q3hzNFR5RHB6c1BjTnp2WmNZWmFvN2wxcjRISk1MaU42OFNaUThHV2V5QndqVWd5SmFXWVZpU3N2Q3A1amszRWhIemhUVmE2X2daOTF0M0NSRWR4dHFhc044VGUtQk8xY2FKTERVNk5xOUFaVnZhQzNMYVJQLU81THRwVVhVNjNfZ1M0emJnNDFLc2ZyNVptLUE?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-06T15:15:39.459Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "897cd51a1eb4a78c7ce41d692c8feacd5a9728ce870fe80c27143f0167f2b575",
+      "title": "CBSE announces Grade 10, 12 Board exam dates, set to begin in February 2027",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/cbse-announces-grade-10-12-board-exam-dates-february-2027",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-06T15:15:42.326Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "897cd51a1eb4a78c7ce41d692c8feacd5a9728ce870fe80c27143f0167f2b575",
+      "title": "CBSE announces Grade 10, 12 Board exam dates, set to begin in February 2027",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/cbse-announces-grade-10-12-board-exam-dates-february-2027",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-06T15:15:45.916Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

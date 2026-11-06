@@ -51578,6 +51578,33 @@
       "processedDate": "2026-11-06T10:00:47.078Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5486d6e2ccac5507bfb73bdb47e79af9284954757b397d46d856764ed2e99352",
+      "title": "SIBF 2026: Does AI really pose a threat writing? Booker winner Daisy Rockwell weighs in ",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/sibf-2026-will-ai-impact-writing",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-06T10:15:48.060Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1f610c3802987a56ef79bb0f1bac09451489b3678efbca5a05fcddb4a4688c83",
+      "title": "Dubai Police arrest 34 over 33 illegal nurseries putting children at risk - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMEZGWnhmNnhraExIdjQ1RWQxQVlkOTNyMVNmSnQtSGdzVFpYeUl2eC05Y2RQSi1fX3hqR2hvVlctRnE1aG1ScDJZZjQ4aW1WeXFkOFRUdzZTSW5lbGFGVkxJbEhIaEpuczdtRndMZGlxV3ZiR0ZkbzVubnlJcnR4MWJaSzNCTFcyRmpYbFlNLXBNa3VVbjNsRGhYa3pLXzAwNElKdmt4YmQwWEZ4Z1hYWWRTbHJBYUXSAcoBQVVfeXFMT3FDTzV0TEdKV2pQNDAzUDQ3ZDJiX29EZzZKS3c0ZnpvUG5nWGFRS3lyTUhSd2RaNUxhQXdEblBxb2ZJeGhUbmVOTnRaeFZIU3ZiWFdMeFlraUNZSkx6U21BdUlWdjVjaXRoVzREWDNUWG0xRzc5NGNycUItS1psRlBRbU9acVhweHAxWkFJM0RpZkJrb1lNZWVDb3JJNWFjTzhNOEY2T1NfZjEtMXl0Tm5mZmhrbDZKUi1CZFNsbGJLZU9PTk9ERzFVUQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-06T10:15:51.508Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1f610c3802987a56ef79bb0f1bac09451489b3678efbca5a05fcddb4a4688c83",
+      "title": "Dubai Police arrest 34 over 33 illegal nurseries putting children at risk - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMEZGWnhmNnhraExIdjQ1RWQxQVlkOTNyMVNmSnQtSGdzVFpYeUl2eC05Y2RQSi1fX3hqR2hvVlctRnE1aG1ScDJZZjQ4aW1WeXFkOFRUdzZTSW5lbGFGVkxJbEhIaEpuczdtRndMZGlxV3ZiR0ZkbzVubnlJcnR4MWJaSzNCTFcyRmpYbFlNLXBNa3VVbjNsRGhYa3pLXzAwNElKdmt4YmQwWEZ4Z1hYWWRTbHJBYUXSAcoBQVVfeXFMT3FDTzV0TEdKV2pQNDAzUDQ3ZDJiX29EZzZKS3c0ZnpvUG5nWGFRS3lyTUhSd2RaNUxhQXdEblBxb2ZJeGhUbmVOTnRaeFZIU3ZiWFdMeFlraUNZSkx6U21BdUlWdjVjaXRoVzREWDNUWG0xRzc5NGNycUItS1psRlBRbU9acVhweHAxWkFJM0RpZkJrb1lNZWVDb3JJNWFjTzhNOEY2T1NfZjEtMXl0Tm5mZmhrbDZKUi1CZFNsbGJLZU9PTk9ERzFVUQ?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-11-06T10:15:52.498Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

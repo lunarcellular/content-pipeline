@@ -52082,6 +52082,15 @@
       "processedDate": "2026-11-08T02:31:19.432Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d7aa53d01f2ab821e258c5a2edda15d06c771ca119d4e2ec5e63ba1610f86469",
+      "title": "UAE weather: Heavy rain possible, winds to reach 50km/h this week",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-heavy-rain-possible-winds-to-reach-50kmh-this-week-1.500739969",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-08T04:00:49.844Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

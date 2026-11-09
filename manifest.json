@@ -52496,6 +52496,51 @@
       "processedDate": "2026-11-09T12:00:53.038Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "17298ef1e39780756c08d0bc86d60a1ecd0a89b5ed9bb1df4c07ae793e71a095",
+      "title": "ADIB’s Dh1.75 billion rights issue opens on Nov 10",
+      "sourceUrl": "https://gulfnews.com/business/markets/adibs-dh175-billion-rights-issue-opens-on-nov-10-1.500741237",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T12:15:38.125Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "892601ce83a00c19d5d9a98c3bb4a4df9cbf94624f87c0664d35d36295a59c18",
+      "title": "The student teaches. The AI kid takes the exam           ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/the-student-teaches-the-ai-kid-takes-the-exam",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-09T12:15:40.553Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "892601ce83a00c19d5d9a98c3bb4a4df9cbf94624f87c0664d35d36295a59c18",
+      "title": "The student teaches. The AI kid takes the exam           ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/the-student-teaches-the-ai-kid-takes-the-exam",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-09T12:15:42.572Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7674d1aa1b12a3e888f0d519b165cd5e058f52903a15be804ac7904d9a5dba08",
+      "title": "The student teaches. The AI kid takes the exam - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJxeUxudy1RcUFTc0pYQXY2VXh4S2pjaFdzbjVTUDh0cXJhLVFqRXR4V0dUQW9kd2xQLWp6VUtodnNWd1U5al9GNjhMaFpGRlVNNGg4d3BPa3ZtZUdRY3BaWWd5RmE1aktNQVpGQnV4enVBSjBrRGU4NXBXbkVReFN3VnNMWkc1bl80bHF5X2VBUdIBmgFBVV95cUxPbVJFY1FsNmYwSWg1X0gwZVI4VGZLUmpSb2JyQWM0SDBqazY4Tnh6dlJoeXR0TlZIRlBmQ2psbUFqVVdfY1FxRjU5cTc2ZGxaLWR6cUdKRFlVN1YxZk14UElBWkVjaUZjUzZkSVZkM0dJVlNXQV9WNkZFekNPWktBNkhZam1kOG9hVEZmOUFqMjdKUmNPbWRDZkVB?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-11-09T12:15:44.584Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7674d1aa1b12a3e888f0d519b165cd5e058f52903a15be804ac7904d9a5dba08",
+      "title": "The student teaches. The AI kid takes the exam - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJxeUxudy1RcUFTc0pYQXY2VXh4S2pjaFdzbjVTUDh0cXJhLVFqRXR4V0dUQW9kd2xQLWp6VUtodnNWd1U5al9GNjhMaFpGRlVNNGg4d3BPa3ZtZUdRY3BaWWd5RmE1aktNQVpGQnV4enVBSjBrRGU4NXBXbkVReFN3VnNMWkc1bl80bHF5X2VBUdIBmgFBVV95cUxPbVJFY1FsNmYwSWg1X0gwZVI4VGZLUmpSb2JyQWM0SDBqazY4Tnh6dlJoeXR0TlZIRlBmQ2psbUFqVVdfY1FxRjU5cTc2ZGxaLWR6cUdKRFlVN1YxZk14UElBWkVjaUZjUzZkSVZkM0dJVlNXQV9WNkZFekNPWktBNkhZam1kOG9hVEZmOUFqMjdKUmNPbWRDZkVB?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-09T12:15:46.718Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -52199,6 +52199,42 @@
       "processedDate": "2026-11-08T19:30:45.495Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "17017682887c4107b0244acde2cf65b0a11e9b234e2c8aea539109ff9d295cf1",
+      "title": "Philippines' DepEd buys 172,000 MacBooks, first-time teacher recipients get priority",
+      "sourceUrl": "https://gulfnews.com/technology/philippines-deped-buys-172000-macbooks-first-time-teacher-recipients-get-priority-1.500740676",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T03:00:46.257Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "37dec1023f8756a42d8cd06ac91947f7aaa2954832d824ca3c3c43fdba356cb9",
+      "title": "Philippines' DepEd buys 172,000 MacBooks, first-time teacher recipients get priority - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMmF0b0dUb0NOOW1jcEJKUl9NNEo5MmQweXNJNG9oeWdRbm9ldlhiY2oxVWFpajFwaXdrRFpDQ1lBOThTcFFMdWdKNWJzbzN0WGFKUzl0Wk5YUVpiRUgyaVVUb0RLRGtXbHNOcFhRWmliWUZZWUpnQjRobG4zenhsUkZ0eFFuNVZwMHBMb1hqQ0F4UFBGTzdYVC1MNlBkRjh1WEVVRlVzdklCRVlEWkFnV25mZUtJZENDMVlxdWw1czNVUVHSAdMBQVVfeXFMTk1mbFo0R1dXNnIwRXJSb1dVTmM1VXZQUkU2cGdoQllaQkp1Tzdwa0hGSDNHa3VHOXJvMWd5bDJkamhITnFKU2lBMFdUX2lOTXYzRGVmNjlMaUJraTEyenNzSGtBT1hBSFlWSXZpZmt5NU1IWEhkem1XZUpUN1VSWTNOZVV3TGw0U2xLUTBWaFcwV0E3VTJYM29EUXBfSlZ0Q29wTzA3bHVZb2wyRHNJYVlFNzhxS2ZWSlB3aTdHcEloNTJ6bTRSTTdLWS1qbWtjSU5QQQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-09T03:00:48.777Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d8409668972e7d506ccc757aa7b86a095ac15610721f7f1cce8c3e2a33a3c12f",
+      "title": "UAE schools tighten what students can search, watch online in new cyber safety push",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-tighten-what-students-search-watch-online-cyber-safety",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-09T03:01:32.075Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-09-uae-schools-cyber-safety-measures.md"
+    },
+    {
+      "urlHash": "d8409668972e7d506ccc757aa7b86a095ac15610721f7f1cce8c3e2a33a3c12f",
+      "title": "UAE schools tighten what students can search, watch online in new cyber safety push",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-tighten-what-students-search-watch-online-cyber-safety",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-09T03:01:32.075Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-09-uae-schools-cyber-safety-measures.md"
     }
   ]
 }

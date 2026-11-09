@@ -52235,6 +52235,24 @@
       "processedDate": "2026-11-09T03:01:32.075Z",
       "relevant": true,
       "outputFile": "output/2026-11-09-uae-schools-cyber-safety-measures.md"
+    },
+    {
+      "urlHash": "19c00a1c16fc5c65c7a8c107abb051dd771c38501e833fb1c8ef5b31648b4005",
+      "title": "Eyes on Nvidia, Jensen Huang amid spying probe: The story so far",
+      "sourceUrl": "https://gulfnews.com/world/americas/eyes-on-nvidia-jensen-huang-amid-spying-probe-1.500740696",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T03:30:48.155Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9f5185aa2ba8b3c3961462d9e8f93ac65f488bd30f5c7f50023ffb52bac82f28",
+      "title": "Bubble wrap, sandcastles and childhood memories: Inside Reem Al Mubarak's new Abu Dhabi exhibition",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/09/bubble-wrap-sandcastles-and-childhood-memories-inside-reem-al-mubaraks-new-abu-dhabi-exhibition/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-09T03:30:51.850Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

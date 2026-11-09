@@ -52478,6 +52478,24 @@
       "processedDate": "2026-11-09T11:45:44.056Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a5aed93fcd230dfec2de67f6fd24cf759e83604ae25b844453da38df40cbeb75",
+      "title": "Miss USA Justus Kelley pays tribute to former winner stripped of crown in 1957",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/miss-usa-justus-kelley-mary-leona-gage-tribute",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-09T12:00:50.770Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e76c304a286cdec4f01262ee7b0f29db2c7252d6a415f662ef7ab69510a7bcd6",
+      "title": "University College London's new Dubai school will focus on business of healthcare",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/09/university-college-londons-new-dubai-school-will-focus-on-business-of-health-care/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-09T12:00:53.038Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

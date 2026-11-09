@@ -52334,6 +52334,33 @@
       "processedDate": "2026-11-09T06:16:19.409Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ae55200a06edb4bf54563684b7199e1e5aa80244805869fac13b92ec20f04bb1",
+      "title": "Vaibhav Sooryavanshi's driving license plan resurfaces after receiving Tata Seirra",
+      "sourceUrl": "https://gulfnews.com/sport/vaibhav-sooryavanshis-driving-license-plan-resurfaces-after-receiving-tata-seirra-1.500740864",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T07:00:50.367Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a360142de2268098efc680dfb5f048d55a205c592c24ad827f57059213cecd5c",
+      "title": "Bhumi Pednekar worried as Indian cities blanketed by smog after Diwali",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/bhumi-pednekar-indian-cities-pollution-diwali",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-09T07:00:52.553Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "33a73577a659bb491a4922649f6147a535073d44b350ca6986418b758179214c",
+      "title": "Adnoc Distribution reports 36% jump in nine-month profit on fuel sales boost",
+      "sourceUrl": "https://www.thenationalnews.com/business/energy/2026/11/09/adnoc-distribution-reports-36-jump-in-nine-month-profit-on-fuel-sales-boost/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-09T07:00:54.810Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

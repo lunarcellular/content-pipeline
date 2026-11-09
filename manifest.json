@@ -52649,6 +52649,24 @@
       "processedDate": "2026-11-09T14:15:42.495Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d225538a0eeae2090f0cbf6fd1c26f100e878416ea8c48d22a2c2cabbd6bd8ad",
+      "title": "Abu Dhabi launches campaign to empower communities in protecting children from harm",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-launches-campaign-to-empower-communities-in-protecting-children-from-harm-1.500741423",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T14:30:44.309Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "548a53e827f140bf5bf7be5e038f8c0080fda18efd636963708db14e712c0597",
+      "title": "Abu Dhabi communities urged to protect children by reporting safety concerns",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/09/abu-dhabi-communities-urged-to-protect-children-by-reporting-safety-concerns/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-09T14:30:46.202Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

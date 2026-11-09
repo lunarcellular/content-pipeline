@@ -52289,6 +52289,42 @@
       "processedDate": "2026-11-09T05:15:50.016Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "199d05ed7335d9f63d43d757b07266fc6eaa3082337d2f1f533344fe6be227f1",
+      "title": "How to protect your child's teeth: UAE Dentists on sugar, fluoride toothpastes and brushing",
+      "sourceUrl": "https://gulfnews.com/lifestyle/how-to-protect-your-childs-teeth-uae-dentists-on-sugar-fluoride-toothpastes-and-brushing-1.500740769",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T06:01:01.675Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "62648212348ce88e5274624498ecb813707f3c94c096fd98f33e59457a92becb",
+      "title": "Royal Caribbean pianist rescued after falling overboard, survives 9 hours at sea",
+      "sourceUrl": "https://gulfnews.com/world/americas/royal-caribbean-pianist-rescued-after-falling-overboard-survives-9-hours-at-sea-1.500740802",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T06:01:04.486Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ce6c8cd4f03a2b5e2f6087cce0b7f5d9612285a377e31aaec0e041ab2e814218",
+      "title": "UAE schools tighten what students can search, watch online in new cyber safety push - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlo2eTEyd2ozX1haMHFBLTIyWk1BUld1QWl0enZUalVtR2ZtV3VXbHh6SGtSVGlCUThVaXJNVnk2eHhIbzhOa2JINUpyOUE2UDNMRHpWRUVSRWFLa2pvcmNralBENzQ0TWwwWkFBMFN2dTk4VTJ3LTRXdWllQlF0UVNxRnZQZzFtVFQ4aDFhV0tVSEJEWXB4S1dNc010WXpiX01Sd0dlc0FxaHFxMEHSAbYBQVVfeXFMUGJETjJHeUgtQmlVbThmbnpJRGhqeVBRNENwWGhwWU5Lc0twdkNmSDN0Q0tBRFhCYzJ6RXpZWjN5NXVsUEpGRklUOXFMX21jMWZ5UmM1QW02bHZjMlhmRXVYYVpwXzB2TC1RUnBtYzNhLUM0eXBGRi04SGNxSXkySU9CVjdIUERlclZYamFHdFRxSjJTSHNJUjRmQm1UaWJMY252UTR0MEYzYWl6RnBISk9pZy1RM3c?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-11-09T06:01:47.335Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ce6c8cd4f03a2b5e2f6087cce0b7f5d9612285a377e31aaec0e041ab2e814218",
+      "title": "UAE schools tighten what students can search, watch online in new cyber safety push - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlo2eTEyd2ozX1haMHFBLTIyWk1BUld1QWl0enZUalVtR2ZtV3VXbHh6SGtSVGlCUThVaXJNVnk2eHhIbzhOa2JINUpyOUE2UDNMRHpWRUVSRWFLa2pvcmNralBENzQ0TWwwWkFBMFN2dTk4VTJ3LTRXdWllQlF0UVNxRnZQZzFtVFQ4aDFhV0tVSEJEWXB4S1dNc010WXpiX01Sd0dlc0FxaHFxMEHSAbYBQVVfeXFMUGJETjJHeUgtQmlVbThmbnpJRGhqeVBRNENwWGhwWU5Lc0twdkNmSDN0Q0tBRFhCYzJ6RXpZWjN5NXVsUEpGRklUOXFMX21jMWZ5UmM1QW02bHZjMlhmRXVYYVpwXzB2TC1RUnBtYzNhLUM0eXBGRi04SGNxSXkySU9CVjdIUERlclZYamFHdFRxSjJTSHNJUjRmQm1UaWJMY252UTR0MEYzYWl6RnBISk9pZy1RM3c?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-09T06:01:47.335Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

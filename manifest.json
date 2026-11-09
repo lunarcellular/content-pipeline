@@ -52622,6 +52622,24 @@
       "processedDate": "2026-11-09T13:45:35.834Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "51201510801d830dc80dac3ac1ea1ffa225fe755150ac4767e1149230d87eb26",
+      "title": "Indian expat student in Dubai run over and killed soon after reporting flat tyre",
+      "sourceUrl": "https://gulfnews.com/uae/indian-expat-student-in-dubai-run-over-and-killed-soon-after-reporting-flat-tyre-1.500741397",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-09T14:00:48.528Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7b90b7285ebbaf9b9b06614e302d1642002bde57ae6dec86fe1cc80023dcb14d",
+      "title": "EM Normandie Business School celebrates its first graduation ceremony in the UAE",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/em-normandie-business-school-celebrates-its-first-graduation-ceremony-in-the-uae",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-09T14:00:50.819Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

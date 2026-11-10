@@ -52793,6 +52793,24 @@
       "processedDate": "2026-11-10T04:00:44.418Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0760a4bec3de51250aed3d3e03e688ae0ec3cfe36d648fc8b8ffa713f9eeea2f",
+      "title": "US opens probe into Waymo vehicles over school bus safety violations",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-waymo-probe-self-driving-vehicles-school-bus-safety-violations",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-10T06:45:36.887Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f94329601fbcafa19a097475111090c79da95414674c65513469df5f516bd1b8",
+      "title": "US opens probe into Waymo vehicles over school bus safety violations - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVNua2s2akkwcXlZQ1hfRjN0MzREWXQ1NGprUnBaUTFfNnBNUTVCam1rT3hUQkprQk1iTnVuX3FjTHUybnBURnNaRDJvaTBmUFlDQUxNek5Vb3hCemx4Z0JEdm5mNm5pSjU0UkVVakRZWjBaQW5WaTZvUlhqWVNfV3ZiLTZia3kwNnpyOElyck5oN3BKYV9Manc4MGlHQVZvMk5pZ2Zac3p5U1ROcGfSAbYBQVVfeXFMTklVNFZfWklRMnl6V2tRZ0d2YmlrU0pKYVVrQlNqVEVLRWpPeVlrMzlJZm5HclB4ZEN2REliX2x0c0V4bUJROUdpRi1JRWFKc3g4Wm9wTTU4UGtqS19aQ1pYUnNSZHZnS1RWdmxMVkF5WG4wdU9NRUZnQm9UTkVycm9zNnByeHpjY1haMlNGTkR3Vm4wa2pjclZDQ1g5N3dqUVBTN3o2S09VcnR0dklwWW5CaW1MbFE?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-10T06:45:38.940Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

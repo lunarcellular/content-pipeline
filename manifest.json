@@ -53207,6 +53207,60 @@
       "processedDate": "2026-11-11T10:45:38.874Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "68d8873dee66d7f4012b25a0dc37447c15793f4bbf082c52fb097d1b0186ba8f",
+      "title": "Dubai launches new student card with 50% off public transport fares and 150,000 global discounts",
+      "sourceUrl": "https://gulfnews.com/uae/transport/dubai-new-nol-student-card-global-discounts-benefits-1.500743692",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-11T11:00:54.887Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "049eb992095210b41d7940751a71cfc3bb8730df4f0ad834486b29daf90b651e",
+      "title": "Dubai launches new student card with 50% off public transport fares and 150,000 global discounts - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1g5blNMU1ZWYWp3M09OSVRqMGtBeDBHMU9OenUzM3g3LVcyeVR1Nml3a25DbnAtQm90SERXNmJjM3c0dV9URnFoRVJFQVExSE84RXM1bnlfQVNFeHlwalM5Sl9pTExaUE03UnhMYVoxQkxlelhmTTFyYThNdVlTMEd3Y216amhOTUZtSE9WUXJzdDdPazJWS0tTUXNnbWl40gGzAUFVX3lxTE5OR1o2Zm5rUkZHNnpyX0NhUGYwVy1aN1BoWU1Mams2c3pqZ25yU2xjN0pUVHZWMmV6NTQxVnFURTdhYXA1M2tveG9xNkpYdUlGbWgtVkhGYmI4eE9Da1N2cUdmbDBsbWJZLWk4N3pRVE4wYUFNQS02SUdYdVR5WHgxWGdzaTJ5a3g3ZkotbGswLXR1cmFZaWxjRGxPOWRwLXM0YjNRb0pRYllhR3A4OENZWUxn?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-11-11T11:01:02.933Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1fea0156c0c8080faf91861d649af38a0a7ebcf12198bcdf8171404733db1d6c",
+      "title": "Abu Dhabi to train 250 Emiratis annually for inclusive education roles",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/abu-dhabi-to-train-250-emiratis-annually-for-inclusive-education-roles-1.500743702",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-11T11:02:15.139Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-11-abu-dhabi-inclusive-education-training.md"
+    },
+    {
+      "urlHash": "b81a44b43d45c41739739b97c41637409b13496bdd3dc88a10f29244e3b795ad",
+      "title": "Abu Dhabi to train 250 Emiratis annually for inclusive education roles - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjF5LWVzY29MaGlINXNHUGg0R3VydmFTU0o3aG9TUzVqck51Q3RtZDN1QVlVVDIxU1NYTExUT0psZzcyN0JBWmpYNXdEMFRKN29kSEZQT1dQMFFxVnJEYUdvbDYwT0poazQ4Ti0tMXVHYW8tNmVPM2Zwc2t0bERYQ1RfMUZ2SEtpVkRJYkZqNUFBQk5JSVkzQy11MWxlT2tIZnVfWEtRZkNPbHBPcmUxaG1HMXBGOWlw0gHLAUFVX3lxTE5KSkE1aVYya3BHV0Y0NGRQQ0E3bDNhRldSN2Y3M2l6dFVRNkhPQ25Fb2tNZVRDbV9NV3dqZG0zYm1Pbjl2T2NWRmRaVm05NjRXVloyS3ZrWlMxT29haHJnczNULVpwME5DMGVuS1BEXzB0MVFPNlFaOGs0enQxbmNacm1ZSGZ1cERiNThsellIVlBEczA0ODA4bkNCNDc3bU8yVkc0dlRKM1JOWG1qWmN6VGF4MUZsTVN4c1RXWEtwVmllU25pdHNVZjNR?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-11T11:02:15.139Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-11-abu-dhabi-inclusive-education-training.md"
+    },
+    {
+      "urlHash": "b81a44b43d45c41739739b97c41637409b13496bdd3dc88a10f29244e3b795ad",
+      "title": "Abu Dhabi to train 250 Emiratis annually for inclusive education roles - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjF5LWVzY29MaGlINXNHUGg0R3VydmFTU0o3aG9TUzVqck51Q3RtZDN1QVlVVDIxU1NYTExUT0psZzcyN0JBWmpYNXdEMFRKN29kSEZQT1dQMFFxVnJEYUdvbDYwT0poazQ4Ti0tMXVHYW8tNmVPM2Zwc2t0bERYQ1RfMUZ2SEtpVkRJYkZqNUFBQk5JSVkzQy11MWxlT2tIZnVfWEtRZkNPbHBPcmUxaG1HMXBGOWlw0gHLAUFVX3lxTE5KSkE1aVYya3BHV0Y0NGRQQ0E3bDNhRldSN2Y3M2l6dFVRNkhPQ25Fb2tNZVRDbV9NV3dqZG0zYm1Pbjl2T2NWRmRaVm05NjRXVloyS3ZrWlMxT29haHJnczNULVpwME5DMGVuS1BEXzB0MVFPNlFaOGs0enQxbmNacm1ZSGZ1cERiNThsellIVlBEczA0ODA4bkNCNDc3bU8yVkc0dlRKM1JOWG1qWmN6VGF4MUZsTVN4c1RXWEtwVmllU25pdHNVZjNR?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-11T11:02:15.139Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-11-abu-dhabi-inclusive-education-training.md"
+    },
+    {
+      "urlHash": "b81a44b43d45c41739739b97c41637409b13496bdd3dc88a10f29244e3b795ad",
+      "title": "Abu Dhabi to train 250 Emiratis annually for inclusive education roles - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjF5LWVzY29MaGlINXNHUGg0R3VydmFTU0o3aG9TUzVqck51Q3RtZDN1QVlVVDIxU1NYTExUT0psZzcyN0JBWmpYNXdEMFRKN29kSEZQT1dQMFFxVnJEYUdvbDYwT0poazQ4Ti0tMXVHYW8tNmVPM2Zwc2t0bERYQ1RfMUZ2SEtpVkRJYkZqNUFBQk5JSVkzQy11MWxlT2tIZnVfWEtRZkNPbHBPcmUxaG1HMXBGOWlw0gHLAUFVX3lxTE5KSkE1aVYya3BHV0Y0NGRQQ0E3bDNhRldSN2Y3M2l6dFVRNkhPQ25Fb2tNZVRDbV9NV3dqZG0zYm1Pbjl2T2NWRmRaVm05NjRXVloyS3ZrWlMxT29haHJnczNULVpwME5DMGVuS1BEXzB0MVFPNlFaOGs0enQxbmNacm1ZSGZ1cERiNThsellIVlBEczA0ODA4bkNCNDc3bU8yVkc0dlRKM1JOWG1qWmN6VGF4MUZsTVN4c1RXWEtwVmllU25pdHNVZjNR?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-11-11T11:02:15.139Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-11-abu-dhabi-inclusive-education-training.md"
     }
   ]
 }

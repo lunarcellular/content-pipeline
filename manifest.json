@@ -53261,6 +53261,24 @@
       "processedDate": "2026-11-11T11:02:15.139Z",
       "relevant": true,
       "outputFile": "output/2026-11-11-abu-dhabi-inclusive-education-training.md"
+    },
+    {
+      "urlHash": "290ad8dfc3f61d7f5ba4ed016d5cef36db4a050f8bb0f52dbaa4c24a46c55667",
+      "title": "At least 300 Italian schools evacuated after email bomb alerts - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVZvU0dZYzhNX2UycU5NNDB1b09KM24td0Ffc285YUcxQ0RBRkJyVzdhNkRqSWtoSkM3RWVNdV9YeDNnQVF3VGY1VnFwdE4yYWxtX29tTjVGbFF1Qm9RakxiX0FDZmo3NHhFbmdPTW5HY2t4dFhldEluWmNDcmFZOVRFekYyYUtYTmdPMk1B0gGWAUFVX3lxTFBMZkQ5WkNUNDhyWnJoa1J3TXRfdERWTVJwdEZnNFNOMEtSVHlwdmE3bm5FN1VNelNiY1BIdHBUb2JLM0dBNjBHRlg5QVhEcXFEd09iYXNUamE3akJ1RG1fX0h3aGgtOWYxS2NETkFFSzF6RmlsWm12eXhtYmpPMkZ4Y3VOVElRN2VWMW5RclAxbHBHSXRsdw?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-11-11T11:15:38.438Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "290ad8dfc3f61d7f5ba4ed016d5cef36db4a050f8bb0f52dbaa4c24a46c55667",
+      "title": "At least 300 Italian schools evacuated after email bomb alerts - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVZvU0dZYzhNX2UycU5NNDB1b09KM24td0Ffc285YUcxQ0RBRkJyVzdhNkRqSWtoSkM3RWVNdV9YeDNnQVF3VGY1VnFwdE4yYWxtX29tTjVGbFF1Qm9RakxiX0FDZmo3NHhFbmdPTW5HY2t4dFhldEluWmNDcmFZOVRFekYyYUtYTmdPMk1B0gGWAUFVX3lxTFBMZkQ5WkNUNDhyWnJoa1J3TXRfdERWTVJwdEZnNFNOMEtSVHlwdmE3bm5FN1VNelNiY1BIdHBUb2JLM0dBNjBHRlg5QVhEcXFEd09iYXNUamE3akJ1RG1fX0h3aGgtOWYxS2NETkFFSzF6RmlsWm12eXhtYmpPMkZ4Y3VOVElRN2VWMW5RclAxbHBHSXRsdw?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-11T11:15:41.047Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

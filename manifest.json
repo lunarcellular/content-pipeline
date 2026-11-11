@@ -53369,6 +53369,33 @@
       "processedDate": "2026-11-11T17:45:44.063Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1472dbab54134f06b8b5106ac5125670c71b31ba74ca6095c74abaa852d5951b",
+      "title": "Noel Tata retires as Tata Investment Chairman after 16 years; successor named",
+      "sourceUrl": "https://gulfnews.com/business/markets/noel-tata-retires-as-tata-investment-chairman-after-16-years-bahram-vakil-to-succeed-him-1.500744122",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-11T18:00:48.379Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8b6545d3970057768d9c09651cb18b4b835b0a6c0b2ba256f434a6120f3346ba",
+      "title": "Schools evacuated across Italy after bomb threats - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTZ5VUJhZ1RxYzJ0WWowVktQXzRfeDg2Nk9sdk1tWUFpTVRPMlJWV1dLYnh4Y3R2eERiWnlqQXVwVk01aTBVNUNCVUlNYlZHU3NfTzNDU3JyQjJxeEg3VjlvMDlTQXg3ajhXcGRGdXZYQlMtSUNidHFSZzRTSXZzVTBIdTFzRHBZVmY4OGs5RURnYUlRSWcwakMyckhsNW9fSUdodWVfQzVjMWRTLWfSAcABQVVfeXFMTmZJbjFZU3Y2NXl1VTFWYWd4NndXbU9PeHp1U1l0WEFTbVlUWUJWbTN4c0JNcE4wcGE3bHJESDJXWll1c1E3ZVAzTmpMUFJlR0ROczMtcjlBb1ZSbFE2aTJrMHE4MDBybWs4Yk5FeUdCdnFRWUE1aFB6R2JxcTk1d293NDFMamRmdjFncGZ3ajdGbmNXUVdOMDV5a2M5b2RrVW1UM2ZFWEh2eHZHX0M0c2xRMHpaUmwtWDZhZ1pBSHNC?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-11T18:00:50.631Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "999004a5a44272566cc40b1e03198fdd168e3f04f248f5778033809be1b82988",
+      "title": "ADEK, PureHealth develop Emirati talent to strengthen inclusive education - www.wam.ae",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPODVYNmp3LVA3ald6Z003Um5Vdjg2TzU1MjU3ZzdybEVPbThXZTVwVC13anl0eW5QZ2E5QW1Ca3ZTZVFUMURWaERwSHphNVVCS1E1SnZCVHBVWGhEY21yblIxTGdtcFdzQm5ZMW5MVWNiUFhTOHRvMWdiN1lRZU5pb21FelFvWmM2SU1nb0dlV3E?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-11-11T18:00:55.245Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

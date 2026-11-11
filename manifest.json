@@ -53306,6 +53306,15 @@
       "processedDate": "2026-11-11T12:00:52.150Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "195fe7c8131bb0dc5dc09d03c0696a11ae79f62ca5e90d856c330c6ff3cd3306",
+      "title": "Schools evacuated across Italy after bomb threats: Italian media",
+      "sourceUrl": "https://gulfnews.com/world/europe/schools-evacuated-across-italy-after-bomb-threats-italian-media-1.500743800",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-11T12:30:47.717Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

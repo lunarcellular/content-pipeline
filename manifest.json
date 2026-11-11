@@ -53279,6 +53279,24 @@
       "processedDate": "2026-11-11T11:15:41.047Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a96595072d7faccb25a2a3e30d52fc54414eda139903ac6714708d86757d8e69",
+      "title": "Arabic literature faces global reach challenges despite translation, experts say at SIBF 2026",
+      "sourceUrl": "https://gulfnews.com/uae/sharjah/arabic-literature-faces-global-reach-challenges-despite-translation-experts-say-at-sibf-2026-1.500743726",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-11T11:30:44.809Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d28c69fda1f1b396745d394946957499583978dcb7c3eb7ad3e1300321a09ab1",
+      "title": "At least 300 Italian schools evacuated after email bomb alerts",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/italian-schools-evacuated-email-bomb-alerts",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-11T11:30:46.603Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

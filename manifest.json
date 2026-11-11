@@ -53396,6 +53396,15 @@
       "processedDate": "2026-11-11T18:00:55.245Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "6012c6ca37de412d4fc400b6a7c5d20f4379f0745490d7861284b393bcfe87bb",
+      "title": "Dubai's Parkin posts record profit as fines outpace fees for first time",
+      "sourceUrl": "https://www.thenationalnews.com/business/2026/11/11/dubais-parkin-posts-record-profit-as-fines-outpace-tickets-for-first-time/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-11T18:45:39.466Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

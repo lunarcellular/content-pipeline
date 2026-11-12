@@ -53567,6 +53567,15 @@
       "processedDate": "2026-11-12T07:30:51.745Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1ffc8674c0ba18fe9ec5aef2f9e825a04544d436bdaf7a977c04cc53991a733d",
+      "title": "One killed, four injured in explosion at Libya gas complex",
+      "sourceUrl": "https://gulfnews.com/world/africa/one-killed-four-injured-in-explosion-at-libya-gas-complex-1.500744536",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-12T08:30:44.204Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -53675,6 +53675,15 @@
       "processedDate": "2026-11-12T14:00:52.870Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4ac3709fa9ac7359bd79f9bd150cc52172eb2c670f80195b6e217e5dd5234195",
+      "title": "Eight dead, 19 injured, including seven children, in New York building collapse",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/at-least-6-killed-19-injured-in-new-york-building-collapse-officials",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-12T14:30:44.536Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

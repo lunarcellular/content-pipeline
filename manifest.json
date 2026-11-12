@@ -53450,6 +53450,33 @@
       "processedDate": "2026-11-12T03:00:54.427Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "27544680f6e711b184f30631e5578d230c4998226a8a700123076d631aca27c7",
+      "title": "Dubai’s band of friends: From childhood living rooms full of music to sold-out gigs and big dreams",
+      "sourceUrl": "https://gulfnews.com/lifestyle/dubais-band-of-friends-from-childhood-living-rooms-full-of-music-to-sold-out-gigs-and-big-dreams-1.500743869",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-12T03:15:38.511Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d19588db59117665409cd525daa05ba308e5aec6c7be003fb8c14e3b8d4e7514",
+      "title": "Dubai’s band of friends: From childhood living rooms full of music to sold-out gigs and big dreams - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWk1SSnpobDFmQWVNV053ckRNQ2ptZDJSb2QxTmFYQk5ndkd3MklmeDJScVlYTGFzSDdNcFpvcWlCd2RLUF9qWEdjQ3U4Rmtmb1U0YVRyX1hxV2VhX2RjWm81Si1yWEZzdnNlNnBSQVhsazJKT0pYTHpaWTlGNjJ3M1pCSVlsV0U3MmtOYWxXMjVVRU9uejREbTR0RXZWN1RaWWdUYVRlNHF5SktVVVctMG9WcWZaaTdvcS0ybUR3RHNqd3VJSmhjT3k5UV9MZDVpY0FLYmNR0gHmAUFVX3lxTE90OWY1eXhNMVRsaUt5SWlVYXB3dFU0eWNvMEp1cDJLOHd1VXE1Zk1nWlV0OE5RM3hPWWRJWEN5ajg3blBqNVZObU9zV0lydFplOHpSbFR1OEVmenRkcngzT1FsSGFObl9EcnpHaHdfcEZMVlVSVlFOLWVQRlVlWEl0N3kydUxCbEtHUk44MVNjSWIxRmt5QXZOM09aRmhVTEdManQxdElxQ1lrMUFSUU1CMW8wU0Yydk9uZndoMlc0N1JmTjhrZHA5S2djdTc5ZmRuN011NVVjaXBXMndTZzBPdzE2TFhB?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-12T03:15:40.692Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "06c71fcc599190f30498fba301c08a1b295e01f07d287cd9e63a7787c4324f46",
+      "title": "How Abu Dhabi's old airport terminal became a destination for world-leading designers",
+      "sourceUrl": "https://www.thenationalnews.com/magazine/2026/11/12/how-abu-dhabis-old-airport-terminal-became-a-destination-for-world-leading-designers/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-12T03:15:42.902Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -53702,6 +53702,15 @@
       "processedDate": "2026-11-12T17:30:44.747Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2c6afae7d421002ff1ab23c0dda0a8d884e1b0fa9862c4bc181a1e5e9f1db6e3",
+      "title": "Microsoft 365, Outlook hit by major outage; global impact possible",
+      "sourceUrl": "https://gulfnews.com/technology/companies/microsoft-365-outlook-hit-by-major-outage-global-impact-possible-1.500745637",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-12T19:30:50.888Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -53990,6 +53990,33 @@
       "processedDate": "2026-11-13T09:45:40.652Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b6b912adfc9b25ed8a83a26a477507799ce78c930a753f2593d258fab1e7f34a",
+      "title": "Papaya in the skies, and a feed of good vibes",
+      "sourceUrl": "https://gulfnews.com/uae/papaya-in-the-skies-and-a-feed-of-good-vibes-1.500746164",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-13T10:00:50.588Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4d9476392ebe6841630f7b8c3be256789c8ff6793111c0ac3a62a90bbdee8561",
+      "title": "Moscow Film Cluster offers flexible production services and up to 45% support to regional producers at DICM",
+      "sourceUrl": "https://www.khaleejtimes.com/kt-network/moscow-film-cluster-offers-flexible-production-services-and-up-to-45-support-to-regional-producers-at-dicm",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-13T10:00:53.496Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "470ed40d6987076cb971acde21f3630ea0254bdb95532e3f9e7771d58bfefca4",
+      "title": "Dubai introduces unified system to tackle bullying in schools",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/13/dubai-introduces-unified-system-to-tackle-bullying-in-schools/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-13T10:01:26.942Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-13-dubai-schools-bullying-reporting-system.md"
     }
   ]
 }

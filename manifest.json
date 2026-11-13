@@ -54017,6 +54017,15 @@
       "processedDate": "2026-11-13T10:01:26.942Z",
       "relevant": true,
       "outputFile": "output/2026-11-13-dubai-schools-bullying-reporting-system.md"
+    },
+    {
+      "urlHash": "fcd8bf8474a13e14fe070236da858140f3ff0b1a2a681b5e875f732a1bff16bb",
+      "title": "India blocks over 100 international speakers from opposition democracy summit",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/india-blocks-over-100-international-speakers-opposition-democracy-summit",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-13T10:30:44.810Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

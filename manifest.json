@@ -53918,6 +53918,33 @@
       "processedDate": "2026-11-13T07:46:09.807Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "038064e00f92ebe7928bcaeed7597899280c9e3321008f382f581b52278854cb",
+      "title": "UAE winter break 2026: Families gear up for travel, holiday camps and childcare",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-winter-break-2026-families-travel-camps-childcare",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-13T08:00:51.475Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "038064e00f92ebe7928bcaeed7597899280c9e3321008f382f581b52278854cb",
+      "title": "UAE winter break 2026: Families gear up for travel, holiday camps and childcare",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/uae-winter-break-2026-families-travel-camps-childcare",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-13T08:00:54.776Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "99729bd39a4fd249cb4fd76bc9c686b97a917cc2128cf405705cede1ab1dd973",
+      "title": "UAE winter break 2026: Families gear up for travel, holiday camps and childcare - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVTZVOEhqWnlGcU9USVhOM0s0dnc0NVFjNFFlMXAtdWJaTlhtOXVHdFFkbjVjXzQxNF9hd0lManMtWHhJTW40cGJ5VkE3eVU1SlNIM3FKQ0toMWZPM0I1aGhFRkNCQlNUSjRoTm50dHB0TUEzdzhQTjZnNUZhVWtCVXlKWm5YRjl0N0NqMnYtZmt6Rm81WVR1cHJiYmlpSTg4NXVmNmtSaFZLZ9IBsgFBVV95cUxPZ3JoeG5xczN6TGUtcUIyTHF0MFBkNzZSUHhmZEdxOEUyTmcyRS15RFFpcjFIQVpXc1R4dkoxWi1ZaGk5VHZVUnUyam5LRm9vZV9vWi01dlJJS2JrOVN1UWtGOXpWQjBHd0lwWFZnUE5jeG8zbUhHM2ljSkRnSmdQdHVmejk1UjNWTzB4Q214UUtqMUVCMUtfT0N0Y0hFUngwRmN4aC1IeW9peXh6Q0JEZi1n?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-13T08:00:57.921Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

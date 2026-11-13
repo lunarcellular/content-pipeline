@@ -54134,6 +54134,24 @@
       "processedDate": "2026-11-13T14:00:53.318Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "84e386c79e30cf6763eed568e9994ee2b17c5d03f5120b037730b514307e2cfb",
+      "title": "Rio Ferdinand speaks out on Mauricio Pochettino replacing Michael Carrick at Manchester United",
+      "sourceUrl": "https://gulfnews.com/sport/rio-ferdinand-speaks-out-on-maurico-pochettino-replacing-michael-carrick-at-manchester-united-1.500746449",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-13T14:15:43.259Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8f552b15f3b6b495f41215af747673a76e56495e48f8a95643f050eec577add5",
+      "title": "12 dead, 12 injured as minibus collides head-on with truck in Assam, India",
+      "sourceUrl": "https://www.khaleejtimes.com/world/asia/12-dead-12-injured-as-minibus-collides-head-on-with-truck-in-assam-india",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-13T14:15:45.505Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

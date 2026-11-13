@@ -54116,6 +54116,15 @@
       "processedDate": "2026-11-13T13:31:59.640Z",
       "relevant": true,
       "outputFile": "output/2026-11-13-dubai-schools-safeguarding-framework.md"
+    },
+    {
+      "urlHash": "dd2563817d8da90213cfb7c31f49c6b4aeb2f09b4a088632386663f11eb00402",
+      "title": "UAE's Adnoc says Reuters story 'inaccurate,' calls for responsible reporting",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/adnoc-reuters-report-false-inaccurate-november-13-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-13T13:45:39.553Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

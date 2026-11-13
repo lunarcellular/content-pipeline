@@ -54152,6 +54152,15 @@
       "processedDate": "2026-11-13T14:15:45.505Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "c050aa86d3f04ed42cf11be1d56fc0bead522c1017a0c93839fd24a42602ecc3",
+      "title": "UAE announces first-term exam dates for Grades 3 to 12",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-announces-first-term-exam-dates-for-grades-3-to-12-1.500746563",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-13T15:02:03.338Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-13-uae-first-term-exam-dates.md"
     }
   ]
 }

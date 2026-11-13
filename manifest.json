@@ -53945,6 +53945,42 @@
       "processedDate": "2026-11-13T08:00:57.921Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7d687c764758b325f511e1907114d4d8d22e429136c4ff501523f52507dba7b9",
+      "title": "Dubai announces new rules, unified system to protect students from abuse, bullying and neglect in schools and universities - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1hfWHRjV3NNUC1pRmRMdXh2dk9mcjJkc1o3UVVTMi1iWVBYZkRvNmN3QVVVcm1STGtzaDZPVFR0aTJMakd0cU1BdWJRV1ppdWZ1dUFLLV9ReDBaalRPbVpwdkJvSFJ2bUphVmNFajRHM1BLeElZTExJcHAwMnpYTTVZNVByYTR6NnZHWVUzSDRQVUNGeURXcDVTYzFiTlBVaGhmaUVSZ9IBugFBVV95cUxPcDFIbTJQblFrbXI5SlQ1bFBmVXFzOVdSdTJXdEtNYmM4MXgzLXRXMXk5LXVpMEV1QnhXT0lDQWZPVmNmWDRaTG5ETW8yQ1dSaHZIbnRBNW96eUxFdG9RamlVR0R3d2NBdDJjN1AtaWhiWjFUVl9ER0gtcTd2Y3dZcGNFZFpaLURXWlloa3c4UE1EdWpwMU1pR1dRalUyWU9oekh4azJQZ3c2SUh3a2xGUmljRWdRZWZpQUE?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-13T08:43:41.675Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7d687c764758b325f511e1907114d4d8d22e429136c4ff501523f52507dba7b9",
+      "title": "Dubai announces new rules, unified system to protect students from abuse, bullying and neglect in schools and universities - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1hfWHRjV3NNUC1pRmRMdXh2dk9mcjJkc1o3UVVTMi1iWVBYZkRvNmN3QVVVcm1STGtzaDZPVFR0aTJMakd0cU1BdWJRV1ppdWZ1dUFLLV9ReDBaalRPbVpwdkJvSFJ2bUphVmNFajRHM1BLeElZTExJcHAwMnpYTTVZNVByYTR6NnZHWVUzSDRQVUNGeURXcDVTYzFiTlBVaGhmaUVSZ9IBugFBVV95cUxPcDFIbTJQblFrbXI5SlQ1bFBmVXFzOVdSdTJXdEtNYmM4MXgzLXRXMXk5LXVpMEV1QnhXT0lDQWZPVmNmWDRaTG5ETW8yQ1dSaHZIbnRBNW96eUxFdG9RamlVR0R3d2NBdDJjN1AtaWhiWjFUVl9ER0gtcTd2Y3dZcGNFZFpaLURXWlloa3c4UE1EdWpwMU1pR1dRalUyWU9oekh4azJQZ3c2SUh3a2xGUmljRWdRZWZpQUE?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-13T08:43:42.281Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "7d687c764758b325f511e1907114d4d8d22e429136c4ff501523f52507dba7b9",
+      "title": "Dubai announces new rules, unified system to protect students from abuse, bullying and neglect in schools and universities - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1hfWHRjV3NNUC1pRmRMdXh2dk9mcjJkc1o3UVVTMi1iWVBYZkRvNmN3QVVVcm1STGtzaDZPVFR0aTJMakd0cU1BdWJRV1ppdWZ1dUFLLV9ReDBaalRPbVpwdkJvSFJ2bUphVmNFajRHM1BLeElZTExJcHAwMnpYTTVZNVByYTR6NnZHWVUzSDRQVUNGeURXcDVTYzFiTlBVaGhmaUVSZ9IBugFBVV95cUxPcDFIbTJQblFrbXI5SlQ1bFBmVXFzOVdSdTJXdEtNYmM4MXgzLXRXMXk5LXVpMEV1QnhXT0lDQWZPVmNmWDRaTG5ETW8yQ1dSaHZIbnRBNW96eUxFdG9RamlVR0R3d2NBdDJjN1AtaWhiWjFUVl9ER0gtcTd2Y3dZcGNFZFpaLURXWlloa3c4UE1EdWpwMU1pR1dRalUyWU9oekh4azJQZ3c2SUh3a2xGUmljRWdRZWZpQUE?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-11-13T08:43:42.829Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "988ea7dcf98d23567e44d3ee522a6531624554004c89d3bd70ccb97a24c3f0ad",
+      "title": "Dubai announces new rules, unified system to protect students from abuse, bullying and neglect in schools and universities",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-khda-student-protection-policy-schools-universities-1.500746018",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-13T08:44:06.669Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-13-dubai-safeguarding-framework-schools.md"
     }
   ]
 }

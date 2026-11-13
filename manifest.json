@@ -53783,6 +53783,24 @@
       "processedDate": "2026-11-13T03:01:11.409Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "0f9cea6e522dd116323de57b5a986b1ff8b64f10f3c6c28cf1f27832c6a630f2",
+      "title": "Ruth Madeley on playing Judy Heumann, the activist who fought to make the world accessible",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/13/being-heumann-apple-tv-ruth-madeley/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-13T03:15:41.041Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d778c74d8f15bfcbc50fcceee05d838d9312eb099cf55ac00cd5de7987ab0390",
+      "title": "The impact of the US midterm elections will be global",
+      "sourceUrl": "https://www.thenationalnews.com/opinion/feedback/2026/11/13/us-midterm-elections-cop31-water-uae-flydubai-president-sheikh-mohamed/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-13T03:15:43.421Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -53819,6 +53819,24 @@
       "processedDate": "2026-11-13T05:45:46.196Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "897bb74b9befc0c17ee7f8a7e9e9b334c37c1900540fa36f1d3b10a010f2ce85",
+      "title": "Heartbroken Lewis Hamilton meets Palestinian children evacuated from Gaza",
+      "sourceUrl": "https://gulfnews.com/sport/heartbroken-lewis-hamilton-meets-palestinian-children-evacuated-from-gaza-1.500745909",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-13T06:00:47.195Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "58376cb12aa3557cbf4b937e1a28df7c1b55ab424f0f608e4c4d093bbdbe3efc",
+      "title": "Two children among eight killed in New York building collapse",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/two-children-eight-killed-new-york-building-collapse",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-13T06:00:49.726Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

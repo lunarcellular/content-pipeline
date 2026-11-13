@@ -54089,6 +54089,33 @@
       "processedDate": "2026-11-13T13:15:58.865Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "e8e535c8406203dfe1f6de4f4f7e2a5c1de426489d7fa18fc9538641999aa688",
+      "title": "Why this former Dubai student turned down the American dream for the UAE - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlJYa1F2ZHV5X3p3ckRfTGRmTDRtbUZwTWYwV29DZy1Cd2g2ZzBwbnlwdE5HalA3b1BfOXpFeTByU3Y1bHd2NnJDdDZRVFd0d3BXZ2VJR3Y4UHZ1blBwd0ZiWkhUYmYxNVgzTEpsTk5ZOVoyUDJENmY3NXJYWlYyUllVbGZXVVNIT3ozaWZUMUM0ekVWX3ZGLUhMdDNVTGRnbjNjcHhnVk1VUnp1UXZWdE9seDZtVjQ?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-13T13:31:02.822Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e8e535c8406203dfe1f6de4f4f7e2a5c1de426489d7fa18fc9538641999aa688",
+      "title": "Why this former Dubai student turned down the American dream for the UAE - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlJYa1F2ZHV5X3p3ckRfTGRmTDRtbUZwTWYwV29DZy1Cd2g2ZzBwbnlwdE5HalA3b1BfOXpFeTByU3Y1bHd2NnJDdDZRVFd0d3BXZ2VJR3Y4UHZ1blBwd0ZiWkhUYmYxNVgzTEpsTk5ZOVoyUDJENmY3NXJYWlYyUllVbGZXVVNIT3ozaWZUMUM0ekVWX3ZGLUhMdDNVTGRnbjNjcHhnVk1VUnp1UXZWdE9seDZtVjQ?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-13T13:31:05.668Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "25accc0873baf148f2dd1d6997ba539eefaeff69fd7a80810350225966dbbbab",
+      "title": "From bullying to online safety: What Dubai's new school safeguarding framework covers",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/dubai-khda-school-safeguarding-policy-new-rules-1.500746352",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-13T13:31:59.640Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-13-dubai-schools-safeguarding-framework.md"
     }
   ]
 }

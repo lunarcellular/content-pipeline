@@ -54278,6 +54278,51 @@
       "processedDate": "2026-11-14T08:00:45.841Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "99721cf9900fbe6c655d813ea938120cf1571f505a5c7347a4851b55df088e47",
+      "title": "UAE doctors say glass skin craze risks long-term skin damage for kids, teens",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/health/glass-skin-craze-risks-long-term-skin-damage-kids-teens",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-14T08:15:46.579Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dfd3c824520a737971bc1f413d1fcba23655efd4b3055087f68f9bd542cfed55",
+      "title": "Dubai schools must report students absent for five consecutive days under new rules",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-schools-must-report-students-absent-for-five-consecutive-days-under-new-rules-1.500747112",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-14T08:17:00.501Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-14-dubai-schools-report-absences.md"
+    },
+    {
+      "urlHash": "5b25223179271ec0fd88d70561648ec7a0e6f1ff179294d7c3f3bb1d911720c7",
+      "title": "Dubai schools must report students absent for five consecutive days under new rules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0dfWjcxWVhpbEJ0Tk92cjFmVjg5WUdJd3ZFNzBFR01NNHo0U3VBUXdfN0tZUldPNVlUMUZzeEhQUlEtVGdyWXZtQzRidHpLLWl1bDRXc1JFWTNfM0dKZW15XzAxTjBlS3M5QWF3NVc0RWVQbXBVSkl1M3RIaE5nX1NmcWpHejdqVTNuc3piWXZwMXlBcXZoNDRjeWRobFBRcDl4VGY0R0F3eUlhN2xhRlJUMkEyMUdyT1NtNjQyNU45bnVTNzhHMF930gHcAUFVX3lxTFBoMVFKOGhkMFNQc25wTG9hc3dZRUxLQ3ZuVzlJb0xKdGFZbzQwX01DU2pVdW5UOEdtQkpFOWhBZnFrdVZuUFI5cmhURldkaXdBYktadGQ1UE0xcWxzNHl1cldMY2ZqMVYzTHF5aHF6QThSRGd1REVkYTFSXzBhNVMzV1BaMlppWTA1NVVPRENZU2xXM19ISUk0WE82ZjdJVzBHZFU5eXdrQmRWOVc1Q1hEN1VNS0lQd21fbHZMYU9tTjZscUV5V1Ytcl9ybEpva1NpU3hUTDBHUjQtQUc?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-14T08:17:00.501Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-14-dubai-schools-report-absences.md"
+    },
+    {
+      "urlHash": "5b25223179271ec0fd88d70561648ec7a0e6f1ff179294d7c3f3bb1d911720c7",
+      "title": "Dubai schools must report students absent for five consecutive days under new rules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0dfWjcxWVhpbEJ0Tk92cjFmVjg5WUdJd3ZFNzBFR01NNHo0U3VBUXdfN0tZUldPNVlUMUZzeEhQUlEtVGdyWXZtQzRidHpLLWl1bDRXc1JFWTNfM0dKZW15XzAxTjBlS3M5QWF3NVc0RWVQbXBVSkl1M3RIaE5nX1NmcWpHejdqVTNuc3piWXZwMXlBcXZoNDRjeWRobFBRcDl4VGY0R0F3eUlhN2xhRlJUMkEyMUdyT1NtNjQyNU45bnVTNzhHMF930gHcAUFVX3lxTFBoMVFKOGhkMFNQc25wTG9hc3dZRUxLQ3ZuVzlJb0xKdGFZbzQwX01DU2pVdW5UOEdtQkpFOWhBZnFrdVZuUFI5cmhURldkaXdBYktadGQ1UE0xcWxzNHl1cldMY2ZqMVYzTHF5aHF6QThSRGd1REVkYTFSXzBhNVMzV1BaMlppWTA1NVVPRENZU2xXM19ISUk0WE82ZjdJVzBHZFU5eXdrQmRWOVc1Q1hEN1VNS0lQd21fbHZMYU9tTjZscUV5V1Ytcl9ybEpva1NpU3hUTDBHUjQtQUc?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-14T08:17:00.501Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-14-dubai-schools-report-absences.md"
+    },
+    {
+      "urlHash": "5b25223179271ec0fd88d70561648ec7a0e6f1ff179294d7c3f3bb1d911720c7",
+      "title": "Dubai schools must report students absent for five consecutive days under new rules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX0dfWjcxWVhpbEJ0Tk92cjFmVjg5WUdJd3ZFNzBFR01NNHo0U3VBUXdfN0tZUldPNVlUMUZzeEhQUlEtVGdyWXZtQzRidHpLLWl1bDRXc1JFWTNfM0dKZW15XzAxTjBlS3M5QWF3NVc0RWVQbXBVSkl1M3RIaE5nX1NmcWpHejdqVTNuc3piWXZwMXlBcXZoNDRjeWRobFBRcDl4VGY0R0F3eUlhN2xhRlJUMkEyMUdyT1NtNjQyNU45bnVTNzhHMF930gHcAUFVX3lxTFBoMVFKOGhkMFNQc25wTG9hc3dZRUxLQ3ZuVzlJb0xKdGFZbzQwX01DU2pVdW5UOEdtQkpFOWhBZnFrdVZuUFI5cmhURldkaXdBYktadGQ1UE0xcWxzNHl1cldMY2ZqMVYzTHF5aHF6QThSRGd1REVkYTFSXzBhNVMzV1BaMlppWTA1NVVPRENZU2xXM19ISUk0WE82ZjdJVzBHZFU5eXdrQmRWOVc1Q1hEN1VNS0lQd21fbHZMYU9tTjZscUV5V1Ytcl9ybEpva1NpU3hUTDBHUjQtQUc?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-11-14T08:17:00.501Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-14-dubai-schools-report-absences.md"
     }
   ]
 }

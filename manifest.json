@@ -54197,6 +54197,24 @@
       "processedDate": "2026-11-14T02:38:28.053Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5e3f5429016637fc64eddc75382d0aff2d11eec06d0fae0052b30ef80484b69c",
+      "title": "UAE weather: Rain possible from Monday, rough seas expected on Saturday",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-rain-possible-from-monday-rough-seas-expected-on-saturday-1.500746936",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-14T03:00:52.710Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f1019a8481d9f208037668da8a4d50e99f9ae08c10428f5411b6aa1442be9f66",
+      "title": "Rohit Sharma plays hide-and-seek with his children during New Zealand ODI",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/rohit-sharma-plays-hide-and-seek-with-his-children-during-new-zealand-odi-1.500746783",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-14T03:00:55.157Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

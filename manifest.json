@@ -54359,6 +54359,15 @@
       "processedDate": "2026-11-14T11:45:52.159Z",
       "relevant": true,
       "outputFile": "output/2026-11-14-attendance-reporting-dubai-schools.md"
+    },
+    {
+      "urlHash": "1959fd7b00945fa3faf25c35055c9394615ac2300777b0052d649036293af077",
+      "title": "Bigg Boss 20: Yung DSA opens up about parents' troubled relationship",
+      "sourceUrl": "https://gulfnews.com/entertainment/music/bigg-boss-20-yung-dsa-opens-up-about-parents-troubled-relationship-1.500747205",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-14T12:01:44.073Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

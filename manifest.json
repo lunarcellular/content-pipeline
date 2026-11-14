@@ -54350,6 +54350,15 @@
       "processedDate": "2026-11-14T11:15:47.586Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "db60029a02b85b99488fa8101415e582e2a15fc6825e8affddefc40de5ee8d0f",
+      "title": "Dubai private schools to report pupils who miss five consecutive days without explanation",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/14/dubai-private-schools-to-report-pupils-who-miss-five-consecutive-days-without-explanation/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-14T11:45:52.159Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-14-attendance-reporting-dubai-schools.md"
     }
   ]
 }

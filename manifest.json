@@ -54593,6 +54593,15 @@
       "processedDate": "2026-11-15T12:17:21.069Z",
       "relevant": true,
       "outputFile": "output/2026-11-15-dubai-schools-staff-suspension-rules.md"
+    },
+    {
+      "urlHash": "70dabe7dd3baad12a66c3d07cf005ffb6f9db3aa168ac192c1df999518ef4e07",
+      "title": "'She did not listen to anyone': Parents of woman arrested in Rajasthan railway track blast",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/she-did-not-listen-to-anyone-parents-of-woman-arrested-in-rajasthan-railway-track-blast-1.500748189",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-15T12:30:44.839Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

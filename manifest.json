@@ -54431,6 +54431,24 @@
       "processedDate": "2026-11-14T20:45:03.416Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3993fd1c6c098473ac4a3386e78238f85a4412ed25c5f1bce1fb39cf1613161a",
+      "title": "UAE weather: Rain possible from Monday to Thursday, winds to reach 40km/hr",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-rain-possible-from-monday-to-thursday-winds-to-reach-40kmhr-1.500747789",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-15T03:00:51.040Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8a38b3f5b18eed953b791d22c3a0ada4b2947272950f8b915a3daed4ac2ade26",
+      "title": "Vaibhav Sooryavanshi stops young fans from touching his feet in a heartwarming gesture",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/vaibhav-sooryavanshi-stops-young-fans-from-touching-his-feet-in-a-heartwarming-gesture-1.500747695",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-15T03:00:53.858Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

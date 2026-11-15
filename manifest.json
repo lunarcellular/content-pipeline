@@ -54638,6 +54638,15 @@
       "processedDate": "2026-11-15T15:30:45.181Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d2aa3fd0ccc16dba6faa4e224f8ffc8d11d20b03892118d212b747cbdb8c53c0",
+      "title": "Israeli forces arrest AFP contributor in West Bank",
+      "sourceUrl": "https://gulfnews.com/world/mena/israeli-forces-arrest-afp-contributor-in-west-bank-1.500748348",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-15T16:00:45.628Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

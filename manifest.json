@@ -54557,6 +54557,42 @@
       "processedDate": "2026-11-15T12:01:40.583Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cd8756074a08dc91fd8bb267d5713db573fdcf32dc2a9e3fb021114cb98b8cb4",
+      "title": "Dubai schools can temporarily suspend staff over student safety concerns under new rules",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-schools-can-temporarily-suspend-staff-over-student-safety-concerns-under-new-rules-1.500748167",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-15T12:17:21.068Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-15-dubai-schools-staff-suspension-rules.md"
+    },
+    {
+      "urlHash": "d0d068a43432adf507ea56ae3b50c78dbce5d122ac6e26101f309290c1fcea66",
+      "title": "Dubai schools can temporarily suspend staff over student safety concerns under new rules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMHoyVXFCREo4Ylh6R1NWalR1NXA3YjkwOXVTNHdtWTFfTzVUbnZQXzdzNUtLWVFmRlRRWWllQ3BPV0FOVzBQVk5TTmJ6VXlrOUVIaW1ZZDZYWjFIMGJJaDRLcFZpVXZIVkgyaHNEeWlPYktzOHJMSkwzSnJtaUVrNlQzcEJ3Y01xYzg0blJUTWxBT3QycDZ0enVUTy05c09xa3lJcTd0YnJXZGFLbDExZ1YwQlczMmhESWN4YzdKRVhVc0dOdWUtUEF6c3g3M3BN0gHjAUFVX3lxTE1pWkphR2ZYSzd5V2JUdUZ1YmV4azFLcWhyQTVhVTQtYzRJWEVFc2RESDJFTnZEbWtYTjJSeGZ0amczRXBXaVZwOTVnZzNDRUl5dWQyZUpKblNMQ19pd2NIc0xLUElfRzFRaVVuazU0OGc1NDhYQWZsMnR6TVZLeFNCbUljNE9ySXJycl95QzBQWjk1Ym5tWmZheG9yUVYwclBDOV9CbXlPUFdWck1mdlR2eE9hcEx0aDl2Yk40MllDN1hrQjk5SmNUOFVjMkt1YVNvaGRKZ0lUY20xVTFzc1lWdzVv?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-15T12:17:21.069Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-15-dubai-schools-staff-suspension-rules.md"
+    },
+    {
+      "urlHash": "d0d068a43432adf507ea56ae3b50c78dbce5d122ac6e26101f309290c1fcea66",
+      "title": "Dubai schools can temporarily suspend staff over student safety concerns under new rules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMHoyVXFCREo4Ylh6R1NWalR1NXA3YjkwOXVTNHdtWTFfTzVUbnZQXzdzNUtLWVFmRlRRWWllQ3BPV0FOVzBQVk5TTmJ6VXlrOUVIaW1ZZDZYWjFIMGJJaDRLcFZpVXZIVkgyaHNEeWlPYktzOHJMSkwzSnJtaUVrNlQzcEJ3Y01xYzg0blJUTWxBT3QycDZ0enVUTy05c09xa3lJcTd0YnJXZGFLbDExZ1YwQlczMmhESWN4YzdKRVhVc0dOdWUtUEF6c3g3M3BN0gHjAUFVX3lxTE1pWkphR2ZYSzd5V2JUdUZ1YmV4azFLcWhyQTVhVTQtYzRJWEVFc2RESDJFTnZEbWtYTjJSeGZ0amczRXBXaVZwOTVnZzNDRUl5dWQyZUpKblNMQ19pd2NIc0xLUElfRzFRaVVuazU0OGc1NDhYQWZsMnR6TVZLeFNCbUljNE9ySXJycl95QzBQWjk1Ym5tWmZheG9yUVYwclBDOV9CbXlPUFdWck1mdlR2eE9hcEx0aDl2Yk40MllDN1hrQjk5SmNUOFVjMkt1YVNvaGRKZ0lUY20xVTFzc1lWdzVv?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-15T12:17:21.069Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-15-dubai-schools-staff-suspension-rules.md"
+    },
+    {
+      "urlHash": "d0d068a43432adf507ea56ae3b50c78dbce5d122ac6e26101f309290c1fcea66",
+      "title": "Dubai schools can temporarily suspend staff over student safety concerns under new rules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMHoyVXFCREo4Ylh6R1NWalR1NXA3YjkwOXVTNHdtWTFfTzVUbnZQXzdzNUtLWVFmRlRRWWllQ3BPV0FOVzBQVk5TTmJ6VXlrOUVIaW1ZZDZYWjFIMGJJaDRLcFZpVXZIVkgyaHNEeWlPYktzOHJMSkwzSnJtaUVrNlQzcEJ3Y01xYzg0blJUTWxBT3QycDZ0enVUTy05c09xa3lJcTd0YnJXZGFLbDExZ1YwQlczMmhESWN4YzdKRVhVc0dOdWUtUEF6c3g3M3BN0gHjAUFVX3lxTE1pWkphR2ZYSzd5V2JUdUZ1YmV4azFLcWhyQTVhVTQtYzRJWEVFc2RESDJFTnZEbWtYTjJSeGZ0amczRXBXaVZwOTVnZzNDRUl5dWQyZUpKblNMQ19pd2NIc0xLUElfRzFRaVVuazU0OGc1NDhYQWZsMnR6TVZLeFNCbUljNE9ySXJycl95QzBQWjk1Ym5tWmZheG9yUVYwclBDOV9CbXlPUFdWck1mdlR2eE9hcEx0aDl2Yk40MllDN1hrQjk5SmNUOFVjMkt1YVNvaGRKZ0lUY20xVTFzc1lWdzVv?oc=5",
+      "sourceName": "Gulf News KHDA (via Google News)",
+      "processedDate": "2026-11-15T12:17:21.069Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-15-dubai-schools-staff-suspension-rules.md"
     }
   ]
 }

@@ -54647,6 +54647,15 @@
       "processedDate": "2026-11-15T16:00:45.628Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cbc7d41f9c2bd55af2f3b683f0a07e5596c5b145a90895f501979f81b23745e7",
+      "title": "Israeli forces arrest AFP contributor after raiding his West Bank home",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/israeli-forces-arrest-afp-contributor-raid-west-bank",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-15T17:30:45.172Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

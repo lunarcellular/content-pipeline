@@ -54530,6 +54530,33 @@
       "processedDate": "2026-11-15T10:30:43.428Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "b84ad9b4f5c46b4be98f1c239ee7d5e6d7f5469ea90738cc5c052b93a82e5341",
+      "title": "Dubai seizes over 19,250 counterfeit gas cylinders in inspection crackdown",
+      "sourceUrl": "https://gulfnews.com/uae/government/dubai-seizes-over-19250-counterfeit-gas-cylinders-in-inspection-crackdown-1.500748133",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-15T12:01:36.316Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e327615c2add29a9ea95fbe88406ac9df5eef4c6c0c04093858ef60ff7a78e07",
+      "title": "Iran's Ghalibaf says Tehran will not accept 'neither war nor peace' with US",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-15-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-15T12:01:38.566Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ff1e0bda86c0404e4c3a4d3dfc08bf1919e998448e2602fe895943a94fbdf3bc",
+      "title": "'A very special feeling': India U19 team celebrate Asia Cup win",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/cricket/a-very-special-feeling-india-u19-team-celebrate-asia-cup-win",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-15T12:01:40.583Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

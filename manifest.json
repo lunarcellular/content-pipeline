@@ -55007,6 +55007,33 @@
       "processedDate": "2026-11-16T12:45:37.044Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "72c0f28e781220a1cb8c85f094040462be5302bd9fc9079bf8fb298572bf13c2",
+      "title": "Shah Rukh Khan congratulates Jay Shah on second term as ICC chief",
+      "sourceUrl": "https://gulfnews.com/entertainment/bollywood/shah-rukh-khan-congratulates-jay-shah-on-second-term-as-icc-chief-1.500749291",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T13:30:48.830Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6f7378f346f64503c21b0625f844df12c146144aa679dea2299e6f1fbd33184f",
+      "title": "India's Jay Shah elected ICC chairman for second term",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/cricket/indias-jay-shah-elected-icc-chairman-for-second-term",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-16T13:30:50.836Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1bc4cb2ca6d3143a5e8951219e99b41f8811dc825ab6aa8918c58bf7ed95837f",
+      "title": "Iraq orders forces into Kataib Hezbollah stronghold amid oil-smuggling inquiry",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/11/16/iraqs-al-zaidi-meets-top-judge-to-discuss-jurf-al-sakhar-oil-smuggling-case/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-16T13:30:53.370Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

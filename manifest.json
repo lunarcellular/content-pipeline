@@ -55088,6 +55088,24 @@
       "processedDate": "2026-11-16T16:34:21.066Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "38cfb93744ba3db8ca17cea6c8453fa9d56f07bd3d03fbff7571f2d344a3c57b",
+      "title": "US mother to face retrial over children's deaths from March 29: judge",
+      "sourceUrl": "https://gulfnews.com/world/americas/us-mother-to-face-retrial-over-childrens-deaths-from-march-29-judge-1.500749567",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T17:00:52.375Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3629b09a97bd2174f3f9b52b82334b67442383149deb75fa2441027ec958e44e",
+      "title": "TV presenter arrested for killing his two children following dispute over sweets",
+      "sourceUrl": "https://gulfnews.com/world/mena/tv-presenter-arrested-for-killing-his-two-children-following-dispute-over-sweets-1.500749586",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T17:00:54.388Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

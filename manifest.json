@@ -54656,6 +54656,114 @@
       "processedDate": "2026-11-15T17:30:45.172Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d8a8a3bdd21e8cf170c5cc1bb00050a8bbd8949358a36ba36975b89d7e953df3",
+      "title": "Bahrain security alert: US warns citizens of possible armed attacks",
+      "sourceUrl": "https://gulfnews.com/world/gulf/bahrain/bahrain-security-alert-us-warns-citizens-of-possible-armed-attacks-1.500748592",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T03:00:58.722Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "661f7d8a39b2b62e77440e92f4010ba4389e2499d5c174211bd2de737298f115",
+      "title": "CBSE exams 2027: UAE schools step up preparations as students raise concerns over exam schedules",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-cbse-board-exams-2027-school-preparations-1.500748526",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T03:01:00.634Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6acbb9c884fd008ee868b65a79eba54bf638ed88ad7f2b78d07712d6618c373c",
+      "title": "US, Israel draw up plans for possible strikes on Iran’s economic infrastructure",
+      "sourceUrl": "https://gulfnews.com/world/mena/us-israel-draw-up-plans-for-possible-strikes-on-irans-economic-infrastructure-1.500748574",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T03:01:02.723Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0ae72ea967533e0b52b814a181b78a3d654212bf745fdbfeddbdcd6d7a91da41",
+      "title": "CBSE exams 2027: UAE schools step up preparations as students raise concerns over exam schedules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWc0dEdBSzRNQ01GbUNKZTRpeHNKNkZ5OWU3cThGcHVJdDRYR0pmR1p5UXF2NF9sVy04Y21kdmM4UFp0MVlOWU5COEt5VFpTUjhPVUJpblNnaWRtU1ZmWU1zc0o5c2gxd2wwWWI3TDRJUWJzQzBYbTdYVjduMmRkMjZST1h4aXlEWGdtc1RidW5UUGUtVHRN0gGqAUFVX3lxTE96OU1UN2E5NGdlVVowNVB1aVZzYzdXNXd6TlVRS3hzRlhycGJqRHRQTHIteVJYdll1am5GdDZCTHFOczJ1R3E4Zm5sMWRVa2dVdXNkWUo5b2JpN1Jpd245aV9TdzZ5ZTlWQzVxM1MwSVRPTElzN3hiU3dSUllVUXFfc1pXZ0N2cUFxRkg4eXZhTV9uUW11VzR0ak9QM0tjbW9WNWtRTmd3cWt3?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-16T03:01:05.076Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0ae72ea967533e0b52b814a181b78a3d654212bf745fdbfeddbdcd6d7a91da41",
+      "title": "CBSE exams 2027: UAE schools step up preparations as students raise concerns over exam schedules - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWWc0dEdBSzRNQ01GbUNKZTRpeHNKNkZ5OWU3cThGcHVJdDRYR0pmR1p5UXF2NF9sVy04Y21kdmM4UFp0MVlOWU5COEt5VFpTUjhPVUJpblNnaWRtU1ZmWU1zc0o5c2gxd2wwWWI3TDRJUWJzQzBYbTdYVjduMmRkMjZST1h4aXlEWGdtc1RidW5UUGUtVHRN0gGqAUFVX3lxTE96OU1UN2E5NGdlVVowNVB1aVZzYzdXNXd6TlVRS3hzRlhycGJqRHRQTHIteVJYdll1am5GdDZCTHFOczJ1R3E4Zm5sMWRVa2dVdXNkWUo5b2JpN1Jpd245aV9TdzZ5ZTlWQzVxM1MwSVRPTElzN3hiU3dSUllVUXFfc1pXZ0N2cUFxRkg4eXZhTV9uUW11VzR0ak9QM0tjbW9WNWtRTmd3cWt3?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-16T03:01:07.109Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "02c3c1716933bd0389b9d4db03d1e5854c0ceb484237d815380ea9c8de122950",
+      "title": "Dubai schools prepare for new safeguarding rules: What changes for students, teachers?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-new-safeguarding-rules-changes-students-teachers-parents",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-16T03:03:23.375Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-safeguarding-framework.md"
+    },
+    {
+      "urlHash": "02c3c1716933bd0389b9d4db03d1e5854c0ceb484237d815380ea9c8de122950",
+      "title": "Dubai schools prepare for new safeguarding rules: What changes for students, teachers?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-schools-new-safeguarding-rules-changes-students-teachers-parents",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-16T03:03:23.375Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-safeguarding-framework.md"
+    },
+    {
+      "urlHash": "b43df79a8f17ed444ab2ad109b9e3dcd088cc43b66d47940caaf57c75fade2eb",
+      "title": "Dubai schools prepare for new safeguarding rules: What changes for students, teachers? - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzV0N2hLMHVKNm4zQzVLdzVOd28xSUtfaUJoaENtbW5JazhxV1hzeE5ZU25XOXNsXzFrdkdvVHFaSjdXdEtQZ3NIVGQ1ZWJFMnBWQ2UxcHQtbzhnX2NHUGZiZ0oxNHNkM2JxVENiWXNUcEFTcjZpWExVbHNCNUJIbWJKMkhGeWVoU181YkxTVTFpalcxd3ZpNE1sUlkxZXd4Znlkbkw2OEFkTHR2Um92Q0lsQdIBuwFBVV95cUxPSWZseWxUcmxOanNreVNDbzd5T19RbTJzWjlVNDF1QmJSclByZ2xiRm0zRDktQlJuaUg4djdJZ05BR0RVdEZpUHpFX1dKQWlzaFA0QVpmaGs5cnYzS3RvZUk1MTVVc2VNbXNtMFZIX281TXhKd3RSWE51dDNnVC1tSnMxR2otR25na0hPYUJOOG9UY2phS2FtNFY1aFdzdHZSSWhsTFF1VzctRHU3cUdxVWJneE5yR1M0dFYw?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-16T03:03:23.375Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-safeguarding-framework.md"
+    },
+    {
+      "urlHash": "4cc1c09e2cea18a047b84da605fe490f7f1f76934a2c8e2fbaaac9794d208edc",
+      "title": "Five days absent: Dubai schools face new student reporting requirements",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-track-student-absence-reporting-requirements",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-16T03:03:45.733Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-attendance-reporting-requirements.md"
+    },
+    {
+      "urlHash": "4cc1c09e2cea18a047b84da605fe490f7f1f76934a2c8e2fbaaac9794d208edc",
+      "title": "Five days absent: Dubai schools face new student reporting requirements",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-track-student-absence-reporting-requirements",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-16T03:03:45.733Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-attendance-reporting-requirements.md"
+    },
+    {
+      "urlHash": "5943cd40abe4be1dcedf459514fe1c29192876f226748d1c9c8853657cfd80aa",
+      "title": "Five days absent: Dubai schools face new student reporting requirements - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVThrV1I1VDdMdTBHblI3eFJsYjlzSHBxZ3RYT3JhcVY4VjFCdTgzRzYyaEFKRnFlUDA1TnJmai1kY0htd2ZMNjdxbllYcy1IczhtNXpDM0VJeUpCZlBPWWQxRU5aY2V4SDhDZGpRSWIxeUluSGxjWjZQUWJRYUVzVEdia3JCWm9POXlGZ1ZPYnpOS1RXbGRkLdIBoAFBVV95cUxQX3FQMklUa1dDTzFNU1VoN3dMdHctWVF1RmRuOTlEclJmOVpOb1k2dGxQY0Q0dGNOR3hLYmdSMWhYSXZoN3VjSHFINUVPMDVqVWVsTWNTWFZJSjZEc1dGb3dOa002Zk8xSEg3bFVMaTZsVHFWeUl2bXp5bFBaa0lpd181dHl3eUF2eS02bEdyWkM2eTVtWjh6QlZNWDY1RHFx?oc=5",
+      "sourceName": "Khaleej Times Education (via Google News)",
+      "processedDate": "2026-11-16T03:03:45.733Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-attendance-reporting-requirements.md"
+    },
+    {
+      "urlHash": "5943cd40abe4be1dcedf459514fe1c29192876f226748d1c9c8853657cfd80aa",
+      "title": "Five days absent: Dubai schools face new student reporting requirements - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVThrV1I1VDdMdTBHblI3eFJsYjlzSHBxZ3RYT3JhcVY4VjFCdTgzRzYyaEFKRnFlUDA1TnJmai1kY0htd2ZMNjdxbllYcy1IczhtNXpDM0VJeUpCZlBPWWQxRU5aY2V4SDhDZGpRSWIxeUluSGxjWjZQUWJRYUVzVEdia3JCWm9POXlGZ1ZPYnpOS1RXbGRkLdIBoAFBVV95cUxQX3FQMklUa1dDTzFNU1VoN3dMdHctWVF1RmRuOTlEclJmOVpOb1k2dGxQY0Q0dGNOR3hLYmdSMWhYSXZoN3VjSHFINUVPMDVqVWVsTWNTWFZJSjZEc1dGb3dOa002Zk8xSEg3bFVMaTZsVHFWeUl2bXp5bFBaa0lpd181dHl3eUF2eS02bEdyWkM2eTVtWjh6QlZNWDY1RHFx?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-16T03:03:45.733Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-16-dubai-schools-attendance-reporting-requirements.md"
     }
   ]
 }

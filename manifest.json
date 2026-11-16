@@ -54926,6 +54926,24 @@
       "processedDate": "2026-11-16T11:00:56.278Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fd841ea65e2c8257c4cb71114f7cba7ed57c6f7b32f301a3d7fd74f63fa6943a",
+      "title": "Emirati businessman helps Dubai employers and universities secure staff accommodation and student housing",
+      "sourceUrl": "https://gulfnews.com/gn-focus/emirati-businessman-helps-dubai-employers-and-universities-secure-staff-accommodation-and-student-housing-1.500749134",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T11:30:46.787Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "9f5feccb4d82ab14411415d167dcaf3b857bbcda0e245725684e60bdebd0c683",
+      "title": "Head of Israel's Arab list elected deputy speaker of Knesset ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/11/16/head-of-israels-arab-list-elected-deputy-speaker-of-knesset/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-16T11:30:49.824Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

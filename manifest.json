@@ -54881,6 +54881,42 @@
       "processedDate": "2026-11-16T10:01:01.759Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "be956d9a32a979abaace45383d2c0ec8fabf74a75dae7b87a4428583390bcb7e",
+      "title": "UAE launches first National Early Childhood Week with 300 activities",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/uae-launches-first-national-early-childhood-week-with-300-activities-1.500749033",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T10:45:46.414Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a892ddb72df1fb9119c1dc25469a35319a4f0abd7a11f4d1713b667e1968810a",
+      "title": "Early Childhood Week 2026 kicks off with magical musical journey at NYU Abu Dhabi",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/early-childhood-week-2026-kicks-off-with-magical-musical-journey-at-nyu-abu-dhabi-1.500749018",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-16T10:45:48.489Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f57fb327481391bd2cd43e18985a318095390482b7a8f69843cdd57587261b4e",
+      "title": "UAE launches first National Early Childhood Week with 300 activities - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXMwcWZWdEFmZDBTNElUemhtQjlmUU5vSkZKYWZ0N05VXzcteGRxb2d1OFpzTVhqOVdlQ21VdWRrZjFrMkxYZkhsaE9md0tmRmNvSXpUUVRvMjBtTzNnRl8xNE9uY0RXT2VkZTZ6T1BaYUZpeDN3UGxwQ0JZSExkZHBuZWdoNVRIZTdjVk40X01CT3RZZ2ZPSWtxM1dmbW1PemtyY0lpQUVkV3ZGTUlIbUVXQi15UdIByAFBVV95cUxNRl8xUTJHcldCb0pSaTNBMjNKSkpiUkU2cDdPZ3k5SldQZFVVUFBNaUxhRUE0R0hLS0NDVlFSeldYQUxGRm1JWDdra25uelFvSEhiUlZQeDgtdkZwc1lnYk5NaERVbFBmZ3Ntd3hJRXE3S1QxT3FDWnoyajRxTzU2clJVTkgzWTQ5R1cyd29nakhFWlZTTEhYbzQ5QXhOQ0UyX3UtdkQySVFEM2NYNV9NYVFCdTdmZENxTTU2M3ZmeUNGSnVoS3BDRw?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-16T10:45:50.585Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "61259d74871f92ba1fbe7fa25b327133a280a2e055eb02720e10c256fac40380",
+      "title": "Arjun Das stars in 'John Doe', a Tamil thriller about 18 missing children",
+      "sourceUrl": "https://www.khaleejtimes.com/entertainment/arjun-das-john-doe-tamil-thriller-missing-children",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-16T10:45:52.550Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

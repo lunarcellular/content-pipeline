@@ -55160,6 +55160,24 @@
       "processedDate": "2026-11-17T03:01:13.698Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "06e2878118fa17dffc5829771c4af7cb46df0d5a0d678fe765cb7e004e9e3bbc",
+      "title": "Jack Persekian brings Jerusalem’s past and present together in Dubai exhibition",
+      "sourceUrl": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/17/jack-persekian-brings-jerusalems-past-and-present-together-in-dubai-exhibition/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-17T03:15:52.472Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e9cd343969d541ab7ab10f1358b9ca0f322f6e9003088a0a3215750cdf6c4749",
+      "title": "Trump to hold nuclear talks with Xi and Putin, with Kim Jong-un possibly joining",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/17/trump-to-hold-nuclear-talks-with-xi-and-putin-with-kim-jong-un-possibly-joining/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-17T03:15:54.334Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

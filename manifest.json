@@ -55142,6 +55142,24 @@
       "processedDate": "2026-11-17T00:26:03.813Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "36007c5e244270c8e7eff0f3dff31f77512408ed6c9e84f72c098c09c15dcd56",
+      "title": "Report: US intelligence points to possible Iranian 'dirty bomb' plot in Washington ",
+      "sourceUrl": "https://gulfnews.com/world/americas/report-us-intelligence-on-a-possible-iranian-dirty-bomb-plot-in-washington-1.500749861",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-17T03:01:11.520Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "24708c67329eb63c80cde740bbaa8ec6fd91bf37b867103b20452bcaadd92372",
+      "title": "Will teachers be replaced by AI in classrooms?",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/17/will-teachers-be-replaced-by-ai-in-classrooms/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-17T03:01:13.698Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

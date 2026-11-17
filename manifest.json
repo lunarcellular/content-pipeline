@@ -55205,6 +55205,33 @@
       "processedDate": "2026-11-17T07:01:02.661Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2431ecb943a0c22fba8b0103d0d023289d949e89361e7fbdb4cca3cd41891a95",
+      "title": "Taylor Swift fans in Dubai, this one's for you: Global Village to host tribute concert this month ",
+      "sourceUrl": "https://gulfnews.com/entertainment/taylor-swift-fans-in-dubai-this-ones-for-you-global-village-to-host-tribute-concert-this-month-1.500750174",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-17T07:30:49.065Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c9a132f6a59f23bca5ad213254f176b439b4fc8e49265a3a0dbae708c05c539f",
+      "title": "Type 2 diabetes remission: Is it possible to live without medication?\n",
+      "sourceUrl": "https://gulfnews.com/gn-focus/type-2-diabetes-remission-is-it-possible-to-live-without-medication-1.500750167",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-17T07:30:50.941Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f7140e5c59ac1ab49897ab47fb33cd0456fe0d056c7444c05a6648ceed950e2b",
+      "title": "Yango to launch UAE-built Arabic AI speaker Yasmina in Egypt",
+      "sourceUrl": "https://gulfnews.com/business/corporate-news/yango-to-launch-uae-built-arabic-ai-speaker-yasmina-in-egypt-1.500750165",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-17T07:30:52.933Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

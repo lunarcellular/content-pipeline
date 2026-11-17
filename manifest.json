@@ -55259,6 +55259,24 @@
       "processedDate": "2026-11-17T09:01:05.408Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "276c6080b59979d98e0ef1bc42ed5490fa2ff6867fad1ba95f22e2c8879325a8",
+      "title": "AI maps guide Dubai Police patrols to emergencies, help redistribute coverage",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-ai-maps-guide-patrols-emergencies",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-17T09:30:58.633Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "276c6080b59979d98e0ef1bc42ed5490fa2ff6867fad1ba95f22e2c8879325a8",
+      "title": "AI maps guide Dubai Police patrols to emergencies, help redistribute coverage",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/dubai-police-ai-maps-guide-patrols-emergencies",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-17T09:31:01.701Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

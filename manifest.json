@@ -55592,6 +55592,24 @@
       "processedDate": "2026-11-18T15:45:38.487Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7fcabf99db941325fc666a4a4f139efd55497e3c1e2857dfea027cc031d9fd31",
+      "title": "Sachin Tendulkar pays emotional tribute to MS Dhoni after IPL retirement",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/ipl/sachin-tendulkar-pays-emotional-tribute-to-ms-dhoni-after-ipl-retirement-1.500752612",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-18T16:15:37.905Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c73645dcb40b665afdae4f6d409ed98e58c164ceb0093c225644cd77257ff615",
+      "title": "US midterms 2026: Mary Peltola wins Alaska to secure 56-44 Senate majority for Democrats",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/18/us-midterms-2026-mary-peltola-wins-alaska-to-secure-56-44-senate-majority-for-democrats/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-18T16:15:39.746Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

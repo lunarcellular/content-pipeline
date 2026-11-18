@@ -55511,6 +55511,33 @@
       "processedDate": "2026-11-18T11:00:51.684Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "7567e56a8090f1c4b7fefd02a63ce1963522645b9a3e44086227bb1f8af446fa",
+      "title": "MS Dhoni retires from IPL: Dhanush says ‘game will never be the same’; Juhi Chawla, Karthi pay tribute",
+      "sourceUrl": "https://gulfnews.com/entertainment/ms-dhoni-retires-from-ipl-dhanush-says-game-will-never-be-the-same-juhi-chawla-karthi-pay-tribute-1.500752045",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-18T11:15:36.281Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ba80f821c5d9a2ea0d0bffe7dacc61f8e6950a2c1758d760c2a10273d8993cdf",
+      "title": "'It's hard to imagine cricket without you': Afghanistan's Gurbaz pens emotional farewell to childhood hero Dhoni",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/its-hard-to-imagine-cricket-without-you-afghanistans-gurbaz-pens-emotional-farewell-to-childhood-hero-dhoni-1.500752034",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-18T11:15:38.323Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f4f904024b973b7a40de3d4101dd1359821b1f4dd03549ca2b965cd0d076e370",
+      "title": "Javed Akhtar calls Sonia Gandhi’s memoir 'an easy read'",
+      "sourceUrl": "https://www.khaleejtimes.com/lifestyle/books/javed-akhtar-sonia-gandhis-memoir-an-easy-read",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-18T11:15:40.581Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

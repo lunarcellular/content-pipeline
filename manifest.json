@@ -55646,6 +55646,24 @@
       "processedDate": "2026-11-19T03:00:48.181Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "1032dfc6386420deb610d865f5c5d7df38077cc739f523ce840a800bf50f193d",
+      "title": "Shoaib Akhtar recalls ball tampering, says cricket is dying in Pakistan",
+      "sourceUrl": "https://gulfnews.com/sport/cricket/shoaib-akhtar-recalls-ball-tampering-says-cricket-is-dying-in-pakistan-1.500752789",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-19T03:15:48.352Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8aace684a404f5d3d6f73a2e97de0da1dad65267c9a16aac0598b887fde71ed5",
+      "title": "As AI becomes more accessible, what will define the competitive advantage?",
+      "sourceUrl": "https://www.thenationalnews.com/advertorial/2026/11/19/as-ai-becomes-more-accessible-what-will-define-the-competitive-advantage/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-19T03:15:50.876Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

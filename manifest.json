@@ -55754,6 +55754,33 @@
       "processedDate": "2026-11-19T06:30:40.382Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "e07824ace564b6c4657e1e256328afb3f7868b0c03d5d9d6693a2e53c9d40343",
+      "title": "Dubai declares 3-day Eid Al Etihad holiday for private schools and universities",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-declares-3-day-eid-al-etihad-holiday-for-private-schools-and-universities-1.500753134",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-19T06:45:30.493Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "fb474b50d461db1d02dcd71749ad9999bd2120c39451f32011e56401e02c6eda",
+      "title": "Dubai announces 3-day public holiday for private schools for National Day",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/19/dubai-announces-3-day-public-holiday-for-private-schools-for-national-day/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-19T06:45:34.510Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "ff7612b2ec1a614bab54eee295c9bf0a6d99f5664a14c405e6917c3fe2b88050",
+      "title": "Dubai private schools to get 5-day break as Eid Al Etihad public holiday announced - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVc5ckFUX21UUjBlWk9qVGJ0dDlhdGlkLWNtZ1lmNXliSEQxcU1Kbzl3MmRZMjAzUW1iM1dwQXlJT2JuNHA1OE1icTJocVZMRVpaQVY5Ri02THU5UjZraDJaeWRtNGxodFgwQlQtN3QtQl9DckZXT21QVTgtUk1GUFgxWkt0QUY2VjFZcnJGaDl5aEtONmFpRENUNjVJcXZEZ1c1dTVFMTJHUE3SAbMBQVVfeXFMUGF5eElmWnNZMDdTWGgteTdTT1otUkwxaDlQbnJ0aEpBMG0wYXg3aFNzNWJFbl9KUkExY3VKc1c0RWx0SHhxWDI1dU9sM0d1QlNaOEhEaGhUTzNucnBFUnk0UC1mdzZjTGE2UDVhN1hZem5IUFY2YVBBU1RTelJaQ3VxUk9xdDFLWmZsRk1uSW1oWmM1VmNyczhFVHVLZmw4UC1NTDV2SnBPVThQQ1pTWXJjVXM?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-19T06:45:43.351Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

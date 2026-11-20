@@ -56123,6 +56123,24 @@
       "processedDate": "2026-11-20T05:15:52.731Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5d17c2192ab80f873d62b9a364fd32c56bf1355ac4685cf7a86edc883d9a604d",
+      "title": "Studying in Al Ain? SEHA brings women's health checks to campuses",
+      "sourceUrl": "https://gulfnews.com/uae/abu-dhabi/studying-in-al-ain-seha-brings-womens-health-checks-to-campuses-1.500754652",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-20T07:15:44.651Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c30ff775d9fedc0046a6db5bcc86b3ce6f12d25c87b46d0da2d449c15e909f74",
+      "title": "IIT Delhi Abu Dhabi graduates first 17 students, all secure energy-sector jobs",
+      "sourceUrl": "https://gulfnews.com/uae/education/iit-delhi-abu-dhabi-graduates-first-17-students-all-secure-energy-sector-jobs-1.500754639",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-20T07:15:46.894Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

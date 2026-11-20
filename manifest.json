@@ -56159,6 +56159,15 @@
       "processedDate": "2026-11-20T07:30:42.552Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "16a1ece0d226b3e21c9a1734005a9a84418027a99bbc6544cdce854e69dfbc40",
+      "title": "Dubai schools ban teachers from using personal phones, WhatsApp to contact students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/dubai-schools-teachers-personal-phones-whatsapp-students",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-20T08:01:23.148Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-20-communication-rules-teachers-dubai-schools.md"
     }
   ]
 }

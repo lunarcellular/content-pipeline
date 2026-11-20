@@ -56285,6 +56285,33 @@
       "processedDate": "2026-11-20T12:00:51.291Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "75f91184637eac845d6dbc881499695c5afdae5ac4dbda1e61ea43aab48511fd",
+      "title": "Saif Abdulla brings life lessons to UAE classrooms",
+      "sourceUrl": "https://gulfnews.com/friday/art-people/saif-abdulla-brings-life-lessons-to-uae-classrooms-1.500755186",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-20T13:30:45.730Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "0d627f8c2913e73f9d2d9cb93fb3132aea9808e4ca3d284640db4bbde9494b2d",
+      "title": "James Cameron at Megacampus Dubai: AI, Avatar and why technology should serve the story",
+      "sourceUrl": "https://gulfnews.com/entertainment/james-cameron-at-megacampus-dubai-ai-avatar-and-why-technology-should-serve-the-story-1.500755075",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-20T13:30:47.757Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "289c6150f4d292092453323a9524faef03f1b8da73675fc3b4ee1b9bb2bbf2e0",
+      "title": "First 17 students graduate from IIT Delhi's Abu Dhabi campus",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/20/first-17-students-graduate-from-iit-delhis-abu-dhabi-campus/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-20T13:30:49.588Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

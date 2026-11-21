@@ -56600,6 +56600,15 @@
       "processedDate": "2026-11-21T18:00:46.139Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bbbaede602c6921b42d44bf094f6bf08bc52eb8af815030a3e2876551f3d05b2",
+      "title": "Rain hits Abu Dhabi, UAE forecasts cloudy skies and possible fog",
+      "sourceUrl": "https://gulfnews.com/uae/weather/rain-hits-abu-dhabi-uae-forecasts-cloudy-skies-and-possible-fog-1.500756532",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T19:00:52.400Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

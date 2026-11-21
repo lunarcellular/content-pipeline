@@ -56519,6 +56519,33 @@
       "processedDate": "2026-11-21T13:15:37.517Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "bf645c56467af54d134496c9021f9b06a75d51fe6d9c1f2bffae4260eebe2754",
+      "title": "Al Ain hunting and equestrian exhibition returns November 25: What to expect",
+      "sourceUrl": "https://gulfnews.com/uae/government/al-ain-hunting-and-equestrian-exhibition-returns-november-25-what-to-expect-1.500756348",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T15:00:47.309Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "a00b43260ce51c9e8662b751e4b2514ebdc2ea30c698b5b95756a104ac9a8425",
+      "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+      "sourceUrl": "https://www.khaleejtimes.com/world/mena/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say-2",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-21T15:00:50.375Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "447e367ff4465bd24f4f4ca5d64d2f53ddbabca5f92004c30c91d43ceb36212c",
+      "title": "'The authorities knew': Basra gas blast victims speak out ",
+      "sourceUrl": "https://www.thenationalnews.com/news/mena/2026/11/21/the-authorities-knew-basra-gas-blast-victims-speak-out/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-21T15:00:52.751Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

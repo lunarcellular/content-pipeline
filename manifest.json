@@ -56456,6 +56456,24 @@
       "processedDate": "2026-11-21T08:45:46.727Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "1907708ab42201f88db46ddbb70c66fd7556f0cc768fe228f225c6240d159218",
+      "title": "Mangaluru student abducted from college refuses to return home, police record her statement",
+      "sourceUrl": "https://gulfnews.com/world/asia/india/mangaluru-student-abducted-from-college-refuses-to-return-home-police-record-her-statement-1.500756019",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T09:00:52.346Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c7444f1f81477ea1d07bb77c9c9ab694101156d8340571993b1a290844c82f12",
+      "title": "UAE students with diabetes allowed to use phones, carry snacks during exams",
+      "sourceUrl": "https://gulfnews.com/living-in-uae/education/uae-students-with-diabetes-allowed-to-use-phones-carry-snacks-during-exams-1.500755976",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T09:01:32.475Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-21-uae-students-diabetes-exam-accommodations.md"
     }
   ]
 }

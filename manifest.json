@@ -56420,6 +56420,15 @@
       "processedDate": "2026-11-21T06:30:42.378Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "643c53a72d605f02c12a1fe1d6f410e685950bb272a4166f5c1195edf15c37c3",
+      "title": "UAE students have three working days to appeal exam cheating penalties - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG1vdDE5M21JZDg5X1pybU15NzVoQ0RBU2RUTXlXRHZiQVhzUHNtajlEVWpMM2xlWjNiYUFLU0RxM0RfYldXQXB4cTdCVTFrXzVTQkZUVTJOOFVqenNfMURHZ1RXOGxBajlQYmRORmJHelVtemJSLWF1V25LNW9CWlpZUVJyVjJEVjU0Y3lPd0NXLVJQRE5jQUhjUUhBcEYwS1JHaU9UX1kzVkJqRzAtUk9VREc5X2930gHLAUFVX3lxTE5BbW53a1h5TXgzeFh3SHRwbkRPUWNqeWxRRG5YdmJqa2c5SVctTTdLaXNzYmg4aGxYQjhfb3JoUGlzU2pPeEM0SHhTbjJXakVlVVZ2RGF1ZFhFWE41b2hPQlo0VENackJ0aWQyTC1HNVczU1dDMmdEMmp4dktMZHliQk9EZ0VIREpiUUpMTFN6MEQyTnNoMUIwTkhIQzNZNExjdVh2WVA2U1o0cXh1T2htTUxSNWxicWRCVHRLNnA0M2RuYmdDTmpkQ1pn?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-21T07:31:12.422Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-21-uae-students-challenge-exam-penalties.md"
     }
   ]
 }

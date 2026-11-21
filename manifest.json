@@ -56366,6 +56366,24 @@
       "processedDate": "2026-11-21T01:41:00.845Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "3cb30d54c16ec9ab7a6e7f98ce1f96728efb4ed76a1959569357841e2647977a",
+      "title": "Middle East war: Trump says Iran wants deal but terms are unacceptable",
+      "sourceUrl": "https://gulfnews.com/uae/middle-east-war-trump-says-iran-wants-deal-but-terms-are-unacceptable-1.500755788",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T03:00:54.078Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1a6c74487672d87791683a54cf1bc6134c3fe547dead61b2e4214305eb4b2e7a",
+      "title": "Dubai: Parkin cameras installed at People of Determination parking spaces in Karama",
+      "sourceUrl": "https://gulfnews.com/uae/transport/dubai-parkin-cameras-installed-at-people-of-determination-parking-spaces-in-karama-1.500755740",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T03:00:56.544Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

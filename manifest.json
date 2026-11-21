@@ -56384,6 +56384,24 @@
       "processedDate": "2026-11-21T03:00:56.544Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "98fbc686201703073a4df131b6375e8245e8cd651d892fabcd7a1bb764c0bb83",
+      "title": "Is Jack Ma back? What his surprise HK$600 million Alibaba bet tells us",
+      "sourceUrl": "https://gulfnews.com/business/markets/is-jack-ma-back-what-his-surprise-hk600-million-alibaba-bet-tells-us-1.500753643",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T03:30:44.300Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "543e130799af7fc900be6bc651b6635f005c73f5db9bfd1fb464c086d85a23a4",
+      "title": "UAE weather: Fog and mist expected this weekend, rain possible on Monday",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-fog-and-mist-expected-this-weekend-rain-possible-on-monday-1.500755787",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-21T03:30:46.350Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

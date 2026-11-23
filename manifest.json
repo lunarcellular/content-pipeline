@@ -57149,6 +57149,42 @@
       "processedDate": "2026-11-23T17:31:09.493Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9667b3267f7a62203cb05bc1e09cabb04d0035a01196d745f541e40b9f9027c5",
+      "title": "Oil drops more than 3% on increased Middle East flows, Libyan pipeline restart",
+      "sourceUrl": "https://www.khaleejtimes.com/business/oil-drops-more-than-3-on-increased-middle-east-flows-libyan-pipeline-restart",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-23T18:01:06.003Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "42ab2f3e93e1dcf95ea4f3fb6c08900cba580b7adca0d7eefab9814be14ccaa6",
+      "title": "Dubai’s commercial real estate sector enters a period of greater equilibrium",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dubais-commercial-real-estate-sector-enters-a-period-of-greater-equilibrium",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-23T18:01:08.392Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "64d7fc0f2e6af083713ccd5799d921b802fdd944b8d97d23fc3a3140cb30614f",
+      "title": "Dubai’s personalised learning and assessment market eyes growth ",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dubais-personalised-learning-and-assessment-market-eyes-growth",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-23T18:01:10.517Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "4c32fbab4d25274ffc546660218be2457f68870db0aca39cb743ad5f6e9832b4",
+      "title": "President Sheikh Mohamed speaks with Syrian leader Ahmad Al Shara",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/23/president-sheikh-mohamed-speaks-with-syrian-leader-ahmad-al-shara/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-23T18:01:12.431Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

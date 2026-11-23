@@ -56771,6 +56771,42 @@
       "processedDate": "2026-11-22T22:42:56.537Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "32d1ce4b1efea8a060f78af99f291add84d0317cccdb25c589cd637b061b6846",
+      "title": "UN condemns drone attacks off Libya, urges investigation",
+      "sourceUrl": "https://gulfnews.com/world/mena/un-condemns-drone-attacks-off-libya-urges-investigation-1.500757393",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-23T03:00:50.764Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "cee4ef07f4c33588714c67d6da5faf628847138f66ed6092185ddfec3064a1e7",
+      "title": "UAE weather: Rain forecast in eastern and northern areas, fog possible overnight",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-rain-forecast-in-eastern-and-northern-areas-fog-possible-overnight-1.500757381",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-23T03:00:53.039Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "78dcbec3607fc644749b2d48240fae1729e7649fd3c7254bbbd9ae572936518a",
+      "title": "UAE school winter break 2026–2027: When do holidays start and when will classes resume?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/winter-break-2026-2027-start-when-will-classes-resume",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-23T03:01:38.201Z",
+      "relevant": true,
+      "outputFile": null
+    },
+    {
+      "urlHash": "78dcbec3607fc644749b2d48240fae1729e7649fd3c7254bbbd9ae572936518a",
+      "title": "UAE school winter break 2026–2027: When do holidays start and when will classes resume?",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/winter-break-2026-2027-start-when-will-classes-resume",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-23T03:01:38.201Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

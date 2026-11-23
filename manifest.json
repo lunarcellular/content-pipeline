@@ -57005,6 +57005,24 @@
       "processedDate": "2026-11-23T12:45:46.311Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "9c2daaed6781c9cb85aba7b236f2ec0871bc9a89da12f970398a2087d7164b9f",
+      "title": "Pakistan moves school certificate attestation online",
+      "sourceUrl": "https://gulfnews.com/uae/education/pakistan-moves-school-certificate-attestation-online-1.500758087",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-23T13:15:37.785Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e2d976dd5f7e32a8199a5373253d29fc7b9c5966e4a4b60b335f88801ea128e8",
+      "title": "University of Sharjah announces new paid parking as students raise concerns",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/23/university-of-sharjah-announces-new-paid-parking-as-students-raise-concerns/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-23T13:15:40.438Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

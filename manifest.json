@@ -56942,6 +56942,33 @@
       "processedDate": "2026-11-23T11:15:39.224Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "6ad1bd7bc391f798768030c26843aa7a54314007188d579efc7525ee33412f40",
+      "title": "More than 450 schools receive bomb threats in Germany ",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/schools-germany-bomb-threats",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-23T12:15:37.266Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "198c0c4bdb2d3640dd6f8731bdc16750a06176aa11344261ed9f21ee32ae2d3c",
+      "title": "Volunteers revamp Dubai, Abu Dhabi schools, helping nearly 2,900 students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/volunteers-revamp-schools-dubai-abu-dhabi",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-23T12:15:39.034Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "198c0c4bdb2d3640dd6f8731bdc16750a06176aa11344261ed9f21ee32ae2d3c",
+      "title": "Volunteers revamp Dubai, Abu Dhabi schools, helping nearly 2,900 students",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/volunteers-revamp-schools-dubai-abu-dhabi",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-23T12:15:41.125Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

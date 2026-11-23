@@ -56969,6 +56969,42 @@
       "processedDate": "2026-11-23T12:15:41.125Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "a5494215c036b4a3bef87aff176f66e7de42137f84f1bc9073af5c3ed8b69de6",
+      "title": "DIB, Emirates Islamic in talks for a merger?",
+      "sourceUrl": "https://gulfnews.com/business/banking/dib-emirates-islamic-in-talks-for-a-merger-1.500758026",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-23T12:45:39.544Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "bd7270dd7a75bbe8a97fe9af8057e5bc81a8e0987b609aa63ae696b6d8888eba",
+      "title": "Bomb threat emails spark alarm at schools across Germany",
+      "sourceUrl": "https://gulfnews.com/world/europe/bomb-threat-emails-spark-alarm-at-schools-across-germany-1.500757907",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-23T12:45:41.822Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c0d47e1203754722030b4ad039ffe47899caf664a4b00eb716fb0a4609f062ee",
+      "title": "Bomb threat emails spark alarm at schools across Germany - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUMybUF6U082LUpjaE91SkRtel96VzU3ZVlPb1FUVDRxTG5LOFcwLUJQN0hRT1F3eE9SSkQ0a0I0am9yNHl5bldEeldZRllWS3IwelRmV2pMazZFcW56cDhHNVZvS0FSU08zYXFkSzk0WlpCYVlrN25NaEpPRG1OUzlEQWM2c3E0dVZudGJFd2xOek9iN1lxS1hNVVRFQ0p4dzVkQtIBtwFBVV95cUxOeWhrNFE3MW9jcl9ia2FHaHh6YTlzOEJYbGJDSXp2WXdCTFYybVJ3SHdpUFExWV81cE9fTWFrR2lCdHl3MU9mbGtXb1J1SS1tdmJySHJSTnBORC1wT2JCaXlaUjVSRlhSX1gtS00zQ2hsOEhTMzUxZkZnb1pCTGNKUGEtVWlyN1hsdFlGN09VSUJHQlp0SFg2Q1M1NElHNkVvY0VGeFoxOFhGQ0xlZUJyNFRvUzk2YzA?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-23T12:45:43.871Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "472eefca3af672c465bbb91610895b161b0a47740d59d91285c429c97e4d2f1a",
+      "title": "Dh25 per hour parking fees in some Dubai World Trade Centre zones during Big 5 Global ",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/dubai-world-trade-centre-parking-25-hourly-big-5-global-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-23T12:45:46.311Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

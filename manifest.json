@@ -57527,6 +57527,24 @@
       "processedDate": "2026-11-24T13:30:47.274Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "2ba4a151912f0421308d140251610507a67271b0aadf87644b43b40fc0dd3096",
+      "title": "Turn up the sound, not your spending: 5 best White Friday Bluetooth speaker deals",
+      "sourceUrl": "https://gulfnews.com/best-buys/BestBuys-lifestyle/turn-up-the-sound-not-your-spending-5-best-white-friday-bluetooth-speaker-deals-1.500758845",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-24T14:15:36.632Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f030534e8042c870162afd9fbf19265827af676fbcc938b0703b173c825d6344",
+      "title": "UAE schools to begin first-term exams on Wednesday under strict anti-cheating rules",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-schools-to-begin-first-term-exams-on-wednesday-under-strict-anti-cheating-rules-1.500759499",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-24T14:16:06.738Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-24-uae-first-term-exams-anti-cheating-rules.md"
     }
   ]
 }

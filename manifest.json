@@ -57428,6 +57428,24 @@
       "processedDate": "2026-11-24T09:45:39.324Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "d4be554b52cd442942bcec1d20d765471f7fddf980f3ea0fb0c3dcf3baf80350",
+      "title": "Russian fintech A7 showcases international payment solutions at MegaCampus Summit in Dubai",
+      "sourceUrl": "https://www.khaleejtimes.com/business-technology-review/russian-fintech-a7-showcases-international-payment-solutions-at-megacampus-summit-in-dubai",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-24T10:00:49.772Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "93eaa1f02629c4d6e41075b6aa4bad3dfc7c10c33046e2c860d16eff8b83dee0",
+      "title": "Sheikh Mohammed bin Rashid opens new term of Federal National Council",
+      "sourceUrl": "https://www.thenationalnews.com/news/uae/2026/11/24/sheikh-mohammed-bin-rashid-opens-new-term-of-federal-national-council/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-24T10:00:51.997Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

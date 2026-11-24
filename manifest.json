@@ -57203,6 +57203,51 @@
       "processedDate": "2026-11-23T19:31:05.018Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "5f039bfd42e002b292cc8615fb20e18fde1e9cad6bb9f92c8b487d5209800c6c",
+      "title": "How an Irish teacher in Abu Dhabi turned his childhood anxiety into books that help children feel less alone",
+      "sourceUrl": "https://gulfnews.com/lifestyle/how-an-irish-teacher-in-abu-dhabi-turned-his-childhood-anxiety-into-books-that-help-children-feel-less-alone-1.500757936",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-24T03:00:50.158Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d159990d7855cd24b84807114311f372b827d0f3db5b38d3201985fb617a1dc2",
+      "title": "‘GTA 6 not for kids’: UAE schools warn parents about violence, students skipping classes",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-warn-parents-students-gta-6-drugs-violence-mature-themes",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-24T03:00:52.537Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "d159990d7855cd24b84807114311f372b827d0f3db5b38d3201985fb617a1dc2",
+      "title": "‘GTA 6 not for kids’: UAE schools warn parents about violence, students skipping classes",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-schools-warn-parents-students-gta-6-drugs-violence-mature-themes",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-24T03:00:55.399Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "5b9a2b186d330ce859977c3e5b30611c94423e7f513bac67a3f3180f547e2b7c",
+      "title": "‘GTA 6 not for kids’: UAE schools warn parents about violence, students skipping classes - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjV5WTZPYVBSMFY3YVZ5cWVvMTVhUDMzc0J6MnhaWmcxX2hvSzVyb19YOEFPdURuTVVGeWNoNnpNVU5ncTdvcmVCVklQQzBDelVjaEFoNFB2dDNTSlpjMUY4M0RFOHczOEUwRWJ5bW5jWDY3cWQ5VXBOVFdtbXBpSWdLMlJJQ2FvaWNxY0tQd2J3R1k0OVBtRkZKZ1IxQWVPS09pNFg0THJUbDl6MExYZNIBuAFBVV95cUxQUDJWWjZid0RPOUpNcUY5bTBLcXhMUVFaSmFrZGx2TU0zdWltX0ZzTkJ4OHhXOGkwQ0RuUnBSdlNOSFBES09xRWlVanpKbGNHT1FrWUdSdTZFRUVDUVlYZVB5a3JxaVJES2JvU1lFbzZqeWxXclRxc25kV21pOHZSNVFCWV9IbnpJeHBjakp2bGxla09tZUZldVdhemE1SVVTbWprUzBaU21FYUFTOFRuUzQ2WjhQa0k2?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-24T03:00:57.813Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "c8db11875bd69faac3b9caacb17ed2e5081b9625427c7ff70f8423247413b3df",
+      "title": "Gazan children arrive for treatment in the UK",
+      "sourceUrl": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-24T03:01:00.024Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

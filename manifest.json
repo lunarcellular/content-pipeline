@@ -57572,6 +57572,15 @@
       "processedDate": "2026-11-24T14:46:19.535Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "02e5497979a009547709c8d4292f623ac7bd76cc1316c40b926be8996561b31f",
+      "title": "Palestinian students travel to Ireland after four-month visa battle",
+      "sourceUrl": "https://www.thenationalnews.com/news/europe/2026/11/24/palestinian-students-travel-to-ireland-after-four-month-visa-battle/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-24T16:00:49.076Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

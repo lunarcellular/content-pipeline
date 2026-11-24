@@ -57545,6 +57545,15 @@
       "processedDate": "2026-11-24T14:16:06.738Z",
       "relevant": true,
       "outputFile": "output/2026-11-24-uae-first-term-exams-anti-cheating-rules.md"
+    },
+    {
+      "urlHash": "bee6aa913393776552271b31cb09c17d96b22d703e34dcd4635f6f3a5aae7c8f",
+      "title": "Sheikh Mohammed meets members of Emirati Children’s Parliament",
+      "sourceUrl": "https://gulfnews.com/uae/government/sheikh-mohammed-meets-members-of-emirati-childrens-parliament-1.500759497",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-24T14:31:42.940Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

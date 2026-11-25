@@ -57698,6 +57698,24 @@
       "processedDate": "2026-11-25T07:31:00.242Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "98d1fd994d0900e8a37104870ea658fb7af9f77f14c698b6ab8b980ce0855442",
+      "title": "AI has the answers. Education now has to teach judgement.",
+      "sourceUrl": "https://www.khaleejtimes.com/business/innovation-city/ai-has-the-answers-education-now-has-to-teach-judgement",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-25T08:45:37.189Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e39146ff26f1975daceaf547c149e9688f27f502a5941cac3030251e51478d64",
+      "title": "Ministry of Education refutes claim that UAE public school student was unfairly suspended",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/uae-ministry-of-education-clarification-video-public-student-suspension",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-25T08:45:39.903Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

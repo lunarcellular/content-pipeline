@@ -57590,6 +57590,24 @@
       "processedDate": "2026-11-24T16:15:41.348Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "934248e7b845fa3d8ec3d9f2852d06293cb547778f68acebf5220f82b9b4fe3d",
+      "title": "UAE weather: Five days of possible rain, fog and cooler weather",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-five-days-of-possible-rain-fog-and-cooler-weather-1.500759905",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-25T03:00:45.760Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "e2b33cfe2f38af74a8181bf4c7cbe46ae54c32ccac942853b0282fe9c6b816cd",
+      "title": "Meghan Markle's estranged father indicted in US on two counts of possessing child abuse material",
+      "sourceUrl": "https://www.thenationalnews.com/news/us/2026/11/25/meghan-markle-father-indicted/",
+      "sourceName": "The National",
+      "processedDate": "2026-11-25T03:00:47.980Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

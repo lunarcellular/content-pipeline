@@ -57815,6 +57815,24 @@
       "processedDate": "2026-11-25T12:30:44.382Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "cc228dc3e51a3b5b4ef2d5c9c1ccc5ba4d46c2793f54f4e034c16755ea009c5a",
+      "title": "MasterMind Awards 2026 honours UAE and international leaders in Dubai",
+      "sourceUrl": "https://gulfnews.com/gn-focus/company-news/mastermind-awards-2026-honours-uae-and-international-leaders-in-dubai-1.500760715",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-25T13:45:37.335Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "103f903d67586bb6573458ae46b12e87fae7b0dd7537176a5c0d0bee9f6e6135",
+      "title": "UK moves military aircraft to hangars at night over possible drone threats: Media",
+      "sourceUrl": "https://www.khaleejtimes.com/world/europe/uk-moves-military-aircraft-hangars-night-possible-drone-threats",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-25T13:45:39.436Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

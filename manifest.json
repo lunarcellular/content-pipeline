@@ -57842,6 +57842,15 @@
       "processedDate": "2026-11-25T14:00:59.551Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "84b2b3558b81c285b6d845a83fe2bc8c8f4ada09e103a88c4dcc5d9bd2ecdfa4",
+      "title": "Trump announces new tariffs of up to 20% on major trading powers",
+      "sourceUrl": "https://www.khaleejtimes.com/world/americas/us-trump-new-tariffs-major-trading-powers",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-25T14:15:41.945Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

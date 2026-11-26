@@ -58022,6 +58022,15 @@
       "processedDate": "2026-11-26T07:45:53.445Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "12389c3582f78fe678d7de3e3e8ad50ca70d48ee8c00127defc1ea7d8d6ccd6c",
+      "title": "Ajman Government adopts comprehensive student safety framework - www.wam.ae",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXhzNFh3NzUzZzdBWTdrTEJFck1FaFdSY2ZPUlVBWnJiNW1NeVJ3aEVNLVZmZ3Y3QWNhdHFCTHNBMzhxdEI4YkFnQWdLUS1UdUpsVmNjSnltZmJoRlRudldvUU5BT1BnWFh5dWJ6MlBVdXU3SUFRd2hNRGZBdXJleWh4WWZiMGpCdDBJ?oc=5",
+      "sourceName": "WAM Education (via Google News)",
+      "processedDate": "2026-11-26T08:15:59.678Z",
+      "relevant": true,
+      "outputFile": null
     }
   ]
 }

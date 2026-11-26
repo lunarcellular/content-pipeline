@@ -58031,6 +58031,33 @@
       "processedDate": "2026-11-26T08:15:59.678Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "506bdd631f19f6ca1c1613aecb560d05a20d7f5e54cf3baf81e3d04c7cfad703",
+      "title": "Elon Musk pledges $18 billion in SpaceX shares to US children",
+      "sourceUrl": "https://gulfnews.com/business/markets/elon-musk-pledges-18-billion-in-spacex-shares-to-us-children-1.500761648",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-26T08:30:45.544Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "3be269448bcf6254d24222c195a84f47a5be8e4ba6b3756a52544747a761fae6",
+      "title": "86% of UAE employees take on more responsibilities as AI reshapes jobs",
+      "sourceUrl": "https://www.khaleejtimes.com/business/86-of-uae-employees-take-on-more-responsibilities-as-ai-reshapes-jobs",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-26T08:30:47.961Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "b1af6a1366544f8d307bde90e52764d8ef289597b3644c19f761a043781f7185",
+      "title": "DIB-Emirates Islamic merger: Will it reduce financing rates, impact jobs?",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-emirates-islamic-merger-will-customers-get-better-rates-and-what-about-jobs",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-26T08:30:51.262Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -58256,6 +58256,15 @@
       "processedDate": "2026-11-26T19:00:49.022Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "fcee927afc917304802da9ff86dabc6019375e948fbed8a8982e4d5ad474664a",
+      "title": "UAE launches AI education guide for parents: What families need to know",
+      "sourceUrl": "https://gulfnews.com/uae/education/uae-launches-ai-education-guide-for-parents-what-families-need-to-know-1.500762419",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-26T19:16:14.605Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-26-uae-ai-education-guide-parents.md"
     }
   ]
 }

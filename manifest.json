@@ -58283,6 +58283,24 @@
       "processedDate": "2026-11-27T00:02:02.696Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "420beb4da018f49da220e92774fc82703b9c08b61eecd93ed0e5b914faedb352",
+      "title": "New careers, old curricula: Are schools keeping up?",
+      "sourceUrl": "https://gulfnews.com/opinion/op-eds/new-careers-old-curricula-are-schools-keeping-up-1.500760784",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-27T03:01:27.790Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dc2d79ba302d2de065411d80895456d2c92fa1d4ab05e364a075e9e802497ebe",
+      "title": "DIB-Emirates Islamic deal: More UAE bank mergers likely, say analysts",
+      "sourceUrl": "https://www.khaleejtimes.com/business/dib-emirates-islamic-deal-more-uae-bank-mergers-likely-say-analysts",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-27T03:01:30.023Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

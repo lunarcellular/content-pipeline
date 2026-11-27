@@ -58373,6 +58373,15 @@
       "processedDate": "2026-11-27T08:39:55.256Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "707934ec726f7532a414550e2ff330064188f4475e4f89ea99b291b2c625d98f",
+      "title": "Worried about a teacher's behaviour? New KHDA rules tell Dubai parents what to do",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/schools-and-parents/teacher-behaviour-khda-new-rule-parents",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-27T08:46:18.829Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-27-khda-safeguarding-framework-dubai-schools.md"
     }
   ]
 }

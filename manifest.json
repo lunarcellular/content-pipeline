@@ -58508,6 +58508,24 @@
       "processedDate": "2026-11-27T16:00:53.903Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f37905c8e31b7e2e5ce7187bc09e56770f68907f60cc7bf9a93bac1ea0c02316",
+      "title": "Sheikh Nahyan visits Al Ain hunting exhibition on third day",
+      "sourceUrl": "https://gulfnews.com/uae/people/sheikh-nahyan-visits-al-ain-hunting-exhibition-on-third-day-1.500763570",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-27T17:15:37.419Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "8f75c07e0d0951dfb5934aabcc903c987305f417218620e81b50bc69c1c4e676",
+      "title": "ADIB raises $500 million in sukuk after strong demand",
+      "sourceUrl": "https://gulfnews.com/business/banking/adib-raises-500-million-in-sukuk-after-strong-demand-1.500763565",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-27T17:15:39.459Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

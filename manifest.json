@@ -58526,6 +58526,24 @@
       "processedDate": "2026-11-27T17:15:39.459Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "45d45a0e907914721e0365cf5dc3d860a0f9d0a6cce95c6d491a2c36082fea6b",
+      "title": "‘Stories of our determination’: How residents captured the spirit of the UAE in short films",
+      "sourceUrl": "https://gulfnews.com/uae/people/stories-of-our-determination-how-residents-captured-the-spirit-of-the-uae-in-short-films-1.500762947",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-27T19:00:49.347Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "dbc12fa6fb5dd1ace65060ecd354bd7e668fcbf2c4b1e1aa18a85b58eae855a2",
+      "title": "Abu Dhabi sees 74.6% rise in remote business inspections",
+      "sourceUrl": "https://gulfnews.com/business/abu-dhabi-sees-746-rise-in-remote-business-inspections-1.500763655",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-27T19:00:51.437Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

@@ -58679,6 +58679,33 @@
       "processedDate": "2026-11-28T13:01:40.171Z",
       "relevant": true,
       "outputFile": "output/2026-11-28-dubai-schools-safe-cycling-programme.md"
+    },
+    {
+      "urlHash": "42a3339222dea44cee545914f45f95cf2a31053029f6c20e3819fb036ffec970",
+      "title": "Dubai launches school cycling programme targeting 250,000 students by 2033",
+      "sourceUrl": "https://gulfnews.com/uae/education/dubai-launches-school-cycling-programme-targeting-250000-students-by-2033-1.500764288",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-28T13:30:48.410Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "6d45ae81721dbd243d4143b2d9d21e63bc87c5c46388d280b739037ae2c42664",
+      "title": "Dubai launches school cycling programme targeting 250,000 students by 2033 - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQalo2Wkg5WHBFbF9PUkdDbTBjRFhMYkE1eDBwOGxJRzJ5YmUyYm4yMElsTElwRWtiekRoaUpZSmFqczBvSjRYdU14dW82T19MQXl6Sjg1LTROY1hFbHQybW1jUmRoNkJxQ1cyVnFvak1SYnUzbEFWdHBKQW1MMDJLVjNST0I1eE5zeDJUNXE1NC1id2VkUEg3dGYxN3RlRHNIQXo1RDZVbWltS05McHJUZUlpek45UFVFazhHT9IBzwFBVV95cUxNb0cyU3dsdGdlS205NVBDdXo4MVZ3U1NfQUJIVGhWcFpHN2xRb1hCRXlmbktYNGdmaENsN0NXSHhocndtZDhGZnJwSXpDbmxhdzYyR3duS3gyNEFkeGNYalhzWEJkQ19mLVBSYV9QbGhfTndWcDZjaWhZUWtEWTd0MWZiT3hhNXFuNjcxTEpiLUlrNFVtQmI0TktrdlFqUjZFT0tKZW1fQmdPYWhQRFFnaTJ4a3lFckYwcFJYTlF2RjJIWmwxUGhWSnlfZHNlYWM?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-28T13:31:54.999Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-28-dubai-school-cycling-programme.md"
+    },
+    {
+      "urlHash": "6d45ae81721dbd243d4143b2d9d21e63bc87c5c46388d280b739037ae2c42664",
+      "title": "Dubai launches school cycling programme targeting 250,000 students by 2033 - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQalo2Wkg5WHBFbF9PUkdDbTBjRFhMYkE1eDBwOGxJRzJ5YmUyYm4yMElsTElwRWtiekRoaUpZSmFqczBvSjRYdU14dW82T19MQXl6Sjg1LTROY1hFbHQybW1jUmRoNkJxQ1cyVnFvak1SYnUzbEFWdHBKQW1MMDJLVjNST0I1eE5zeDJUNXE1NC1id2VkUEg3dGYxN3RlRHNIQXo1RDZVbWltS05McHJUZUlpek45UFVFazhHT9IBzwFBVV95cUxNb0cyU3dsdGdlS205NVBDdXo4MVZ3U1NfQUJIVGhWcFpHN2xRb1hCRXlmbktYNGdmaENsN0NXSHhocndtZDhGZnJwSXpDbmxhdzYyR3duS3gyNEFkeGNYalhzWEJkQ19mLVBSYV9QbGhfTndWcDZjaWhZUWtEWTd0MWZiT3hhNXFuNjcxTEpiLUlrNFVtQmI0TktrdlFqUjZFT0tKZW1fQmdPYWhQRFFnaTJ4a3lFckYwcFJYTlF2RjJIWmwxUGhWSnlfZHNlYWM?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-28T13:31:54.999Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-28-dubai-school-cycling-programme.md"
     }
   ]
 }

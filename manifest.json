@@ -58580,6 +58580,15 @@
       "processedDate": "2026-11-28T06:01:19.959Z",
       "relevant": true,
       "outputFile": null
+    },
+    {
+      "urlHash": "7de16d3cf1419176ab607e02fee8eb16a9b16d5388fa59b6ac972d37e04e44b6",
+      "title": "Canada prosecutors seek 25-year jail term for suicide poison seller",
+      "sourceUrl": "https://gulfnews.com/world/americas/canada-prosecutors-seek-25-year-jail-term-for-suicide-poison-seller-1.500763681",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-28T08:45:39.175Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

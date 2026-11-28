@@ -58742,6 +58742,24 @@
       "processedDate": "2026-11-28T16:00:50.887Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "f3512aeb50a2b58d2c08c940557a54f36c497a97d5efb09d002f9b6a2d461bc6",
+      "title": "Dubai RTA announces partial road closures in Academic City on Nov 29",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/dubai-rta-partial-road-closure-academic-city-nov-29-2026",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-28T17:30:45.208Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f3512aeb50a2b58d2c08c940557a54f36c497a97d5efb09d002f9b6a2d461bc6",
+      "title": "Dubai RTA announces partial road closures in Academic City on Nov 29",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/transport/dubai-rta-partial-road-closure-academic-city-nov-29-2026",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-28T17:30:47.432Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

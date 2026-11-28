@@ -58706,6 +58706,15 @@
       "processedDate": "2026-11-28T13:31:54.999Z",
       "relevant": true,
       "outputFile": "output/2026-11-28-dubai-school-cycling-programme.md"
+    },
+    {
+      "urlHash": "3cb7cc072fc47cc11fbbc706ed5ffeb6d8b319d341c1c1252feb277337a50a91",
+      "title": "F1 Abu Dhabi Grand Prix: Prohibited items at Yas Marina Circuit; rules for visitors",
+      "sourceUrl": "https://www.khaleejtimes.com/sports/f1/banned-items-rules-yas-marina-circuit-formula-one-abu-dhabi-gp",
+      "sourceName": "Khaleej Times",
+      "processedDate": "2026-11-28T13:45:41.426Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

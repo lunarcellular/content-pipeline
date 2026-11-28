@@ -58544,6 +58544,15 @@
       "processedDate": "2026-11-27T19:00:51.437Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "4843393adb335ec58f88230e37c9b682d299991a21656038a9ffb5960d99d3cc",
+      "title": "UAE weather: Five days of possible rainfall forecast, including National Day",
+      "sourceUrl": "https://gulfnews.com/uae/weather/uae-weather-five-days-of-possible-rainfall-forecast-including-national-day-1.500763798",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-28T03:00:51.103Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

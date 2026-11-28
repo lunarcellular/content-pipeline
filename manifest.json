@@ -58661,6 +58661,24 @@
       "processedDate": "2026-11-28T12:31:39.947Z",
       "relevant": true,
       "outputFile": "output/2026-11-28-uae-ai-tools-education.md"
+    },
+    {
+      "urlHash": "50846a0b04910ae7608021e1a8a5d2d067fff2685d92d45c40161ba7282d290f",
+      "title": "Dubai students to learn safe cycling in PE classes under new programme",
+      "sourceUrl": "https://www.khaleejtimes.com/uae/education/dubai-cyclist-programme-students-safe-cycling-pe-classes",
+      "sourceName": "Khaleej Times UAE",
+      "processedDate": "2026-11-28T13:00:49.404Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "f93fc65795849ede7e7ea85ce5be761e4544b3dee9cfb160ef2d0f7665d17e09",
+      "title": "Dubai students to learn safe cycling in PE classes under new programme - Khaleej Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUFCRDFiblRfQWRhZGhvVzR4eC1VM0RYalN0WmUzYm1CMmFDWmVOLVlxWjExX20yMUtjcVhpRld1VTZYTm5kNDA4VUpSb0xXMXdmRmVtUU9VMFE3QmdIRVJzUEhNblljQV9nWHU3bjI3WmFmSlRFZVhLeVhFNHVUWFhUcEpfN0hvek1UMmRueGZ1MDMwTTR5U0xNd3B0bmRk?oc=5",
+      "sourceName": "Khaleej Times Schools (via Google News)",
+      "processedDate": "2026-11-28T13:01:40.171Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-28-dubai-schools-safe-cycling-programme.md"
     }
   ]
 }

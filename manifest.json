@@ -58616,6 +58616,15 @@
       "processedDate": "2026-11-28T10:00:50.721Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "ab8988c1538d2c041d6235147c87ef62d5f1c8eb2114950b30ef1f01e704b2a3",
+      "title": "Accidental blast near Afghan school kills 7, injures almost 100",
+      "sourceUrl": "https://gulfnews.com/world/asia/accidental-blast-near-afghan-school-kills-7-injures-almost-100-1.500764131",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-28T11:45:39.267Z",
+      "relevant": false,
+      "outputFile": null
     }
   ]
 }

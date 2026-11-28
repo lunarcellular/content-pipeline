@@ -58634,6 +58634,33 @@
       "processedDate": "2026-11-28T12:15:34.201Z",
       "relevant": false,
       "outputFile": null
+    },
+    {
+      "urlHash": "067747156965235f29b88d4582c920bc5998aea9c61d74beaa39338a9ad709f9",
+      "title": "Ministry of Education lists 12 AI tools for safe and responsible classroom use - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWmUyMDNfNEN0T3owenBqQkg1N0RHOXZaU3dWY1NnUE4xRVJoV0ZvN2JBRFFkYzNaSzlyLXEyNXY5MTRkSV9ic1REOUtsT0NEcno1VzMxNUFjaW5KOFUtTXVyUExIUTBmWGVERW84eDcyNllaTWZua3ZLWFVoei1kRGJFTWlNcElqWUppSlUydjN2Nm93aXpHR3VrWmR6c3VHdDUwQXdNTUxLUF9uRWJVQXhVZ0wxTUJpQkRyRGZpanhKQ0HSAdYBQVVfeXFMTXNNelZvVUJUNU5ONFhZTFM3WDZMTl9XdWJVajJhM25JTUY0elFzclBqWjhMYUFQT29xb09kVjFhZUZLdW9BandwVDhBNzZvOU10NXg4Yi1KUmU1WHB1c3FWcW1WTzExZnFPdUxBRHI3ZGpzaG1DbUZlak1UUUdhNWdYUkdVdERDZTdYTmVETm14RFVDNmt2RzdGYllvWHV4TjJKbmFsVFRibzQ5ajI2RXRXY293bWdHMzRoY0dmYUJQcUE0SnFoYUdsQ1ZqMWlUamVJLTU3Zw?oc=5",
+      "sourceName": "Gulf News Education (via Google News)",
+      "processedDate": "2026-11-28T12:30:54.970Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "067747156965235f29b88d4582c920bc5998aea9c61d74beaa39338a9ad709f9",
+      "title": "Ministry of Education lists 12 AI tools for safe and responsible classroom use - Gulf News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWmUyMDNfNEN0T3owenBqQkg1N0RHOXZaU3dWY1NnUE4xRVJoV0ZvN2JBRFFkYzNaSzlyLXEyNXY5MTRkSV9ic1REOUtsT0NEcno1VzMxNUFjaW5KOFUtTXVyUExIUTBmWGVERW84eDcyNllaTWZua3ZLWFVoei1kRGJFTWlNcElqWUppSlUydjN2Nm93aXpHR3VrWmR6c3VHdDUwQXdNTUxLUF9uRWJVQXhVZ0wxTUJpQkRyRGZpanhKQ0HSAdYBQVVfeXFMTXNNelZvVUJUNU5ONFhZTFM3WDZMTl9XdWJVajJhM25JTUY0elFzclBqWjhMYUFQT29xb09kVjFhZUZLdW9BandwVDhBNzZvOU10NXg4Yi1KUmU1WHB1c3FWcW1WTzExZnFPdUxBRHI3ZGpzaG1DbUZlak1UUUdhNWdYUkdVdERDZTdYTmVETm14RFVDNmt2RzdGYllvWHV4TjJKbmFsVFRibzQ5ajI2RXRXY293bWdHMzRoY0dmYUJQcUE0SnFoYUdsQ1ZqMWlUamVJLTU3Zw?oc=5",
+      "sourceName": "Gulf News Schools (via Google News)",
+      "processedDate": "2026-11-28T12:30:57.581Z",
+      "relevant": false,
+      "outputFile": null
+    },
+    {
+      "urlHash": "1e2aefd8c2c3c47b8dd49b1d19d94d488d29b47657462bb9f73e44d613d0e547",
+      "title": "Ministry of Education lists 12 AI tools for safe and responsible classroom use",
+      "sourceUrl": "https://gulfnews.com/uae/education/ministry-of-education-lists-12-ai-tools-for-safe-and-responsible-classroom-use-1.500764221",
+      "sourceName": "Gulf News",
+      "processedDate": "2026-11-28T12:31:39.947Z",
+      "relevant": true,
+      "outputFile": "output/2026-11-28-uae-ai-tools-education.md"
     }
   ]
 }
